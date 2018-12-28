@@ -1,0 +1,67 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+- title: Who We Are
+  url: /who-we-are/history/
+  sub-links:
+  - title: History
+    url: /who-we-are/history/
+  - title: Mission And Log
+    url: /who-we-are/mission-and-log/
+  - title: Organisation Structure
+    url: /who-we-are/organisation-structure/
+  - title: Simi Qap
+    url: /who-we-are/simi-qap/
+- title: Our Services
+  url: /our-services/mediation-process/
+  sub-links:
+  - title: Mediation Process
+    url: /our-services/mediation-process/
+  - title: Disputes Suitable For Mediation
+    url: /our-services/disputes-suitable-for-mediation/
+  - title: Benefits Of Mediation
+    url: /our-services/benefits-of-mediation/
+  - title: Apply For Mediation
+    url: /our-services/apply-for-mediation/
+- title: Our Work
+  url: /our-work/information-on-conflict-management/
+  sub-links:
+  - title: Information On Conflict Management
+    url: /our-work/information-on-conflict-management/
+  - title: Mediation Training For Community Peacemakers
+    url: /our-work/mediation-training-for-community-peacemakers/
+  - title: Briefings For Organisations
+    url: /our-work/briefings-for-organisations/
+  - title: Assembly Skits For Schools
+    url: /our-work/assembly-skits-for-schools/
+  - title: Request For Collaterals
+    url: /our-work/request-for-collaterals/
+- title: Our Mediators
+  url: /our-mediators/appointed-cmc-mediators/
+  sub-links:
+  - title: Appointed Cmc Mediators
+    url: /our-mediators/appointed-cmc-mediators/
+  - title: Mediators Involved In Grcs Smcs
+    url: /our-mediators/mediators-involved-in-grcs-smcs/
+  - title: Advisory Committee On Community Mediation
+    url: /our-mediators/advisory-committee-on-community-mediation/
+  - title: Mediators Portal
+    url: /our-mediators/mediators-portal/
+- title:  Media Room
+  url: / resource-room/
+  sub-links:
+  - title: All
+    url: / resource-room/
+  - title: Subcategory A
+    url: / resource-room/subcategory-A/
+  - title: Subcategory B
+    url: / resource-room/subcategory-B/
+  - title: Subcategory C
+    url: / resource-room/subcategory-C/
+- title: E Service
+  url: /e-service/
+- title: Contact Us
+  url: /contact-us/
