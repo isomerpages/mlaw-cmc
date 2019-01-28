@@ -21,9 +21,9 @@ button:
     url: /who-we-are/
     
 key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com
+  - title: History
+    description: How CMC first started
+    url: https://www.mlaw.gov.sg/cmc
     external: true
   - title: Highlight B
     description: Important highlight B is equally important
