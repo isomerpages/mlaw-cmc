@@ -21,17 +21,20 @@ button:
     url: /who-we-are/
     
 key-highlights:
-  - title: History
+  - title: About Us
     description: How CMC first started
     url: https://www.mlaw.gov.sg/cmc
     external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://yahoo.com
+  - title: Our Services
+    description: What is Mediation in Singapore
+    url: https://www.mlaw.gov.sg/content/cmc/en/Our_Services.html
     external: true
-  - title: Page A
-    description: Page A is important too
-    url: /page-A/
+  - title: Our Work
+    description: How to manage conflicts
+    url: https://www.mlaw.gov.sg/content/cmc/en/Our_Work.html
+  - title: Our Mediators
+    description: Who are the CMC Medaitors
+    url: https://www.mlaw.gov.sg/content/cmc/en/Our_Mediators.html
 
 resources-title: Resources
 resources-subtitle: Be in the know
