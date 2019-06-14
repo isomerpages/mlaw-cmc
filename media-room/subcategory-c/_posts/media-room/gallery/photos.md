@@ -24,18 +24,9 @@ collection_name: media-room
 ![MACAD Appointment & Award Ceremony 2017](/images/MACAD2017-085.jpg)<br>
 [MACAD Appointment & Award Ceremony 2017](https://www.mlaw.gov.sg/content/cmc/en/media-room/gallery/photos/MACAD-Appointment-Award-Ceremony-2017.html)
 
-**2016**
----
-![MACAD 2016](/images/macad2016thumbnail.jpg)<br>
-[MACAD 2016](https://www.mlaw.gov.sg/content/cmc/en/media-room/gallery/photos/macad-2016.html)
-
-![MACAD'16 Appointment & Award Ceremony](/images/macad2016awardthumbnail.jpg)<br>
-[MACAD'16 Appointment & Award Ceremony](https://www.mlaw.gov.sg/content/cmc/en/media-room/gallery/photos/macad-2016---appointment-and-award-ceremony.html)
-
 **2016**|.
 ------|-------
 ![MACAD 2016](/images/macad2016thumbnail.jpg) | ![MACAD'16 Appointment & Award Ceremony](/images/macad2016awardthumbnail.jpg) 
-
 
 [MACAD 2016](https://www.mlaw.gov.sg/content/cmc/en/media-room/gallery/photos/macad-2016---appointment-and-award-ceremony.html) | [MACAD'16 Appointment & Award Ceremony](https://www.mlaw.gov.sg/content/cmc/en/media-room/gallery/photos/macad-2016---appointment-and-award-ceremony.html)
 
