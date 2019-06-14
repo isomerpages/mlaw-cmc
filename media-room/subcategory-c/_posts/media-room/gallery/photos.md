@@ -27,7 +27,9 @@ collection_name: media-room
 **2016**
 ---
 ![MACAD 2016](/images/macad2016thumbnail.jpg)
+
 [MACAD 2016](https://www.mlaw.gov.sg/content/cmc/en/media-room/gallery/photos/macad-2016.html)
 
 ![MACAD'16 Appointment & Award Ceremony](/images/macad2016awardthumbnail.jpg)
+
 [MACAD'16 Appointment & Award Ceremony](https://www.mlaw.gov.sg/content/cmc/en/media-room/gallery/photos/macad-2016---appointment-and-award-ceremony.html)
