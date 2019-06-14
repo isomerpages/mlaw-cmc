@@ -51,16 +51,16 @@
   - title: Mediators Portal
     url: /our-mediators/mediators-portal/
 - title:  Media Room
-  url: / resource-room/
+  url: /media-room/
   sub-links:
   - title: All
-    url: / resource-room/
+    url: /media-room/
   - title: Subcategory A
-    url: / resource-room/subcategory-A/
+    url: /media-room/subcategory-a/
   - title: Subcategory B
-    url: / resource-room/subcategory-B/
+    url: /media-room/subcategory-b/
   - title: Subcategory C
-    url: / resource-room/subcategory-C/
+    url: /media-room/subcategory-c/
 - title: E Service
   url: /e-service/
 - title: Contact Us

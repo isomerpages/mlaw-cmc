@@ -48,4 +48,4 @@ collections:
     output: true
   our-mediators:
     output: true
-resources_name:  resource-room
+resources_name: media-room
