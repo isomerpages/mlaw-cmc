@@ -18,8 +18,8 @@ collection_name: media-room
 
 **2017**
 ---
-![MACAD 2017](/images/MACAD2017 - 190.jpg)
+![MACAD 2017](/images/MACAD2017-190.jpg)
 [MACAD 2018 (20th Anniversary Celebration)](https://www.mlaw.gov.sg/content/cmc/en/media-room/gallery/photos/MACAD2017.html)
 
-![MACAD 2018 (20th Anniversary Celebration)](/images/MACAD2017 - 085.jpg)
+![MACAD 2018 (20th Anniversary Celebration)](/images/MACAD2017-085.jpg)
 [MACAD 2018 (20th Anniversary Celebration)](https://www.mlaw.gov.sg/content/cmc/en/media-room/gallery/photos/MACAD-Appointment-Award-Ceremony-2017.html)
