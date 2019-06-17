@@ -17,7 +17,7 @@ The ACCM advises and assists the CMC on initiatives to attract and ensure a sust
 
 **Current members of the panel:**
 
-__Chairman__    
+<u>Chairman</u>
 
 Associate Professor Ho Peng Kee
 
