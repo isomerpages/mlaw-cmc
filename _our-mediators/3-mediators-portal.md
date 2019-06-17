@@ -12,10 +12,6 @@ collection_name: our-mediators
 **To log on to the Mediators Portal, please click here.**
 
 
-***
-
- 
-
 The Mediators Portal, launched on 1 December 2014 is an initiative to assist CMC’s volunteer mediators.
 
  
