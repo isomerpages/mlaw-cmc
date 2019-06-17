@@ -22,25 +22,25 @@ Associate Professor Ho Peng Kee
 
 Members    
 
-Mr Han Kok Juan
+Mr Han Kok Juan<br>
 Deputy Secretary (Law)
 
-Ms Leow Lay May
+Ms Leow Lay May<br>
 Director, Community Legal Services Division
 
-Ms Elsie Tjoeng
+Ms Elsie Tjoeng<br>
 Director, Community Mediation & Minlaw Services Centre
 
-Dr Lim Lan Yuan, BBM(L), JP, BBM, PPA(G), PBM
+Dr Lim Lan Yuan, BBM(L), JP, BBM, PPA(G), PBM<br>
 Principal Master Mediator, CMU Advisor
 
-Mr Ameerali Abdeali, JP, PPA(G), PBM, PBS
+Mr Ameerali Abdeali, JP, PPA(G), PBM, PBS<br>
 Master Mediator
 
-Madam Giam Lay Eng Marcellina, BBM, PBM
+Madam Giam Lay Eng Marcellina, BBM, PBM<br>
 Master Mediator
 
-Mr Poh Yong Meng Stephen, PBM
+Mr Poh Yong Meng Stephen, PBM<br>
 Master Mediator
 
 Mr Ramachandran Perumal
