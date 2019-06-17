@@ -9,7 +9,7 @@ collection_name: our-mediators
 #### Mediators Portal
 ---
 
-To log on to the Mediators Portal, please click here.
+**To log on to the Mediators Portal, please click here.**
 
 
 ***
