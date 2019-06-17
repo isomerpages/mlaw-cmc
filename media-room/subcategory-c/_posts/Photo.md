@@ -33,6 +33,7 @@ collection_name: media-room
 ![Mediators Retreat 2015](/images/Albumthumbnail.jpeg) | ![MACAD 2015](/images/MACAD2015thumbnail.jpg)
 [Mediators Retreat 2015](https://www.mlaw.gov.sg/content/cmc/en/media-room/gallery/photos/mediators-retreat-2015.html) | [MACAD 2015](https://www.mlaw.gov.sg/content/cmc/en/media-room/gallery/photos/macad-2015.html)
 
-
-![MACAD 2014](/images/Img0187.jpg) |.
-[MACAD 2014](https://www.mlaw.gov.sg/content/cmc/en/media-room/gallery/photos/macad-2014.html) |.
+|**2014**||
+-------|--------
+![MACAD 2014](/images/Img0187.jpg) ||
+[MACAD 2014](https://www.mlaw.gov.sg/content/cmc/en/media-room/gallery/photos/macad-2014.html) ||
