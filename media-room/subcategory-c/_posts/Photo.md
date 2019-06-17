@@ -36,4 +36,9 @@ collection_name: media-room
 |**2014**||
 -------|--------
 ![MACAD 2014](/images/Img0187.jpg) ||
-[MACAD 2014](https://www.mlaw.gov.sg/content/cmc/en/media-room/gallery/photos/macad-2014.html) |
+[MACAD 2014](https://www.mlaw.gov.sg/content/cmc/en/media-room/gallery/photos/macad-2014.html) ||
+
+|**2013**||
+-------|--------
+![CMC 15th Anniversary Celebrations](/images/Img0002.jpg) | ![Mediators' Retreat 2013](/images/SAM_0070.jpeg)
+[CMC 15th Anniversary Celebrations](https://www.mlaw.gov.sg/content/cmc/en/media-room/gallery/photos/cmc-15th-anniversary-celebrations.html) | [Mediators' Retreat 2013](https://www.mlaw.gov.sg/content/cmc/en/media-room/gallery/photos/mediators--retreat-2013.html)
