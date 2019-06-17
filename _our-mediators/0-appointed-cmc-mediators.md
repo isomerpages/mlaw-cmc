@@ -7,7 +7,7 @@ collection_name: our-mediators
 ---
 
 
-####List of Appointed CMC Mediators
+#### List of Appointed CMC Mediators
 ---
 
 The CMC Mediators are appointed by the Minister for Law for a 3-year renewable term. The appointed mediators are bound by the Community Mediation Centres Act (Cap 49A), the Mediators Code of Conduct and CMC’s policies and standing instructions.
