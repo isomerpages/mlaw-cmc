@@ -27,7 +27,7 @@ Mediators can look forward to using the following functions in the Portal which 
   <li>Indicating interest for suitable mediation sessions</li>
   <li>Registering for mediation training and workshops</li>
   <li>Exchanging ideas and discussing with fellow mediators through a forum discussion.</li>
-</ul>
+</ul><br><br>
 
 To access the Portal, mediators would need to login with individual SingPass ID and password.  
 
