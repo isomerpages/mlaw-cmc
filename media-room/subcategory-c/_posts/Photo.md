@@ -43,5 +43,3 @@ collection_name: media-room
 ![CMC 15th Anniversary Celebrations](/images/Img0002.jpg) | ![Mediators' Retreat 2013](/images/SAM_0070.jpeg)
 [CMC 15th Anniversary Celebrations](https://www.mlaw.gov.sg/content/cmc/en/media-room/gallery/photos/cmc-15th-anniversary-celebrations.html) | [Mediators' Retreat 2013](https://www.mlaw.gov.sg/content/cmc/en/media-room/gallery/photos/mediators--retreat-2013.html)
 
-**2018**
-![MACAD 2018 (20th Anniversary Celebration)](/images/MACAD2018-97.jpg) | ![MACAD Appointment & Award Ceremony 2018](/images/P2M-Mediator-Appointment-Ceremony-P2-333.jpg)
