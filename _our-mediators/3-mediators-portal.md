@@ -9,7 +9,7 @@ collection_name: our-mediators
 #### Mediators Portal
 ---
 
-**To log on to the Mediators Portal, please click here.**
+[**To log on to the Mediators Portal, please click here.**](https://saml.singpass.gov.sg/spauth/login/eservloginpage?URL=%2FFIM%2Fsps%2FSingpassIDPFed%2Fsaml20%2Flogininitial%3FRequestBinding%3DHTTPArtifact%26ResponseBinding%3DHTTPArtifact%26PartnerId%3Dhttps%253a%252f%252fwww.mlaw.gov.sg%252feservices%252fmp%252fSAML%252f%26NameIdFormat%3DEmail%26esrvcID%3DLSRA%26Target%3Deservices%252fCMC%252fMediatorsPortal%252fsingpass-redirection-page%252f&TAM_OP=login)
 
 
 The Mediators Portal, launched on 1 December 2014 is an initiative to assist CMC’s volunteer mediators.
