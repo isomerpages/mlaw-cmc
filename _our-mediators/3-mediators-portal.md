@@ -42,10 +42,10 @@ The Mediators Portal works best on the following browsers:
 
  
 <ul>
-  <li>Internet Explorer 9.0 and above<li>
-  <li>Mozilla Firefox<li>
-  <li>Google Chrome<li>
-  <li>Safari<li>
+  <li>Internet Explorer 9.0 and above</li>
+  <li>Mozilla Firefox</li>
+  <li>Google Chrome</li>
+  <li>Safari</li>
 </ul>
  
 
