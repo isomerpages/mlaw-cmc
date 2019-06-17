@@ -36,4 +36,4 @@ collection_name: media-room
 |**2014**||
 -------|--------
 ![MACAD 2014](/images/Img0187.jpg) ||
-[MACAD 2014](https://www.mlaw.gov.sg/content/cmc/en/media-room/gallery/photos/macad-2014.html) ||
+[MACAD 2014](https://www.mlaw.gov.sg/content/cmc/en/media-room/gallery/photos/macad-2014.html) |
