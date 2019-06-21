@@ -51,16 +51,18 @@
   - title: Mediators Portal
     url: /our-mediators/mediators-portal/
 - title:  Media Room
-  url: /media-room/
+  url: /media-room/Press_Release/
   sub-links:
-  - title: All
-    url: /media-room/
-  - title: Subcategory A
-    url: /media-room/subcategory-a/
-  - title: Subcategory B
-    url: /media-room/subcategory-b/
-  - title: Subcategory C
-    url: /media-room/subcategory-c/
+  - title: Press Releases
+    url: /media-room/Press_Release/
+  - title: Speeches
+    url: /media-room/speeches/
+  - title: Announcements
+    url: /media-room/announcements/
+  - title: Publications
+    url: /media-room/publications/
+  - title: Photos
+    url: /media-room/gallery/
 - title: E Service
   url: /e-service/
 - title: Contact Us
