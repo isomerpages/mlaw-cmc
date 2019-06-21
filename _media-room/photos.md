@@ -50,5 +50,5 @@ collection_name: media-room
 ![At Partner's Events](/images/DSCN0181.jpg) | ![Conducting Briefings for Our Partners](/images/IMG_7089.jpg)
 [At Partner's Events](https://www.mlaw.gov.sg/content/cmc/en/media-room/gallery/photos/at-partners--events.html) | [Conducting Briefings for Our Partners](https://www.mlaw.gov.sg/content/cmc/en/media-room/gallery/photos/conducting-briefings-for-our-partners.html)
 ![Youth Mediation Day 2012](/images/YS_004.jpg) | ![Opening Ceremony at The Treasury 2012](/images/2_2.jpg)
-[Youth Mediation Day 2012](https://www.mlaw.gov.sg/content/cmc/en/media-room/gallery/photos/youth-mediation-day-2012.html) | [Opening Ceremony at The Treasury 2012](https://www.mlaw.gov.sg/content/cmc/en/media-room/gallery/photos/opening-ceremony-at-the-treasury-2012.html)
+[Youth Mediation Day 2012](https://www.mlaw.gov.sg/content/cmc/en/media-room/gallery/photos/youth-mediation-day-2012.html) | [Opening Ceremony at The Treasury 2012](https://www.mlaw.gov.sg/content/cmc/en/media-room/gallery/photos/opening-ceremony-at-the-treasury-2012.html)x
 
