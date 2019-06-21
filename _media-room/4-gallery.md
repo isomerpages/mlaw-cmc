@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Photos
-permalink: /media-room/gallery/photos/
+permalink: /media-room/gallery/
 breadcrumb: Photos
 collection_name: media-room
 ---
