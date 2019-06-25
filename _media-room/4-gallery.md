@@ -91,9 +91,7 @@ collection_name: media-room
   </div>  
   <div class="col is-4">
     <img src="/images/DSCN0181.jpg"> 
-  </div>  
-</div><br>
-
+</div>
 <div class="row">
   <div class="col is-6">
     <a href="#">
