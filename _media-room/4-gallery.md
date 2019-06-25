@@ -70,10 +70,10 @@ collection_name: media-room
 
 
 <div class="row">
-  <div class="col is-4">
+  <div class="col is-6">
     <a href="#"><img src="/images/DSCN0181.jpg"></a> 
   </div>
-  <div class="col is-4">
+  <div class="col is-6">
     <a href="#"><img src="/images/DSCN0181.jpg"></a> 
   </div>  
 </div>
