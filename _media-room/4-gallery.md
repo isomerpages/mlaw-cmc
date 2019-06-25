@@ -59,15 +59,12 @@ collection_name: media-room
 <div class="row">
   <div class="col is-4">
     <img src="/images/DSCN0181.jpg">
-    <p>Lorem Ipsum</p>
   </div>
   <div class="col is-4">
     <img src="/images/DSCN0181.jpg"> 
-    <p>Lorem Ipsum</p>
   </div>  
   <div class="col is-4">
     <img src="/images/DSCN0181.jpg"> 
-    <p>Lorem Ipsum</p>
   </div>  
 </div><br>
 
@@ -76,10 +73,13 @@ collection_name: media-room
   <div class="col is-6">
     <a href="#">
       <img src="/images/DSCN0181.jpg">
-      <p>Lorem ipsum>
+      <p>Lorem ipsum></p>
     </a> 
   </div>
   <div class="col is-6">
-    <a href="#"><img src="/images/DSCN0181.jpg">lorem ipsum</a> 
+    <a href="#">
+      <img src="/images/DSCN0181.jpg">
+      <p>Lorem ipsum</p>
+    </a> 
   </div>  
 </div>
