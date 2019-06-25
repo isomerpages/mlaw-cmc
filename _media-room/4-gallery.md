@@ -58,22 +58,28 @@ collection_name: media-room
 
 <div class="row">
   <div class="col is-4">
-    <img src="/images/DSCN0181.jpg">  
+    <img src="/images/DSCN0181.jpg">
+    <p>Lorem Ipsum</p>
   </div>
   <div class="col is-4">
     <img src="/images/DSCN0181.jpg"> 
+    <p>Lorem Ipsum</p>
   </div>  
   <div class="col is-4">
     <img src="/images/DSCN0181.jpg"> 
+    <p>Lorem Ipsum</p>
   </div>  
 </div><br>
 
 
 <div class="row">
   <div class="col is-6">
-    <a href="#"><img src="/images/DSCN0181.jpg"></a> 
+    <a href="#">
+      <img src="/images/DSCN0181.jpg">
+      <p>Lorem ipsum>
+    </a> 
   </div>
   <div class="col is-6">
-    <a href="#"><img src="/images/DSCN0181.jpg"></a> 
+    <a href="#"><img src="/images/DSCN0181.jpg">lorem ipsum</a> 
   </div>  
 </div>
