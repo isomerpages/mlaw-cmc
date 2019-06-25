@@ -73,7 +73,7 @@ collection_name: media-room
   <div class="col is-6">
     <a href="#">
       <img src="/images/DSCN0181.jpg">
-      <p>Lorem ipsum></p>
+      <p>Lorem ipsum</p>
     </a> 
   </div>
   <div class="col is-6">
