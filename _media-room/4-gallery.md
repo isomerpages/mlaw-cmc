@@ -99,4 +99,4 @@ collection_name: media-room
   <div class="col is-6">
     <a href="#"><img src="/images/2_2.jpg">Opening Ceremony at The Treasury 2012</a>
   </div>
-</div>
+</div><br><br>
