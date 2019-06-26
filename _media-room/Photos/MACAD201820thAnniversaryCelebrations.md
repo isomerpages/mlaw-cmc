@@ -48,3 +48,40 @@ MACAD 2018 (20th Anniversary Celebrations)
   <div class="col is-4"><img src="/images/cq5dam.thumbnail.140.100(18).png"></div>
   <div class="col is-4"><img src="/images/cq5dam.thumbnail.140.100(19).png"></div>
 </div>
+
+
+<style>
+.center {
+  text-align: center;
+}
+
+.pagination {
+  display: inline-block;
+}
+
+.pagination a {
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #ddd;
+  margin: 0 4px;
+}
+
+.pagination a.active {
+  background-color: #4CAF50;
+  color: white;
+  border: 1px solid #4CAF50;
+}
+
+.pagination a:hover:not(.active) {background-color: #ddd;}
+</style>
+
+
+<div class="center">
+  <div class="pagination">
+  <a href="https://mlaw-cmc-staging.netlify.com/media-room/photos/macad201820thanniversarycelebrations" class="active">1</a>
+  <a href="https://mlaw-cmc-staging.netlify.com/media-room/photos/macad-appointment-award-ceremony-2018">2</a>
+  </div>
+</div>
