@@ -85,6 +85,7 @@ collection_name: media-room
     <a href="#"><img src="/images/IMG_5746.jpg">Assembly Shows and Peer Meditation</a>
   </div>
 </div>
+
 <div class="row">
   <div class="col is-6">
     <a href="#"><img src="/images/DSCN0181.jpg">At Partner's Events</a>
@@ -93,6 +94,7 @@ collection_name: media-room
     <a href="#"><img src="/images/IMG_7089.jpg">Conducting Briefings for Our Partners</a>
   </div>
 </div>
+
 <div class="row">
   <div class="col is-6">
     <a href="#"><img src="/images/YS_004.jpg">Youth Mediation Day 2012</a>
