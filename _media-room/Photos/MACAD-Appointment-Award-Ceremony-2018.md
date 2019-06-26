@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: leftnav-page-content
 title: MACAD 2018 (20th Anniversary Celebrations)
 file_url: /media-room/Photos/MACAD-Appointment-Award-Ceremony-2018
 breadcrumb: MACAD 2018 (20th Anniversary Celebrations)
