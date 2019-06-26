@@ -1,4 +1,11 @@
-
+---
+layout:resources
+title: MACAD2018(20th Anniversary Celebrations
+file_url:\media-room\photos\MACAD201820thAnniversaryCelebrations\
+breadcrumb:MACAD 2018 (20th Anniversary Celebrations)
+pagination:
+  enabled: true
+  sort_reverse: true
 
 ---
 MACAD 2018 (20th Anniversary Celebrations)
