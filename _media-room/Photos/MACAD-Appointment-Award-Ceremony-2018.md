@@ -48,7 +48,7 @@ MACAD 2018 (20th Anniversary Celebrations)
 </div>
 
 
-<div class="right">
+<div class="btn text-right">
   <div class="pagination">
     <a href="https://mlaw-cmc-staging.netlify.com/media-room/photos/macad201820thanniversarycelebrations" class="active">1</a>
     <a href="https://mlaw-cmc-staging.netlify.com/media-room/photos/macad-appointment-award-ceremony-2018">2</a>
