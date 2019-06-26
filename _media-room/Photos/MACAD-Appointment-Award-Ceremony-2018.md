@@ -11,6 +11,7 @@ pagination:
 MACAD 2018 (20th Anniversary Celebrations)
 ---
 
+
 <div class="row">
   <div class="col is-4"><img src="/images/cq5dam.thumbnail.140.100(20).png"></div>
   <div class="col is-4"><img src="/images/cq5dam.thumbnail.140.100(21).png"></div>
