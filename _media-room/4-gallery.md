@@ -72,7 +72,7 @@ collection_name: media-room
   </div>
 </div>
 
-|**2012**||
+**2012**
 
 <div class="row">
   <div class="col is-6">
