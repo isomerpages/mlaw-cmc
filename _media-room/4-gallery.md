@@ -76,27 +76,27 @@ collection_name: media-room
 
 <div class="row">
   <div class="col is-6">
-    <a href="#"><img src="/images/IMG_7913.jpg">MACAD2012</a>
+    <a href="#"><img src="/images/IMG_7913.jpg" style="width:100%">MACAD2012</a>
   </div>
   <div class="col is-6">
-    <a href="#"><img src="/images/IMG_5746.jpg">Assembly Shows and Peer Meditation</a>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col is-6">
-    <a href="#"><img src="/images/DSCN0181.jpg">At Partner's Events</a>
-  </div>
-  <div class="col is-6">
-    <a href="#"><img src="/images/IMG_7089.jpg">At Partner's Events</a>
+    <a href="#"><img src="/images/IMG_5746.jpg" style="width:100%">Assembly Shows and Peer Meditation</a>
   </div>
 </div>
 
 <div class="row">
   <div class="col is-6">
-    <a href="#"><img src="/images/YS_004.jpg">Youth Mediation Day 2012</a>
+    <a href="#"><img src="/images/DSCN0181.jpg" style="width:100%">At Partner's Events</a>
   </div>
   <div class="col is-6">
-    <a href="#"><img src="/images/2_2.jpg">Opening Ceremony at The Treasury 2012</a>
+    <a href="#"><img src="/images/IMG_7089.jpg"> style="width:100%"At Partner's Events</a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col is-6">
+    <a href="#"><img src="/images/YS_004.jpg" style="width:100%">Youth Mediation Day 2012</a>
+  </div>
+  <div class="col is-6">
+    <a href="#"><img src="/images/2_2.jpg" style="width:100%">Opening Ceremony at The Treasury 2012</a>
   </div>
 </div><br><br>
