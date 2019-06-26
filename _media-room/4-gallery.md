@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: gallery
+title: Gallery
 permalink: /media-room/gallery/
-breadcrumb: Photos
+breadcrumb: Gallery
 collection_name: media-room
 ---
 
