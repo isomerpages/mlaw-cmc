@@ -1,3 +1,12 @@
+---
+layout: resources
+title: Media Centre
+file_url: /media-room/Photos/MACAD-Appointment-Award-Ceremony-2018
+breadcrumb: 
+pagination:
+  enabled: true
+  sort_reverse: true
+---
 
 MACAD 2018 (20th Anniversary Celebrations)
 ---
