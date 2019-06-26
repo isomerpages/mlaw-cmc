@@ -75,6 +75,16 @@ collection_name: media-room
   </div>
 </div><br>
 
+
+<div class="row">
+  <div class="col is-6">
+    <a href="#"><img src="/images/Img0187.jpg">CMC 15th Anniversary Celebrations</a>
+  </div>
+  <div class="col is-6">
+    <a href="#"><img src="/images/SAM_0070.jpeg">Mediators' Retreat 2013</a>
+  </div>
+</div><br>
+
 |**2012**||
 
 <div class="row">
