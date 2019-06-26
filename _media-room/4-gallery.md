@@ -13,7 +13,7 @@ collection_name: media-room
 
 <div class="row">
   <div class="col is-6">
-    <a href="/_media-room/MACAD-2018-20th-Anniversary-Celebrations.md/"><img src="/images/MACAD2018-97.jpg">MACAD 2018 (20th Anniversary Celebration</a>
+    <a href="https://mlaw-cmc-staging.netlify.com/media-room/photos/macad201820thanniversarycelebrations"><img src="/images/MACAD2018-97.jpg">MACAD 2018 (20th Anniversary Celebration</a>
   </div>
   <div class="col is-6">
     <a href="#"><img src="/images/P2M-Mediator-Appointment-Ceremony-P2-333.jpg">MACAD Appointment & Award Ceremony 2018</a>
