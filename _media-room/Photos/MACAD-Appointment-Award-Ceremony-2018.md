@@ -45,13 +45,13 @@ MACAD 2018 (20th Anniversary Celebrations)
   <div class="col is-4"><img src="/images/cq5dam.thumbnail.140.100(38).png"></div>
   <div class="col is-4"><img src="/images/cq5dam.thumbnail.140.100(39).png"></div>
   <div class="col is-4"><img src="/images/cq5dam.thumbnail.140.100(40).png"></div>
-</div>
+</div><br>
 
 
-<div class="btn text-right">
+
   <div class="pagination">
     <a href="https://mlaw-cmc-staging.netlify.com/media-room/photos/macad201820thanniversarycelebrations" class="active">1</a>
     <a href="https://mlaw-cmc-staging.netlify.com/media-room/photos/macad-appointment-award-ceremony-2018">2</a>
   </div>
-</div>
+
 
