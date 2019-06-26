@@ -56,4 +56,11 @@ collection_name: media-room
 [Youth Mediation Day 2012](https://www.mlaw.gov.sg/content/cmc/en/media-room/gallery/photos/youth-mediation-day-2012.html) | [Opening Ceremony at The Treasury 2012](https://www.mlaw.gov.sg/content/cmc/en/media-room/gallery/photos/opening-ceremony-at-the-treasury-2012.html)
 
 
-
+<div class="row">
+  <div class="col is-6">
+    <a href="#"><img src="/images/MACAD2018-97.jpg">MACAD 2018 (20th Anniversary Celebration</a>
+  </div>
+  <div class="col is-6">
+    <a href="#"><img src="/images/P2M-Mediator-Appointment-Ceremony-P2-333.jpg">MACAD Appointment & Award Ceremony 2018</a>
+  </div>
+</div>
