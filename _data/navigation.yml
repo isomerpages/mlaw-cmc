@@ -63,9 +63,7 @@
     url: /media-room/publications/
   - title: Gallery
     url: /media-room/gallery/
-    sub-links:
-    - title: Photos
-      url: /media-room/photos/
+
 - title: E Service
   url: /e-service/
 - title: Contact Us
