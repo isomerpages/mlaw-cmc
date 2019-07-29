@@ -21,7 +21,7 @@ collection_name: media-room
 
 .row .column img {
   width: 300px;
-  height: 300px;
+  height: 250px;
 }
 </style>
 
