@@ -102,12 +102,11 @@ collection_name: media-room
 </div><br><br>
 
 <style>
-  table{border-collapse: collapse;}
+table {border-collapse: collapse;}
+td {border: none;}
+tr {border: none;}
 </style>
 
-td {border: none;}
-
-tr {border: none;}
 <table>
   <tr><td><p><b>2018</b></p></td></tr>
   <tr>
