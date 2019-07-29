@@ -102,7 +102,7 @@ collection_name: media-room
 </div><br><br>
 
 <style>
-  table td a img{width:400px; height:400px;}
+  table tr td a img{width:400px; height:400px;}
 </style>
 <table>
   <tr>
