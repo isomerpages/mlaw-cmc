@@ -16,7 +16,6 @@ collection_name: media-room
 }
 
 .column {
-  flex: 33.33%;
   padding: 5px;
 }
 
