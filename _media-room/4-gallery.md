@@ -101,7 +101,9 @@ collection_name: media-room
   </div>
 </div><br><br>
 
-
+<style>
+  table{border-collapse: collapse;}
+</style>
 <table>
   <tr><td><p><b>2018</b></p></td></tr>
   <tr>
