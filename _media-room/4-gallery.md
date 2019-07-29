@@ -23,6 +23,11 @@ collection_name: media-room
   width: 400px;
   height: 400px;
 }
+
+div div img {
+  width: 400px;
+  height: 400px;
+}
 </style>
 
 
@@ -75,8 +80,8 @@ collection_name: media-room
 </div>
 
 **2014**
-<div class="row">
-  <div class="column">
+<div>
+  <div>
     <img src="/images/Img0187.jpg"><br>
     <a href="#">MACAD 2014</a>
   </div>
