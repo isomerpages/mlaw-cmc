@@ -100,3 +100,15 @@ collection_name: media-room
     <a href="#"><img src="/images/2_2.jpg">Opening Ceremony at The Treasury 2012</a>
   </div>
 </div><br><br>
+
+
+<table>
+  <tr>
+    <td>
+      <a href="#"><img src="/images/MACAD2017-190.jpg">MACAD 2017</a>
+    </td>
+    <td>
+      <img src="/images/MACAD2017-085.jpg">MACAD Appointment & Award Ceremony 2017</a>
+  </td>
+  </tr>
+</table>
