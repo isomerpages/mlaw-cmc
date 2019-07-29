@@ -106,10 +106,14 @@ collection_name: media-room
   display: flex;
 }
 
-/* Create three equal columns that sits next to each other */
 .column {
   flex: 33.33%;
   padding: 5px;
+}
+
+.row .column img {
+  width: 200px;
+  height: 200px;
 }
 </style>
 
