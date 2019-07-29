@@ -101,14 +101,16 @@ collection_name: media-room
   </div>
 </div><br><br>
 
-
+<style>
+  table td a img{width:400px; height:400px;}
+</style>
 <table>
   <tr>
     <td>
       <a href="#"><img src="/images/MACAD2017-190.jpg">MACAD 2017</a>
     </td>
     <td>
-      <img src="/images/MACAD2017-085.jpg">MACAD Appointment & Award Ceremony 2017</a>
+      <a href="#"><img src="/images/MACAD2017-085.jpg">MACAD Appointment & Award Ceremony 2017</a>
   </td>
   </tr>
 </table>
