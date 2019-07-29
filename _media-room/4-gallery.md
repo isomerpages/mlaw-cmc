@@ -12,11 +12,11 @@ collection_name: media-room
 <style>
 .row {
   display: flex;
-  align-items: flex-start;
 }
 
 .column {
   padding: 5px;
+  flex-start: 10%;
 }
 
 .row .column img {
