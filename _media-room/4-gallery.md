@@ -12,6 +12,7 @@ collection_name: media-room
 <style>
 .row {
   display: flex;
+  align-content: space-between;
 }
 
 .column {
