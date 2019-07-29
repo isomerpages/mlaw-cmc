@@ -104,6 +104,10 @@ collection_name: media-room
 <style>
   table{border-collapse: collapse;}
 </style>
+
+td {border: none;}
+
+tr {border: none;}
 <table>
   <tr><td><p><b>2018</b></p></td></tr>
   <tr>
