@@ -75,8 +75,8 @@ collection_name: media-room
 </div>
 
 **2014**
-<div>
-  <div>
+<div class="row">
+  <div class="column">
     <img src="/images/Img0187.jpg"><br>
     <a href="#">MACAD 2014</a>
   </div>
