@@ -105,6 +105,7 @@ collection_name: media-room
 <table>
   <tr>
     <td>
+      <p><b>2018</b></p><br>
       <a href="#"><img src="/images/MACAD2017-190.jpg">MACAD 2017</a>
     </td>
     <td>
