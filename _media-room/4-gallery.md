@@ -111,7 +111,7 @@ tr {border: none;}
   <tr><td><p><b>2018</b></p></td><td></td></tr>
   <tr>
     <td>
-      <a href="#"><img src="/images/MACAD2017-190.jpg">MACAD 2017</a>
+      <a href="#"><img src="/images/MACAD2017-190.jpg" width="200px" height="200px">MACAD 2017</a>
     </td>
     <td>
       <a href="#"><img src="/images/MACAD2017-085.jpg">MACAD Appointment & Award Ceremony 2017</a>
