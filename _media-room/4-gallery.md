@@ -117,84 +117,84 @@ collection_name: media-room
 **2018**
 <div class="row">
   <div class="column">
-    <img src="/images/MACAD2018-97.jpg" style="width:300px height:300px">
+    <img src="/images/MACAD2018-97.jpg">
   </div>
   <div class="column">
-    <img src="/images/P2M-Mediator-Appointment-Ceremony-P2-333.jpg" style="width:300px height:300px">
+    <img src="/images/P2M-Mediator-Appointment-Ceremony-P2-333.jpg">
   </div>
 </div>
 
 **2017**
 <div class="row">
   <div class="column">
-    <img src="/images/MACAD2017-190.jpg" style="width:300px height:300px">
+    <img src="/images/MACAD2017-190.jpg">
   </div>
   <div class="column">
-    <img src="/images/MACAD2017-085.jpg" style="width:300px height:300px">
+    <img src="/images/MACAD2017-085.jpg">
   </div>
 </div>
 
 **2016**
 <div class="row">
   <div class="column">
-    <img src="/images/macad2016thumbnail.jpg" style="width:300px height:300px">
+    <img src="/images/macad2016thumbnail.jpg">
   </div>
   <div class="column">
-    <img src="/images/macad2016awardthumbnail.jpg" style="width:300px height:300px">
+    <img src="/images/macad2016awardthumbnail.jpg">
   </div>
 </div>
 
 **2015**
 <div class="row">
   <div class="column">
-    <img src="/images/Albumthumbnail.jpeg" style="width:300px height:300px">
+    <img src="/images/Albumthumbnail.jpeg">
   </div>
   <div class="column">
-    <img src="/images/MACAD2015thumbnail.jpg" style="width:300px height:300px">
+    <img src="/images/MACAD2015thumbnail.jpg">
   </div>
 </div>
 
 **2014**
 <div class="row">
   <div class="column">
-    <img src="/images/Img0187.jpg" style="width:300px height:300px">
+    <img src="/images/Img0187.jpg">
   </div>
 </div>
 
 **2013**
 <div class="row">
   <div class="column">
-    <img src="/images/Img0002.jpg" style="width:300px height:300px">
+    <img src="/images/Img0002.jpg" >
   </div>
   <div class="column">
-    <img src="/images/SAM_0070.jpeg" style="width:300px height:300px">
+    <img src="/images/SAM_0070.jpeg" >
   </div>
 </div>
 
 **2012**
 <div class="row">
   <div class="column">
-    <img src="/images/IMG_7913.jpg" style="width:300px height:300px">
+    <img src="/images/IMG_7913.jpg">
   </div>
   <div class="column">
-    <img src="/images/IMG_5746.jpg" style="width:300px height:300px">
-  </div>
-</div>
-
-<div class="row">
-  <div class="column">
-    <img src="/images/DSCN0181.jpg" style="width:300px height:300px">
-  </div>
-  <div class="column">
-    <img src="/images/IMG_7089.jpg" style="width:300px height:300px">
+    <img src="/images/IMG_5746.jpg">
   </div>
 </div>
 
 <div class="row">
   <div class="column">
-    <img src="/images/IMG_7913.jpg" style="width:300px height:300px">
+    <img src="/images/DSCN0181.jpg">
   </div>
   <div class="column">
-    <img src="/images/2_2.jpg" style="width:300px height:300px">
+    <img src="/images/IMG_7089.jpg">
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <img src="/images/IMG_7913.jpg">
+  </div>
+  <div class="column">
+    <img src="/images/2_2.jpg">
   </div>
 </div>
