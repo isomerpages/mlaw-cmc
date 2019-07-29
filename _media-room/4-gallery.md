@@ -102,20 +102,24 @@ collection_name: media-room
 </div><br><br>
 
 <style>
-table {border-collapse: collapse;}
-td {border: none;}
-tr {border: none;}
+.row {
+  display: flex;
+}
+
+/* Create three equal columns that sits next to each other */
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
 </style>
 
-<table>
-  <tr><td><p><b>2018</b></p></td><td></td></tr>
-  <tr>
-    <td>
-      <a href="#"><img src="/images/MACAD2017-190.jpg" width="200px" height="200px">MACAD 2017</a>
-    </td>
-    <td>
-      <a href="#"><img src="/images/MACAD2017-085.jpg">MACAD Appointment & Award Ceremony 2017</a>
-  </td>
-  </tr>
-  <tr><td><p><b>2017</b></p></td><td></td></tr>
-</table>
+
+**2018**
+<div class="row">
+  <div class="column">
+    <img src="/images/MACAD2017-190.jpg" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/images/MACAD2017-085.jpg" style="width:100%">
+  </div>
+</div>
