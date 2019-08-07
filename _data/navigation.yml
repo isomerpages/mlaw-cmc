@@ -4,17 +4,18 @@
 #                                #
 ##################################
 
-- title: Who We Are
-  url: /who-we-are/history/
+- title: Home
+  url: https://mlaw-cmc-staging.netlify.com/
+- title: About Us
   sub-links:
   - title: History
-    url: /who-we-are/history/
-  - title: Mission And Log
-    url: /who-we-are/mission-and-log/
+    url: /about-us/history/
+  - title: Mission And Logo
+    url: /about-us/mission-and-log/
   - title: Organisation Structure
-    url: /who-we-are/organisation-structure/
+    url: /about-us/organisation-structure/
   - title: Simi Qap
-    url: /who-we-are/simi-qap/
+    url: /about-us/simi-qap/
 - title: Our Services
   url: /our-services/mediation-process/
   sub-links:
