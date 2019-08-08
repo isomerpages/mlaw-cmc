@@ -36,32 +36,43 @@
     url: /apply-for-mediation/testimonials-from-customers/
   - title: Ways to Apply for Mediation
     url: /apply-for-mediation/ways-to-apply-for-mediation/
-- title: Our Mediators
-  url: /our-mediators/appointed-cmc-mediators/
+- title: Partner with Us
+  url: /partner-with-us/mediation-training-for-community-peacemakers/
   sub-links:
-  - title: Appointed Cmc Mediators
-    url: /our-mediators/appointed-cmc-mediators/
-  - title: Mediators Involved In Grcs Smcs
-    url: /our-mediators/mediators-involved-in-grcs-smcs/
-  - title: Advisory Committee On Community Mediation
-    url: /our-mediators/advisory-committee-on-community-mediation/
-  - title: Mediators Portal
-    url: /our-mediators/mediators-portal/
-- title:  Media Room
-  url: /media-room/Press_Release/
+  - title: Mediation Training for Community Peacemakers
+    url: /partner-with-us/mediation-training-for-community-peacemakers/
+  - title: Briefings for Organisations
+    url: /partner-with-us/briefings-for-organisations/
+  - title: Assembly Skits for School
+    url: /partner-with-us/assembly-skits-for-school/
+  - title: Request for Collaterals
+    url: /partner-with-us/request-for-collaterals/
+  - title: Our Mediators
+    url: /partner-with-us/our-mediators/
+- title: Publications
+  url: /publications/edms/
   sub-links:
-  - title: Press Releases
-    url: /media-room/Press_Release/
+  - title: EDMs
+    url: /publications/edms/
+  - title: Book of 50 Community Mediation Stories
+    url: /publications/book-of-50-community-mediation-stories/
+- title: Press Room
+  url: /press-room/press-release/
+  sub-links:
+  - title: Press Release
+    url: /press-room/press-release/
   - title: Speeches
-    url: /media-room/speeches/
-  - title: Announcements
-    url: /media-room/announcements/
-  - title: Publications
-    url: /media-room/publications/
+    url: /press-room/speeches/
+  - title: Announcements 
+    url: /press-room/announcements/
   - title: Gallery
-    url: /media-room/gallery/
-
-- title: E Service
-  url: /e-service/
-- title: Contact Us
-  url: /contact-us/
+    url: /press-room/gallery/   
+- title: E-Services
+  url: /e-services/apply-online/
+  sub-links:
+  - title: Apply Online
+    url: /e-services/apply-online/
+  - title: Refer a Case to CMC
+    url: /e-services/refer-a-case-to-cmc/
+  - title: Log into Mediators Portal
+    url: /e-services/log-into-mediators-portal/
