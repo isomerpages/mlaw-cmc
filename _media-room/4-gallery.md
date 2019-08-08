@@ -20,8 +20,8 @@ collection_name: media-room
 }
 
 .row .column img {
-  width: 300px;
-  height: 250px;
+  width: 200px;
+  height: 200px;
 }
 </style>
 
@@ -128,7 +128,3 @@ collection_name: media-room
   </div>
 </div>
 
-
-<a href="/images/IMG_7913.jpg">
-  <img src="/images/IMG_7913.jpg" alt="Forest" style="width:150px">
-</a>
