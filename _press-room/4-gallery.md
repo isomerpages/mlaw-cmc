@@ -8,6 +8,8 @@ collection_name: press-room
 ---
 
 #### Photos
+
+
 ---
 
 <style>
