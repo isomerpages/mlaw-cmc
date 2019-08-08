@@ -14,11 +14,6 @@ collection_name: media-room
   display: flex;
 }
 
-.column {
-  padding: 5px;
-  flex-start: 2%;
-}
-
 .row .column img {
   width: 200px;
   height: 200px;
