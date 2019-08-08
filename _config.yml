@@ -40,17 +40,7 @@ custom_print_css_path: "/assets/css/print.css"
 
 
 collections:
-  who-we-are:
-    output: true
-  our-services:
-    output: true
-  our-work:
-    output: true
-  our-mediators:
-    output: true
-  media-room:
-    output: true
-  self-manage-conflicts:
+   self-manage-conflicts:
     output: true
   publications:
     output: true
@@ -64,3 +54,4 @@ collections:
     output: true
   about-us:
     output: true
+resources_name: resource-room
