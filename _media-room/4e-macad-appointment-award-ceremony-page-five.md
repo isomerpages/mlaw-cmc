@@ -7,6 +7,13 @@ collection_name: media-room
 second_nav_title: Gallery
 ---
 
+<style>
+  .row .column img {
+  width: 200px;
+  height: 150px;
+}
+</style>
+
 MACAD 2018 (20th Anniversary Celebrations)
 ---
 
