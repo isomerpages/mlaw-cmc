@@ -11,39 +11,39 @@ MACAD 2018 (20th Anniversary Celebrations)
 ---
 
 <div class="row">
-  <div class="col is-4"><img src="/images/cq5dam.thumbnail.140.100(20).png"></div>
-  <div class="col is-4"><img src="/images/cq5dam.thumbnail.140.100(21).png"></div>
-  <div class="col is-4"><img src="/images/cq5dam.thumbnail.140.100(22).png"></div>
+  <div class="col is-4"><img src="/images/image1.png"></div>
+  <div class="col is-4"><img src="/images/image2.png"></div>
+  <div class="col is-4"><img src="/images/image3.png"></div>
 </div>
 <div class="row">
-  <div class="col is-4"><img src="/images/cq5dam.thumbnail.140.100(23).png"></div>
-  <div class="col is-4"><img src="/images/cq5dam.thumbnail.140.100(24).png"></div>
-  <div class="col is-4"><img src="/images/cq5dam.thumbnail.140.100(25).png"></div>
+  <div class="col is-4"><img src="/images/image4.png"></div>
+  <div class="col is-4"><img src="/images/image5.png"></div>
+  <div class="col is-4"><img src="/images/image6.png"></div>
 </div>
 <div class="row">
-  <div class="col is-4"><img src="/images/cq5dam.thumbnail.140.100(26).png"></div>
-  <div class="col is-4"><img src="/images/cq5dam.thumbnail.140.100(27).png"></div>
-  <div class="col is-4"><img src="/images/cq5dam.thumbnail.140.100(28).png"></div>
+  <div class="col is-4"><img src="/images/image7.png"></div>
+  <div class="col is-4"><img src="/images/image8.png"></div>
+  <div class="col is-4"><img src="/images/image9.png"></div>
 </div>
 <div class="row">
-  <div class="col is-4"><img src="/images/cq5dam.thumbnail.140.100(29).png"></div>
-  <div class="col is-4"><img src="/images/cq5dam.thumbnail.140.100(30).png"></div>
-  <div class="col is-4"><img src="/images/cq5dam.thumbnail.140.100(31).png"></div>
+  <div class="col is-4"><img src="/images/image10.png"></div>
+  <div class="col is-4"><img src="/images/image11.png"></div>
+  <div class="col is-4"><img src="/images/image12.png"></div>
 </div>
 <div class="row">
-  <div class="col is-4"><img src="/images/cq5dam.thumbnail.140.100(32).png"></div>
-  <div class="col is-4"><img src="/images/cq5dam.thumbnail.140.100(33).png"></div>
-  <div class="col is-4"><img src="/images/cq5dam.thumbnail.140.100(34).png"></div>
+  <div class="col is-4"><img src="/images/image13.png"></div>
+  <div class="col is-4"><img src="/images/image14.png"></div>
+  <div class="col is-4"><img src="/images/image15.png"></div>
 </div>
 <div class="row">
-  <div class="col is-4"><img src="/images/cq5dam.thumbnail.140.100(35).png"></div>
-  <div class="col is-4"><img src="/images/cq5dam.thumbnail.140.100(36).png"></div>
-  <div class="col is-4"><img src="/images/cq5dam.thumbnail.140.100(37).png"></div>
+  <div class="col is-4"><img src="/images/image16.png"></div>
+  <div class="col is-4"><img src="/images/image17.png"></div>
+  <div class="col is-4"><img src="/images/image18.png"></div>
 </div>
 <div class="row">
-  <div class="col is-4"><img src="/images/cq5dam.thumbnail.140.100(38).png"></div>
-  <div class="col is-4"><img src="/images/cq5dam.thumbnail.140.100(39).png"></div>
-  <div class="col is-4"><img src="/images/cq5dam.thumbnail.140.100(40).png"></div>
+  <div class="col is-4"><img src="/images/image19.png"></div>
+  <div class="col is-4"><img src="/images/image20.png"></div>
+  <div class="col is-4"><img src="/images/image21.png"></div>
 </div><br>
 
   <div class="pagination">
