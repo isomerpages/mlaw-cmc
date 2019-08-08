@@ -32,6 +32,7 @@ key-highlights:
   - title: Apply for Mediation
     description: Where to apply for mediation at the CMC
     url: /apply-for-mediation/ways-to-apply-for-mediation/
+    external: true
   - title: Work with Us
     description: Ways you can collaborate with CMC
     url: /partner-with-us/mediation-training-for-community-peacemakers/
