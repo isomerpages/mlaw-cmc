@@ -50,6 +50,6 @@ MACAD 2018 (20th Anniversary Celebrations)
 
   <div class="pagination">
     <a href="/media-room/macad-appointment-award-ceremony/">1</a>
-    <a href="/media-room/macad-anniversary-celebrations/">2</a>
+    <a href="/media-room/macad-appointment-award-ceremony-page-two/">2</a>
   </div>
 
