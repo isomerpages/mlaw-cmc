@@ -11,14 +11,14 @@ MACAD 2018 (20th Anniversary Celebrations)
 ---
 
 <div class="row">
-  <div class="col is-4"><img src="/images/image1.png"></div>
-  <div class="col is-4"><img src="/images/image2.png"></div>
-  <div class="col is-4"><img src="/images/image3.png"></div>
+  <div class="col is-4"><img src="/images/images1.png"></div>
+  <div class="col is-4"><img src="/images/images2.png"></div>
+  <div class="col is-4"><img src="/images/images3.png"></div>
 </div>
 <div class="row">
-  <div class="col is-4"><img src="/images/image4.png"></div>
-  <div class="col is-4"><img src="/images/image5.png"></div>
-  <div class="col is-4"><img src="/images/image6.png"></div>
+  <div class="col is-4"><img src="/images/images4.png"></div>
+  <div class="col is-4"><img src="/images/images5.png"></div>
+  <div class="col is-4"><img src="/images/images6.png"></div>
 </div>
 <div class="row">
   <div class="col is-4"><img src="/images/image7.png"></div>
