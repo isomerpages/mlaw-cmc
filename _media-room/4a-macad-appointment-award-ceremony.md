@@ -47,9 +47,9 @@ MACAD 2018 (20th Anniversary Celebrations)
   <div class="col is-4"><img src="/images/cq5dam.thumbnail.140.100(40).png"></div>
 </div><br>
 
-
   <div class="pagination">
     <a href="/media-room/macad-appointment-award-ceremony/">1</a>
     <a href="/media-room/macad-appointment-award-ceremony-page-two/">2</a>
+    <a href="/media-room/macad-appointment-award-ceremony-page-three/">3</a>
+    <a href="/media-room/macad-appointment-award-ceremony-page-four/">4</a>
   </div>
-
