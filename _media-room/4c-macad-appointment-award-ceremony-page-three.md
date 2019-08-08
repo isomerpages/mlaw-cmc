@@ -11,7 +11,7 @@ MACAD 2018 (20th Anniversary Celebrations)
 ---
 
 <style>
-  .row .column img {
+  .row .col img {
   width: 200px;
   height: 150px;
 }
