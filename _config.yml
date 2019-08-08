@@ -54,7 +54,7 @@ collections:
     output: true
   publications:
     output: true
-  press-rooms:
+  press-room:
     output: true
   partner-with-us:
     output: true
