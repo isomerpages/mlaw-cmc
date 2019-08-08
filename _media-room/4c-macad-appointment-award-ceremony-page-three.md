@@ -10,6 +10,13 @@ second_nav_title: Gallery
 MACAD 2018 (20th Anniversary Celebrations)
 ---
 
+<style>
+  .row .column img {
+  width: 200px;
+  height: 150px;
+}
+</style>
+
 <div class="row">
   <div class="col is-4"><img src="/images/images1.png"></div>
   <div class="col is-4"><img src="/images/images2.png"></div>
