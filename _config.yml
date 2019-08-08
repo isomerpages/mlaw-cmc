@@ -54,4 +54,5 @@ collections:
     output: true
   about-us:
     output: true
+    
 resources_name: resource-room
