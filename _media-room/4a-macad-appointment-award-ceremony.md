@@ -8,7 +8,7 @@ second_nav_title: Gallery
 ---
 
 <style>
-  .row .column img {
+  .row .col img {
   width: 200px;
   height: 150px;
 }
