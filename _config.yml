@@ -40,7 +40,7 @@ custom_print_css_path: "/assets/css/print.css"
 
 
 collections:
-   self-manage-conflicts:
+  self-manage-conflicts:
     output: true
   publications:
     output: true
