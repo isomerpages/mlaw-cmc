@@ -10,7 +10,6 @@ second_nav_title: Gallery
 MACAD 2018 (20th Anniversary Celebrations)
 ---
 
-
 <div class="row">
   <div class="col is-4"><img src="/images/cq5dam.thumbnail.140.100(75).png"></div>
   <div class="col is-4"><img src="/images/cq5dam.thumbnail.140.100(0).png"></div>
