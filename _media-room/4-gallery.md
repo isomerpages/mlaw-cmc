@@ -130,5 +130,5 @@ collection_name: media-room
 
 
 <a href="/images/IMG_7913.jpg">
-  <img src="/images/IMG_7913.jpg" alt="Forest">
+  <img src="/images/IMG_7913.jpg" alt="Forest" style="width:150px">
 </a>
