@@ -27,6 +27,7 @@ collection_name: media-room
   <a href="/media-room/macad-appointment-award-ceremony/"><img src="/images/MACAD2018-97.jpg"><br>
   MACAD 2018 (20th Anniversary Celebration</a>
   </div>
+  
   <div class="column">
    <a href="#"><img src="/images/P2M-Mediator-Appointment-Ceremony-P2-333.jpg"><br>
    MACAD Appointment & Award Ceremony 2018</a>
