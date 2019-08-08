@@ -127,3 +127,8 @@ collection_name: media-room
     <a href="#">Opening Ceremony at The Treasury 2012</a>
   </div>
 </div>
+
+
+<a href="/images/IMG_7913.jpg">
+  <img src="/images/IMG_7913.jpg" alt="Forest">
+</a>
