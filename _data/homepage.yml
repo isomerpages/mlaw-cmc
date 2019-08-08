@@ -8,30 +8,31 @@
 favicon: /images/favicon-isomer.ico
 
 # Agency logo
-agency-logo: /images/isomer-logo.svg
+agency-logo: /images/mlaw-logo.png
 
 # Hero Banner
-hero-title: Hero title
-hero-subtitle: Hero subtitle
+hero-title: Community Mediation Centre
+hero-subtitle: CMC provides mediation services for citizens to resolve relational,community and social disputes
 hero-banner: /images/hero-banner.png
 
 #Call to Action Button
 button:
   - text: Learn More
-    url: /who-we-are/
+    url: /about-us/history/
     
 key-highlights:
-  - title: About Us
-    description: How CMC first started
-    url: https://www.mlaw.gov.sg/cmc
+  - title: Self Manage Conflict
+    description: What are the 5-steps FOCUS process to manage conflict
+    url: /self-manage-conflicts/focus-method/
     external: true
-  - title: Our Services
-    description: What is Mediation in Singapore
-    url: https://www.mlaw.gov.sg/content/cmc/en/Our_Services.html
+  - title: About Mediation
+    description: How Mediation is conducted at the CMC 
+    url: /apply-for-mediation/the-mediation-process/
     external: true
-  - title: Our Work
-    description: How to manage conflicts
-    url: https://www.mlaw.gov.sg/content/cmc/en/Our_Work.html
-  - title: Our Mediators
-    description: Who are the CMC Medaitors
-    url: https://www.mlaw.gov.sg/content/cmc/en/Our_Mediators.html
+  - title: Apply for Mediation
+    description: Where to apply for mediation at the CMC
+    url: /apply-for-mediation/ways-to-apply-for-mediation/
+  - title: Work with Us
+    description: Ways you can collaborate with CMC
+    url: /partner-with-us/mediation-training-for-community-peacemakers/
+    external: true
