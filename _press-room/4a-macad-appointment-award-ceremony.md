@@ -1,4 +1,3 @@
-
 ---
 layout: leftnav-page-content
 title: 'MACAD 2018 (20th Anniversary Celebrations)'
