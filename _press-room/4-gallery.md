@@ -15,6 +15,10 @@ collection_name: press-room
 .row {
   display: flex;
 }
+  
+.row .column {
+  margin: 5px;
+}
 
 .row .column img {
   width: 200px;
