@@ -50,3 +50,17 @@ collections:
     output: true
   media-room:
     output: true
+  self-manage-conflicts:
+    output: true
+  publications:
+    output: true
+  press-rooms:
+    output: true
+  partner-with-us:
+    output: true
+  e-services:
+    output: true
+  apply-for-mediation:
+    output: true
+  about-us:
+    output: true
