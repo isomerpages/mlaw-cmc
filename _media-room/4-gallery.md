@@ -16,7 +16,7 @@ collection_name: media-room
 
 .column {
   padding: 5px;
-  flex-start: 10%;
+  flex-start: 2%;
 }
 
 .row .column img {
