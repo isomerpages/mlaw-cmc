@@ -79,14 +79,14 @@
     url: /e-services/log-into-mediators-portal/
  
 - title: Resources
-  url: /resources/
+  url: /resource-room/
   sub-links:
   - title: All     
-    url: /resources/
+    url: /resource-room/
   - title: Subcategory A
-    url: /resources/subcategory-A/
+    url: /resource-room/subcategory-A/
   - title: Subcategory B     
-    url: /resources/subcategory-B/
+    url: /resource-room/subcategory-B/
   - title: Subcategory C
-    url: /resources/subcategory-C/
+    url: /resource-room/subcategory-C/
 
