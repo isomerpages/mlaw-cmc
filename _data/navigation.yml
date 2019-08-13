@@ -77,3 +77,16 @@
     url: /e-services/refer-a-case-to-cmc/
   - title: Log into Mediators Portal
     url: /e-services/log-into-mediators-portal/
+ 
+ - title: Resources
+  url: /resources/
+  sub-links:
+  - title: All
+    url: /resources/
+  - title: Subcategory A
+    url: /resources/subcategory-A/
+  - title: Subcategory B
+    url: /resources/subcategory-B/
+  - title: Subcategory C
+    url: /resources/subcategory-C/
+ 
