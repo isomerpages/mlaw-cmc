@@ -55,4 +55,4 @@ collections:
   about-us:
     output: true
     
-resources_name: resource
+resources_name: resources
