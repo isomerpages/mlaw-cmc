@@ -64,7 +64,7 @@ Mr Jayems Dhingra<br>
 Dr Joshua VM Kuma, PBM<br>
 Mr Jufri bin Osman<br>
 Madam Kadariah Maunah<br>
-Mr Kamalarajan M Chettiar<br><br>
+Mr Kamalarajan M Chettiar<br>
 Madam Kamaria Binte Djorimi<br>
 Mr Kee Hung Cheng Steven, PBM<br>
 Mr Khng Joo Seng George<br>
