@@ -7,7 +7,7 @@
 - title: Home
   url: https://mlaw-cmc-staging.netlify.com/
 - title: About Us
-  url: /about-us/about-us/
+  url: /about-us/history/
   sub-links:
   - title: History
     url: /about-us/history/
