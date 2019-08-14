@@ -50,7 +50,7 @@ Mr Ganesan s/o Kulandai, PBM<br>
 Madam Giam Lay Eng Marcellina, JP, BBM, PBM<br>
 Mr Goh Han Hian Anthony<br>
 Mr Goh Hock Leng Adrian<br>
-Mr Goh Kian Boon Phillip<br><br>
+Mr Goh Kian Boon Phillip<br>
 Mr Goh Miah Meng<br>
 Mr Goh Peng Hong, BBM<br>
 Mr Goh Sioh Chin, PBM, PBS<br>
