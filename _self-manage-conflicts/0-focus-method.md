@@ -12,19 +12,19 @@ Providing Information on How to Manage Conflicts
  
 Use the **5-STEP FOCUS** process to manage your conflict:
 
-**F - Fix it Yourself Constructively.**
+**F - Fix it Yourself Constructively.**<br>
 If there is no issue of personal safety involved, try to resolve the issue yourself amicably instead of calling the police or other government agencies. This may save your relationship with the other party.
 
-**O – Be Objective.**
+**O – Be Objective.**<br>
 Separate the problem from the person. Address the offending behaviour without using personal attacks.  
 
-**C - Communicate.**
+**C - Communicate.**<br>
 Listen carefully to what the other person has to say without the need to defend yourself. Be mindful of your tone of voice and choice of words.
 
-**U - Understand.**
+**U - Understand.**<br>
 Try to put yourself in the other person’s shoes. Be invested in understanding what is causing their anxiety or frustration.
 
-**S - Suggest solutions.**
+**S - Suggest solutions.**<br>
 Instead of engaging in a fault finding loop, move on to find mutually acceptable solutions. Be prepared to compromise.
 
 Watch the following video on how you can use **FOCUS** in managing a conflict.
