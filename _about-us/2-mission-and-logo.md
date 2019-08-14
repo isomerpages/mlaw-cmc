@@ -10,8 +10,16 @@ collection_name: about-us
 Mission and Logo
 ---
 
-**To provide an attractive, practical and convenient solution for social and community disputes in Singapore.**
+<style>
+  .image {
+  width: 400px; 
+  }
+  image img {
+  max-width: 100%;
+  }
+</style>
 
+**To provide an attractive, practical and convenient solution for social and community disputes in Singapore.**
   
 <div class="image"><img src="/images/1544581758019.jpg/"></div>
   
