@@ -31,15 +31,15 @@ Latest Electronic Direct Mailer (EDM)
 
 **2019**
 
-Mini Bites February
+[Mini Bites February]
 
 **2018**
 
-Mini Bites January<br>
-Mini Bites February<br>
-Mini Bites March<br>
-Mini Bites April<br>
-Mini Bites June<br>
-Mini Bites August<br>
-Mini Bites November<br>
-Mini Bites December<br>
+[Mini Bites January](){:target="_blank"}<br>
+[Mini Bites February](){:target="_blank"}<br>
+[Mini Bites March](){:target="_blank"}<br>
+[Mini Bites April](){:target="_blank"}<br>
+[Mini Bites June](){:target="_blank"}<br>
+[Mini Bites August](){:target="_blank"}<br>
+[Mini Bites November](){:target="_blank"}<br>
+[Mini Bites December](){:target="_blank"}<br>
