@@ -9,7 +9,7 @@ collection_name: publications
 
 <style>
   .flex-container {display: flex;}
-  .flex-container .flex-box (justify-content: flex-start)
+  .flex-container .flex-box (justify-content: flex-center;)
 </style>
 
 Publications
