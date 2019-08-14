@@ -33,11 +33,11 @@ Mini Bites February
 
 **2018**
 
-Mini Bites January
-Mini Bites February
-Mini Bites March
-Mini Bites April
-Mini Bites June
-Mini Bites August
-Mini Bites November
-Mini Bites December
+Mini Bites January<br>
+Mini Bites February<br>
+Mini Bites March<br>
+Mini Bites April<br>
+Mini Bites June<br>
+Mini Bites August<br>
+Mini Bites November<br>
+Mini Bites December<br>
