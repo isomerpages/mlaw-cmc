@@ -14,7 +14,7 @@ collection_name: partner-with-us
 Briefings for Organisations
 ---
 
-<div class="image"><a href="/images/1504167471782.png/"></div>
+<div class="image"><img src"/images/1504167471782.png/"></div>
    
 The CMC receives regular requests for briefings to front line officers from other public agencies who wish to understand the work of the CMC, the types of disputes which are suitable for community mediation and the process of referring cases for community mediation.
 
