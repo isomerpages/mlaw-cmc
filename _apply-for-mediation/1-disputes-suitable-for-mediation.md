@@ -7,6 +7,11 @@ collection_name: apply-for-mediation
 
 ---
 
+<style>
+ .image {width: 600px;}
+ .image img {max-width: 100%;}
+</style>
+
 Disputes Suitable for Mediation | Community Mediation Centre (CMC)
 ---
 
