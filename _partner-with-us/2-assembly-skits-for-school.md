@@ -12,7 +12,6 @@ collection_name: partner-with-us
   .image img {max-width: 100%;}
 </style>
 
-
 Keep the Peace Assembly Skits
 ---
 
