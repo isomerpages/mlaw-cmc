@@ -12,7 +12,7 @@ History
 
 <style>
   .image {
-  width: 800px; 
+  width: 600px; 
   }
   image img {
   max-width: 100%;
