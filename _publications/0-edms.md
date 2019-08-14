@@ -8,6 +8,8 @@ collection_name: publications
 ---
 
 <style>
+  .image {width: 600px;}
+  .image img {max-width: 100%;}
   .flex-container {display: flex;}
   .flex-container .flex-box (justify-content: flex-center;)
 </style>
