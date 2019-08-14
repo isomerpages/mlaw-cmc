@@ -1,10 +1,9 @@
 ---
 layout: leftnav-page-content
-title: The Mediation Process
-permalink: /apply-for-mediation/the-mediation-process/
-breadcrumb: The Mediation Process
+title: Mediation at the CMC
+permalink: /apply-for-mediation/our-services/
+breadcrumb: Our Services
 collection_name: apply-for-mediation
-
 ---
 
 Mediation at the CMC
