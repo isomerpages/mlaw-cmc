@@ -10,6 +10,15 @@ collection_name: about-us
 History
 ---
 
+<style>
+  .image {
+  width: 400px; 
+  height: 350px;
+  }
+  image img {
+  max-width: 100%;
+  }
+</style>
 <div class="image"><img src="/images/1504161341121.png/"></div>
 
 In March 1996, then Minister for Law, Professor S Jayakumar tasked an inter-agency Committee to explore how alternative dispute resolution processes, and in particular mediation, could be further promoted in Singapore. This led to the formation of the Committee on Alternative Dispute Resolution in May 1996.
