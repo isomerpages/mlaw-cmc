@@ -6,6 +6,11 @@ breadcrumb: The Mediation Process
 collection_name: apply-for-mediation
 ---
 
+<style>
+  .image {width: 800px;}
+  .image img {max-width: 100%;}
+</style>
+
 Mediation Process
 Mediation at the CMC is an informal and voluntary process that is conducted in a private setting. It is done in the presence of one or two professionally trained volunteer mediators. 
 
