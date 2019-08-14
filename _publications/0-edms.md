@@ -32,7 +32,7 @@ Latest Electronic Direct Mailer (EDM)
 **2019**
 
 [Mini Bites February](/images/EDM_Dispute_Social_Media.png/){:target="_blank"}
-<a href="/images/EDM_Dispute_Social_Media.png/" target="_blank">testing123</a>
+
 **2018**
 
 [Mini Bites January](/images/EDM-Noisy_Neighbour.png/){:target="_blank"}<br>
