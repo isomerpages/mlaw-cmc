@@ -11,7 +11,7 @@ collection_name: publications
   .image {width: 600px;}
   .image img {max-width: 100%;}
   .flex-container {display: flex;}
-  .flex-container .flex-box (margin-left: 2%;)
+  .flex-container .flex-box {justify-content: space-between;}
 </style>
 
 Publications
