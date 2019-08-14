@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: List of Appointed CMC Mediators
-permalink: /partner-with-us/our-mediators/
+permalink: /partner-with-us/list-of-appointed-cmc-mediators/
 breadcrumb: List of Appointed CMC Mediators
 collection_name: partner-with-us
 second_nav_title: Our Mediators
