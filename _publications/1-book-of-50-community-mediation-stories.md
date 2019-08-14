@@ -7,6 +7,11 @@ collection_name: publications
 
 ---
 
+<style>
+  .image {width: 800px;}
+  .image img {max-width: 100%;}
+</style>
+
 Book of 50 Community Mediation Stories: Mending Fences, Building Bridges
 ---
 
