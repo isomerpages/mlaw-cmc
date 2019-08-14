@@ -7,7 +7,7 @@ collection_name: apply-for-mediation
 ---
 
 <style>
-  .image {width: 800px;}
+  .image {width: 700px;}
   .image img {max-width: 100%;}
 </style>
 
