@@ -18,7 +18,9 @@
   - title: SIMI QAP
     url: /about-us/simi-qap/
   - title: Contact Us
-    url: /about-us/contact-us/ 
+    url: /about-us/contact-us/
+  - title: Gallery
+    url: /about-us/gallery/
 - title: Self-Manage Conflicts
   url: /self-manage-conflicts/focus-method/
   sub-links:
@@ -65,9 +67,7 @@
   - title: Speeches
     url: /press-room/speeches/
   - title: Announcements 
-    url: /press-room/announcements/
-  - title: Gallery
-    url: /press-room/gallery/   
+    url: /press-room/announcements/ 
 - title: E-Services
   url: /e-services/apply-online/
   sub-links:
