@@ -55,4 +55,4 @@ collections:
   about-us:
     output: true
     
-resources_name: "press-room"
+resources_name: "_press-room"
