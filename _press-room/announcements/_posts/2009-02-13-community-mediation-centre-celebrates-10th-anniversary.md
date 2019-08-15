@@ -6,6 +6,11 @@ breadcrumb: Community Mediation Centre Celebrates 10th Anniversary
 date: 2009-02-13
 ---
 
+<style>
+  .image {width: 600px;}
+  .image img {max-width: 100%;}
+</style>
+
 13 Feb 2009
 
 <div class="image"><img src="/images/1399989071405.jpg/"></div><br>
