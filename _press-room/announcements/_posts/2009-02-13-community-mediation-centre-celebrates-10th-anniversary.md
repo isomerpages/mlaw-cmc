@@ -11,6 +11,9 @@ date: 2009-02-13
   .image img {max-width: 100%;}
 </style>
 
+Community Mediation Centre Celebrates 10th Anniversary
+---
+
 13 Feb 2009
 
 <div class="image"><img src="/images/1399989071405.jpg/"></div><br>
