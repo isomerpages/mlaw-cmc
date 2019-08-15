@@ -22,3 +22,6 @@ To encourage this spirit of mediation among the youth, the Community Mediation U
 
 In turn, the team of six SMU undergraduates will coach a group of Primary Four and Five prefects from a local primary school in leadership, team building and peer mediation skills, as a module under their tertiary curriculum.
  
+ 
+ 
+ As part of a long term strategy to nurture a mediation culture, the CMU will continue to engage and lend support to such volunteer efforts to promote greater public awareness about mediation and its benefits.
