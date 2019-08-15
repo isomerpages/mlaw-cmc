@@ -6,7 +6,6 @@ breadcrumb: Centralisation of Regional Centres
 date: 2012-03-09
 ---
 
-
 <style>
   .image {width: 600px;}
   .image img {ma-width: 100%;}
