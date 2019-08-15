@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Video on managing conflicts using FOCUS
-permalink: press-room/speeches/video-on-managing-conflicts-using-focus/
+permalink: press-room/announcements/video-on-managing-conflicts-using-focus/
 breadcrumb: Video on managing conflicts using FOCUS
 date: 2015-06-25
 ---
