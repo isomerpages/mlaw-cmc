@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Gallery
-permalink: /press-room/gallery/
+permalink: /about-us/gallery/
 breadcrumb: Gallery
-collection_name: press-room
+collection_name: about-us
 ---
 
 #### Photos
