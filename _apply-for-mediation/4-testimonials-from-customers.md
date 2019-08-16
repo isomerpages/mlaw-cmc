@@ -6,3 +6,22 @@ breadcrumb: Testimonials from Customers
 collection_name: apply-for-mediation
 
 ---
+
+Testimonials from Parties
+---
+
+*"Keep up the good work."*  – T.S.Y.C.
+
+*"I am grateful that it has been solved and happy with the results."* – L.H.Y.
+
+*"I believe in mediation if both parties can come together to resolve matter."* – C.M.O.
+
+*"From the bottom of my heart, thank you Mediator for being fair and your comforting explanations. GOD Bless you always."* - S.M.S.
+
+*"Grateful to the mediators for understanding our sufferings with warmth words."* – L.P.C.
+
+*"Mediators conducted with experience and professionalism. Remain very focused with the issues at hand."* – A.Y.S.
+
+*"Mediator sums up salient points on how/why/when of the dispute presented by both parties – so parties could reflect and come up with solutions. Mediator was fair as parties are given equal ‘air’ time. Mediator listened patiently and made eye contact – this builds trust and goodwill so parties are willing to share information critical to resolutions. Through the mediator’s skilful questioning eg resolutions on ‘use’ of common space, parties are guided towards resolutions in an informed way and under the best circumstances."* – O.C.F.
+
+*"Mediator is efficient and friendly which actually calm me down to achieve settlement for this case."* – K.S.P.
