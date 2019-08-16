@@ -54,9 +54,9 @@ MACAD 2018 (20th Anniversary Celebrations)
 </div><br>
 
   <div class="pagination">
-    <a href="/press-room/macad-appointment-award-ceremony/">1</a>
-    <a href="/press-room/macad-appointment-award-ceremony-page-two/">2</a>
-    <a href="/press-room/macad-appointment-award-ceremony-page-three/">3</a>
-    <a href="/press-room/macad-appointment-award-ceremony-page-four/">4</a>
-    <a href="/press-room/macad-appointment-award-ceremony-page-five/">5</a>
+    <a href="/about-us/macad-appointment-award-ceremony/">1</a>
+    <a href="/about-us/macad-appointment-award-ceremony-page-two/">2</a>
+    <a href="/about-us/macad-appointment-award-ceremony-page-three/">3</a>
+    <a href="/about-us/macad-appointment-award-ceremony-page-four/">4</a>
+    <a href="/about-us/macad-appointment-award-ceremony-page-five/">5</a>
   </div>
