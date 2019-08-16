@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Gallery
 permalink: /media-room/gallery/
 breadcrumb: Gallery
-collection_name: media-room
+collection_name: about-us
 ---
 
 #### Photos
