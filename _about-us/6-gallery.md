@@ -29,7 +29,7 @@ collection_name: about-us
 **2018**
 <div class="row">
   <div class="column">
-  <a href="/press-room/macad-appointment-award-ceremony/"><img src="/images/MACAD2018-97.jpg"><br>
+  <a href="/about-us/macad-appointment-award-ceremony/"><img src="/images/MACAD2018-97.jpg"><br>
   MACAD 2018 (20th Anniversary Celebration</a>
   </div>
   
