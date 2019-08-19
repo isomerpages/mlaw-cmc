@@ -18,8 +18,8 @@ MACAD 2018 (20th Anniversary Celebrations)
 ---
 
 <div class="row">
-  <div class="col is-4"><img src="/images/cq5dam.thumbnail.140.100(75).png"></div>
-  <div class="col is-4"><img src="/images/cq5dam.thumbnail.140.100(0).png"></div>
+  <a href="/images/cq5dam.thumbnail.140.100(75).png" target="_blank"><div class="col is-4"><img src="/images/cq5dam.thumbnail.140.100(75).png"></div></a>
+  <a href="/images/cq5dam.thumbnail.140.100(0).png" target="_blank"><div class="col is-4"><img src="/images/cq5dam.thumbnail.140.100(0).png"></div></a>
   <div class="col is-4"><img src="/images/cq5dam.thumbnail.140.100(1).png"></div>
 </div>
 <div class="row">
