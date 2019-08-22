@@ -165,3 +165,16 @@ MACAD 2018 (20th Anniversary Celebrations)
   <div class="col is-4"><img src="/images/image41.png"></div>
   <div class="col is-4"><img src="/images/image42.png"></div>
 </div>
+<div class="row">
+  <div class="col is-4"><img src="/images/image43.png"></div>
+  <div class="col is-4"><img src="/images/image44.png"></div>
+  <div class="col is-4"><img src="/images/image45.png"></div>
+</div>
+<div class="row">
+  <div class="col is-4"><img src="/images/image46.png"></div>
+  <div class="col is-4"><img src="/images/image47.png"></div>
+  <div class="col is-4"><img src="/images/image48.png"></div>
+</div>
+<div class="row">
+  <div class="col is-4"><img src="/images/image49.png"></div>
+</div>
