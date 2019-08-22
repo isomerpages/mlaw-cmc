@@ -130,3 +130,38 @@ MACAD 2018 (20th Anniversary Celebrations)
   <div class="col is-4"><img src="/images/image20.png"></div>
   <div class="col is-4"><img src="/images/image21.png"></div>
 </div>
+<div class="row">
+  <div class="col is-4"><img src="/images/image22.png"></div>
+  <div class="col is-4"><img src="/images/image23.png"></div>
+  <div class="col is-4"><img src="/images/image24.png"></div>
+</div>
+<div class="row">
+  <div class="col is-4"><img src="/images/image25.png"></div>
+  <div class="col is-4"><img src="/images/image26.png"></div>
+  <div class="col is-4"><img src="/images/image27.png"></div>
+</div>
+<div class="row">
+  <div class="col is-4"><img src="/images/image28.png"></div>
+  <div class="col is-4"><img src="/images/image29.png"></div>
+  <div class="col is-4"><img src="/images/image30.png"></div>
+</div>
+<div class="row">
+  <div class="col is-4"><img src="/images/image31.png"></div>
+  <div class="col is-4"><img src="/images/image32.png"></div>
+  <div class="col is-4"><img src="/images/image33.png"></div>
+</div>
+<div class="row">
+  <div class="col is-4"><img src="/images/image34.png"></div>
+  <div class="col is-4"><img src="/images/image35.png"></div>
+  <div class="col is-4"><img src="/images/image36.png"></div>
+</div>
+<div class="row">
+  <div class="col is-4"><img src="/images/image37.png"></div>
+  <div class="col is-4"><img src="/images/image38.png"></div>
+  <div class="col is-4"><img src="/images/image39.png"></div>
+</div>
+<div class="row">
+  <div class="col is-4"><img src="/images/image40.png"></div>
+  <div class="col is-4"><img src="/images/image41.png"></div>
+  <div class="col is-4"><img src="/images/image42.png"></div>
+</div>
