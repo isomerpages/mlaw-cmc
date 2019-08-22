@@ -360,12 +360,12 @@ MACAD 2018 (20th Anniversary Celebrations)
 <div class="row">
   <div class="col is-4">
     <a href="/images/P2M-Mediator-Appointment-Ceremony-P2-61.jpg" target="_blank">
-      <img src="/images/img61.png">
+      <img src="/images/61.png">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/P2M-Mediator-Appointment-Ceremony-P2-62.jpg" target="_blank">
-      <img src="/images/img62.png">
+      <img src="/images/62.png">
     </a>
   </div>
   <div class="col is-4">
@@ -411,12 +411,12 @@ MACAD 2018 (20th Anniversary Celebrations)
 <div class="row">
   <div class="col is-4">
     <a href="/images/P2M-Mediator-Appointment-Ceremony-P2-70.jpg" target="_blank">
-      <img src="/images/70.png">
+      <img src="/images/img70.png">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/P2M-Mediator-Appointment-Ceremony-P2-71.jpg" target="_blank">
-      <img src="/images/71.png">
+      <img src="/images/img71.png">
     </a>
   </div>
   <div class="col is-4">
