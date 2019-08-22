@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: 'MACAD 2018 (20th Anniversary Celebrations)'
-permalink: /about-us/macad-appointment-award-ceremony/
+permalink: /about-us/macad-anniversary-celebration/
 breadcrumb: 'MACAD 2018 (20th Anniversary Celebrations)'
 collection_name: about-us
 second_nav_title: Gallery
