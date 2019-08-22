@@ -17,10 +17,10 @@
     url: /about-us/organisation-structure/
   - title: SIMI QAP
     url: /about-us/simi-qap/
-  - title: Contact Us
-    url: /about-us/contact-us/
   - title: Gallery
     url: /about-us/gallery/
+  - title: Contact Us
+    url: /about-us/contact-us/
 - title: Self-Manage Conflicts
   url: /self-manage-conflicts/focus-method/
   sub-links:
