@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: 'MACAD Appointment & Award Ceremony 2018'
-permalink: /media-room/macad-appointment-and-award-ceremony/
+permalink: /about-us/macad-appointment-and-award-ceremony/
 breadcrumb: 'MACAD Appointment & Award Ceremony 2018'
 collection_name: about-us
 second_nav_title: Gallery
