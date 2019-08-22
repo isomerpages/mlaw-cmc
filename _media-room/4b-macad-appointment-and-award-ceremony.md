@@ -370,53 +370,53 @@ MACAD 2018 (20th Anniversary Celebrations)
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-03.jpg" target="_blank">
-      <img src="/images/img61.png">
+      <img src="/images/61.png">
     </a>
   </div>
 </div>
 <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2018-01.jpg" target="_blank">
-      <img src="/images/img62.png">
+      <img src="/images/62.png">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-02.jpg" target="_blank">
-      <img src="/images/img63.png">
+      <img src="/images/63.png">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-03.jpg" target="_blank">
-      <img src="/images/img64.png">
+      <img src="/images/64.png">
     </a>
   </div>
 </div>
 <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2018-01.jpg" target="_blank">
-      <img src="/images/img65.png">
+      <img src="/images/65.png">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-02.jpg" target="_blank">
-      <img src="/images/img66.png">
+      <img src="/images/66.png">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-03.jpg" target="_blank">
-      <img src="/images/img67.png">
+      <img src="/images/67.png">
     </a>
   </div>
 </div>
 <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2018-01.jpg" target="_blank">
-      <img src="/images/img68.png">
+      <img src="/images/68.png">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-02.jpg" target="_blank">
-      <img src="/images/img69.png">
+      <img src="/images/69.png">
     </a>
   </div>
   <div class="col is-4">
