@@ -30,5 +30,6 @@ Instead of engaging in a fault finding loop, move on to find mutually acceptable
 Watch the following video on how you can use **FOCUS** in managing a conflict.
 
 <div class="bp-youtube">
- <iframe width="560" height="315" src="https://www.youtube.com/embed/h4dPkc5z-Lc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- <div>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/VlV1N1UyOIw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
