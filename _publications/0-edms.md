@@ -23,7 +23,9 @@ Latest Electronic Direct Mailer (EDM)
 ---
 
 <div class="flex-container">
-  <div class="flex-box"><a href="/images/Let's_All_Be_Professional.png/"><img src="/images/1567072104487.png/"></a></div>
+  <div class="flex-box">
+    <a href="/images/Let's_All_Be_Professional.png/"><img src="/images/1567072104487.png/"></a>
+  </div>
   <div class="flex-box"><b>Mini Bites:<br>August 2019</b><br><br>click <a href="/images/Let's_All_Be_Professional.png/" target="_blank">here</a> to view the image.</div>
 </div>
 
