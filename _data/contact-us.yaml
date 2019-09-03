@@ -1,3 +1,9 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
 #Contact Us
 
 locations:
@@ -16,5 +22,7 @@ locations:
 column:
   - title: Call Us
     content:
-    - line: 1800-CALL-LAW (1800 2255 529)
-# If you have an email, put (email) after the actual email
+    - line: 1800 2255 529
+    - line: +65 62255 529
+      description: "For overseas callers please use +65 62255 529"
+    # If you have an email, put (email) after the actual email
