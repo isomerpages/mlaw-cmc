@@ -7,7 +7,6 @@ collection_name: e-services
 
 ---
 
-Referring a Case to the CMC
 Disputes may also be referred to the CMC for voluntary mediation by the Singapore Police Force, HDB, Town Council, Members of Parliament, People’s Association or any other agency.
 
 If you are a public officer from any government agency, non-governmental organisation or voluntary welfare organisation, you can refer suitable cases to CMC for voluntary mediation through one of the following modes:-
