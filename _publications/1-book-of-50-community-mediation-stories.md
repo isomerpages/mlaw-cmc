@@ -25,4 +25,4 @@ In celebration of Singapore's Golden Jubilee, the CMC has put together a collect
 Through these stories, they share their perspective and impart valuable lessons that we can all learn from. These stories provide insight to the nature of social and community conflicts in Singapore, the lessons highlighted in each story also provide an opportunity for reflection about how each of us can play our part in keeping peace in our community.
 
 
-Click [here](/images/MendingFencesBuildingBridges.pdf/){:target="_blank"} to download the book.
+Click [here](/files/MendingFencesBuildingBridges.pdf/){:target="_blank"} to download the book.
