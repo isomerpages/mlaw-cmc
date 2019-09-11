@@ -7,12 +7,6 @@ collection_name: partner-with-us
 second_nav_title: Our Mediators
 ---
 
-<style>
-  .image {width: 500px;}
-  .image img {max-width: 100%;}
-</style>
-
-
 
 Our Mediators
 ---
