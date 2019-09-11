@@ -7,12 +7,17 @@ collection_name: partner-with-us
 second_nav_title: Our Mediators
 ---
 
+<style>
+  .image {width: 500px;}
+  .image img {max-width: 100%;}
+</style>
+
 
 
 Our Mediators
 ---
 
-The CMC mediators are volunteers from all walks of life, different age groups, ethnicities and professions. 
+TThe CMC mediators are volunteers from all walks of life, different age groups, ethnicities and professions. 
 
 <div class="image"><img src="/images/1504159397889.png/" style="width:500px"></div>
 
