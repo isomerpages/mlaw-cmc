@@ -3,9 +3,6 @@
 # Feel free to edit this file :) #
 #                                #
 ##################################
-
-- title: Home
-  url: https://mlaw-cmc-staging.netlify.com/
 - title: About Us
   url: /about-us/about-us/
   sub-links:
