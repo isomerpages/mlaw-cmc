@@ -42,10 +42,10 @@ Mediators must mediate a minimum number of cases successfully and attend the req
 Mediators who have served in the CMC as a volunteer over the years can look forward to progressing to the following higher tiers if they have shown exceptional mediation skills:
 
 **Master Mediator**<br>
-<div class="image"><img src="/images/1545105431089.png/"></div>
+<div class="image"><img src="/images/1545105431089.png/" style="width:500px"></div>
 
 **Executive Master Mediator**<br>
-<div class="image"><img src="/images/1545105501149.png/"></div>
+<div class="image"><img src="/images/1545105501149.png/" style="width:500px"></div>
 
 **Principal Master Mediator**<br>
-<div class="image"><img src="/images/1545105569462.png/"></div>
+<div class="image"><img src="/images/1545105569462.png/" style="width:500px"></div>
