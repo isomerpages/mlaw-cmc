@@ -10,16 +10,7 @@ collection_name: about-us
 SIMI QAP
 ---
 
-<style>
-  .image {
-  width: 600px;
-  }
-  .image img {
-  max-width: 100%;
-  }
-</style>
-
-In March 2018, CMC attained the accreditation of Singapore International Mediation Institute (SIMI) Qualifying Assessment Programme (QAP).
+<p style="text-align: justify">In March 2018, CMC attained the accreditation of Singapore International Mediation Institute (SIMI) Qualifying Assessment Programme (QAP).</p>
 
 As a QAP, the CMC’s:
 
@@ -27,4 +18,4 @@ As a QAP, the CMC’s:
 * Mediation service is conducted in accordance with SIMI standards as a SIMI Registered Service Provider
 * Post Mediation Experience Assessment is recognized for those who wish to become SIMI Certified Mediator
 
-<div class="image"><img src="/images/1544584969835.png/"></div>
+<div class="image"><img src="/images/1544584969835.png/" style="width: 600px"></div>
