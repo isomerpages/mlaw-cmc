@@ -13,7 +13,7 @@ Request for Collaterals
 <div class="image"><img src="/images/1504168510628.png/" style="width: 300px"></div>
 
 
-<p style=text-align: justify">The CMC has produced a booklet which contains information on how residents can self-manage disputes on their own and the types of CMC’s mediation service that is suitable for them should their dispute require mediation.</p>
+<p style="text-align: justify">The CMC has produced a booklet which contains information on how residents can self-manage disputes on their own and the types of CMC’s mediation service that is suitable for them should their dispute require mediation.</p>
 
 The booklet sets out:
 * The 5-step conflict self-management process called F.O.C.U.S.
@@ -25,11 +25,11 @@ The booklet is available in English and 3 other main languages (Mandarin, Malay 
 **CMC Let’s Keep the Peace Tote Bags**<br>
 <div class="image"><img src="/images/1546416937814.png/" style="width: 300px"></div>
 
-<p style=text-align: justify">The CMC has also produced white canvas tote bags with the caption "Keep Calm Let's Talk Lah" as part of its overall objective of imbuing the community with the message that peace keeping is a collective responsibility. These tote bags are environmentally friendly, functional and can be given out during any occasion.</p>
+<p style="text-align: justify">The CMC has also produced white canvas tote bags with the caption "Keep Calm Let's Talk Lah" as part of its overall objective of imbuing the community with the message that peace keeping is a collective responsibility. These tote bags are environmentally friendly, functional and can be given out during any occasion.</p>
 
 **Request for Collaterals**
 
-<p style=text-align: justify">If you are a public officer organising events for your agency and wish to request for our collaterals, please call us at 1800-2255-529 with the following information:-</p>
+<p style="text-align: justify">If you are a public officer organising events for your agency and wish to request for our collaterals, please call us at 1800-2255-529 with the following information:-</p>
 
 * Name and Designation
 * Contact Number and Email
