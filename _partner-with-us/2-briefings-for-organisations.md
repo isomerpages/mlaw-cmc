@@ -6,19 +6,14 @@ breadcrumb: Briefing for Organisations
 collection_name: partner-with-us
 ---
 
-<style>
-  .image {width: 600px;}
-  .image img {max-width: 100%;}
-</style>
-
 Briefings for Organisations
 ---
 
-<div class="image"><img src="/images/1504167471782.png/"></div>
+<div class="image"><img src="/images/1504167471782.png/" style="width: 600px"></div>
 
-The CMC receives regular requests for briefings to front line officers from other public agencies who wish to understand the work of the CMC, the types of disputes which are suitable for community mediation and the process of referring cases for community mediation.
+<p style=text-align: justify">The CMC receives regular requests for briefings to front line officers from other public agencies who wish to understand the work of the CMC, the types of disputes which are suitable for community mediation and the process of referring cases for community mediation.</p>
 
-The CMC also shares information about the Singapore model of community conflict management and resolution with foreign delegates who are keenly interested in understanding and exploring such a model for their own community.
+<p style=text-align: justify">The CMC also shares information about the Singapore model of community conflict management and resolution with foreign delegates who are keenly interested in understanding and exploring such a model for their own community.</p>
  
 **Request for CMC Briefing**
 
