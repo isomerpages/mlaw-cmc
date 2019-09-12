@@ -10,9 +10,9 @@ second_nav_title: Our Mediators
 List of Appointed CMC Mediators
 ---
 
-<p style=text-align: justify">The CMC Mediators are appointed by the Minister for Law for a 3-year renewable term. The appointed mediators are bound by the Community Mediation Centres Act (Cap 49A), the Mediators Code of Conduct and CMC’s policies and standing instructions.</p>
+<p style="text-align: justify">The CMC Mediators are appointed by the Minister for Law for a 3-year renewable term. The appointed mediators are bound by the Community Mediation Centres Act (Cap 49A), the Mediators Code of Conduct and CMC’s policies and standing instructions.</p>
 
-<p style=text-align: justify">The following is the current panel of appointed mediators in alphabetical order:-</p>
+<p style="text-align: justify">The following is the current panel of appointed mediators in alphabetical order:-</p>
 
 Mr Abdul Haris Madon<br>
 Mr Alexander Santhosarajan s/o Singhamuthu<br>
