@@ -7,7 +7,7 @@ collection_name: partner-with-us
 
 ---
 
-Mediation Training for Community Peacemakers
+<p style="text-align: justify">Mediation Training for Community Peacemakers
 ---
 
 <div style="text-align: justify"><img src="/images/1504167387446.jpg/"></div>
@@ -28,5 +28,5 @@ This programme is useful for
  
 **Request for Mediation Training**
 
-To find out about the details of the next run of the Basic Mediation Programme for Community Peacemakers, please call us at 1800 2255 529 during office hours or submit a request via *[Contact Us @ OneMinLaw](https://www.mlaw.gov.sg/eservices/enquiry/)*. 
+<p style="text-align: justify">To find out about the details of the next run of the Basic Mediation Programme for Community Peacemakers, please call us at 1800 2255 529 during office hours or submit a request via <i><a href="https://www.mlaw.gov.sg/eservices/enquiry/">Contact Us @ OneMinLaw</a></i>.</p>
  
