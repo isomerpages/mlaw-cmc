@@ -21,7 +21,7 @@ Mediation Training for Community Peacemakers
 <p style="text-align: justify">The purpose of this programme is to equip participants with basic mediation skills which they can use to help resolve common community conflicts. Participants will understand the reasons why community conflicts occur, situations when mediation can become useful to help parties in dispute to deal with their problem in an amicable manner and still able to maintain a relationship post conflict.</p>
 
 
-The half day programme comprises a lecture and discussion of case studies of mediated conflicts.
+<p style="text-align: justify">The half day programme comprises a lecture and discussion of case studies of mediated conflicts.</p>
 
 This programme is useful for
 * Grassroots leaders
