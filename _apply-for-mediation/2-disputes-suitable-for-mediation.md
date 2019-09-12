@@ -7,25 +7,20 @@ collection_name: apply-for-mediation
 
 ---
 
-<style>
- .image {width: 600px;}
- .image img {max-width: 100%;}
-</style>
-
 Disputes Suitable for Mediation | Community Mediation Centre (CMC)
 ---
 
-<div class="image"><img src="/images/1525058166259.png/"></div>
+<div class="image"><img src="/images/1525058166259.png/" style="width: 600px"></div>
 
-The CMC provides mediation as a dispute resolution service in Singapore.
+<p style="text-align: justify">The CMC provides mediation as a dispute resolution service in Singapore.</p>
 
-Mediation at the CMC is suitable for disputes between neighbours, family members, friends, co-workers, landlord or tenants, or any other kind of interpersonal relations.
+<p style="text-align: justify">Mediation at the CMC is suitable for disputes between neighbours, family members, friends, co-workers, landlord or tenants, or any other kind of interpersonal relations.</p>
 
-The mediation at the CMC **is not suitable** for legal, contractual or commercial disputes. 
+<p style="text-align: justify">The mediation at the CMC **is not suitable** for legal, contractual or commercial disputes.</p>
 
-The following is a non-exhaustive list of some of the disputes that are mediated at the CMC:
+<p style="text-align: justify">The following is a non-exhaustive list of some of the disputes that are mediated at the CMC:</p>
 
-**Neighbour Disputes in Singapore:**
+<b>Neighbour Disputes in Singapore:</b>
 
 * Activities that generate unacceptable smell
 * Activities that generate excessive smoke
@@ -38,9 +33,9 @@ The following is a non-exhaustive list of some of the disputes that are mediated
 * Noise complaints (for e.g. noisy neighbours that create unacceptable noise from 10:30pm to 7:00am)
 * Utterance or unacceptable words
 
-<div class="image"><img src="/images/1525058260813.png/"></div>
+<div class="image"><img src="/images/1525058260813.png/" style="width: 600px"></div>
 
-**Family Disputes in Singapore:**
+<b>Family Disputes in Singapore:</b>
 
 * Care and maintenance arrangement for elderly, sick or disabled family members
 * Disagreement on living arrangements
@@ -48,15 +43,15 @@ The following is a non-exhaustive list of some of the disputes that are mediated
 * Interest free monetary matter based on verbal agreement for amount involving less than $5000
 * Utterance of unacceptable words
 
-<div class="image"><img src="/images/1503990086253.jpg/"></div>
+<div class="image"><img src="/images/1503990086253.jpg/" style="width: 600px"></div>
 
-**Disputes between friends, co-workers or other forms of interpersonal relations:**
+<p style="text-align: justify"><b>Disputes between friends, co-workers or other forms of interpersonal relations:</b></p>
 
 * Display of unacceptable behaviour or conduct
 * Interest free monetary matter based on verbal agreement for amount involving less than $5000
 * Utterance of unacceptable words
 
-**Disputes between landlord and tenants or co-tenants:**
+<p style="text-align: justify"><b>Disputes between landlord and tenants or co-tenants:</b></p>
  
 * Disagreement on living arrangements
 * Display of unacceptable behaviour or conduct
