@@ -10,7 +10,7 @@ collection_name: self-manage-conflicts
 Providing Information on How to Manage Conflicts
 ---
  
-<p style="text-align: justify">Use the **5-STEP FOCUS** process to manage your conflict:
+<p style="text-align: justify">Use the <b>5-STEP FOCUS</b> process to manage your conflict:
 
 <p style="text-align: justify"><b>F - Fix it Yourself Constructively.</b><br>
 If there is no issue of personal safety involved, try to resolve the issue yourself amicably instead of calling the police or other government agencies. This may save your relationship with the other party.</p>
