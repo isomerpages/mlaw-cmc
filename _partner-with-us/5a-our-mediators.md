@@ -7,21 +7,20 @@ collection_name: partner-with-us
 second_nav_title: Our Mediators
 ---
 
-
 Our Mediators
 ---
 
-TThe CMC mediators are volunteers from all walks of life, different age groups, ethnicities and professions. 
+<p style="text-align: justify">The CMC mediators are volunteers from all walks of life, different age groups, ethnicities and professions.</p>
 
 <div class="image"><img src="/images/1504159397889.png/" style="width:500px"></div>
 
-The CMC mediators are volunteers who have been specifically selected, trained and appointed for a specific tenure by the Minister for Law.
+<p style="text-align: justify">TThe CMC mediators are volunteers who have been specifically selected, trained and appointed for a specific tenure by the Minister for Law.</p>
 
 <p style="text-align: justify">The CMC voluntary panel is a key distinctive feature of the Singapore system. While those who volunteer to assist in CMC mediation are typically individuals who have a heart from the community and take pride in rendering their services pro bono, the CMC’s system of volunteer management takes cognizance of the importance of volunteer recognition and professional development and this is done through the Mediator Management Framework.</p> 
 
 <div class="image"><img src="/images/1545105261780.png/" style="width:500px"></div>
 
-The appointment and re-appointment criteria of CMC Mediators is governed by the Mediator Management Framework. 
+<p style="text-align: justify">The appointment and re-appointment criteria of CMC Mediators is governed by the Mediator Management Framework.</p>
 
 **Appointment**
 
