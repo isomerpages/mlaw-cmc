@@ -7,9 +7,9 @@ collection_name: e-services
 
 ---
 
-<p style=text-align: justify">Disputes may also be referred to the CMC for voluntary mediation by the Singapore Police Force, HDB, Town Council, Members of Parliament, People’s Association or any other agency.</p>
+<p style="text-align: justify">Disputes may also be referred to the CMC for voluntary mediation by the Singapore Police Force, HDB, Town Council, Members of Parliament, People’s Association or any other agency.</p>
 
-<p style=text-align: justify">If you are a public officer from any government agency, non-governmental organisation or voluntary welfare organisation, you can refer suitable cases to CMC for voluntary mediation through one of the following modes:-</p>
+<p style="text-align: justify">If you are a public officer from any government agency, non-governmental organisation or voluntary welfare organisation, you can refer suitable cases to CMC for voluntary mediation through one of the following modes:-</p>
 
 * Call the CMC Enquiry Line at 1800 2255 529 during office hours
 
@@ -23,4 +23,4 @@ collection_name: e-services
 
 **If you are not using the e-service** to refer a case to the CMC, please download the referral form [here](/files/MandatoryInformation.pdf/){:target="_blank"}. All fields in the referral form are mandatory.
 
-<p style=text-align: justify">Should you require any further assistance, please call 1800 2255 529.</p> 
+<p style="text-align: justify">Should you require any further assistance, please call 1800 2255 529.</p> 
