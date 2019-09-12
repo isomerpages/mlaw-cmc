@@ -21,7 +21,7 @@ Mediation Training for Community Peacemakers
 
 The CMC conducts two runs of the Basic Mediation Programme for Community Peacemakers in the course of a year.
 
-The purpose of this programme is to equip participants with basic mediation skills which they can use to help resolve common community conflicts. Participants will understand the reasons why community conflicts occur, situations when mediation can become useful to help parties in dispute to deal with their problem in an amicable manner and still able to maintain a relationship post conflict.
+<p style="text-align: justify">The purpose of this programme is to equip participants with basic mediation skills which they can use to help resolve common community conflicts. Participants will understand the reasons why community conflicts occur, situations when mediation can become useful to help parties in dispute to deal with their problem in an amicable manner and still able to maintain a relationship post conflict.</p>
 
 The half day programme comprises a lecture and discussion of case studies of mediated conflicts.
 
