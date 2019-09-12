@@ -13,7 +13,7 @@ Keep the Peace Assembly Skits
 
 <p style="text-align: justify">The CMC in collaboration with the Ministry of Education (MOE) has rolled out school assembly skits titled “Keep the Peace” in 2017. These interactive skits use a unique method of puppet ventriloquism to raise the awareness of conflict self-management techniques among upper primary and secondary school students.</p>
 
-<p style="text-align: justify">Each skit is about 20 minutes long. Embedded in each skit is the 5-step process of conflict self-management called F.O.C.U.S. Students will also have the opportunity to participate in a Question and Answer with the puppet ventriloquist and stand to win prizes. The CMC is offering these “Keep the Peace” skits to any primary or secondary school in Singapore **free of charge**.</p>
+<p style="text-align: justify">Each skit is about 20 minutes long. Embedded in each skit is the 5-step process of conflict self-management called F.O.C.U.S. Students will also have the opportunity to participate in a Question and Answer with the puppet ventriloquist and stand to win prizes. The CMC is offering these “Keep the Peace” skits to any primary or secondary school in Singapore <b>free of charge</b>.</p>
 
 **Request for Keep the Peace Assembly Skits**
 
