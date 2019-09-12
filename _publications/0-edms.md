@@ -7,6 +7,11 @@ collection_name: publications
 
 ---
 
+<style>
+  .image {width: 300px;}
+  .image img {max-width: 100%;}
+</style>
+
 Publications
 ---
 
