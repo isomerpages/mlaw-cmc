@@ -7,17 +7,10 @@ collection_name: publications
 
 ---
 
-<style>
-  .image {width: 600px;}
-  .image img {max-width: 100%;}
-  .flex-container {display: flex;}
-  .flex-container .flex-box {padding: 2%}
-</style>
-
 Publications
 ---
 
-<div class="image"><img src="/images/1504172802236.jpg/"></div>
+<div class="image"><img src="/images/1504172802236.jpg/" style="width:600px"></div>
 
 Latest Electronic Direct Mailer (EDM)
 ---
