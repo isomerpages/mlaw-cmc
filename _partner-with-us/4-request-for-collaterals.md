@@ -6,19 +6,14 @@ breadcrumb: Request for Collaterals
 collection_name: partner-with-us
 ---
 
-<style>
-  .image {width: 300px;}
-  .image img {max-width: 100%;}
-</style>
-
 Request for Collaterals
 ---
 
 **CMC Booklet**<br>
-<div class="image"><img src="/images/1504168510628.png/"></div>
+<div class="image"><img src="/images/1504168510628.png/" style="width: 300px"></div>
 
 
-The CMC has produced a booklet which contains information on how residents can self-manage disputes on their own and the types of CMC’s mediation service that is suitable for them should their dispute require mediation.
+<p style=text-align: justify">The CMC has produced a booklet which contains information on how residents can self-manage disputes on their own and the types of CMC’s mediation service that is suitable for them should their dispute require mediation.</p>
 
 The booklet sets out:
 * The 5-step conflict self-management process called F.O.C.U.S.
@@ -28,9 +23,9 @@ The booklet sets out:
 The booklet is available in English and 3 other main languages (Mandarin, Malay and Tamil)
 
 **CMC Let’s Keep the Peace Tote Bags**<br>
-<div class="image"><img src="/images/1546416937814.png/"></div>
+<div class="image"><img src="/images/1546416937814.png/" style="width: 300px"></div>
 
-The CMC has also produced white canvas tote bags with the caption "Keep Calm Let's Talk Lah" as part of its overall objective of imbuing the community with the message that peace keeping is a collective responsibility. These tote bags are environmentally friendly, functional and can be given out during any occasion. 
+<p style=text-align: justify">The CMC has also produced white canvas tote bags with the caption "Keep Calm Let's Talk Lah" as part of its overall objective of imbuing the community with the message that peace keeping is a collective responsibility. These tote bags are environmentally friendly, functional and can be given out during any occasion.</p>
 
 **Request for Collaterals**
 
