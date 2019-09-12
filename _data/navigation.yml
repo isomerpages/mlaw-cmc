@@ -23,7 +23,7 @@
   sub-links:
   - title: Focus Method
     url: /self-manage-conflicts/focus-method/
-- title: Apply for Mediation
+- title: Mediation
   url: /apply-for-mediation/our-services/
   sub-links:
   - title: The Mediation Process
@@ -36,7 +36,7 @@
     url: /apply-for-mediation/testimonials-from-customers/
   - title: Ways to Apply for Mediation
     url: /apply-for-mediation/ways-to-apply-for-mediation/
-- title: Partner with Us
+- title: Partners
   url: /partner-with-us/our-work/
   sub-links:
   - title: Mediation Training for Community Peacemakers
@@ -56,13 +56,6 @@
     url: /publications/edms/
   - title: Book of 50 Community Mediation Stories
     url: /publications/book-of-50-community-mediation-stories/
-- title: Press Room
-  url: /press-room/
-  sub-links:
-  - title: Press Release
-    url: /press-room/press-release/
-  - title: Announcements 
-    url: /press-room/announcements/ 
 - title: E-Services
   url: /e-services/apply-online/
   sub-links:
