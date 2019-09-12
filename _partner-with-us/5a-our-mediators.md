@@ -33,11 +33,11 @@ Our Mediators
 
 **Re-appointment**
 
-Mediators must mediate a minimum number of cases successfully and attend the required number of training hours before they can re-appointed for the following term. 
+<p style="text-align: justify">Mediators must mediate a minimum number of cases successfully and attend the required number of training hours before they can re-appointed for the following term.</p> 
 
 **Advancement**
 
-Mediators who have served in the CMC as a volunteer over the years can look forward to progressing to the following higher tiers if they have shown exceptional mediation skills:
+<p style="text-align: justify">Mediators who have served in the CMC as a volunteer over the years can look forward to progressing to the following higher tiers if they have shown exceptional mediation skills:</p>
 
 **Master Mediator**<br>
 <div class="image"><img src="/images/1545105431089.png/" style="width:500px"></div>
