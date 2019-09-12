@@ -24,7 +24,7 @@ Our Mediators
 
 **Appointment**
 
-All candidates who have applied to become CMC mediators will undergo the following process:
+<p style="text-align: justify">All candidates who have applied to become CMC mediators will undergo the following process:</p>
 * Application
 * Selection
 * Basic Mediation Training
