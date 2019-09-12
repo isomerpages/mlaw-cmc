@@ -11,7 +11,7 @@ Mediation Training for Community Peacemakers
 ---
 
 <div class="image">
- <img src="/images/1504167387446.jpg/">
+ <img src="/images/1504167387446.jpg/" style="width:500px;">
 </div>
 
 **Basic Mediation Programme for Community Peacemakers**
