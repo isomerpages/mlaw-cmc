@@ -7,7 +7,7 @@ collection_name: partner-with-us
 
 ---
 
-<p style="text-align: justify">Mediation Training for Community Peacemakers</p>
+Mediation Training for Community Peacemakers
 ---
 
 <div class="image">
