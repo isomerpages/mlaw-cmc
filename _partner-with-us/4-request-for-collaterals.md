@@ -29,7 +29,7 @@ The booklet is available in English and 3 other main languages (Mandarin, Malay 
 
 **Request for Collaterals**
 
-If you are a public officer organising events for your agency and wish to request for our collaterals, please call us at 1800-2255-529 with the following information:-
+<p style=text-align: justify">If you are a public officer organising events for your agency and wish to request for our collaterals, please call us at 1800-2255-529 with the following information:-</p>
 
 * Name and Designation
 * Contact Number and Email
