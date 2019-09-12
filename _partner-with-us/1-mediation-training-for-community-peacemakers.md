@@ -10,8 +10,8 @@ collection_name: partner-with-us
 <p style="text-align: justify">Mediation Training for Community Peacemakers</p>
 ---
 
-<div style="text-align: justify; width: 500px">
-<img src="/images/1504167387446.jpg/">
+<div class="image">
+ <img src="/images/1504167387446.jpg/" style="width: 500px">
 </div>
 
 **Basic Mediation Programme for Community Peacemakers**
