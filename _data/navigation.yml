@@ -36,6 +36,15 @@
     url: /apply-for-mediation/testimonials-from-customers/
   - title: Ways to Apply for Mediation
     url: /apply-for-mediation/ways-to-apply-for-mediation/
+- title: E-Services
+  url: /e-services/apply-online/
+  sub-links:
+  - title: Apply Online
+    url: /e-services/apply-online/
+  - title: Refer a Case to CMC
+    url: /e-services/refer-a-case-to-cmc/
+  - title: Log into Mediators Portal
+    url: /e-services/log-into-mediators-portal/
 - title: Partners
   url: /partner-with-us/our-work/
   sub-links:
@@ -56,12 +65,3 @@
     url: /publications/edms/
   - title: Book of 50 Community Mediation Stories
     url: /publications/book-of-50-community-mediation-stories/
-- title: E-Services
-  url: /e-services/apply-online/
-  sub-links:
-  - title: Apply Online
-    url: /e-services/apply-online/
-  - title: Refer a Case to CMC
-    url: /e-services/refer-a-case-to-cmc/
-  - title: Log into Mediators Portal
-    url: /e-services/log-into-mediators-portal/
