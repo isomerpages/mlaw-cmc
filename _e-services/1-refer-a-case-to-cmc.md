@@ -24,3 +24,5 @@ collection_name: e-services
 **If you are not using the e-service** to refer a case to the CMC, please download the referral form [here](/files/MandatoryInformation.pdf/){:target="_blank"}. All fields in the referral form are mandatory.
 
 <p style="text-align: justify">Should you require any further assistance, please call 1800 2255 529.</p> 
+
+<p class="right-side-updated">Last updated on 18 Jun 2018</p> 
