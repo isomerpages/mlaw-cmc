@@ -33,3 +33,5 @@ The Mediators Portal works best on the following browsers:
 * Mozilla Firefox
 * Google Chrome
 * Safari
+
+<p class="right-side-updated">Last updated on 23 Mar 2018</p> 
