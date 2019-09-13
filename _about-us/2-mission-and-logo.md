@@ -19,5 +19,3 @@ Mission and Logo
 <div class="bp-youtube" style="text-align: justify">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/2K9yrnyQDp4?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-<p class="right-side-updated">Last updated on 12 Dec 2018</p> 
