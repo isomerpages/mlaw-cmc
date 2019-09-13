@@ -20,3 +20,5 @@ History
 <p style="text-align: justify">Noting that mediation reflects important aspects of our Asian tradition and culture that are worthy of preservation, the Committee recommended that mediation, in particular, should be promoted to resolve social and community disputes. Pursuant to the recommendations of the Committee, the Ministry of Law set up Community Mediation Centres (CMCs) to help develop a more harmonious, civil and gracious community, where social conflicts can be resolved amicably.</p>
 
 <p style="text-align: justify">The CMC opened its doors to the Singapore public in January 1998, with the first centre, CMC (Regional East), located at the Marine Parade District Hall. Previously, the CMCs were located in three different locations – CMC (Central), CMC (Regional North) and CMC (State Courts).</p>
+
+<p class="right-side-updated">Last updated on 12 Dec 2018</p>   
