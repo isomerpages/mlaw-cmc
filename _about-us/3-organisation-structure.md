@@ -31,4 +31,4 @@ Mr Ridzuan Razali
 Community Mediation Officer<br>
 Ms Sandra Tiong
 
- 
+<p class="right-side-updated">Last updated on 06 Sep 2019</p> 
