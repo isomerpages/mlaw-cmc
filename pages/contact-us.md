@@ -4,24 +4,34 @@ title: Contact Us
 permalink: /contact-us/
 breadcrumb: Contact Us
 ---
-#Contact Us
 
-locations:
-  # HQ Address [REQUIRED]
-  - title:
-    address: 45 Maxwell Road<br>1st Storey Tower Block<br>#07-11 The URA Centre (East Wing)<br>Singapore 069118
-    find-directions: https://www.google.com.sg/maps/place/SAM+-+Maxwell+Road-+The+URA+Centre+(East+Wing)/@1.279976,103.8430683,17z/data=!3m1!4b1!4m5!3m4!1s0x31da190d56b83123:0xeb1b813105dae44b!8m2!3d1.279976!4d103.845257
-  # Operating Hours [OPTIONAL]
-    operating-hours:
-      - days: Mon - Fri
-        time: 8.30am - 5.00pm
-        description: "Closed during lunch: 12.30pm - 1.30pm <br>Closed on Weekends and Public Holidays<br>To avoid the crowd, members of the public may wish to visit the Services Centre between 8:30am to 11am"
+Contact Us @ OneMinLaw
+---
 
-# Contact Us
-column:
-  - title: Call Us
-    content:
-    - line: 1800 2255 529
-    - line: +65 62255 529
-      description: "For overseas callers please use +65 62255 529"
-    # If you have an email, put (email) after the actual email
+[Contact Us @ OneMinLaw](https://www.mlaw.gov.sg/eservices/enquiry/)
+
+Location
+---
+
+**Ministry of Law Services Centre**
+
+45 Maxwell Road<br>
+#07-11 The URA Centre (East Wing)<br>
+Singapore 069118<br>
+
+**Counter Operating Hours:**
+
+Monday to Friday: 8:30am to 5:00pm<br>
+(Closed on Weekends & Public Holidays)
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.822848251594!2d103.84365931492538!3d1.2799253621522304!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da190d593a26ad%3A0x59b7a80e5c764ef5!2sURA+Workers!5e0!3m2!1sen!2ssg!4v1562046377422!5m2!1sen!2ssg" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe><br>
+
+Call-Us
+---
+
+Tel: 1800-CALL-LAW (1800 2255 529)
+
+Enquiry Line Operating Hours
+
+Monday to Friday: 8:30am to 5:00pm<br>
+(Closed on Weekends & Public Holidays)
