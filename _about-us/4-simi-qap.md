@@ -18,10 +18,10 @@ As a QAP, the CMC’s:
 * Mediation service is conducted in accordance with SIMI standards as a SIMI Registered Service Provider
 * Post Mediation Experience Assessment is recognized for those who wish to become SIMI Certified Mediator
 
-<ol style="text-align: justify">
+<ul style="text-align: justify">
   <li>Mediation training and assessment can lead to SIMI Accredited Mediator Level 1 for its volunteers (SIMI Registered Training Program)</li>
   <li>Mediation service is conducted in accordance with SIMI standards as a SIMI Registered Service Provider</li>
   <li>Post Mediation Experience Assessment is recognized for those who wish to become SIMI Certified Mediator</li>
-</ol>
+</ul>
 
 <div class="image"><img src="/images/1544584969835.png/" style="width: 600px"></div>
