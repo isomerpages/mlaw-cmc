@@ -24,3 +24,5 @@ Mon - Fri: 8.30am to 5.00pm<br>
 <p style="text-align: justify">Please note that you are required to use your SingPass for the following e-service.</p>
 
 * **Direct:**  [I am the applicant](https://saml.singpass.gov.sg/spauth/login/eservloginpage?URL=%2FFIM%2Fsps%2FSingpassIDPFed%2Fsaml20%2Flogininitial%3FRequestBinding%3DHTTPArtifact%26ResponseBinding%3DHTTPArtifact%26PartnerId%3Dhttps%253a%252f%252fwww.mlaw.gov.sg%252feservices%252fmp%252fSAML%252f%26NameIdFormat%3DEmail%26esrvcID%3DLSRA%26Target%3Deservices%252fCMC%252fMediatorsPortal%252fsingpass-redirection-page%252f%253freturnurlpage%253ddirect-intake&TAM_OP=login)
+
+<p class="right-side-updated">Last updated on 08 Mar 2019</p> 
