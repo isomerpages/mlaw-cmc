@@ -12,7 +12,7 @@ Benefits of Mediation | Community Mediation Centre (CMC)
 
 <div class="image"><img src="/images/1525057853270.png/" style="width: 600px"></div>
 
-<p style="text-align: justify"><b>Private and Confidential<b><br>
+<p style="text-align: justify"><b>Private and Confidential</b><br>
 The identities of the parties and the matters discussed during the mediation is kept private and confidential.</p>
 
 <div class="image"><img src="/images/1503990395999.jpg/" style="width: 600px"></div>
