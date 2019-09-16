@@ -10,6 +10,12 @@ favicon: /images/favicon-isomer.ico
 # Agency logo
 agency-logo: /images/cmc-logo.png
 
+
+# Google analytics
+
+google-analytics: UA-10405444-21
+
+
 # Hero Banner
 hero-title: Community Mediation Centre
 hero-subtitle: CMC provides mediation services for citizens to resolve relational, community and social disputes
