@@ -17,7 +17,6 @@ breadcrumb: Contact Us
   <a href="https://www.mlaw.gov.sg/eservices/enquiry/"><img src="/images/mlaw-contactus.png/" style="width: 300px; float: left;"></a>
 </div><br>
 
----
 <div class="paragraphs">
    <a href="https://www.mlaw.gov.sg/eservices/enquiry/">
    <img style="float:left; width: 40px;" src="/images/loc.png/"></a>
@@ -46,7 +45,7 @@ Monday to Friday: 8:30am to 5:00pm<br>
    <h3> Call Us</h3>
   </div>
 </div>
---- 
+
 Tel: 1800-CALL-LAW (1800 2255 529)<br>
 
 Enquiry Line Operating Hours<br>     
