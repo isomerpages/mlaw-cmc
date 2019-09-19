@@ -16,7 +16,6 @@ breadcrumb: Contact Us
 <div class="image">
   <a href="https://www.mlaw.gov.sg/eservices/enquiry/"><img src="/images/mlaw-contactus.png/" style="width: 300px; float: left;"></a>
 </div><br>
-
 ---
 
 <div class="paragraphs">
@@ -26,7 +25,6 @@ breadcrumb: Contact Us
    <h3> Location</h3>
   </div>
 </div>
-
 ---
 
 **Ministry of Law Services Centre**
@@ -49,7 +47,6 @@ Monday to Friday: 8:30am to 5:00pm<br>
    <h3> Call Us</h3>
   </div>
 </div>
-
 ---
 
 Tel: 1800-CALL-LAW (1800 2255 529)<br>
