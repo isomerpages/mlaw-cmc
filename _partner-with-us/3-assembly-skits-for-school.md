@@ -18,6 +18,6 @@ Keep the Peace Assembly Skits
 **Request for Keep the Peace Assembly Skits**
 
 <p style="text-align: justify">Subject to availability, each school can request for up to 2 performances though an online booking form. Starting July 2017, schools interested to have the skit for their assembly programme can request via the online booking form appended below:</p>
-* Primary schools: [http://www.themagicavenue.com/FOCUS2017P/](http://www.themagicavenue.com/FOCUS2017P/)
+* Primary schools: [http://www.themagicavenue.com/FOCUS](http://www.themagicavenue.com/FOCUS)
 
 <p style="text-align: justify">Confirmation of the booking is based on a first-come-first-serve basis based on availability. For more information, please call us as 1800-2255-529.</p>
