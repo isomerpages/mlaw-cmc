@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Apply online
+title: Apply Online
 permalink: /e-services/apply-online/
-breadcrumb: Apply online
+breadcrumb: Apply Online
 collection_name: e-services
 
 ---
