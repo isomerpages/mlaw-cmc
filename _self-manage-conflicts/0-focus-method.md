@@ -30,6 +30,6 @@ Instead of engaging in a fault finding loop, move on to find mutually acceptable
 <p style="text-align: justify">Watch the following video on how you can use **FOCUS** in managing a conflict.</p>
 
 <div class="bp-youtube" style="text-align: justify">
- <iframe width="560" height="315" src="https://www.youtube.com/embed/VlV1N1UyOIw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/VlV1N1UyOIw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" title="CMC FOCUS English Sub" alt="CMC FOCUS English Sub" allowfullscreen></iframe>
 </div>
 
