@@ -40,10 +40,10 @@ Our Mediators
 <p style="text-align: justify">Mediators who have served in the CMC as a volunteer over the years can look forward to progressing to the following higher tiers if they have shown exceptional mediation skills:</p>
 
 **Master Mediator**<br>
-<div class="image"><img src="/images/1545105431089.png/" style="width:500px"></div>
+<div class="image"><img src="/images/1545105431089.png/" title="Our Mediators" alt="Our Mediators" style="width:500px"></div>
 
 **Executive Master Mediator**<br>
-<div class="image"><img src="/images/1545105501149.png/" style="width:500px"></div>
+<div class="image"><img src="/images/1545105501149.png/" title="Our Mediators" alt="Our Mediators" style="width:500px"></div>
 
 **Principal Master Mediator**<br>
-<div class="image"><img src="/images/1545105569462.png/" style="width:500px"></div>
+<div class="image"><img src="/images/1545105569462.png/" title="Our Mediators" alt="Our Mediators" style="width:500px"></div>
