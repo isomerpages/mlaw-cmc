@@ -20,4 +20,4 @@ SIMI QAP
   <li>Post Mediation Experience Assessment is recognized for those who wish to become SIMI Certified Mediator</li>
 </ul>
 
-<div class="image"><img src="/images/1544584969835.png/" style="width: 600px"></div>
+<div class="image"><img src="/images/1544584969835.png/" title="SIMI QAP" alt="SIMI QAP" style="width: 600px"></div>
