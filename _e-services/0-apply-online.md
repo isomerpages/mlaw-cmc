@@ -16,7 +16,7 @@ Apply Online
 
 <p style="text-align: justify">You may call our enquiry line at 1800-CALL-LAW (1800-2255-529) during the following opening hours:</p>
 
-Mon - Fri: 8.30am to 5.00pm<br>
+Mon - Fri: 8.30am to 5.30pm<br>
 (Closed on Weekends & Public Holidays)
 
 **2) Register online using SingPass**
