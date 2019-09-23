@@ -37,7 +37,7 @@ second_nav_title: Gallery
   
   <div class="column">
    <a href="/about-us/macad-appointment-and-award-ceremony/">
-     <img src="/images/P2M-Mediator-Appointment-Ceremony-P2-333.jpg" title="MACAD Appointment and Award Ceremony 2018" alt="MACAD Appointment and Award Ceremony 2018><br>
+     <img src="/images/P2M-Mediator-Appointment-Ceremony-P2-333.jpg" title="MACAD Appointment and Award Ceremony 2018" alt="MACAD Appointment and Award Ceremony 2018"><br>
    MACAD Appointment & Award Ceremony 2018</a>
   </div>
 </div>
