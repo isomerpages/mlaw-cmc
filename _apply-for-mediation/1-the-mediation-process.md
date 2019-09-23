@@ -15,4 +15,4 @@ Mediation Process
 
 <p style="text-align: justify">The process flow of the mediation procedure is as shown in the flow chart below.</p>
 
-<div class="image"><img src="/images/1544588306874.png/" style="width: 700px"></div>
+<div class="image"><img src="/images/1544588306874.png/" title="The Mediation Process" alt="The Mediation Process" style="width: 700px"></div>
