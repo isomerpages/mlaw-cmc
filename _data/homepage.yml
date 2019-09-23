@@ -8,7 +8,7 @@
 favicon: /images/favicon-isomer.ico
 
 # Agency logo
-agency-logo: /images/Hero-Banner-Minlaw.jpg
+agency-logo: /images/mlaw-logo.png
 
 
 # Google analytics
@@ -19,7 +19,7 @@ google-analytics: UA-10405444-21
 # Hero Banner
 hero-title: Community Mediation Centre
 hero-subtitle: CMC provides mediation services for citizens to resolve relational, community and social disputes
-hero-banner: /images/hero-banner.png
+hero-banner: /images/Hero-Banner-Minlaw.jpg
 
 #Call to Action Button
 button:
