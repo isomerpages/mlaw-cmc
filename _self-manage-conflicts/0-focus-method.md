@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Focus Method
+title: FOCUS Method
 permalink: /self-manage-conflicts/focus-method/
-breadcrumb: Focus Method
+breadcrumb: FOCUS Method
 collection_name: self-manage-conflicts
 
 ---
