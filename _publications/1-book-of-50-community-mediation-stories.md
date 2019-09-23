@@ -12,7 +12,7 @@ Book of 50 Community Mediation Stories: Mending Fences, Building Bridges
 
 1 Dec 2015
 
-<div class="image"><img src="/images/1448512173351.jpg/" style="width:800px"></div>
+<div class="image"><img src="/images/1448512173351.jpg/" style="width:800px" title="Book of 50 Community Mediation Stories" alt="Book of 50 Community Mediation Stories"></div>
 
 <p style="text-align: justify">In celebration of Singapore's Golden Jubilee, the CMC has put together a collection of 50 community mediation stories, Mending Fences, Building Bridges, as told by our mediators.</p>
 
