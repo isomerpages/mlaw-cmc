@@ -31,13 +31,13 @@ second_nav_title: Gallery
 <div class="row">
   <div class="column">
   <a href="/about-us/macad-anniversary-celebration/">
-    <img src="/images/MACAD2018-97.jpg"><br>
-  MACAD 2018 (20th Anniversary Celebration</a>
+    <img src="/images/MACAD2018-97.jpg" title="MACAD Anniversary Celebration" alt="MACAD Anniversary Celebration"><br>
+  MACAD 2018 (20th Anniversary Celebration)</a>
   </div>
   
   <div class="column">
    <a href="/about-us/macad-appointment-and-award-ceremony/">
-     <img src="/images/P2M-Mediator-Appointment-Ceremony-P2-333.jpg"><br>
+     <img src="/images/P2M-Mediator-Appointment-Ceremony-P2-333.jpg" title="MACAD Appointment and Award Ceremony 2018" alt="MACAD Appointment and Award Ceremony 2018><br>
    MACAD Appointment & Award Ceremony 2018</a>
   </div>
 </div>
