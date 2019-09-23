@@ -20,5 +20,5 @@ Mediation at the CMC
 <p style="text-align: justify">Watch the following video to find out how mediation is done at the CMC</p>
 
 <div class="bp-youtube" style="text-align: justify">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/5dPPRAbuJj4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" title="Meditation at the CMC" alt="Meditation at the CMC" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/5dPPRAbuJj4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" title="Mediation at the CMC" alt="Mediation at the CMC" allowfullscreen></iframe>
 </div>
