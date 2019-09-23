@@ -20,516 +20,516 @@ MACAD 2018 (20th Anniversary Celebrations)
 <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2018-01.jpg" target="_blank">
-      <img src="/images/cq5dam.thumbnail.140.100(75).png" alt="1">
+      <img src="/images/cq5dam.thumbnail.140.100(75).png" alt="MACAD 2018-1">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-02.jpg" target="_blank">
-      <img src="/images/cq5dam.thumbnail.140.100(0).png" alt="2">
+      <img src="/images/cq5dam.thumbnail.140.100(0).png" alt="MACAD 2018-2">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-03.jpg" target="_blank">
-    <img src="/images/cq5dam.thumbnail.140.100(1).png" alt="3">
+    <img src="/images/cq5dam.thumbnail.140.100(1).png" alt="MACAD 2018-3">
     </a>
   </div>
 </div>
 <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2018-04.jpg" target="_blank">
-    <img src="/images/cq5dam.thumbnail.140.1002).png" alt="4">
+    <img src="/images/cq5dam.thumbnail.140.1002).png" alt="MACAD 2018-4">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-05.jpg" target="_blank">
-    <img src="/images/cq5dam.thumbnail.140.100(3).png" alt="5">
+    <img src="/images/cq5dam.thumbnail.140.100(3).png" alt="MACAD 2018-5">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-06.jpg" target="_blank">
-    <img src="/images/cq5dam.thumbnail.140.100(4).png" alt="6">
+    <img src="/images/cq5dam.thumbnail.140.100(4).png" alt="MACAD 2018-6">
     </a>
   </div>
 </div>
 <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2018-7.jpg" target="_blank">
-    <img src="/images/cq5dam.thumbnail.140.100(5).png" alt="7">
+    <img src="/images/cq5dam.thumbnail.140.100(5).png" alt="MACAD 2018-7">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-08.jpg" target="_blank">
-    <img src="/images/cq5dam.thumbnail.140.100(6).png" alt="8">
+    <img src="/images/cq5dam.thumbnail.140.100(6).png" alt="MACAD 2018-8">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-09.jpg" target="_blank">
-    <img src="/images/cq5dam.thumbnail.140.100(7).png" alt="9">
+    <img src="/images/cq5dam.thumbnail.140.100(7).png" alt="MACAD 2018-9">
     </a>
   </div>
 </div>
 <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2018-10.jpg" target="_blank">
-    <img src="/images/cq5dam.thumbnail.140.100(8).png" alt="10">
+    <img src="/images/cq5dam.thumbnail.140.100(8).png" alt="MACAD 2018-10">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-11.jpg" target="_blank">
-    <img src="/images/cq5dam.thumbnail.140.100(9).png" alt="11">
+    <img src="/images/cq5dam.thumbnail.140.100(9).png" alt="MACAD 2018-11">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-12.jpg" target="_blank">
-    <img src="/images/cq5dam.thumbnail.140.100(10).png" alt="12">
+    <img src="/images/cq5dam.thumbnail.140.100(10).png" alt="MACAD 2018-12">
     </a>
   </div>
 </div>
 <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2018-13.jpg" target="_blank">
-    <img src="/images/cq5dam.thumbnail.140.100(11).png" alt="13">
+    <img src="/images/cq5dam.thumbnail.140.100(11).png" alt="MACAD 2018-13">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-14.jpg" target="_blank">
-    <img src="/images/cq5dam.thumbnail.140.100(12).png" alt="14">
+    <img src="/images/cq5dam.thumbnail.140.100(12).png" alt="MACAD 2018-14">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-15.jpg" target="_blank">
-    <img src="/images/cq5dam.thumbnail.140.100(13).png" alt="15">
+    <img src="/images/cq5dam.thumbnail.140.100(13).png" alt="MACAD 2018-15">
     </a>
   </div>
 </div>
 <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2018-16.jpg" target="_blank">
-    <img src="/images/cq5dam.thumbnail.140.100(14).png" alt="16">
+    <img src="/images/cq5dam.thumbnail.140.100(14).png" alt="MACAD 2018-16">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-17.jpg" target="_blank">
-    <img src="/images/cq5dam.thumbnail.140.100(15).png" alt="17">
+    <img src="/images/cq5dam.thumbnail.140.100(15).png" alt="MACAD 2018-17">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-18.jpg" target="_blank">
-    <img src="/images/cq5dam.thumbnail.140.100(16).png" alt="18">
+    <img src="/images/cq5dam.thumbnail.140.100(16).png" alt="MACAD 2018-18">
     </a>
   </div>
 </div>
 <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2018-19.jpg" target="_blank">
-    <img src="/images/cq5dam.thumbnail.140.100(17).png" alt="19">
+    <img src="/images/cq5dam.thumbnail.140.100(17).png" alt="MACAD 2018-19">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-20.jpg" target="_blank">
-    <img src="/images/cq5dam.thumbnail.140.100(18).png" alt="20">
+    <img src="/images/cq5dam.thumbnail.140.100(18).png" alt="MACAD 2018-20">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-21.jpg" target="_blank">
-    <img src="/images/cq5dam.thumbnail.140.100(19).png" alt="21">
+    <img src="/images/cq5dam.thumbnail.140.100(19).png" alt="MACAD 2018-21">
     </a>
   </div>
 </div>
 <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2018-22.jpg" target="_blank">
-    <img src="/images/cq5dam.thumbnail.140.100(20).png" alt="22">
+    <img src="/images/cq5dam.thumbnail.140.100(20).png" alt="MACAD 2018-22">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-23.jpg" target="_blank">
-    <img src="/images/cq5dam.thumbnail.140.100(21).png" alt="23">
+    <img src="/images/cq5dam.thumbnail.140.100(21).png" alt="MACAD 2018-23">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-24.jpg" target="_blank">
-    <img src="/images/cq5dam.thumbnail.140.100(22).png" alt="24">
+    <img src="/images/cq5dam.thumbnail.140.100(22).png" alt="MACAD 2018-24">
     </a>
   </div>
 </div>
 <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2018-25.jpg" target="_blank">
-    <img src="/images/cq5dam.thumbnail.140.100(23).png" alt="25">
+    <img src="/images/cq5dam.thumbnail.140.100(23).png" alt="MACAD 2018-25">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-26.jpg" target="_blank">
-    <img src="/images/cq5dam.thumbnail.140.100(24).png" alt="26">
+    <img src="/images/cq5dam.thumbnail.140.100(24).png" alt="MACAD 2018-26">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-27.jpg" target="_blank">
-    <img src="/images/cq5dam.thumbnail.140.100(25).png" alt="27">
+    <img src="/images/cq5dam.thumbnail.140.100(25).png" alt="MACAD 2018-27">
     </a>
   </div>
 </div>
 <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2018-28.jpg" target="_blank">
-    <img src="/images/cq5dam.thumbnail.140.100(26).png" alt="28">
+    <img src="/images/cq5dam.thumbnail.140.100(26).png" alt="MACAD 2018-28">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-29.jpg" target="_blank">
-    <img src="/images/cq5dam.thumbnail.140.100(27).png" alt="29">
+    <img src="/images/cq5dam.thumbnail.140.100(27).png" alt="MACAD 2018-29">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-30.jpg" target="_blank">
-    <img src="/images/cq5dam.thumbnail.140.100(28).png" alt="30">
+    <img src="/images/cq5dam.thumbnail.140.100(28).png" alt="MACAD 2018-30">
     </a>
   </div>
 </div>
 <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2018-31.jpg" target="_blank">
-    <img src="/images/cq5dam.thumbnail.140.100(29).png" alt="31">
+    <img src="/images/cq5dam.thumbnail.140.100(29).png" alt="MACAD 2018-31">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-32.jpg" target="_blank">
-    <img src="/images/cq5dam.thumbnail.140.100(30).png" alt="32">
+    <img src="/images/cq5dam.thumbnail.140.100(30).png" alt="MACAD 2018-32">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-33.jpg" target="_blank">
-    <img src="/images/cq5dam.thumbnail.140.100(31).png" alt="33">
+    <img src="/images/cq5dam.thumbnail.140.100(31).png" alt="MACAD 2018-33">
     </a>
   </div>
 </div>
 <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2018-34.jpg" target="_blank">
-    <img src="/images/cq5dam.thumbnail.140.100(32).png" alt="34">
+    <img src="/images/cq5dam.thumbnail.140.100(32).png" alt="MACAD 2018-34">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-35.jpg" target="_blank">
-    <img src="/images/cq5dam.thumbnail.140.100(33).png" alt="35">
+    <img src="/images/cq5dam.thumbnail.140.100(33).png" alt="MACAD 2018-35">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-36.jpg" target="_blank">
-    <img src="/images/cq5dam.thumbnail.140.100(34).png" alt="36">
+    <img src="/images/cq5dam.thumbnail.140.100(34).png" alt="MACAD 2018-36">
     </a>
   </div>
 </div>
 <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2018-37.jpg" target="_blank">
-    <img src="/images/cq5dam.thumbnail.140.100(35).png" alt="37">
+    <img src="/images/cq5dam.thumbnail.140.100(35).png" alt="MACAD 2018-37">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-38.jpg" target="_blank">
-    <img src="/images/cq5dam.thumbnail.140.100(36).png" alt="38">
+    <img src="/images/cq5dam.thumbnail.140.100(36).png" alt="MACAD 2018-38">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-39.jpg" target="_blank">
-    <img src="/images/cq5dam.thumbnail.140.100(37).png" alt="39">
+    <img src="/images/cq5dam.thumbnail.140.100(37).png" alt="MACAD 2018-39">
     </a>
   </div>
 </div>
 <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2018-40.jpg" target="_blank">
-    <img src="/images/cq5dam.thumbnail.140.100(38).png" alt="40">
+    <img src="/images/cq5dam.thumbnail.140.100(38).png" alt="MACAD 2018-40">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-41.jpg" target="_blank">
-    <img src="/images/cq5dam.thumbnail.140.100(39).png" alt="41">
+    <img src="/images/cq5dam.thumbnail.140.100(39).png" alt="MACAD 2018-41">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-42.jpg" target="_blank">
-    <img src="/images/cq5dam.thumbnail.140.100(40).png" alt="42">
+    <img src="/images/cq5dam.thumbnail.140.100(40).png" alt="MACAD 2018-42">
     </a>
   </div>
 </div>
 <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2018-43.jpg" target="_blank">
-    <img src="/images/images1.png" alt="43">
+    <img src="/images/images1.png" alt="MACAD 2018-43">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-44.jpg" target="_blank">
-    <img src="/images/images2.png" alt="44">
+    <img src="/images/images2.png" alt="MACAD 2018-44">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-45.jpg" target="_blank">
-    <img src="/images/images3.png" alt="45">
+    <img src="/images/images3.png" alt="MACAD 2018-45">
     </a>
   </div>
 </div>
 <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2018-46.jpg" target="_blank">
-    <img src="/images/images4.png" alt="46">
+    <img src="/images/images4.png" alt="MACAD 2018-46">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-47.jpg" target="_blank">
-    <img src="/images/images5.png" alt="47">
+    <img src="/images/images5.png" alt="MACAD 2018-47">
     </a>
   </div>
   <div class="col is-4"><a href="/images/MACAD2018-48.jpg" target="_blank">
-    <img src="/images/images6.png" alt="48">
+    <img src="/images/images6.png" alt="MACAD 2018-48">
     </a>
   </div>
 </div>
 <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2018-49.jpg" target="_blank">
-    <img src="/images/image7.png" alt="49">
+    <img src="/images/image7.png" alt="MACAD 2018-49">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-50.jpg" target="_blank">
-    <img src="/images/image8.png" alt="50">
+    <img src="/images/image8.png" alt="MACAD 2018-50">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-51.jpg" target="_blank">
-    <img src="/images/image9.png" alt="51">
+    <img src="/images/image9.png" alt="MACAD 2018-51">
     </a>
   </div>
 </div>
 <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2018-52.jpg" target="_blank">
-    <img src="/images/image10.png" alt="52">
+    <img src="/images/image10.png" alt="MACAD 2018-52">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-53.jpg" target="_blank">
-    <img src="/images/image11.png" alt="53">
+    <img src="/images/image11.png" alt="MACAD 2018-53">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-54.jpg" target="_blank">
-    <img src="/images/image12.png" alt="54">
+    <img src="/images/image12.png" alt="MACAD 2018-54">
     </a>
   </div>
 </div>
 <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2018-55.jpg" target="_blank">
-    <img src="/images/image13.png" alt="55">
+    <img src="/images/image13.png" alt="MACAD 2018-55">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-56.jpg" target="_blank">
-    <img src="/images/image14.png" alt="56">
+    <img src="/images/image14.png" alt="MACAD 2018-56">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-57.jpg" target="_blank">
-    <img src="/images/image15.png" alt="57">
+    <img src="/images/image15.png" alt="MACAD 2018-57">
     </a>
   </div>
 </div>
 <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2018-58.jpg" target="_blank">
-    <img src="/images/image16.png" alt="58">
+    <img src="/images/image16.png" alt="MACAD 2018-58">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-59.jpg" target="_blank">
-    <img src="/images/image17.png" alt="59">
+    <img src="/images/image17.png" alt="MACAD 2018-59">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-60.jpg" target="_blank">
-    <img src="/images/image18.png" alt="60">
+    <img src="/images/image18.png" alt="MACAD 2018-60">
     </a>
   </div>
 </div>
 <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2018-61.jpg" target="_blank">
-    <img src="/images/image19.png" alt="61">
+    <img src="/images/image19.png" alt="MACAD 2018-61">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-62.jpg" target="_blank">
-    <img src="/images/image20.png" alt="62">
+    <img src="/images/image20.png" alt="MACAD 2018-62">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-63.jpg" target="_blank">
-    <img src="/images/image21.png" alt="63">
+    <img src="/images/image21.png" alt="MACAD 2018-63">
     </a>
   </div>
 </div>
 <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2018-64.jpg" target="_blank">
-    <img src="/images/image22.png" alt="64">
+    <img src="/images/image22.png" alt="MACAD 2018-64">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-65.jpg" target="_blank">
-    <img src="/images/image23.png" alt="65">
+    <img src="/images/image23.png" alt="MACAD 2018-65">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-66.jpg" target="_blank">
-    <img src="/images/image24.png" alt="66">
+    <img src="/images/image24.png" alt="MACAD 2018-66">
     </a>
   </div>
 </div>
 <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2018-67.jpg" target="_blank">
-    <img src="/images/image25.png" alt="67">
+    <img src="/images/image25.png" alt="MACAD 2018-67">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-68.jpg" target="_blank">
-    <img src="/images/image26.png" alt="68">
+    <img src="/images/image26.png" alt="MACAD 2018-68">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-69.jpg" target="_blank">
-    <img src="/images/image27.png" alt="69">
+    <img src="/images/image27.png" alt="MACAD 2018-69">
     </a>
   </div>
 </div>
 <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2018-70.jpg" target="_blank">
-    <img src="/images/image28.png" alt="70">
+    <img src="/images/image28.png" alt="MACAD 2018-70">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-71.jpg" target="_blank">
-    <img src="/images/image29.png" alt="71">
+    <img src="/images/image29.png" alt="MACAD 2018-71">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-72.jpg" target="_blank">
-    <img src="/images/image30.png" alt="72">
+    <img src="/images/image30.png" alt="MACAD 2018-72">
     </a>
   </div>
 </div>
 <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2018-73.jpg" target="_blank">
-    <img src="/images/image31.png" alt="73">
+    <img src="/images/image31.png" alt="MACAD 2018-73">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-74.jpg" target="_blank">
-    <img src="/images/image32.png" alt="74">
+    <img src="/images/image32.png" alt="MACAD 2018-74">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-75.jpg" target="_blank">
-    <img src="/images/image33.png" alt="75">
+    <img src="/images/image33.png" alt="MACAD 2018-75">
     </a>
   </div>
 </div>
 <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2018-76.jpg" target="_blank">
-    <img src="/images/image34.png" alt="76">
+    <img src="/images/image34.png" alt="MACAD 2018-76">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-77.jpg" target="_blank">
-    <img src="/images/image35.png" alt="77">
+    <img src="/images/image35.png" alt="MACAD 2018-77">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-78.jpg" target="_blank">
-    <img src="/images/image36.png" alt="78">
+    <img src="/images/image36.png" alt="MACAD 2018-78">
     </a>
   </div>
 </div>
 <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2018-79.jpg" target="_blank">
-    <img src="/images/image37.png" alt="79">
+    <img src="/images/image37.png" alt="MACAD 2018-79">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-80.jpg" target="_blank">
-    <img src="/images/image38.png" alt="80">
+    <img src="/images/image38.png" alt="MACAD 2018-80">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-81.jpg" target="_blank">
-    <img src="/images/image39.png" alt="81">
+    <img src="/images/image39.png" alt="MACAD 2018-81">
     </a>
   </div>
 </div>
 <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2018-82.jpg" target="_blank">
-    <img src="/images/image40.png" alt="82">
+    <img src="/images/image40.png" alt="MACAD 2018-82">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-83.jpg" target="_blank">
-    <img src="/images/image41.png" alt="83">
+    <img src="/images/image41.png" alt="MACAD 2018-83">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-84.jpg" target="_blank">
-    <img src="/images/image42.png" alt="84">
+    <img src="/images/image42.png" alt="MACAD 2018-84">
     </a>
   </div>
 </div>
 <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2018-85.jpg" target="_blank">
-    <img src="/images/image43.png" alt="85">
+    <img src="/images/image43.png" alt="MACAD 2018-85">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-86.jpg" target="_blank">
-    <img src="/images/image44.png" alt="86">
+    <img src="/images/image44.png" alt="MACAD 2018-86">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-87.jpg" target="_blank">
-    <img src="/images/image45.png" alt="87">
+    <img src="/images/image45.png" alt="MACAD 2018-87">
     </a>
   </div>
 </div>
 <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2018-88.jpg" target="_blank">
-    <img src="/images/image46.png" alt="88">
+    <img src="/images/image46.png" alt="MACAD 2018-88">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-89.jpg" target="_blank">
-    <img src="/images/image47.png" alt="89">
+    <img src="/images/image47.png" alt="MACAD 2018-89">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-90.jpg" target="_blank">
-    <img src="/images/image48.png" alt="90">
+    <img src="/images/image48.png" alt="MACAD 2018-90">
     </a>
   </div>
 </div>
 <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2018-91.jpg" target="_blank">
-    <img src="/images/image49.png" alt="91">
+    <img src="/images/image49.png" alt="MACAD 2018-91">
     </a>
   </div>
 </div>
