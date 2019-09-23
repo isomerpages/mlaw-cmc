@@ -16,7 +16,7 @@ Disputes Suitable for Mediation | Community Mediation Centre (CMC)
 
 <p style="text-align: justify">Mediation at the CMC is suitable for disputes between neighbours, family members, friends, co-workers, landlord or tenants, or any other kind of interpersonal relations.</p>
 
-<p style="text-align: justify">The mediation at the CMC **is not suitable** for legal, contractual or commercial disputes.</p>
+<p style="text-align: justify">The mediation at the CMC <b>is not suitable</b> for legal, contractual or commercial disputes.</p>
 
 <p style="text-align: justify">The following is a non-exhaustive list of some of the disputes that are mediated at the CMC:</p>
 
