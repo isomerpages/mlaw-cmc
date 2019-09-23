@@ -10,7 +10,7 @@ collection_name: e-services
 Apply Online
 ---
 
-<div class="image"><img src="/images/1504083328552.png/" style="width:600px"></div>
+<div class="image"><img src="/images/1504083328552.png/" style="width:600px" title="Apply Online" alt="Apply Online"></div>
 
 **1) Register via our enquiry line**
 
