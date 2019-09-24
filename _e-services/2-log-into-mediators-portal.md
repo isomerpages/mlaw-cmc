@@ -10,7 +10,7 @@ collection_name: e-services
 Mediators Portal
 ---
 
-**To log on to the Mediators Portal, please click here.**
+**To log on to the Mediators Portal, please [click here]**(https://www.mlaw.gov.sg/eservices/cmc/mediatorsportal/login){:target="blank"}
 
 The Mediators Portal, launched on 1 December 2014 is an initiative to assist CMC’s volunteer mediators.
 
