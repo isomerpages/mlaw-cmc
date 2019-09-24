@@ -4,7 +4,7 @@ title: 'MACAD 2018 (20th Anniversary Celebrations)'
 permalink: /about-us/macad-anniversary-celebration/
 breadcrumb: 'MACAD 2018 (20th Anniversary Celebrations)'
 collection_name: about-us
-second_nav_title: Gallery
+second_nav_title: CMC in Photos
 ---
 
 <style>
