@@ -4,7 +4,7 @@ title: 'MACAD Appointment & Award Ceremony 2018'
 permalink: /about-us/macad-appointment-and-award-ceremony/
 breadcrumb: 'MACAD Appointment & Award Ceremony 2018'
 collection_name: about-us
-second_nav_title: Gallery
+second_nav_title: CMC in Photos
 ---
 
 <style>
