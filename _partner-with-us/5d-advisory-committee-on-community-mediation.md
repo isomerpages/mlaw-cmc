@@ -19,11 +19,11 @@ Associate Professor Ho Peng Kee
 
 <u>Members</u>     
 
-Mr Han Kok Juan<br>
+Mr Calvin Phua<br>
 Deputy Secretary (Law)
 
 Ms Leow Lay May<br>
-Director, Community Legal Services Division
+Director, Community Legal Services/Planning/Chief Data Officer
 
 Ms Elsie Tjoeng<br>
 Director, Community Mediation & Minlaw Services Centre
