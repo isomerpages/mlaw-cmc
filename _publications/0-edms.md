@@ -17,14 +17,14 @@ collection_name: publications
 Publications
 ---
 
-<div class="image"><img src="/images/1504172802236.jpg/" title="EDMs" alt="EDMs" style="width:600px"></div>
+<div class="image"><img src="/images/1504172802236.jpg/" title="Publications" alt="Publications" style="width:600px"></div>
 
 Latest Electronic Direct Mailer (EDM)
 ---
 
 <div class="flex-container">
   <div class="flex-box">
-    <a href="/images/Let's_All_Be_Professional.png/"><img src="/images/1567072104487.png/" title="EDMs" alt="EDMs"></a>
+    <a href="/images/Let's_All_Be_Professional.png/"><img src="/images/1567072104487.png/" title="Latest EDMs" alt="Latest EDMs"></a>
   </div>
   <div class="flex-box">
     <b>Mini Bites:<br>September 2019</b><br><br>click <a href="/images/Let's_All_Be_Professional.png/" target="_blank">here</a> to view the image.
