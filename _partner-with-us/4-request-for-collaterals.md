@@ -23,7 +23,7 @@ The booklet sets out:
 The booklet is available in English and 3 other main languages (Mandarin, Malay and Tamil)
 
 **CMC Let’s Keep the Peace Tote Bags**<br>
-<div class="image"><img src="/images/1546416937814.png/" title="Request for Collaterals" alt="Request for Collaterals" style="width: 300px"></div>
+<div class="image"><img src="/images/1546416937814.png/" title="Keep the Peace Tote Bags" alt="Keep the Peace Tote Bags" style="width: 300px"></div>
 
 <p style="text-align: justify">The CMC has also produced white canvas tote bags with the caption "Keep Calm Let's Talk Lah" as part of its overall objective of imbuing the community with the message that peace keeping is a collective responsibility. These tote bags are environmentally friendly, functional and can be given out during any occasion.</p>
 
