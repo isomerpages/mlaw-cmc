@@ -4,10 +4,10 @@ title: Gallery
 permalink: /about-us/gallery/
 breadcrumb: Gallery
 collection_name: about-us
-second_nav_title: Gallery
+second_nav_title: CMC in Photos
 ---
 
-#### Photos
+#### Gallery
 
 ---
 
