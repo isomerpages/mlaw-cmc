@@ -10,7 +10,7 @@ collection_name: apply-for-mediation
 Disputes Suitable for Mediation | Community Mediation Centre (CMC)
 ---
 
-<div class="image"><img src="/images/1525058166259.png/" title="Disputes Suitable for Mediation" alt="Disputes Suitable for Mediation" style="width: 600px"></div>
+<div class="image"><img src="/images/1525058166259.png/" title="Disputes Suitable for Mediation 1" alt="Disputes Suitable for Mediation 1" style="width: 600px"></div>
 
 <p style="text-align: justify">The CMC provides mediation as a dispute resolution service in Singapore.</p>
 
@@ -33,7 +33,7 @@ Disputes Suitable for Mediation | Community Mediation Centre (CMC)
 * Noise complaints (for e.g. noisy neighbours that create unacceptable noise from 10:30pm to 7:00am)
 * Utterance or unacceptable words
 
-<div class="image"><img src="/images/1525058260813.png/" title="Disputes Suitable for Mediation" alt="Disputes Suitable for Mediation" style="width: 600px"></div>
+<div class="image"><img src="/images/1525058260813.png/" title="Disputes Suitable for Mediation 2" alt="Disputes Suitable for Mediation 2" style="width: 600px"></div>
 
 <b>Family Disputes in Singapore:</b>
 
@@ -43,7 +43,7 @@ Disputes Suitable for Mediation | Community Mediation Centre (CMC)
 * Interest free monetary matter based on verbal agreement for amount involving less than $5000
 * Utterance of unacceptable words
 
-<div class="image"><img src="/images/1503990086253.jpg/" title="Disputes Suitable for Mediation" alt="Disputes Suitable for Mediation" style="width: 600px"></div>
+<div class="image"><img src="/images/1503990086253.jpg/" title="Disputes Suitable for Mediation 3" alt="Disputes Suitable for Mediation 3" style="width: 600px"></div>
 
 <p style="text-align: justify"><b>Disputes between friends, co-workers or other forms of interpersonal relations:</b></p>
 
