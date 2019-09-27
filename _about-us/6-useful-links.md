@@ -10,7 +10,7 @@ Useful Links
 ---
 
 **Our Community Partners**
-b
+
 * [Housing & Development Board "Heartland Beat"](https://www.hdb.gov.sg/cs/infoweb/heartlandbeat){:target="_blank"} 
 * [Singapore Police Force](https://www.police.gov.sg/){:target="_blank"} 
 * [Town Councils](https://www.mnd.gov.sg/our-work/regulating-town-councils/what-we-do#towncouncil){:target="_blank"}
