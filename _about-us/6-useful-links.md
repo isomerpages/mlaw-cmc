@@ -30,7 +30,8 @@ Useful Links
 **For legal-related issues**
 
 * [Legal Aid Bureau](https://lab.mlaw.gov.sg/){:target="_blank"}
-* [Insolvency and Public Trustee’s Office](https://www.mlaw.gov.sg/content/minlaw/en/site-help/ipto-temp.html){:target="_blank"}
+* [Insolvency Office](https://io.mlaw.gov.sg){:target="_blank"}
+* [Public Trustee’s Office](https://pto.mlaw.gov.sg){:target="_blank"}
 * [Other free legal clinics](http://www.lawsocprobono.org/Documents/Legal%20Clinics%20List%20Updated%20200117.pdf){:target="_blank} (compiled by The Law Society of Singapore)
 * [Ask legal questions online](http://www.legalhelp.com.sg/){:target="_blank"}
 * [Commissioner for the Maintenance of Parents and Tribunal for the Maintenance of Parents](){:target="_blank"}
