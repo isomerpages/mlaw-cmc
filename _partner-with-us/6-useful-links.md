@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Useful Links
-permalink: /about-us/useful-links/
+permalink: /partner-with-us/useful-links/
 breadcrumb: Useful Links
 collection_name: about-us
 ---
