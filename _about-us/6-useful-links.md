@@ -9,7 +9,7 @@ collection_name: about-us
 Useful Links
 ---
 
-**Our Community Partners**
+**Our community partners**
 
 * [Housing & Development Board "Heartland Beat"](https://www.hdb.gov.sg/cs/infoweb/heartlandbeat){:target="_blank"} 
 * [Singapore Police Force](https://www.police.gov.sg/){:target="_blank"} 
