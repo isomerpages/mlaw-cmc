@@ -16,8 +16,6 @@
     url: /about-us/simi-qap/
   - title: Gallery
     url: /about-us/gallery/
-  - title: Useful Links
-    url: /about-us/useful-links/  
   - title: Contact Us
     url: /contact-us/
 - title: Self-Manage Conflicts
@@ -60,6 +58,8 @@
     url: /partner-with-us/request-for-collaterals/
   - title: Our Mediators
     url: /partner-with-us/our-mediators/
+  - title: Useful Links
+    url: /about-us/useful-links/  
 - title: Publications
   url: /publications/edms/
   sub-links:
