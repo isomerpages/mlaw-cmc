@@ -44,5 +44,5 @@ Mr Ramachandran Perumal<br>
 Master Mediator<br>
 
 
-<p class="left-side-updated"><i>Last updated on 27 September 2019</i></p>
+<p class="right-side-updated"><i>Last updated on 27 September 2019</i></p>
 
