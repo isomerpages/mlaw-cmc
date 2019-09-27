@@ -3,65 +3,65 @@
 # Feel free to edit this file :) #
 #                                #
 ##################################
-
-- title: Who We Are
-  url: /who-we-are/history/
+- title: About Us
+  url: /about-us/about-us/
   sub-links:
   - title: History
-    url: /who-we-are/history/
-  - title: Mission And Log
-    url: /who-we-are/mission-and-log/
+    url: /about-us/history/
+  - title: Mission and Logo
+    url: /about-us/mission-and-logo/
   - title: Organisation Structure
-    url: /who-we-are/organisation-structure/
-  - title: Simi Qap
-    url: /who-we-are/simi-qap/
-- title: Our Services
-  url: /our-services/mediation-process/
+    url: /about-us/organisation-structure/
+  - title: SIMI QAP
+    url: /about-us/simi-qap/
+  - title: Gallery
+    url: /about-us/gallery/
+  - title: Contact Us
+    url: /contact-us/
+- title: Self-Manage Conflicts
+  url: /self-manage-conflicts/focus-method/
   sub-links:
-  - title: Mediation Process
-    url: /our-services/mediation-process/
-  - title: Disputes Suitable For Mediation
-    url: /our-services/disputes-suitable-for-mediation/
-  - title: Benefits Of Mediation
-    url: /our-services/benefits-of-mediation/
-  - title: Apply For Mediation
-    url: /our-services/apply-for-mediation/
-- title: Our Work
-  url: /our-work/information-on-conflict-management/
+  - title: FOCUS Method
+    url: /self-manage-conflicts/focus-method/
+- title: Mediation
+  url: /apply-for-mediation/our-services/
   sub-links:
-  - title: Information On Conflict Management
-    url: /our-work/information-on-conflict-management/
-  - title: Mediation Training For Community Peacemakers
-    url: /our-work/mediation-training-for-community-peacemakers/
-  - title: Briefings For Organisations
-    url: /our-work/briefings-for-organisations/
-  - title: Assembly Skits For Schools
-    url: /our-work/assembly-skits-for-schools/
-  - title: Request For Collaterals
-    url: /our-work/request-for-collaterals/
-- title: Our Mediators
-  url: /our-mediators/appointed-cmc-mediators/
+  - title: The Mediation Process
+    url: /apply-for-mediation/the-mediation-process/
+  - title: Disputes Suitable for Mediation
+    url: /apply-for-mediation/disputes-suitable-for-mediation/
+  - title: Benefits of Mediation
+    url: /apply-for-mediation/benefits-of-mediation/
+  - title: Testimonials from Customers
+    url: /apply-for-mediation/testimonials-from-customers/
+  - title: Ways to Apply for Mediation
+    url: /apply-for-mediation/ways-to-apply-for-mediation/
+- title: E-Services
+  url: /e-services/apply-online/
   sub-links:
-  - title: Appointed Cmc Mediators
-    url: /our-mediators/appointed-cmc-mediators/
-  - title: Mediators Involved In Grcs Smcs
-    url: /our-mediators/mediators-involved-in-grcs-smcs/
-  - title: Advisory Committee On Community Mediation
-    url: /our-mediators/advisory-committee-on-community-mediation/
+  - title: Apply Online
+    url: /e-services/apply-online/
+  - title: Refer a Case to CMC
+    url: /e-services/refer-a-case-to-cmc/
   - title: Mediators Portal
-    url: /our-mediators/mediators-portal/
-- title:  Media Room
-  url: / resource-room/
+    url: /e-services/log-into-mediators-portal/
+- title: Partners
+  url: /partner-with-us/our-work/
   sub-links:
-  - title: All
-    url: / resource-room/
-  - title: Subcategory A
-    url: / resource-room/subcategory-A/
-  - title: Subcategory B
-    url: / resource-room/subcategory-B/
-  - title: Subcategory C
-    url: / resource-room/subcategory-C/
-- title: E Service
-  url: /e-service/
-- title: Contact Us
-  url: /contact-us/
+  - title: Mediation Training for Community Peacemakers
+    url: /partner-with-us/mediation-training-for-community-peacemakers/
+  - title: Briefings for Organisations
+    url: /partner-with-us/briefings-for-organisations/
+  - title: Assembly Skits for School
+    url: /partner-with-us/assembly-skits-for-schools/
+  - title: Request for Collaterals
+    url: /partner-with-us/request-for-collaterals/
+  - title: Our Mediators
+    url: /partner-with-us/our-mediators/
+- title: Publications
+  url: /publications/edms/
+  sub-links:
+  - title: EDMs
+    url: /publications/edms/
+  - title: Book of 50 Community Mediation Stories
+    url: /publications/book-of-50-community-mediation-stories/
