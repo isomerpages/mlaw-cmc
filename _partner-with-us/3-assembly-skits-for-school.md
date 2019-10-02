@@ -9,7 +9,7 @@ collection_name: partner-with-us
 Keep the Peace Assembly Skits
 ---
 
-<div class="image"><img src="/images/1504167761871.png/" style="width:600px" alt="Peace Assembly Skits" title="Peace Assembly Skits"></div>
+<div class="image"><img src="/images/1504167761871.png/" style="width:600px" alt="Peace Assembly Skits" title="Peace Assembly Skits" alt="Peace Assembly Skits"></div>
 
 <p style="text-align: justify">The CMC in collaboration with the Ministry of Education (MOE) has rolled out school assembly skits titled “Keep the Peace” in 2017. These interactive skits use a unique method of puppet ventriloquism to raise the awareness of conflict self-management techniques among upper primary and secondary school students.</p>
 

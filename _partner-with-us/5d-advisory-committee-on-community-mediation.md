@@ -41,7 +41,8 @@ Mr Poh Yong Meng Stephen, PBM<br>
 Master Mediator 
 
 Mr Ramachandran Perumal<br>
-Master Mediator
+Master Mediator<br>
 
-<p class="right-side-updated">Last updated on 27 September 2019</p>
+
+<p class="right-side-updated"><i>Last updated on 27 September 2019</i></p>
 
