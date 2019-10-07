@@ -166,7 +166,7 @@ MACAD 2018 (20th Anniversary Celebrations)
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-27.jpg" target="_blank">
-    <img src="/images/cq5dam.thumbnail.140.100(25).png" alt="MACAD 2018-27"title="MACAD 2018-27">
+    <img src="/images/cq5dam.thumbnail.140.100(25).png" alt="MACAD 2018-27" title="MACAD 2018-27">
     </a>
   </div>
 </div>
