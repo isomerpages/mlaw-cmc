@@ -386,150 +386,150 @@ MACAD 2018 (20th Anniversary Celebrations)
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-66.jpg" target="_blank">
-    <img src="/images/image24.png" alt="MACAD 2018-66"> title="MACAD 2018-66">
+    <img src="/images/image24.png" alt="MACAD 2018-66" title="MACAD 2018-66">
     </a>
   </div>
 </div>
 <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2018-67.jpg" target="_blank">
-    <img src="/images/image25.png" alt="MACAD 2018-67"> title="MACAD 2018-67">
+    <img src="/images/image25.png" alt="MACAD 2018-67" title="MACAD 2018-67">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-68.jpg" target="_blank">
-    <img src="/images/image26.png" alt="MACAD 2018-68"> title="MACAD 2018-68">
+    <img src="/images/image26.png" alt="MACAD 2018-68" title="MACAD 2018-68">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-69.jpg" target="_blank">
-    <img src="/images/image27.png" alt="MACAD 2018-69"> title="MACAD 2018-69">
+    <img src="/images/image27.png" alt="MACAD 2018-69" title="MACAD 2018-69">
     </a>
   </div>
 </div>
 <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2018-70.jpg" target="_blank">
-    <img src="/images/image28.png" alt="MACAD 2018-70"> title="MACAD 2018-70">
+    <img src="/images/image28.png" alt="MACAD 2018-70" title="MACAD 2018-70">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-71.jpg" target="_blank">
-    <img src="/images/image29.png" alt="MACAD 2018-71"> title="MACAD 2018-71">
+    <img src="/images/image29.png" alt="MACAD 2018-71" title="MACAD 2018-71">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-72.jpg" target="_blank">
-    <img src="/images/image30.png" alt="MACAD 2018-72"> title="MACAD 2018-72">
+    <img src="/images/image30.png" alt="MACAD 2018-72" title="MACAD 2018-72">
     </a>
   </div>
 </div>
 <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2018-73.jpg" target="_blank">
-    <img src="/images/image31.png" alt="MACAD 2018-73"> title="MACAD 2018-73">
+    <img src="/images/image31.png" alt="MACAD 2018-73" title="MACAD 2018-73">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-74.jpg" target="_blank">
-    <img src="/images/image32.png" alt="MACAD 2018-74"> title="MACAD 2018-74">
+    <img src="/images/image32.png" alt="MACAD 2018-74" title="MACAD 2018-74">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-75.jpg" target="_blank">
-    <img src="/images/image33.png" alt="MACAD 2018-75"> title="MACAD 2018-75">
+    <img src="/images/image33.png" alt="MACAD 2018-75" title="MACAD 2018-75">
     </a>
   </div>
 </div>
 <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2018-76.jpg" target="_blank">
-    <img src="/images/image34.png" alt="MACAD 2018-76"> title="MACAD 2018-76">
+    <img src="/images/image34.png" alt="MACAD 2018-76" title="MACAD 2018-76">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-77.jpg" target="_blank">
-    <img src="/images/image35.png" alt="MACAD 2018-77"> title="MACAD 2018-77">
+    <img src="/images/image35.png" alt="MACAD 2018-77" title="MACAD 2018-77">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-78.jpg" target="_blank">
-    <img src="/images/image36.png" alt="MACAD 2018-78"> title="MACAD 2018-78">
+    <img src="/images/image36.png" alt="MACAD 2018-78" title="MACAD 2018-78">
     </a>
   </div>
 </div>
 <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2018-79.jpg" target="_blank"> 
-    <img src="/images/image37.png" alt="MACAD 2018-79"> title="MACAD 2018-79">
+    <img src="/images/image37.png" alt="MACAD 2018-79" title="MACAD 2018-79">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-80.jpg" target="_blank">
-    <img src="/images/image38.png" alt="MACAD 2018-80"> title="MACAD 2018-80">
+    <img src="/images/image38.png" alt="MACAD 2018-80" title="MACAD 2018-80">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-81.jpg" target="_blank">
-    <img src="/images/image39.png" alt="MACAD 2018-81"> title="MACAD 2018-81">
+    <img src="/images/image39.png" alt="MACAD 2018-81" title="MACAD 2018-81">
     </a>
   </div>
 </div>
 <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2018-82.jpg" target="_blank">
-    <img src="/images/image40.png" alt="MACAD 2018-82"> title="MACAD 2018-82">
+    <img src="/images/image40.png" alt="MACAD 2018-82" title="MACAD 2018-82">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-83.jpg" target="_blank">
-    <img src="/images/image41.png" alt="MACAD 2018-83"> title="MACAD 2018-83">
+    <img src="/images/image41.png" alt="MACAD 2018-83" title="MACAD 2018-83">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-84.jpg" target="_blank">
-    <img src="/images/image42.png" alt="MACAD 2018-84"> title="MACAD 2018-84">
+    <img src="/images/image42.png" alt="MACAD 2018-84" title="MACAD 2018-84">
     </a>
   </div>
 </div>
 <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2018-85.jpg" target="_blank">
-    <img src="/images/image43.png" alt="MACAD 2018-85"> title="MACAD 2018-85">
+    <img src="/images/image43.png" alt="MACAD 2018-85" title="MACAD 2018-85">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-86.jpg" target="_blank">
-    <img src="/images/image44.png" alt="MACAD 2018-86"> title="MACAD 2018-86">
+    <img src="/images/image44.png" alt="MACAD 2018-86" title="MACAD 2018-86">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-87.jpg" target="_blank">
-    <img src="/images/image45.png" alt="MACAD 2018-87"> title="MACAD 2018-87">
+    <img src="/images/image45.png" alt="MACAD 2018-87" title="MACAD 2018-87">
     </a>
   </div>
 </div>
 <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2018-88.jpg" target="_blank">
-    <img src="/images/image46.png" alt="MACAD 2018-88"> title="MACAD 2018-88">
+    <img src="/images/image46.png" alt="MACAD 2018-88" title="MACAD 2018-88">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-89.jpg" target="_blank">
-    <img src="/images/image47.png" alt="MACAD 2018-89"> title="MACAD 2018-89">
+    <img src="/images/image47.png" alt="MACAD 2018-89" title="MACAD 2018-89">
     </a>
   </div>
   <div class="col is-4">
     <a href="/images/MACAD2018-90.jpg" target="_blank">
-    <img src="/images/image48.png" alt="MACAD 2018-90"> title="MACAD 2018-90">
+    <img src="/images/image48.png" alt="MACAD 2018-90" title="MACAD 2018-90">
     </a>
   </div>
 </div>
 <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2018-91.jpg" target="_blank">
-    <img src="/images/image49.png" alt="MACAD 2018-91"> title="MACAD 2018-91">
+    <img src="/images/image49.png" alt="MACAD 2018-91" title="MACAD 2018-91">
     </a>
   </div>
 </div>
