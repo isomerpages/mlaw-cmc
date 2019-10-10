@@ -13,7 +13,7 @@ collection_name: e-services
 
 * Call the CMC Enquiry Line at 1800 2255 529 during office hours
 
-* Use your CorpPass to access the following e-service <br>**Referral:** [I am a representative from an agency and would like to refer a case](https://saml.corppass.gov.sg/cpauth/login/eservlogin?URL=%2FFIM%2Fsps%2FCorpIDPFed%2Fsaml20%2Flogininitial%3FRequestBinding%3DHTTPArtifact%26ResponseBinding%3DHTTPArtifact%26PartnerId%3Dhttps%253a%252f%252fwww.mlaw.gov.sg%252feservices%252fcmc%252fSAML%252fCP%252f%26NameIdFormat%3DEmail%26esrvcID%3DMLAW-ESVC-CP%26Target%3DPages%252fCMU%252fCorpPass.aspx%253freturnurlpage%253dreferral-registration&TAM_OP=login){:target="_blank"}.
+* Use your CorpPass to access the following e-service <br>**Referral:** [I am a representative from an agency and would like to refer a case](https://www.mlaw.gov.sg/eservices/cmc/mediatorsportal/referral-registration/){:target="_blank"}.
 
 * Fax over the referral form to 6221 1802
 
