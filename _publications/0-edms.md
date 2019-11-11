@@ -24,7 +24,7 @@ Latest Electronic Direct Mailer (EDM)
 
 <div class="flex-container">
   <div class="flex-box">
-    <a href="/images/MACAD2019/"><img src="/images/1567072104487.png/" title="Latest EDMs" alt="Latest EDMs"></a>
+    <a href="/images/MACAD2019/"><img src="/images/MACAD2019.png/" title="Latest EDMs" alt="Latest EDMs"></a>
   </div>
   <div class="flex-box">
     <b>Mini Bites:<br>November 2019</b><br><br>click <a href="/images/MACAD2019.png/" target="_blank">here</a> to view the image.
