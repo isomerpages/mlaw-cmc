@@ -6,7 +6,7 @@ breadcrumb: Contact Us
 ---
 
 <div class="paragraphs">
-   <a href="https://www.mlaw.gov.sg/eservices/enquiry/">
+   <a href="https://eservices.mlaw.gov.sg/enquiry/">
    <img style="float:left; width: 40px;" src="/images/enq.png/" alt="Contact Us" title="Contact Us"></a>
    <div class="content-heading">
    <h3> Contact Us @ OneMinLaw</h3>
@@ -14,11 +14,11 @@ breadcrumb: Contact Us
 </div>
 
 <div class="image">
-  <a href="https://www.mlaw.gov.sg/eservices/enquiry/"><img src="/images/mlaw-contactus.png/" alt="Contact" title="Contact" style="width: 300px; float: left;"></a>
+  <a href="https://eservices.mlaw.gov.sg/enquiry/"><img src="/images/mlaw-contactus.png/" alt="Contact" title="Contact" style="width: 300px; float: left;"></a>
 </div><br>
 
 <div class="paragraphs">
-   <a href="https://www.mlaw.gov.sg/eservices/enquiry/">
+   <a href="https://eservices.mlaw.gov.sg/enquiry/">
    <img style="float:left; width: 40px;" src="/images/loc.png/" alt="Location" title="Location"></a>
    <div class="content-heading">
    <h3> Location</h3>
@@ -40,7 +40,7 @@ Monday to Friday: 8:30am to 5:00pm<br>
 
 
 <div class="paragraphs">
-   <a href="https://www.mlaw.gov.sg/eservices/enquiry/">
+   <a href="https://eservices.mlaw.gov.sg/enquiry/">
    <img style="float:left; width: 40px;" src="/images/call.png/" alt="Call Us" title="Call Us"></a>
    <div class="content-heading">
    <h3> Call Us</h3>
