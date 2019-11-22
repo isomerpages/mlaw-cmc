@@ -23,6 +23,6 @@ Mon - Fri: 8.30am to 5.00pm<br>
 
 <p style="text-align: justify">Please note that you are required to use your SingPass for the following e-service.</p>
 
-* **Direct:**  [I am the applicant](https://www.mlaw.gov.sg/eservices/cmc/mediatorsportal/direct-intake/)
+* **Direct:**  [I am the applicant](https://eservices.mlaw.gov.sg/cmc/mediatorsportal/direct-intake/)
 
 <p class="right-side-updated">Last updated on 08 Mar 2019</p> 
