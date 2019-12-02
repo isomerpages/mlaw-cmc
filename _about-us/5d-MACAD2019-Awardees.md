@@ -19,7 +19,7 @@ MACAD 2019 (Awards)
 
 <div class="row">
   <div class="col is-4">
-    <a href="/images/MACAD2018-01.jpg" target="_blank">
-      <img src="/images/cq5dam.thumbnail.140.100(75).png" alt="MACAD 2018-1" title="MACAD 2018-1">
+    <a href="/images/MACAD2019/awardees-1.jpg" target="_blank">
+      <img src="/images/MACAD2019/awardees-1.jpg" alt="MACAD 2019-1" title="MACAD 2019-1">
     </a>
   </div>
