@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: 'MACAD 2019 (Awards)'
+title: 'MACAD Appointment & Award Ceremony 2019'
 permalink: /about-us/macad2019-Awardees/
-breadcrumb: 'MACAD 2019 (Awards)'
+breadcrumb: 'MACAD Appointment & Award Ceremony 2019'
 collection_name: about-us
 second_nav_title: CMC in Photos
 ---
@@ -14,7 +14,7 @@ second_nav_title: CMC in Photos
 }
 </style>
 
-MACAD 2019 (Awards)
+MACAD Appointment & Award Ceremony 2019
 ---
 
 <div class="row">
@@ -33,8 +33,7 @@ MACAD 2019 (Awards)
       <img src="/images/MACAD2019/awardees-3.jpg" alt="MACAD 2019-3" title="MACAD 2019-3">
     </a>
   </div>
- </div>
- <div class="row">
+  <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2019/awardees-4.jpg" target="_blank">
       <img src="/images/MACAD2019/awardees-4.jpg" alt="MACAD 2019-4" title="MACAD 2019-4">
@@ -50,8 +49,8 @@ MACAD 2019 (Awards)
       <img src="/images/MACAD2019/awardees-6.jpg" alt="MACAD 2019-6" title="MACAD 2019-6">
     </a>
   </div>
-</div>
- <div class="col is-4">
+  <div class="row">  
+  <div class="col is-4">
     <a href="/images/MACAD2019/awardees-7.jpg" target="_blank">
       <img src="/images/MACAD2019/awardees-7.jpg" alt="MACAD 2019-7" title="MACAD 2019-7">
     </a>
@@ -68,6 +67,7 @@ MACAD 2019 (Awards)
       <img src="/images/MACAD2019/awardees-9.jpg" alt="MACAD 2019-9" title="MACAD 2019-9">
     </a>
   </div>
+  <div class="row"> 
   <div class="col is-4">
     <a href="/images/MACAD2019/awardees-10.jpg" target="_blank">
       <img src="/images/MACAD2019/awardees-10.jpg" alt="MACAD 2019-10" title="MACAD 2019-10">
@@ -83,3 +83,5 @@ MACAD 2019 (Awards)
       <img src="/images/MACAD2019/awardees-12.jpg" alt="MACAD 2019-12" title="MACAD 2019-12">
     </a>
   </div>
+  
+  
