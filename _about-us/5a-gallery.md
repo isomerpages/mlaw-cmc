@@ -37,7 +37,7 @@ second_nav_title: CMC in Photos
   <br>
   
   
-  **2018**
+**2018**
 <div class="row">
   <div class="column">
   <a href="/about-us/macad-anniversary-celebration/">
