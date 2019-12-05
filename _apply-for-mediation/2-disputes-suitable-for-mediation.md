@@ -12,7 +12,6 @@ Disputes Suitable for Mediation | Community Mediation Centre (CMC)
 
 <centre><iframe width="560" height="315" src="https://www.youtube.com/embed/pp1ClJl-Ftg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" title="Types of Annoying Neighbours" alt="Types of Annoying Neighbours" allowfullscreen></iframe></centre> 
 
-<br><br>
 
 <p style="text-align: justify">The CMC provides mediation as a dispute resolution service in Singapore.</p>
 
