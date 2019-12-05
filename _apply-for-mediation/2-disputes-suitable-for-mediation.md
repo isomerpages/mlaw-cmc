@@ -10,7 +10,7 @@ collection_name: apply-for-mediation
 Disputes Suitable for Mediation | Community Mediation Centre (CMC)
 ---
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fminlawsg%2Fvideos%2F435724777342599%2F&width=720&show_text=true&appId=234433856606578&height=514" width="720" height="514" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pp1ClJl-Ftg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br><br>
 
