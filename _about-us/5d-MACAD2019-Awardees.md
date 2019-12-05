@@ -33,7 +33,6 @@ MACAD Appointment & Award Ceremony 2019
       <img src="/images/MACAD2019/awardees-3.jpg" alt="MACAD 2019-3" title="MACAD 2019-3">
     </a>
   </div>
-  <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2019/awardees-4.jpg" target="_blank">
       <img src="/images/MACAD2019/awardees-4.jpg" alt="MACAD 2019-4" title="MACAD 2019-4">
@@ -49,7 +48,6 @@ MACAD Appointment & Award Ceremony 2019
       <img src="/images/MACAD2019/awardees-6.jpg" alt="MACAD 2019-6" title="MACAD 2019-6">
     </a>
   </div>
-  <div class="row">  
   <div class="col is-4">
     <a href="/images/MACAD2019/awardees-7.jpg" target="_blank">
       <img src="/images/MACAD2019/awardees-7.jpg" alt="MACAD 2019-7" title="MACAD 2019-7">
@@ -61,13 +59,11 @@ MACAD Appointment & Award Ceremony 2019
     </a>
   </div>
  </div>
- <div class="row">
-  <div class="col is-4">
+ <div class="col is-4">
     <a href="/images/MACAD2019/awardees-9.jpg" target="_blank">
       <img src="/images/MACAD2019/awardees-9.jpg" alt="MACAD 2019-9" title="MACAD 2019-9">
     </a>
   </div>
-  <div class="row"> 
   <div class="col is-4">
     <a href="/images/MACAD2019/awardees-10.jpg" target="_blank">
       <img src="/images/MACAD2019/awardees-10.jpg" alt="MACAD 2019-10" title="MACAD 2019-10">
