@@ -34,6 +34,7 @@ second_nav_title: CMC in Photos
     <img src="/images/MACAD2019/awardees-19.jpg" title="MACAD Appointment and Award Ceremony 2019" alt="MACAD Appointment and Award Ceremony 2019"><br>
   MACAD Appointment & Award Ceremony 2019</a>
   </div>
+  </div>
   
   **2018**
 <div class="row">
