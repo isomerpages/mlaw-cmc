@@ -51,3 +51,35 @@ MACAD 2019 (Awards)
     </a>
   </div>
 </div>
+ <div class="col is-4">
+    <a href="/images/MACAD2019/awardees-7.jpg" target="_blank">
+      <img src="/images/MACAD2019/awardees-7.jpg" alt="MACAD 2019-7" title="MACAD 2019-7">
+    </a>
+  </div>
+  <div class="col is-4">
+    <a href="/images/MACAD2019/awardees-8.jpg" target="_blank">
+      <img src="/images/MACAD2019/awardees-8.jpg" alt="MACAD 2019-8" title="MACAD 2019-8">
+    </a>
+  </div>
+ </div>
+ <div class="row">
+  <div class="col is-4">
+    <a href="/images/MACAD2019/awardees-9.jpg" target="_blank">
+      <img src="/images/MACAD2019/awardees-9.jpg" alt="MACAD 2019-9" title="MACAD 2019-9">
+    </a>
+  </div>
+  <div class="col is-4">
+    <a href="/images/MACAD2019/awardees-10.jpg" target="_blank">
+      <img src="/images/MACAD2019/awardees-10.jpg" alt="MACAD 2019-10" title="MACAD 2019-10">
+    </a>
+  </div>
+  <div class="col is-4">
+    <a href="/images/MACAD2019/awardees-11.jpg" target="_blank">
+      <img src="/images/MACAD2019/awardees-11.jpg" alt="MACAD 2019-11" title="MACAD 2019-11">
+    </a>
+  </div>
+  <div class="col is-4">
+    <a href="/images/MACAD2019/awardees-12.jpg" target="_blank">
+      <img src="/images/MACAD2019/awardees-12.jpg" alt="MACAD 2019-12" title="MACAD 2019-12">
+    </a>
+  </div>
