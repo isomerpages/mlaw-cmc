@@ -38,7 +38,7 @@ Latest Electronic Direct Mailer (EDM)
 [Mini Bites February](/images/EDM_Dispute_Social_Media.png/){:target="_blank"}<br>
 [Mini Bites June](/images/June-EDM-2019-Special-Needs.png/){:target="_blank"}<br>
 [Mini Bites September](/images/Let's_All_Be_Professional.png/){:target="_blank"}<br>
-[Mini Bites November](/images/MACAD2019.png/){:target="_blank"}
+[Mini Bites November](/images/MACAD2019.png/){:target="_blank"}<br>
 
 **2018**
 
