@@ -24,7 +24,7 @@ Latest Electronic Direct Mailer (EDM)
 
 <div class="flex-container">
   <div class="flex-box">
-    <a href="images/EDM-Holiday-Greetings-2019.png/"><img src="images/EDM-Holiday-Greetings-2019.png/" title="Latest EDMs" alt="Latest EDMs"></a>
+    <a href="images/EDM-Holiday-Greetings-2019.png/"> <img src="images/EDM-Holiday-Greetings-2019.png/" title="Latest EDMs" alt="Latest EDMs"></a>
   </div>
   <div class="flex-box">
        <b>Mini Bites:<br>December 2019</b><br>click <a href="images/EDM-Holiday-Greetings-2019.png/" target="_blank">here</a> to view the image.
