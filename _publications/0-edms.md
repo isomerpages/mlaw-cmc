@@ -24,10 +24,10 @@ Latest Electronic Direct Mailer (EDM)
 
 <div class="flex-container">
   <div class="flex-box">
-    <a href="/images/MACAD2019.png/"><img src="/images/MACAD2019.png/" title="Latest EDMs" alt="Latest EDMs"></a>
+    <a href="/images/EDM-Holiday-Greetings-2019.png/"> <img src="/images/EDM-Holiday-Greetings-2019.png/" title="Latest EDMs" alt="Latest EDMs"></a>
   </div>
   <div class="flex-box">
-    <b>Mini Bites:<br>November 2019</b><br><br>click <a href="/images/MACAD2019.png/" target="_blank">here</a> to view the image.
+       <b>Mini Bites:<br>December 2019</b><br>click <a href="/images/EDM-Holiday-Greetings-2019.png/" target="_blank">here</a> to view the image.
   </div>
 </div>
 
@@ -37,7 +37,8 @@ Latest Electronic Direct Mailer (EDM)
 
 [Mini Bites February](/images/EDM_Dispute_Social_Media.png/){:target="_blank"}<br>
 [Mini Bites June](/images/June-EDM-2019-Special-Needs.png/){:target="_blank"}<br>
-[Mini Bites September](/images/Let's_All_Be_Professional.png/){:target="_blank"}
+[Mini Bites September](/images/Let's_All_Be_Professional.png/){:target="_blank"}<br>
+[Mini Bites November](/images/MACAD2019.png/){:target="_blank"}<br>
 
 **2018**
 
