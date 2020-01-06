@@ -15,14 +15,6 @@ collection_name: e-services
 
 * Submit your referral using the online form <br>**Referral:** [I am a representative from an agency and would like to refer a case](https://form.gov.sg/5dbfebfa1b03c2001911fc19){:target="_blank"}.
 
-* Fax over the referral form to 6221 1802
-
-* Mail the [referral form](/files/MandatoryInformation.pdf/){:target="_blank"} to 45 Maxwell Road #07-11 URA Centre East Wing Singapore 069118
- 
-<u>Please note:</u>
-
-**If you are not using the e-service** to refer a case to the CMC, please download the referral form [here](/files/MandatoryInformation.pdf/){:target="_blank"}. All fields in the referral form are mandatory.
-
 <p style="text-align: justify">Should you require any further assistance, please call 1800 2255 529.</p> 
 
-<p class="right-side-updated">Last updated on 18 Jun 2018</p> 
+<p class="right-side-updated">Last updated on 6 January 2020.</p> 
