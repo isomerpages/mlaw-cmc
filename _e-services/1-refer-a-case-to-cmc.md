@@ -17,4 +17,4 @@ collection_name: e-services
 
 <p style="text-align: justify">Should you require any further assistance, please call 1800 2255 529.</p> 
 
-<p class="right-side-updated">Last updated on 6 January 2020.</p> 
+<p class="right-side-updated">Last updated on 6 January 2020 </p> 
