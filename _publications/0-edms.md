@@ -27,7 +27,7 @@ Latest Electronic Direct Mailer (EDM)
     <a href="/images/EDM-FOCUS-MARCH2020.png/"> <img src="/images/EDM-FOCUS-MARCH2020.png/" title="Latest EDMs" alt="Latest EDMs"></a>
   </div>
   <div class="flex-box">
-       <b>Mini Bites:<br>March 2020</b><br>click <a href="/images/EDM-FOCUS-MARCH2020.png/" target="_blank">here</a> to view the image.
+       <p><b>Mini Bites:<br>March 2020</b><br>click <a href="/images/EDM-FOCUS-MARCH2020.png/" target="_blank">here</a> to view the image.</p>
   </div>
 </div>
 
