@@ -23,8 +23,8 @@ hero-banner: /images/Hero-Banner-Minlaw.jpg
 
 #Call to Action Button
 button:
-  - text: Learn More
-    url: /about-us/history/
+  - text: Apply
+    url: /e-services/apply-online/
     
 key-highlights:
   - title: Self Manage Conflict
