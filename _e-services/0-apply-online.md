@@ -25,4 +25,4 @@ Mon - Fri: 8.30am to 5.00pm<br>
 
 * **Direct:**  [I am the applicant](https://eservices.mlaw.gov.sg/cmc/mediatorsportal/direct-intake/)
 
-<p class="right-side-updated">Last updated on 08 Mar 2019</p> 
+<p class="right-side-updated">Last updated on 21 April 2020</p> 
