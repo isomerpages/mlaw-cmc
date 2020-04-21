@@ -7,7 +7,7 @@ collection_name: e-services
 
 ---
 
-Apply Online
+Apply
 ---
 
 <div class="image"><img src="/images/1504083328552.png/" style="width:600px" title="Apply Online" alt="Apply Online"></div>
