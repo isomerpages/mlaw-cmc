@@ -10,11 +10,6 @@ collection_name: apply-for-mediation
 Disputes Suitable for Mediation | Community Mediation Centre (CMC)
 ---
 
-<div class="bp-youtube" style="text-align: justify">
- <iframe width="560" height="315" src="https://www.youtube.com/embed/pp1ClJl-Ftg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" title="Types of Annoying Neighbours" alt="Types of Annoying Neighbours" allowfullscreen></iframe>
-</div>
-
-<br>
 <p style="text-align: justify">The CMC provides mediation as a dispute resolution service in Singapore.</p>
 
 <p style="text-align: justify">Mediation at the CMC is suitable for disputes between neighbours, family members, friends, co-workers, landlord or tenants, or any other kind of interpersonal relations.</p>
