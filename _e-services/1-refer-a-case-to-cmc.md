@@ -1,11 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Refer a Case to CMC
+title: 'Refer a Case to CMC'
 permalink: /e-services/refer-a-case-to-cmc/
-breadcrumb: Refer a Case to CMC
-collection_name: e-services
+breadcrumb: 'Refer a Case to CMC'
 
 ---
+
 
 <p style="text-align: justify">Disputes may also be referred to the CMC for voluntary mediation by the Singapore Police Force, HDB, Town Council, Members of Parliament, People’s Association or any other agency.</p>
 
