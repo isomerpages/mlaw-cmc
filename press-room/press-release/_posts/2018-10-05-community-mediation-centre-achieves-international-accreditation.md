@@ -1,10 +1,11 @@
 ---
-layout: post
-title: Community Mediation Centre achieves international accreditation, thanked volunteers as it turns 20 this year
+title: 'Community Mediation Centre achieves international accreditation, thanked volunteers as it turns 20 this year'
 permalink: press-room/press-release/community-mediation-centre-achieves-international-accreditation/
-breadcrumb: Community Mediation Centre achieves international accreditation, thanked volunteers as it turns 20 this year
-date: 2018-10-05
+breadcrumb: 'Community Mediation Centre achieves international accreditation, thanked volunteers as it turns 20 this year'
+date: 2018-10-05T00:00:00.000Z
+
 ---
+
 
 5 Oct 2018 Posted in [Press releases](https://staging-isomer-mlaw.netlify.com/news/press-releases/){:target="_blank"}
 
