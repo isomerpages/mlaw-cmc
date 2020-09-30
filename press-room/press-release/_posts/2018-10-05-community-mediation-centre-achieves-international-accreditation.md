@@ -7,7 +7,7 @@ date: 2018-10-05T00:00:00.000Z
 ---
 
 
-5 Oct 2018 Posted in [Press releases](https://staging-isomer-mlaw.netlify.com/news/press-releases/){:target="_blank"}
+5 Oct 2018 Posted in [Press releases](https://www.mlaw.gov.sg/news/press-releases/){:target="_blank"}
 
 1 The Community Mediation Centre (CMC) received international accreditation for its community mediation service and training, as it turns 20 this year. At its annual Mediators’ Appointment Ceremony and Appreciation Dinner this evening, Senior Minister of State (SMS) for Law and Health Edwin Tong, thanked the CMC’s volunteer mediators for their contributions. He also gave out the Minister for Law Community Mediator Award, the top honour given to volunteer mediators for their contribution to community mediation in Singapore.
 
