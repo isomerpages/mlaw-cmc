@@ -1,26 +1,14 @@
 logo: /images/cmc-logo.png
 links:
-    -
-        title: 'About Us'
-        url: /about-us/about-us/
-        collection: about-us
-    -
-        title: 'Self-Manage Conflicts'
-        url: /self-manage-conflicts/focus-method/
-        collection: self-manage-conflicts
-    -
-        title: Mediation
-        url: /apply-for-mediation/our-services/
-        collection: mediation
-    -
-        title: E-Services
-        url: /e-services/apply-online/
-        collection: e-services
-    -
-        title: Partners
-        url: /partner-with-us/our-work/
-        collection: partners
-    -
-        title: Publications
-        url: /publications/edms/
-        collection: publications
+  - title: 'About Us'
+    collection: about-us
+  - title: 'Self-Manage Conflicts'
+    collection: self-manage-conflicts
+  - title: Mediation
+    collection: apply-for-mediation
+  - title: E-Services
+    collection: e-services
+  - title: Partners
+    collection: partner-with-us
+  - title: Publications
+    collection: publications
