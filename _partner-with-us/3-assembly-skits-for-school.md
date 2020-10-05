@@ -1,13 +1,12 @@
 ---
-layout: leftnav-page-content
-title: Assembly Skits for Schools
+title: 'Assembly Skits for Schools'
 permalink: /partner-with-us/assembly-skits-for-schools/
-breadcrumb: Assembly Skits for Schools
-collection_name: partner-with-us
+breadcrumb: 'Assembly Skits for Schools'
+
 ---
 
-Keep the Peace Assembly Skits
----
+
+## Keep the Peace Assembly Skits
 
 <div class="image"><img src="/images/1504167761871.png/" style="width:600px" alt="Peace Assembly Skits" title="Peace Assembly Skits" alt="Peace Assembly Skits"></div>
 

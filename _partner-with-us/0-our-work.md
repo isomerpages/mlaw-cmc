@@ -1,13 +1,12 @@
 ---
-layout: leftnav-page-content
-title: Our Work
+title: 'Our Work'
 permalink: /partner-with-us/our-work/
-breadcrumb: Our Work
-collection_name: partner-with-us
+breadcrumb: 'Our Work'
+
 ---
 
-Our Work
----
+
+## Our Work
 
 <div class="image"><img src="/images/1504167322486.jpg/" title="Our Work" alt="Our Work" style="width:600px"></div>
 

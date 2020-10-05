@@ -1,13 +1,12 @@
 ---
-layout: leftnav-page-content
-title: Mediation at the CMC
+title: 'Mediation at the CMC'
 permalink: /apply-for-mediation/our-services/
-breadcrumb: Our Services
-collection_name: apply-for-mediation
+breadcrumb: 'Our Services'
+
 ---
 
-Mediation at the CMC
----
+
+## Mediation at the CMC
 
 <p style="text-align: justify">We provide mediation service to residents in Singapore who face social, relational and community disputes.</p>
 

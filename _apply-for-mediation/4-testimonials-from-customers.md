@@ -1,14 +1,12 @@
 ---
-layout: leftnav-page-content
-title: Testimonials from Customers
+title: 'Testimonials from Customers'
 permalink: /apply-for-mediation/testimonials-from-customers/
-breadcrumb: Testimonials from Customers
-collection_name: apply-for-mediation
+breadcrumb: 'Testimonials from Customers'
 
 ---
 
-Testimonials from Parties
----
+
+## Testimonials from Parties
 
 <p style="text-align: justify"><i>"Keep up the good work."*  – T.S.Y.C.</i></p>
 

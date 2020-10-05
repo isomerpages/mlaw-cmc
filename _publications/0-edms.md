@@ -1,11 +1,10 @@
 ---
-layout: leftnav-page-content
 title: EDMs
 permalink: /publications/edms/
 breadcrumb: EDMs
-collection_name: publications
 
 ---
+
 
 <style>
   .image {width: 400px;}
@@ -14,13 +13,12 @@ collection_name: publications
   .flex-container .flex-box a .img {width: 400px;}
 </style>
 
-Publications
----
+## Publications
 
 <div class="image"><img src="/images/1504172802236.jpg/" title="Publications" alt="Publications" style="width:600px"></div>
 
-Latest Electronic Direct Mailer (EDM)
----
+### Latest Electronic Direct Mailer (EDM)
+
 
 <div class="flex-container">
   <div class="flex-box">

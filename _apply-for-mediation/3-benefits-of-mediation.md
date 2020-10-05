@@ -1,14 +1,12 @@
 ---
-layout: leftnav-page-content
-title: Benefits of Mediation
+title: 'Benefits of Mediation'
 permalink: /apply-for-mediation/benefits-of-mediation/
-breadcrumb: Benefits of Mediation
-collection_name: apply-for-mediation
+breadcrumb: 'Benefits of Mediation'
 
 ---
 
-Benefits of Mediation | Community Mediation Centre (CMC)
----
+
+## Benefits of Mediation | Community Mediation Centre (CMC)
 
 <div class="image"><img src="/images/1525057853270.png/" title="Benefits of Mediation 1" alt="Benefits of Mediation 1" style="width: 600px"></div>
 

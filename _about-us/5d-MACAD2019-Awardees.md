@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
 title: 'MACAD Appointment & Award Ceremony 2019'
 permalink: /about-us/macad2019-Awardees/
 breadcrumb: 'MACAD Appointment & Award Ceremony 2019'
-collection_name: about-us
-second_nav_title: CMC in Photos
+third_nav_title: 'CMC in Photos'
+
 ---
+
 
 <style>
   .row .col img {
@@ -14,9 +14,8 @@ second_nav_title: CMC in Photos
 }
 </style>
 
-MACAD Appointment & Award Ceremony 2019
----
- 
+## MACAD Appointment & Award Ceremony 2019
+
 <div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2019/awardees-1.jpg" target="_blank">

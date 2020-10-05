@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
 title: 'MACAD Appointment & Award Ceremony 2018'
 permalink: /about-us/macad-appointment-and-award-ceremony/
 breadcrumb: 'MACAD Appointment & Award Ceremony 2018'
-collection_name: about-us
-second_nav_title: CMC in Photos
+third_nav_title: 'CMC in Photos'
+
 ---
+
 
 <style>
   .row .col img {
@@ -14,8 +14,7 @@ second_nav_title: CMC in Photos
 }
 </style>
 
-MACAD 2018 (20th Anniversary Celebrations)
----
+## MACAD 2018 (20th Anniversary Celebrations)
 
 <div class="row">
   <div class="col is-4">

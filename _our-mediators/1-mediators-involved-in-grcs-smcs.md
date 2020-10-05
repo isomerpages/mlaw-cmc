@@ -1,14 +1,12 @@
 ---
-layout: leftnav-page-content
-title: Mediators Involved In Grcs Smcs
+title: 'Mediators Involved In Grcs Smcs'
 permalink: /our-mediators/mediators-involved-in-grcs-smcs/
-breadcrumb: Mediators Involved In Grcs Smcs
-collection_name: our-mediators
+breadcrumb: 'Mediators Involved In Grcs Smcs'
+
 ---
+
 
 #### List of Mediators Involved in GRCs or SMCs
-
----
 
 **Aljunied GRC**<br>
 Mr Kee Hung Cheng Steven, PBM<br>
@@ -73,7 +71,7 @@ Mr Wong Ngiam Chin Eric, JP, BBM(L), BBM, PBM<br>
 **Marsiling-Yew Tee GRC**<br>
 Mr Chua Guang Long Benjamin<br>
 Madam Neo Ah Kwai Jennifer<br>
- 
+
 **Moulmein-Kallang GRC**<br>
 Mr M.Y. Mohamed Rafeeq<br>
 Mr Ma Keow Yuen<br>
@@ -124,6 +122,7 @@ Mr Seah Yee Men Vincent<br>
 **Whampoa SMC**
 Mr Ng Ngiap Khiang Francis, PBM<br>
 Mr Wee Pang Kiat, JP, BBM, PBM<br>
+#### List of Mediators Involved in GRCs or SMCs
 
 **Yuhua SMC**<br>
 Ms Lim Kee Chiok Jenny<br>

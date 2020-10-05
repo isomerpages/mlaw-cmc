@@ -1,14 +1,12 @@
 ---
-layout: leftnav-page-content
-title: Disputes Suitable For Mediation
+title: 'Disputes Suitable For Mediation'
 permalink: /apply-for-mediation/disputes-suitable-for-mediation/
-breadcrumb: Disputes Suitable for Mediation
-collection_name: apply-for-mediation
+breadcrumb: 'Disputes Suitable for Mediation'
 
 ---
 
-Disputes Suitable for Mediation | Community Mediation Centre (CMC)
----
+
+## Disputes Suitable for Mediation | Community Mediation Centre (CMC)
 
 <p style="text-align: justify">The CMC provides mediation as a dispute resolution service in Singapore.</p>
 
@@ -50,7 +48,7 @@ Disputes Suitable for Mediation | Community Mediation Centre (CMC)
 * Utterance of unacceptable words
 
 <p style="text-align: justify"><b>Disputes between landlord and tenants or co-tenants:</b></p>
- 
+
 * Disagreement on living arrangements
 * Display of unacceptable behaviour or conduct
 * Interest free monetary matter based on verbal agreement for amount involving less than $5000

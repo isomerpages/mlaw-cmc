@@ -1,15 +1,13 @@
 ---
-layout: leftnav-page-content
-title: FOCUS Method
+title: 'FOCUS Method'
 permalink: /self-manage-conflicts/focus-method/
-breadcrumb: FOCUS Method
-collection_name: self-manage-conflicts
+breadcrumb: 'FOCUS Method'
 
 ---
 
-Providing Information on How to Manage Conflicts
----
- 
+
+## Providing Information on How to Manage Conflicts
+
 <p style="text-align: justify">Use the <b>5-STEP FOCUS</b> process to manage your conflict:
 
 <p style="text-align: justify"><b>F - Fix it Yourself Constructively.</b><br>
@@ -32,4 +30,3 @@ Instead of engaging in a fault finding loop, move on to find mutually acceptable
 <div class="bp-youtube" style="text-align: justify">
  <iframe width="560" height="315" src="https://www.youtube.com/embed/VlV1N1UyOIw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" title="CMC FOCUS English Sub" alt="CMC FOCUS English Sub" allowfullscreen></iframe>
 </div>
-

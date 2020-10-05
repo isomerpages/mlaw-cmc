@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
 title: 'MACAD 2018 (20th Anniversary Celebrations)'
 permalink: /media-room/macad-appointment-award-ceremony/
 breadcrumb: 'MACAD 2018 (20th Anniversary Celebrations)'
-collection_name: about-us
-second_nav_title: Gallery
+third_nav_title: Gallery
+
 ---
+
 
 <style>
   .row .col img {
@@ -14,8 +14,8 @@ second_nav_title: Gallery
 }
 </style>
 
-MACAD 2018 (20th Anniversary Celebrations)
----
+## MACAD 2018 (20th Anniversary Celebrations)
+
 
 <div class="row">
   <div class="col is-4">

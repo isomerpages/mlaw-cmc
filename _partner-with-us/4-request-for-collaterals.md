@@ -1,13 +1,12 @@
 ---
-layout: leftnav-page-content
-title: Request for Collaterals
+title: 'Request for Collaterals'
 permalink: /partner-with-us/request-for-collaterals/
-breadcrumb: Request for Collaterals
-collection_name: partner-with-us
+breadcrumb: 'Request for Collaterals'
+
 ---
 
-Request for Collaterals
----
+
+## Request for Collaterals
 
 **CMC Booklet**<br>
 <div class="image"><img src="/images/1504168510628.png/" title="Request for Collaterals" alt="Request for Collaterals" style="width: 300px"></div>

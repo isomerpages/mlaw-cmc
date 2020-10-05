@@ -1,14 +1,12 @@
 ---
-layout: leftnav-page-content
-title: Mediators Portal
+title: 'Mediators Portal'
 permalink: /e-services/log-into-mediators-portal/
-breadcrumb: Mediators Portal
-collection_name: e-services
+breadcrumb: 'Mediators Portal'
 
 ---
 
-Mediators Portal
----
+
+## Mediators Portal
 
 **To log on to the Mediators Portal, please [click here](https://eservices.mlaw.gov.sg/cmc/mediatorsportal/login){:target="blank"}**
 

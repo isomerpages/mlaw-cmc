@@ -1,13 +1,12 @@
 ---
-layout: leftnav-page-content
-title: About Us
+title: 'About Us'
 permalink: /about-us/about-us/
-breadcrumb: About Us
-collection_name: about-us
+breadcrumb: 'About Us'
+
 ---
 
-About Us
----
+
+## About Us
 
 <div class="image"><img src="/images/1504082743734.png/" title="About Us" alt="About Us" style="width: 600px"></div>
 

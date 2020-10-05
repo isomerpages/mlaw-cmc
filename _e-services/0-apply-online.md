@@ -1,14 +1,12 @@
 ---
-layout: leftnav-page-content
-title: Apply Online
+title: 'Apply Online'
 permalink: /e-services/apply-online/
-breadcrumb: Apply Online
-collection_name: e-services
+breadcrumb: 'Apply Online'
 
 ---
 
-Apply
----
+
+## Apply
 
 <div class="image"><img src="/images/1504083328552.png/" style="width:600px" title="Apply Online" alt="Apply Online"></div>
 

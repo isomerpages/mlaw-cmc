@@ -1,14 +1,12 @@
 ---
-layout: leftnav-page-content
-title: Ways to Apply for Mediation
+title: 'Ways to Apply for Mediation'
 permalink: /apply-for-mediation/ways-to-apply-for-mediation/
-breadcrumb: Ways to Apply for Mediation
-collection_name: apply-for-mediation
+breadcrumb: 'Ways to Apply for Mediation'
 
 ---
 
-Ways to Apply for Mediation
----
+
+## Ways to Apply for Mediation
 
 <p style="text-align: justify">All requests or referrals for mediation are handled by officers at the Community Mediation Centre (CMC). Our officers are trained to assess if the nature of dispute is suitable for mediation at the Centre. If you have a dispute and wish to try mediation, there are 2 ways that you can register your case with us:</p>
 

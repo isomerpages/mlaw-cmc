@@ -1,14 +1,13 @@
 ---
-layout: leftnav-page-content
-title: Our Mediators
+title: 'Our Mediators'
 permalink: /partner-with-us/our-mediators/
-breadcrumb: Our Mediators
-collection_name: partner-with-us
-second_nav_title: The CMC Mediators
+breadcrumb: 'Our Mediators'
+third_nav_title: 'The CMC Mediators'
+
 ---
 
-Our Mediators
----
+
+## Our Mediators
 
 <p style="text-align: justify">The CMC mediators are volunteers from all walks of life, different age groups, ethnicities and professions.</p>
 

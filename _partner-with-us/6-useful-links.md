@@ -1,13 +1,12 @@
 ---
-layout: leftnav-page-content
-title: Useful Links
+title: 'Useful Links'
 permalink: /partner-with-us/useful-links/
-breadcrumb: Useful Links
-collection_name: about-us
+breadcrumb: 'Useful Links'
+
 ---
 
-Useful Links
----
+
+## Useful Links
 
 **Our community partners**
 
@@ -26,7 +25,7 @@ Useful Links
 * [Singapore Institute of Surveyors and Valuers](http://www.sisv.org.sg/){:target="_blank"}
 * [Consumers Association of Singapore](https://www.case.org.sg/){:target="_blank"}
 * [Singapore International Arbitration Centre](http://www.siac.org.sg/){:target="_blank"}
- 
+
 **For legal-related issues**
 
 * [Legal Aid Bureau](https://lab.mlaw.gov.sg/){:target="_blank"}

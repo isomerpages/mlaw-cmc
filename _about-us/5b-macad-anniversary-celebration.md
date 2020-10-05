@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
 title: 'MACAD 2018 (20th Anniversary Celebrations)'
 permalink: /about-us/macad-anniversary-celebration/
 breadcrumb: 'MACAD 2018 (20th Anniversary Celebrations)'
-collection_name: about-us
-second_nav_title: CMC in Photos
+third_nav_title: 'CMC in Photos'
+
 ---
+
 
 <style>
   .row .col img {
@@ -14,8 +14,7 @@ second_nav_title: CMC in Photos
 }
 </style>
 
-MACAD 2018 (20th Anniversary Celebrations)
----
+## MACAD 2018 (20th Anniversary Celebrations)
 
 <div class="row">
   <div class="col is-4">
