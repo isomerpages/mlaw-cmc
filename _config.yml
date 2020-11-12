@@ -28,7 +28,7 @@ collections:
         output: true
 resources_name: press-room
 favicon: /images/favicon-cmc.ico
-google-analytics: UA-10405444-21
+google_analytics: UA-10405444-21
 permalink: none
 baseurl: ""
 defaults:
