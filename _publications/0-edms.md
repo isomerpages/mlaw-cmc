@@ -22,10 +22,10 @@ breadcrumb: EDMs
 
 <div class="flex-container">
   <div class="flex-box">
-    <a href="/images/EDM-Nightmare-Neighbours.png/"> <img src="/images/EDM-Nightmare-Neighbours.png/" title="Latest EDMs" alt="Latest EDMs"></a>
+    <a href="/images/EDM-Tips-on-being-a-great-neighbour-in-holiday-season.png/"> <img src="/images/EDM-Tips-on-being-a-great-neighbour-in-holiday-season.png/" title="Latest EDMs" alt="Latest EDMs"></a>
   </div>
   <div class="flex-box">
-       <p><b>Mini Bites:<br>April 2020</b><br>click <a href="/images/EDM-Nightmare-Neighbours.png/" target="_blank">here</a> to view the image.</p>
+       <p><b>Mini Bites:<br>December 2020</b><br>click <a href="/images/EDM-Tips-on-being-a-great-neighbour-in-holiday-season.png/" target="_blank">here</a> to view the image.</p>
   </div>
 </div>
 
@@ -34,6 +34,7 @@ breadcrumb: EDMs
 **2020**
 
 [Mini Bites March](/images/EDM-FOCUS-MARCH2020.png/){:target="_blank"}<br>
+[Mini Bites April](/images/EDM-Nightmare-Neighbours.png/){:target="_blank"}<br>
 
 **2019**
 
