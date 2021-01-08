@@ -28,7 +28,6 @@ Mr Cheam Jinn Leung<br>
 Mr Cheong Aik Chye<br>
 Mr Cheong Kwee Thiam<br>
 Mr Chew Chuan Kim<br>
-Ms Chew Mei Mei Melissa (Zhou Meimei)<br>
 Mr Chew Seng Chye, Ben<br>
 Mr Chew Yew Kuen Michael, PBM<br>
 Mrs Chia Swee Tin, JP, PBM<br>
@@ -55,7 +54,6 @@ Mr Goh Peng Hong, BBM<br>
 Mr Goh Sioh Chin, PBM, PBS<br>
 Mr Gopala Krishnan, JP, BBM, PBM<br>
 Mr Hooi Tuck Loong Chris<br>
-Mr Huang Jarret<br>
 Mr Indu Kumar s/o Vasudevan<br>
 Madam Jayanti Menon<br>
 Mr Jayaperakash Jayadevan<br>
@@ -67,7 +65,6 @@ Mr Kamalarajan M Chettiar<br>
 Madam Kamaria Binte Djorimi<br>
 Mr Kee Hung Cheng Steven, PBM<br>
 Mr Khng Joo Seng George<br>
-Mr Koh Tong Por Moses<br>
 Mr Komatineni Srikrishna<br>
 Mr Krishna Ramakrishna Sharma<br>
 Mrs Kum Diane<br>
@@ -106,7 +103,6 @@ Mr Mahadevan Lukshumayeh<br>
 Mr Meyappan Saravanan<br>
 Madam Michelle Cheng Soo Yuen<br>
 Mr Mohamed Feroz Bin Abdul Hamid<br>
-Ms Nah Eunice<br>
 Mr Narindar Singh<br>
 Madam Neo Ah Kwai Jennifer<br>
 Dr Neo Teck Koon Simon<br>
@@ -138,7 +134,6 @@ Mr Sunil Rai<br>
 Mr Tan Emmanuel<br>
 Ms Tan Keow Mui Cindy<br>
 Mr Tan Lam Siong<br>
-Madam Tan Mui Tiang Fiona<br>
 Mr Tan Teow Koon Elvin<br>
 Mr Teo Beng Ghee Jimmy, PBM<br>
 Mr Teo Hung Hiong William, PBM<br>
@@ -147,7 +142,7 @@ Mr Then Choon Huat<br>
 Madam Uma Devi d/o Sumeshwar, PBM<br>
 Mr V. Krishna, PPA(P), BBM, PBM, PBS<br>
 Mr Wee Pang Kiat, JP, BBM, PBM<br>
-Mr Wong Kwan Ken Martin Magmarigen, PBM<br>
+Dr Wong Kwan Ken Martin Magmarigen, PBM<br>
 Mr Wong Louis<br>
 Mr Wong Ngiam Chin Eric, JP, BBM(L), BBM, PBM<br>
 Madam Wong Siew Yin June<br>
@@ -165,4 +160,3 @@ Mr Yeow Boon Kiang<br>
 Mr Yip Hon Weng<br>
 Mr Yong Chiang Boon, PBM<br>
 Mr Yoong Wee Sen Alfred<br>
-Mrs Zuharathul Nizliya Shafeeq
