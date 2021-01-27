@@ -1,8 +1,8 @@
 ---
-title: 'CMC's Re-appointees and Long Service Award Recipients for 2020!'
+title: CMC's Re-appointees and Long Service Award Recipients for 2020!
 permalink: /partner-with-us/CMC-re-appointees-and-long-service-award-recipients-for-2020/
-breadcrumb: 'CMC's Re-appointees and Long Service Award Recipients for 2020!'
-third_nav_title: 'The CMC Mediators'
+breadcrumb: CMC's Re-appointees and Long Service Award Recipients for 2020!
+third_nav_title: The CMC Mediators
 
 ---
 
