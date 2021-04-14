@@ -14,7 +14,7 @@ breadcrumb: 'Refer a Case to CMC'
 
 * Use the Intranet Referral Page via this URL Link: https://cmc.intranet.mlaw.gov.sg/ **(For HDB, SPF and PA officers)**
 
-* Submit your referral using the online form <br>**Referral:** [I am a representative from an agency and would like to refer a case](https://form.gov.sg/5dbfebfa1b03c2001911fc19){:target="_blank"}. *(Other agencies)*
+* Submit your referral using the online form <br>**Referral:** [I am a representative from an agency and would like to refer a case](https://form.gov.sg/5dbfebfa1b03c2001911fc19) *(Other agencies)*
 
 <p style="text-align: justify">Should you require any further assistance, please call 1800 2255 529.</p> 
 
