@@ -33,7 +33,7 @@ breadcrumb: EDMs
 
 **2021**
 
-[Mini Bites February](/images/EDM-Tips-on-being-a-great-neighbour-in-holiday-season.png/){:target="_blank"}<br>
+[Mini Bites February](/images/EDM-Tips-on-being-a-great-neighbour-this-holiday-season.png/){:target="_blank"}<br>
 
 **2020**
 
