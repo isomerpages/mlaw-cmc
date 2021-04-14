@@ -118,7 +118,6 @@ Mr Phan Kim Huat Peter<br>
 Mr Poh Heo Tat Arthur<br>
 Mr Poh Tiong Bee, PBM<br>
 Mr Poh Yong Meng Stephen, PBM<br>
-Mr Quek Tee Dhye<br>
 Mr Raja Mohan M K, PBM<br>
 Mr Rajendren s/o Ramaswamy<br>
 Mr Ram Narain Dubey<br>
