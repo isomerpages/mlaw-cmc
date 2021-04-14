@@ -12,10 +12,10 @@ breadcrumb: 'Refer a Case to CMC'
 
 * Call the CMC Enquiry Line at 1800 2255 529 during office hours (Monday to Friday: 8.30am to 5.00pm, Closed on Weekends & Public Holidays.)
 
-* Use the Intranet Referral Page via this URL Link: https://cmc.intranet.mlaw.gov.sg/ *(For HDB, SPF and PA officers)*
+* Use the Intranet Referral Page via this URL Link: https://cmc.intranet.mlaw.gov.sg/ **(For HDB, SPF and PA officers)**
 
-* Submit your referral using the online form <br>**Referral:** [I am a representative from an agency and would like to refer a case](https://form.gov.sg/5dbfebfa1b03c2001911fc19){:target="_blank"}. (Other agencies)
+* Submit your referral using the online form <br>**Referral:** [I am a representative from an agency and would like to refer a case](https://form.gov.sg/5dbfebfa1b03c2001911fc19){:target="_blank"}. *(Other agencies)*
 
 <p style="text-align: justify">Should you require any further assistance, please call 1800 2255 529.</p> 
 
-<p class="right-side-updated">Last updated on 6 January 2020 </p> 
+<p class="right-side-updated">Last updated on 14 April 2021 </p> 
