@@ -25,4 +25,4 @@ breadcrumb: 'Refer a Case to CMC'
 <p style="text-align: justify">Should you require any further assistance, please call 1800 2255 529.</p> 
 
 
-<br><br><p class="right-side-updated">Last updated on 11 June 2021 </p> 
+<br><br>Last updated on 15 June 2021
