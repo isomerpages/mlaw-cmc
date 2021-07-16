@@ -17,9 +17,9 @@ breadcrumb: 'Apply Online'
 Mon - Fri: 8.30am to 5.00pm<br>
 (Closed on Weekends & Public Holidays)
 
-**2) Register online using SingPass**
+**2) Register online using Singpass**
 
-<p style="text-align: justify">Please note that you are required to use your SingPass for the following e-service.</p>
+<p style="text-align: justify">Please note that you are required to use your Singpass for the following e-service.</p>
 
 * **Direct:**  [I am the applicant](https://eservices.mlaw.gov.sg/cmc/mediatorsportal/direct-intake/)
 
