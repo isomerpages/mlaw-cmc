@@ -19,9 +19,9 @@ Mediators can look forward to using the following functions in the Portal which 
 * Registering for mediation training and workshops
 * Exchanging ideas and discussing with fellow mediators through a forum discussion.
 
-To access the Portal, mediators would need to login with individual SingPass ID and password.  
+To access the Portal, mediators would need to login with individual Singpass ID and password.  
 
-For mediators without a SingPass, one can be applied via <a href="https://www.singpass.gov.sg/spauth/login/loginpage?URL=%2F&TAM_OP=login">www.singpass.gov.sg</a>.
+For mediators without a Singpass, one can be applied via <a href="https://www.singpass.gov.sg/spauth/login/loginpage?URL=%2F&TAM_OP=login">www.singpass.gov.sg</a>.
 
 For mediators who encounter problems through the use of the Portal, you can reach us via <a href="https://eservices.mlaw.gov.sg/enquiry/">Contact Us @ OneMinLaw</a>.
 
