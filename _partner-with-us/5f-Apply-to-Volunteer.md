@@ -19,6 +19,6 @@ To apply as a volunteer CMC Mediator, you have to meet the following criteria:<b
 5) Have at least a Level 1 Accreditation from the Singapore International Mediation Institute (SIMI); and
 6) You are interested in contributing towards creating a more cohesive Singapore through mediation.<br><br>
 
-[**Apply online**](https://form.gov.sg/#!/613ebe1a185c6c00127f2942) to become a volunteer CMC Mediator.<br>
+[**Apply online**](https://form.gov.sg/#!/613ebe1a185c6c00127f2942) to become a volunteer CMC Mediator.<br><br>
 
 This form may take you up to 5-10 minutes to complete.
