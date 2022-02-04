@@ -6,11 +6,11 @@ third_nav_title: 'The CMC Mediators'
 
 ---
 
-**##Volunteer CMC Mediator Application Form**
+## Volunteer CMC Mediator Application Form
 
 <div class="image"><img src="/images/1504161341121.png/" title="Volunteer CMC Mediator Application Form" alt="Volunteer CMC Mediator Application Form" style="width: 600px"></div>
 
-To apply as a volunteer CMC Mediator, you have to meet the following criteria:
+<p>To apply as a volunteer CMC Mediator, you have to meet the following criteria:</p>
 
 1) You are a Singapore Citizen or Singapore Permanent Resident;
 2) Aged 30 years and above;
