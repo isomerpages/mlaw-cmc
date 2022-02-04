@@ -37,15 +37,15 @@ Director, Community Mediation & Minlaw Services Centre
 Dr Lim Lan Yuan, BBM(L), JP, BBM, PPA(G), PBM<br>
 Principal Master Mediator, CMU Advisor
 
-Ms Lela Kaur, PBM<br>
+Mr Gan Ong Peng, PBM<br>
 Master Mediator
 
-Mr Ng Yong Ern Raymond<br>
+Ms Lela Kaur, PBM<br>
 Master Mediator
 
 Mr Tan Lam Siong<br>
 Master Mediator
 
-Mr Poh Yong Meng Stephen, PBM<br>
+Ms Wong Yat Men, Grace<br>
 Master Mediator
 
