@@ -35,7 +35,6 @@ Ms Chiang Ah Choo, PBM, PBS<br>
 Mr Chiang Heng Liang, BBM, PBM<br>
 Mr Chong Kia Khin<br>
 Mr Chong Kum Wah Raymond<br>
-Mr Choo Yuen Chiah Tommy<br>
 Mr Choy Khiong Rick<br>
 Mr Chua Guang Long Benjamin<br>
 Mr Chua Mong Pin Michael<br>
@@ -51,7 +50,6 @@ Mr Goh Hock Leng Adrian<br>
 Mr Goh Kian Boon Phillip<br>
 Mr Goh Miah Meng<br>
 Mr Goh Peng Hong, BBM<br>
-Mr Goh Sioh Chin, PBM, PBS<br>
 Mr Gopala Krishnan, JP, BBM, PBM<br>
 Mr Hooi Tuck Loong Chris<br>
 Mr Indu Kumar s/o Vasudevan<br>
@@ -65,8 +63,6 @@ Mr Kamalarajan M Chettiar<br>
 Madam Kamaria Binte Djorimi<br>
 Mr Kee Hung Cheng Steven, PBM<br>
 Mr Khng Joo Seng George<br>
-Mr Komatineni Srikrishna<br>
-Mr Krishna Ramakrishna Sharma<br>
 Mrs Kum Diane<br>
 Mr Lau Jun Tian Terence<br>
 Mr Lau Kim Boo, PBM, PPA(G), PPA(P)<br>
@@ -80,7 +76,6 @@ Mr Lee Poh Leng<br>
 Madam Lee Seow Lan Violet<br>
 Mr Lee Wai Pang Kelvin<br>
 Ms Lela Kaur, PBM<br>
-Mr Leong Jong Pin James<br>
 Ms Leow Soon Gee Christina<br>
 Mr Lim Chee Kong<br>
 Mr Lim Heng Meng Francis, PBM<br>
@@ -91,12 +86,10 @@ Mr Lim Sing Lip Philip<br>
 Mr Lim Teck Whai Terence<br>
 Ms Lin Youshan Eleanor<br>
 Mr Loh Choong Seng<br>
-Mr Loo Sin Chong Francis<br>
 Mr Low Chee Khan Jason<br>
 Mr Low Chia Leong Steven<br>
 Ms Low Hwee Tian Catherine<br>
 Mr Low Lee Hean Edmund, PBM<br>
-Mr M.Y. Mohamed Rafeeq<br>
 Mr Ma Keow Yuen<br>
 Mr Ma Poh How, PBM, O. St. J.<br>
 Mr Mahadevan Lukshumayeh<br>
@@ -112,19 +105,15 @@ Mr Ng Pak Shun<br>
 Mr Ng Yong Ern Raymond<br>
 Mr Ong Leok Poon Ivan<br>
 Mr P. Thirunal Karasu, JP, BBM, PBM<br>
-Mr Pang Loo Seng, BBM, PBM<br>
 Madam Patricia Chiota<br>
 Mr Phan Kim Huat Peter<br>
-Mr Poh Heo Tat Arthur<br>
 Mr Poh Tiong Bee, PBM<br>
 Mr Poh Yong Meng Stephen, PBM<br>
 Mr Raja Mohan M K, PBM<br>
 Mr Rajendren s/o Ramaswamy<br>
 Mr Ram Narain Dubey<br>
 Mr Ramachandran Perumal<br>
-Ms Sabiha Shiraz Husain<br>
 Mr Sargeet Singh<br>
-Mr Sarjit Singh, BBM, PBM<br>
 Ms Sashikala Rajah Indhiran<br>
 Mr Seah Yee Men Vincent<br>
 Mr Selvakumar Simon s/o Silvaraj<br>
@@ -135,7 +124,6 @@ Ms Tan Keow Mui Cindy<br>
 Mr Tan Lam Siong<br>
 Mr Tan Teow Koon Elvin<br>
 Mr Teo Beng Ghee Jimmy, PBM<br>
-Mr Teo Hung Hiong William, PBM<br>
 Mr Teo Seng Leong Peter, BBM<br>
 Mr Then Choon Huat<br>
 Madam Uma Devi d/o Sumeshwar, PBM<br>
@@ -150,12 +138,10 @@ Mr Wong Weng Kee David, BBM, PBM<br>
 Ms Wong Yat Men Grace<br>
 Mr Yang Chengxi<br>
 Madam Yap Ming Hwee Katherine<br>
-Madam Yeo Hwee Koon Lena, PB<br>
 Madam Yeo Hwee Peng<br>
 Madam Yeo Kim Neo Josephine, PBM<br>
 Ms Yeo Peck Hoon Pansy<br>
 Mr Yeo Peng Keng Steven (Yang Bing Qing), PBM<br>
 Mr Yeow Boon Kiang<br>
 Mr Yip Hon Weng<br>
-Mr Yong Chiang Boon, PBM<br>
 Mr Yoong Wee Sen Alfred<br>
