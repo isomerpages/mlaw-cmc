@@ -1,0 +1,11 @@
+collections:
+  media-room:
+    output: false
+    order:
+      - press-releases.md
+      - speeches.md
+      - announcements.md
+      - publications.md
+      - gallery.md
+      - Gallery/.keep
+      - Gallery/macad-2018-20th-anniversary-celebrations.md
