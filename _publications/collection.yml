@@ -1,0 +1,6 @@
+collections:
+  publications:
+    output: true
+    order:
+      - edms.md
+      - book-of-50-community-mediation-stories.md
