@@ -12,11 +12,11 @@ third_nav_title: 'The CMC Mediators'
 
 To apply as a volunteer CMC Mediator, you have to meet the following criteria:<br>
 
-1) You are a Singapore Citizen or Singapore Permanent Resident;
-2) Aged 30 years and above;
-3) Fluent in written and spoken English;
-4) Proficient in speaking a local language or dialect;
-5) Have at least a Level 1 Accreditation from the Singapore International Mediation Institute (SIMI); and
+1) You are a Singapore Citizen or Singapore Permanent Resident;<br>
+2) Aged 30 years and above;<br>
+3) Fluent in written and spoken English; <br>
+4) Proficient in speaking a local language or dialect;<br>
+5) Have at least a Level 1 Accreditation from the Singapore International Mediation Institute (SIMI); and<br>
 6) You are interested in contributing towards creating a more cohesive Singapore through mediation.<br><br>
 
 [**Apply online**](https://form.gov.sg/#!/613ebe1a185c6c00127f2942) to become a volunteer CMC Mediator.<br><br>

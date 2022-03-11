@@ -1,0 +1,5 @@
+collections:
+  self-manage-conflicts:
+    output: true
+    order:
+      - focus-method.md

@@ -1,0 +1,14 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - about-us.md
+      - history.md
+      - mission-and-logo.md
+      - organisation-structure.md
+      - simi-qap.md
+      - CMC in Photos/.keep
+      - CMC in Photos/gallery.md
+      - CMC in Photos/macad-2018-20th-anniversary-celebrations.md
+      - CMC in Photos/macad-appointment-award-ceremony-2018.md
+      - CMC in Photos/macad-appointment-award-ceremony-2019.md

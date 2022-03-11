@@ -1,0 +1,7 @@
+collections:
+  e-services:
+    output: true
+    order:
+      - apply-online.md
+      - refer-a-case-to-cmc.md
+      - mediators-portal.md
