@@ -10,19 +10,20 @@ breadcrumb: 'Apply Online'
 
 <div class="image"><img src="/images/1504083328552.png/" style="width:600px" title="Apply Online" alt="Apply Online"></div>
 
-**1) Register via our enquiry line**
+
+**1) Register online using Singpass**
+
+<p style="text-align: justify">Please note that you are required to use your Singpass for the following e-service.</p>
+
+* **Direct:**  [I am the applicant](https://eservices.mlaw.gov.sg/cmc/mediatorsportal/direct-intake/)
+
+ 
+**2) Register via our enquiry line**
 
 <p style="text-align: justify">You may call our enquiry line at 1800-CALL-LAW (1800-2255-529) during the following opening hours:</p>
 
 Mon - Fri: 8.30am to 5.00pm<br>
 (Closed on Weekends & Public Holidays)
 
-**2) Register online using Singpass**
 
-<p style="text-align: justify">Please note that you are required to use your Singpass for the following e-service.</p>
-
-* **Direct:**  [I am the applicant](https://eservices.mlaw.gov.sg/cmc/mediatorsportal/direct-intake/)
-
-<p> <b>Note:</b> No evidences is required to be submitted at the point of application. </p> 
-
-<p class="right-side-updated">Last updated on 04 August 2022</p> 
+<p class="right-side-updated">Last updated on 10 August 2022</p> 
