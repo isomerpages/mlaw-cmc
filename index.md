@@ -23,7 +23,7 @@ sections:
         - title: 'Apply for Mediation'
           description: 'Where to apply for mediation<br>at the CMC'
           url: /apply-for-mediation/ways-to-apply-for-mediation/
-        - title: 'Partner with Us'
-          description: 'Ways you can collaborate<br>with CMC'
-          url: /partner-with-us/briefings-for-organisations/
+        - title: 'Volunteer with Us'
+          description: 'Apply as a<br>volunteer CMC mediator'
+          url: /partner-with-us/apply-to-volunteer/
 ---
