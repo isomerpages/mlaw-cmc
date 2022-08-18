@@ -26,7 +26,7 @@ third_nav_title: 'The CMC Mediators'
 <p style="text-align: justify">All candidates who have applied to become CMC mediators will undergo the following process:</p>
 * Application
 * Selection
-* Basic Mediation Training
+* Assessment
 * Apprenticeship
 * Appointment 
 
