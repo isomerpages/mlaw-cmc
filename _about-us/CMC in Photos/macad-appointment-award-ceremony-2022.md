@@ -29,7 +29,7 @@ third_nav_title: 'CMC in Photos'
       <img src="/images/MACAD2022/C0000642_1.jpg" title="MACAD 2022-01" alt="MACAD 2022-01">
     </a>
   </div> Mr Emmanuel Tan 
-  <br>
+  <br><br>
   <div class="col is-4">
     <a href="/images/MACAD2022/C0000637_1.jpg" target="_blank">
       <img src="/images/MACAD2022/C0000637_1.jpg" title="MACAD 2022-02" alt="MACAD 2022-02">
