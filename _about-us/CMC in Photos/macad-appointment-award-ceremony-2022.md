@@ -119,25 +119,32 @@ third_nav_title: 'CMC in Photos'
   </div> Mdm June Wong Siew Yin  
   <br><br>
 </div>
+
+15th Year Appreciation Award
+<br>
+
   <div class="col is-4">
-    <a href="/images/MACAD2022/C0000688_1.jpg" target="_blank">
-      <img src="/images/MACAD2022/CC0000688_1.jpg" title="MACAD 2022-14" alt="MACAD 2022-14">
+    <a href="/images/MACAD2022/C0000690_1.jpg" target="_blank">
+      <img src="/images/MACAD2022/C0000690_1.jpg" title="MACAD 2022-14" alt="MACAD 2022-14">
     </a>
-  </div> Mr Alfred Yoong Wee Sen   
+  </div> Mr Philip Lim Sing Lip   
   <br><br>
 </div>
   <div class="col is-4">
-    <a href="/images/MACAD2019/awardees-15.jpg" target="_blank">
-      <img src="/images/MACAD2019/awardees-15.jpg" title="MACAD 2019-15" alt="MACAD 2019-15">
+    <a href="/images/MACAD2022/C0000697_1.jpg" target="_blank">
+      <img src="/images/MACAD2022/C0000697_1.jpg" title="MACAD 2022-15" alt="MACAD 2022-15">
     </a>
-  </div>
+  </div> Mr Loh Choong Seng
+  <br><br>
 </div>
 <div class="row">
-  <div class="col is-4">
-    <a href="/images/MACAD2019/awardees-16.jpg.jpg" target="_blank">
-      <img src="/images/MACAD2019/awardees-16.jpg" title="MACAD 2019-16" alt="MACAD 2019-16">
+   <div class="col is-4">
+    <a href="/images/MACAD2022/C0000700_1.jpg" target="_blank">
+      <img src="/images/MACAD2022/C0000700_1.jpg" title="MACAD 2022-16" alt="MACAD 2022-16">
     </a>
-  </div>
+  </div> Mdm Josephine Yeo Kim Neo, PBM  
+  <br><br>
+</div>
   <div class="col is-4">
     <a href="/images/MACAD2019/awardees-17.jpg" target="_blank">
       <img src="/images/MACAD2019/awardees-17.jpg" title="MACAD 2019-17" alt="MACAD 2019-17">
