@@ -14,10 +14,10 @@ third_nav_title: 'CMC in Photos'
 }
 </style>
 
-## MACAD Appointment & Award Ceremony 2022
+<b>MACAD Appointment & Award Ceremony 2022</b>
 <br>
 
-## Long Service Award
+<b>Long Service Award</b>
 <br>
 
 5th Year Appreciation Award
@@ -28,7 +28,8 @@ third_nav_title: 'CMC in Photos'
     <a href="/images/MACAD2022/C0000642_1.jpg" target="_blank">
       <img src="/images/MACAD2022/C0000642_1.jpg" title="MACAD 2022-01" alt="MACAD 2022-01">
     </a>
-  </div> Mr Emmanuel Tan <br>
+  </div> Mr Emmanuel Tan 
+  <br>
   <div class="col is-4">
     <a href="/images/MACAD2022/C0000637_1.jpg" target="_blank">
       <img src="/images/MACAD2022/C0000637_1.jpg" title="MACAD 2022-02" alt="MACAD 2022-02">
