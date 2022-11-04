@@ -33,7 +33,7 @@ third_nav_title: 'CMC in Photos'
   MACAD Appointment & Award Ceremony 2019</a>
   </div>
 </div>
-
+<br>
   <div class="column">
    <a href="/about-us/macad-appointment-and-award-ceremony/">
      <img src="/images/P2M-Mediator-Appointment-Ceremony-P2-333.jpg" title="MACAD Appointment and Award Ceremony 2018" alt="MACAD Appointment and Award Ceremony 2018"><br>
