@@ -70,49 +70,62 @@ third_nav_title: 'CMC in Photos'
 </div>
 <div class="row">
   <div class="col is-4">
-    <a href="/images/MACAD2019/awardees-7.jpg" target="_blank">
-      <img src="/images/MACAD2019/awardees-7.jpg" title="MACAD 2019-07" alt="MACAD 2019-07">
+    <a href="/images/MACAD2022/C0000661_1.jpg" target="_blank">
+      <img src="/images/MACAD2022/C0000661_1.jpg" title="MACAD 2022-07" alt="MACAD 2022-07">
     </a>
-  </div>
+  </div> Mr Goh Miah Meng
+  <br><br>
+</div>
   <div class="col is-4">
-    <a href="/images/MACAD2019/awardees-8.jpg" target="_blank">
-      <img src="/images/MACAD2019/awardees-8.jpg" title="MACAD 2019-08" alt="MACAD 2019-08">
+    <a href="/images/MACAD2022/C0000665_1.jpg" target="_blank">
+      <img src="/images/MACAD2022/C0000665_1.jpg" title="MACAD 2022-08" alt="MACAD 2022-08">
     </a>
-  </div>
+  </div> Mr Jufri Bin Osman
+  <br><br>
+</div>
   <div class="col is-4">
-    <a href="/images/MACAD2019/awardees-9.jpg" target="_blank">
-      <img src="/images/MACAD2019/awardees-9.jpg" title="MACAD 2019-09" alt="MACAD 2019-09">
+    <a href="/images/MACAD2022/C0000669_1.jpg" target="_blank">
+      <img src="/images/MACAD2022/C0000669_1.jpg" title="MACAD 2022-09" alt="MACAD 2022-09">
     </a>
-  </div>
+  </div> Mr Kelvin Lee Wai Pang 
+  <br><br>
 </div>
 <div class="row">
   <div class="col is-4">
-    <a href="/images/MACAD2019/awardees-10.jpg" target="_blank">
-      <img src="/images/MACAD2019/awardees-10.jpg" title="MACAD 2019-10" alt="MACAD 2019-10">
+    <a href="/images/MACAD2022/C0000670_1.jpg" target="_blank">
+      <img src="/images/MACAD2022/C0000670_1.jpg" title="MACAD 2022-10" alt="MACAD 2022-10">
     </a>
-  </div>
-  <div class="col is-4">
-    <a href="/images/MACAD2019/awardees-11.jpg" target="_blank">
-      <img src="/images/MACAD2019/awardees-11.jpg" title="MACAD 2019-11" alt="MACAD 2019-11">
-    </a>
-  </div>
-  <div class="col is-4">
-    <a href="/images/MACAD2019/awardees-12.jpg" target="_blank">
-      <img src="/images/MACAD2019/awardees-12.jpg" title="MACAD 2019-12" alt="MACAD 2019-12">
-    </a>
-  </div>
+  </div> Mr Vincent Seah Yee Men 
+  <br><br>
 </div>
-<div class="row">
   <div class="col is-4">
-    <a href="/images/MACAD2019/awardees-13.jpg" target="_blank">
-      <img src="/images/MACAD2019/awardees-13.jpg" title="MACAD 2019-13" alt="MACAD 2019-13">
+    <a href="/images/MACAD2022/C0000676_1.jpg" target="_blank">
+      <img src="/images/MACAD2022/C0000676_1.jpg" title="MACAD 2022-11" alt="MACAD 2022-11">
     </a>
-  </div>
+  </div> Mr Sunil Rai
+  <br><br>
+</div>
   <div class="col is-4">
-    <a href="/images/MACAD2019/awardees-14.jpg" target="_blank">
-      <img src="/images/MACAD2019/awardees-14.jpg" title="MACAD 2019-14" alt="MACAD 2019-14">
+    <a href="/images/MACAD2022/C0000679_1.jpg" target="_blank">
+      <img src="/images/MACAD2022/C0000679_1.jpg" title="MACAD 2022-12" alt="MACAD 2022-12">
     </a>
-  </div>
+  </div> Ms Cindy Tan Keow Mui 
+  <br><br>
+</div>
+<div class="col is-4">
+    <a href="/images/MACAD2022/C0000684_1.jpg" target="_blank">
+      <img src="/images/MACAD2022/C0000684_1.jpg" title="MACAD 2022-13" alt="MACAD 2022-13">
+    </a>
+  </div> Mdm June Wong Siew Yin  
+  <br><br>
+</div>
+  <div class="col is-4">
+    <a href="/images/MACAD2022/C0000688_1.jpg" target="_blank">
+      <img src="/images/MACAD2022/CC0000688_1.jpg" title="MACAD 2022-14" alt="MACAD 2022-14">
+    </a>
+  </div> Mr Alfred Yoong Wee Sen   
+  <br><br>
+</div>
   <div class="col is-4">
     <a href="/images/MACAD2019/awardees-15.jpg" target="_blank">
       <img src="/images/MACAD2019/awardees-15.jpg" title="MACAD 2019-15" alt="MACAD 2019-15">
