@@ -34,11 +34,14 @@ third_nav_title: 'CMC in Photos'
     <a href="/images/MACAD2022/C0000637_1.jpg" target="_blank">
       <img src="/images/MACAD2022/C0000637_1.jpg" title="MACAD 2022-02" alt="MACAD 2022-02">
     </a>
-  </div>
+  </div> Mr Rick Choy Khiong
+  <br><br>
   <div class="col is-4">
     <a href="/images/MACAD2022/C0000645_1.jpg" target="_blank">
       <img src="/images/MACAD2022/C0000645_1.jpg" title="MACAD 2022-03" alt="MACAD 2022-03">
-  </div>
+    </a>
+  </div> Mr Peter Teo Seng Leong, BBM
+  <br><br>
 </div>
 <div class="row">
   <div class="col is-4">
