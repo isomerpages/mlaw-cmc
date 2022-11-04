@@ -235,7 +235,10 @@ Master Mediator
   </div> Mr Gan Ong Peng, PBM
   <br><br>
 </div>
-<div class="row">
+
+Mediator
+<br>
+ <div class="row">
    <div class="col is-4">
     <a href="/images/MACAD2022/C0000745_1.jpg" target="_blank">
       <img src="/images/MACAD2022/C0000745_1.jpg" title="MACAD 2022-28" alt="MACAD 2022-28">
