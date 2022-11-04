@@ -43,22 +43,30 @@ third_nav_title: 'CMC in Photos'
   </div> Mr Peter Teo Seng Leong, BBM
   <br><br>
 </div>
-<div class="row">
-  <div class="col is-4">
-    <a href="/images/MACAD2019/awardees-4.jpg" target="_blank">
-      <img src="/images/MACAD2019/awardees-4.jpg" title="MACAD 2019-04" alt="MACAD 2019-04">
+
+10th Year Appreciation Award
+<br>
+
+ <div class="col is-4">
+    <a href="/images/MACAD2022/CC0000651_1.jpg" target="_blank">
+      <img src="/images/MACAD2022/C0000651_1.jpg" title="MACAD 2022-04" alt="MACAD 2022-04">
     </a>
-  </div>
+  </div> Mr Chong Kia Khin
+  <br><br>
+</div>
   <div class="col is-4">
-    <a href="/images/MACAD2019/awardees-5.jpg" target="_blank">
-      <img src="/images/MACAD2019/awardees-5.jpg" title="MACAD 2019-05" alt="MACAD 2019-05">
+    <a href="/images/MACAD2022/C0000655_1.jpg" target="_blank">
+      <img src="/images/MACAD2022/C0000655_1.jpg" title="MACAD 2022-05" alt="MACAD 2022-05">
     </a>
-  </div>
-  <div class="col is-4">
-    <a href="/images/MACAD2019/awardees-6.jpg" target="_blank">
-      <img src="/images/MACAD2019/awardees-6.jpg" title="MACAD 2019-06" alt="MACAD 2019-06">
+  </div> Mr Kenny Gan Chun Kiat 
+  <br><br>
+</div>
+ <div class="col is-4">
+    <a href="/images/MACAD2022/C0000659_1.jpg" target="_blank">
+      <img src="/images/MACAD2022/C0000659_1.jpg" title="MACAD 2022-06" alt="MACAD 2022-06">
     </a>
-  </div>
+  </div> Mr Ganesan s/o Kulandai
+  <br><br>
 </div>
 <div class="row">
   <div class="col is-4">
