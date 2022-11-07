@@ -46,21 +46,20 @@ third_nav_title: 'CMC in Photos'
 
 10th Year Appreciation Award
 <br>
-
+  
+<div class="row">
  <div class="col is-3">
     <a href="/images/MACAD2022/CC0000651_1.jpg" target="_blank">
       <img src="/images/MACAD2022/C0000651_1.jpg" title="MACAD 2022-04" alt="MACAD 2022-04">
     </a>
   </div> 
   <br><br>
-
-  <div class="col is-3">
+<div class="col is-3">
     <a href="/images/MACAD2022/C0000655_1.jpg" target="_blank">
       <img src="/images/MACAD2022/C0000655_1.jpg" title="MACAD 2022-05" alt="MACAD 2022-05">
     </a>
   </div> 
   <br><br>
-
  <div class="col is-3">
     <a href="/images/MACAD2022/C0000659_1.jpg" target="_blank">
       <img src="/images/MACAD2022/C0000659_1.jpg" title="MACAD 2022-06" alt="MACAD 2022-06">
