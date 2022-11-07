@@ -9,7 +9,7 @@ notification: >
 sections:
   - hero:
       title: 'Community Mediation Centre'
-      subtitle: 'CMC provides mediation services for citizens to resolve relational, community and social disputes'
+      subtitle: 'CMC provides mediation services for residents to resolve relational, community and social disputes'
       background: /images/Hero-Banner-Minlaw.jpg
       button: Apply
       url: /e-services/apply-online/

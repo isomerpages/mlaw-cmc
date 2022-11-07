@@ -17,6 +17,9 @@ Ms Juliha Bee M Noor
 Senior Executive<br>
 Ms Indaraty Yunus
 
+Senior Community Mediation Executive<br>
+Mr Ridzuan Razali
+
 Executive<br>
 Ms Joyce Ng
 
@@ -24,9 +27,9 @@ Community Mediation Executive<br>
 Ms Diana Heng
 
 Community Mediation Executive<br>
-Mr Ridzuan Razali
+Mr Izhar Rizman
 
 Community Mediation Officer<br>
 Ms Sandra Tiong
 
-<p class="right-side-updated">Last updated on 16 July 2020</p> 
+<p class="right-side-updated">Last updated on 4 November 2022</p> 
