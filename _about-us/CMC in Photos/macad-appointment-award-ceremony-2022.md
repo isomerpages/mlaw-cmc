@@ -266,7 +266,7 @@ Advancement of Mediators
 <br>
 Master Mediator
 <br>
-
+<div class="row">
   <div class="col is-4">
     <a href="/images/MACAD2022/C0000786_1.jpg" target="_blank">
       <img src="/images/MACAD2022/C0000786_1.jpg" title="MACAD 2022-38" alt="MACAD 2022-38">
@@ -284,19 +284,22 @@ Master Mediator
     </a>
   </div> 
 </div>
+  <div class="row">
 <div class="col is-4">
     <a href="/images/MACAD2022/C0000800_1.jpg" target="_blank">
       <img src="/images/MACAD2022/C0000800_1.jpg" title="MACAD 2022-41" alt="MACAD 2022-41">
     </a>
   </div>
-  </div>
+</div>
 
 Executive Master Mediator
 <br>
-<div class="col is-4">
+
+<div class="row">
+  <div class="col is-4">
     <a href="/images/MACAD2022/C0000815_1.jpg" target="_blank">
       <img src="/images/MACAD2022/C0000815_1.jpg" title="MACAD 2022-42" alt="MACAD 2022-42">
     </a>
   </div> 
-</div>
+
 
