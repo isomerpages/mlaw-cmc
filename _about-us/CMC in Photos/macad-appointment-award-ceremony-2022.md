@@ -277,7 +277,6 @@ Master Mediator
       <img src="/images/MACAD2022/C0000790_1.jpg" title="MACAD 2022-39" alt="MACAD 2022-39">
     </a>
   </div> 
-<div class="row">
    <div class="col is-4">
     <a href="/images/MACAD2022/C0000795_1.jpg" target="_blank">
       <img src="/images/MACAD2022/C0000795_1.jpg" title="MACAD 2022-40" alt="MACAD 2022-40">
