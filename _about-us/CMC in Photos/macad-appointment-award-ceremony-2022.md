@@ -43,24 +43,22 @@ third_nav_title: 'CMC in Photos'
   </div> 
   <br><br>
 
-
 10th Year Appreciation Award
 <br>
-
+  
+<div class="row">
  <div class="col is-3">
     <a href="/images/MACAD2022/CC0000651_1.jpg" target="_blank">
       <img src="/images/MACAD2022/C0000651_1.jpg" title="MACAD 2022-04" alt="MACAD 2022-04">
     </a>
   </div> 
   <br><br>
-
-  <div class="col is-3">
+<div class="col is-3">
     <a href="/images/MACAD2022/C0000655_1.jpg" target="_blank">
       <img src="/images/MACAD2022/C0000655_1.jpg" title="MACAD 2022-05" alt="MACAD 2022-05">
     </a>
   </div> 
   <br><br>
-
  <div class="col is-3">
     <a href="/images/MACAD2022/C0000659_1.jpg" target="_blank">
       <img src="/images/MACAD2022/C0000659_1.jpg" title="MACAD 2022-06" alt="MACAD 2022-06">
@@ -75,15 +73,13 @@ third_nav_title: 'CMC in Photos'
     </a>
   </div> 
   <br><br>
-
-   <div class="col is-3">
+<div class="col is-3">
     <a href="/images/MACAD2022/C0000665_1.jpg" target="_blank">
       <img src="/images/MACAD2022/C0000665_1.jpg" title="MACAD 2022-08" alt="MACAD 2022-08">
     </a>
   </div> 
   <br><br>
-
-   <div class="col is-3">
+ <div class="col is-3">
     <a href="/images/MACAD2022/C0000669_1.jpg" target="_blank">
       <img src="/images/MACAD2022/C0000669_1.jpg" title="MACAD 2022-09" alt="MACAD 2022-09">
     </a>
@@ -97,21 +93,20 @@ third_nav_title: 'CMC in Photos'
     </a>
   </div> 
   <br><br>
-
-   <div class="col is-3">
+<div class="col is-3">
     <a href="/images/MACAD2022/C0000676_1.jpg" target="_blank">
       <img src="/images/MACAD2022/C0000676_1.jpg" title="MACAD 2022-11" alt="MACAD 2022-11">
     </a>
   </div> 
   <br><br>
-
-   <div class="col is-3">
+  <div class="col is-3">
     <a href="/images/MACAD2022/C0000679_1.jpg" target="_blank">
       <img src="/images/MACAD2022/C0000679_1.jpg" title="MACAD 2022-12" alt="MACAD 2022-12">
     </a>
   </div> 
   <br><br>
-
+  
+ <div class="row">
  <div class="col is-3">
     <a href="/images/MACAD2022/C0000684_1.jpg" target="_blank">
       <img src="/images/MACAD2022/C0000684_1.jpg" title="MACAD 2022-13" alt="MACAD 2022-13">
@@ -122,6 +117,7 @@ third_nav_title: 'CMC in Photos'
 15th Year Appreciation Award
 <br>
 
+ <div class="row">  
    <div class="col is-3">
     <a href="/images/MACAD2022/C0000690_1.jpg" target="_blank">
       <img src="/images/MACAD2022/C0000690_1.jpg" title="MACAD 2022-14" alt="MACAD 2022-14">
@@ -136,7 +132,6 @@ third_nav_title: 'CMC in Photos'
   </div> 
   <br><br>
 
-<div class="row">
   <div class="col is-3">
     <a href="/images/MACAD2022/C0000700_1.jpg" target="_blank">
       <img src="/images/MACAD2022/C0000700_1.jpg" title="MACAD 2022-16" alt="MACAD 2022-16">
@@ -146,7 +141,7 @@ third_nav_title: 'CMC in Photos'
 
 New Appointment of Mediators
 <br>
-
+<div class="row">
    <div class="col is-3">
     <a href="/images/MACAD2022/C0000705_1.jpg" target="_blank">
       <img src="/images/MACAD2022/C0000705_1.jpg" title="MACAD 2022-17" alt="MACAD 2022-17">
@@ -161,7 +156,6 @@ New Appointment of Mediators
   </div> 
   <br><br>
 
-<div class="row">
     <div class="col is-3">
     <a href="/images/MACAD2022/C0000713_1.jpg" target="_blank">
       <img src="/images/MACAD2022/C0000713_1.jpg" title="MACAD 2022-19" alt="MACAD 2022-19">
@@ -184,14 +178,14 @@ New Appointment of Mediators
   </div>
   <br><br>
 
-<div class="row">
    <div class="col is-3">
     <a href="/images/MACAD2022/C0000725_1.jpg" target="_blank">
       <img src="/images/MACAD2022/C0000725_1.jpg" title="MACAD 2022-22" alt="MACAD 2022-22">
     </a>
   </div> 
   <br><br>
-
+   
+<div class="row">
   <div class="col is-3">
     <a href="/images/MACAD2022/C0000727_1.jpg" target="_blank">
       <img src="/images/MACAD2022/C0000727_1.jpg" title="MACAD 2022-23" alt="MACAD 2022-23">
@@ -206,14 +200,14 @@ New Appointment of Mediators
   </div>
   <br><br>
 
-<div class="row">
   <div class="col is-3">
     <a href="/images/MACAD2022/C0000734_1.jpg" target="_blank">
       <img src="/images/MACAD2022/C0000734_1.jpg" title="MACAD 2022-25" alt="MACAD 2022-25">
     </a>
   </div> 
   <br><br>
-
+  
+<div class="row">
   <div class="col is-3">
     <a href="/images/MACAD2022/C0000736_1.jpg" target="_blank">
       <img src="/images/MACAD2022/C0000736_1.jpg" title="MACAD 2022-26" alt="MACAD 2022-26">
@@ -225,7 +219,7 @@ Re-Appointment of Mediators
 <br>
 Master Mediator
 <br>
-  
+  <div class="row">
     <div class="col is-3">
     <a href="/images/MACAD2022/C0000740_1.jpg" target="_blank">
       <img src="/images/MACAD2022/C0000740_1.jpg" title="MACAD 2022-27" alt="MACAD 2022-27">
@@ -249,8 +243,7 @@ Mediator
     </a>
   </div> 
   <br><br>
-
-   <div class="col is-3">
+<div class="col is-3">
     <a href="/images/MACAD2022/C0000751_1.jpg" target="_blank">
       <img src="/images/MACAD2022/C0000751_1.jpg" title="MACAD 2022-30" alt="MACAD 2022-30">
     </a>
