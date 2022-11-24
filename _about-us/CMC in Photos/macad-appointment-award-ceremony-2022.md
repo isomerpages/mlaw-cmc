@@ -102,6 +102,13 @@ third_nav_title: 'CMC in Photos'
     </a>
   </div> 
 </div>
+<div class="row">
+ <div class="col is-4">
+    <a href="/images/MACAD2022/C0000688_1.jpg" target="_blank">
+      <img src="/images/MACAD2022/C0000688_1.jpg" title="MACAD 2022-14" alt="MACAD 2022-14">
+    </a>
+  </div> 
+</div>
 
 15th Year Appreciation Award
 <br>
