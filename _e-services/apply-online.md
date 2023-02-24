@@ -51,5 +51,4 @@ Mon - Fri: 8.30am to 5.00pm<br>
 - Wisma Geylang Serai<br>
   Address: 1 Engku Aman Turn, Singapore 408528<br>
 
-
 <p class="right-side-updated">Last updated on 24 February 2023</p> 
