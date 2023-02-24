@@ -26,4 +26,17 @@ Mon - Fri: 8.30am to 5.00pm<br>
 (Closed on Weekends & Public Holidays)
 
 
-<p class="right-side-updated">Last updated on 10 August 2022</p> 
+**3) Available Satellite Mediation Centre**
+
+<p style="text-align: justify">Face-to-face mediation service are readily available at the following venues:</p>
+
+The Community Mediation Centre (Maxwell Road)
+Service SG Centre at Our Tampines Hub
+Service SG Centre at One Punggol
+Service SG Centre at Frontier Community Club
+Toa Payoh West Community Club
+Nee Soon East Community Club
+Geylang Serai Community Club
+
+
+<p class="right-side-updated">Last updated on 24 February 2023</p> 
