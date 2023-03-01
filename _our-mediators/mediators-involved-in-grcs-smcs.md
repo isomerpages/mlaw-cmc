@@ -51,7 +51,6 @@ Mr Wee Pang Kiat, JP, BBM, PBM<br>
 Ms Chiang Ah Choo, PBM, PBS<br>
 Madam Giam Lay Eng Marcellina, JP, BBM, PBM<br>
 Dr Joshua VM Kuma, PBM<br>
-Mr Low Chee Khan Jason<br>
 Mr Sargeet Singh<br>
 
 **Marine Parade GRC**<br>
