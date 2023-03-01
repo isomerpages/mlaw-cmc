@@ -86,7 +86,6 @@ Mr Lim Teck Whai Terence<br>
 Ms Lin Youshan Eleanor<br>
 Mr Loh Choong Seng<br>
 Mr Loh Guo Wei, Melvin<br>
-Mr Low Chee Khan Jason<br>
 Mr Low Chia Leong Steven<br>
 Ms Low Hwee Tian Catherine<br>
 Mr Low Lee Hean Edmund, PBM<br>
