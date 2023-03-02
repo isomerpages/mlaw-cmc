@@ -26,14 +26,12 @@ Mon - Fri: 8.30am to 5.00pm<br>
 (Closed on Weekends & Public Holidays)
 
 
-**3) List of Available Satellite Mediation Centre**
+**3) List of Available Satellite Mediation Venues**
 
-<p style="text-align: justify">Face-to-face mediation service are readily available at the following venues:</p>
+<p style="text-align: justify">Face-to-face mediation service is available at the following venues:</p>
 
-- The Community Mediation Centre (Maxwell Road)<br>
-  Address: 45 Maxwell Road #07-11 The URA Centre (East Wing) Singapore 069118<br>
-  
-- Service SG Centre at Our Tampines Hub<br>
+
+  - Service SG Centre at Our Tampines Hub<br>
   Address: 1 Tampines Walk, Singapore 528523<br>
   
 - Service SG Centre at One Punggol<br>
@@ -51,4 +49,4 @@ Mon - Fri: 8.30am to 5.00pm<br>
 - Wisma Geylang Serai<br>
   Address: 1 Engku Aman Turn, Singapore 408528<br>
 
-<p class="right-side-updated">Last updated on 24 February 2023</p> 
+<p class="right-side-updated">Last updated on 1 March 2023</p> 
