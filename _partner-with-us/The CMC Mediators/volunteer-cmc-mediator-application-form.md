@@ -1,6 +1,6 @@
 ---
 title: 'Volunteer CMC Mediator Application Form'
-permalink: /partner-with-us/Apply-to-Volunteer/
+permalink: /partner-with-us/apply-to-volunteer/
 breadcrumb: Volunteer CMC Mediator Application Form
 third_nav_title: 'The CMC Mediators'
 
