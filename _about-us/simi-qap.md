@@ -22,4 +22,4 @@ More than 40% of the CMC panel of mediators are accredited and/or certified by S
 
 
 
-<div class="image"><img src="/images/1544584969835.png/" title="SIMI QAP" alt="SIMI QAP" style="width: 600px"></div>
+<div class="image"><img src="/images/1544584969835.png" title="SIMI QAP" alt="SIMI QAP" style="width: 600px"></div>

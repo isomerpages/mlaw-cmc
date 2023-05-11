@@ -8,17 +8,17 @@ breadcrumb: 'Benefits of Mediation'
 
 ## Benefits of Mediation | Community Mediation Centre (CMC)
 
-<div class="image"><img src="/images/1525057853270.png/" title="Benefits of Mediation 1" alt="Benefits of Mediation 1" style="width: 600px"></div>
+<div class="image"><img src="/images/1525057853270.png" title="Benefits of Mediation 1" alt="Benefits of Mediation 1" style="width: 600px"></div>
 
 <p style="text-align: justify"><b>Private and Confidential</b><br>
 The identities of the parties and the matters discussed during the mediation is kept private and confidential.</p>
 
-<div class="image"><img src="/images/1503990395999.jpg/" title="Benefits of Mediation 2" alt="Benefits of Mediation 2" style="width: 600px"></div>
+<div class="image"><img src="/images/1503990395999.jpg" title="Benefits of Mediation 2" alt="Benefits of Mediation 2" style="width: 600px"></div>
 
 <p style="text-align: justify"><b>Quick</b><br>
 A typical mediation session lasts about 2 hours.</p>
 
-<div class="image"><img src="/images/1503990421802.png/" title="Benefits of Mediation 3" alt="Benefits of Mediation 3" style="width: 600px"></div>
+<div class="image"><img src="/images/1503990421802.png" title="Benefits of Mediation 3" alt="Benefits of Mediation 3" style="width: 600px"></div>
 
 <p style="text-align: justify"><b>Cheap and Cost Effective</b><br>
 The CMC provides cost effective and cheap mediation in Singapore.</p>
@@ -35,7 +35,7 @@ Mediator will assist parties to develop their own solutions to address the issue
 <p style="text-align: justify"><b>Creative and Flexible</b><br>
 Parties have the flexibility of coming up with out-of-the-box solutions that suits them.</p>
 
-<div class="image"><img src="/images/1503990466123.png/" title="Benefits of Mediation 5" alt="Benefits of Mediation 5"  style="width: 600px"></div>
+<div class="image"><img src="/images/1503990466123.png" title="Benefits of Mediation 5" alt="Benefits of Mediation 5"  style="width: 600px"></div>
 
 <p style="text-align: justify"><b>Preserves Post Conflict Relationship</b><br>
 Provides an opportunity to mend relationships privately without unwanted publicity or embarrassment.</p>

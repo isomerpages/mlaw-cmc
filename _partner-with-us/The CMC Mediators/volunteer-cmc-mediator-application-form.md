@@ -8,7 +8,7 @@ third_nav_title: 'The CMC Mediators'
 
 ## Volunteer CMC Mediator Application Form
 
-<div class="image"><img src="/images/Mediation.jpg/" title="Volunteer CMC Mediator Application Form" alt="Volunteer CMC Mediator Application Form" style="width: 600px"></div><br>
+<div class="image"><img src="/images/Mediation.jpg" title="Volunteer CMC Mediator Application Form" alt="Volunteer CMC Mediator Application Form" style="width: 600px"></div><br>
 
 To apply as a volunteer CMC Mediator, you have to meet the following criteria:<br>
 

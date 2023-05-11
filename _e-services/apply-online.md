@@ -8,7 +8,7 @@ breadcrumb: 'Apply Online'
 
 ## Apply
 
-<div class="image"><img src="/images/SGmap.png/" style="width:600px" title="Apply Online" alt="Apply Online"></div>
+<div class="image"><img src="/images/SGmap.png" style="width:600px" title="Apply Online" alt="Apply Online"></div>
 
 
 **1) Register online using Singpass**

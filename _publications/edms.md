@@ -22,7 +22,7 @@ breadcrumb: EDMs
     <a href="/images/EDM-Myths-About-Mediation.png"> <img src="/images/EDM-Myths-About-Mediation.png" title="Latest EDMs" alt="Latest EDMs"></a>
   </div>
   <div class="flex-box">
-       <p><b>Mini Bites:<br>March 2021</b><br>click <a href="/images/EDM-Myths-About-Mediation.png/" target="_blank">here</a> to view the image.</p>
+       <p><b>Mini Bites:<br>March 2021</b><br>click <a href="/images/EDM-Myths-About-Mediation.png" target="_blank">here</a> to view the image.</p>
   </div>
 </div>
 
