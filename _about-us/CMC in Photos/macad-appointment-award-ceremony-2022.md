@@ -46,7 +46,7 @@ third_nav_title: 'CMC in Photos'
   
 <div class="row">
  <div class="col is-4">
-    <a href="/images/MACAD2022/CC0000651_1.jpg" target="_blank">
+    <a href="/images/MACAD2022/C0000651_1.jpg" target="_blank">
       <img src="/images/MACAD2022/C0000651_1.jpg" title="MACAD 2022-04" alt="MACAD 2022-04">
     </a>
   </div> 
