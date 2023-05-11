@@ -1,6 +1,6 @@
 ---
 title: 'MACAD Appointment & Award Ceremony 2022'
-permalink: /about-us/macad2022-Awardees/
+permalink: /about-us/macad2022-awardees/
 breadcrumb: 'MACAD Appointment & Award Ceremony 2022'
 third_nav_title: 'CMC in Photos'
 

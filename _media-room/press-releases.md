@@ -1,6 +1,6 @@
 ---
 title: 'Press Releases'
-permalink: /media-room/Press_Release/
+permalink: /media-room/press_release/
 breadcrumb: 'Press Releases'
 
 ---
