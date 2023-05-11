@@ -2,12 +2,12 @@
 layout: homepage
 title: Community Mediation Centre
 permalink: /
-notification: "The Ministry of Culture, Community and Youth (MCCY),  the
-  Ministry of Law (MinLaw) and the Ministry of National Development (MND) are
-  inviting public feedback on the proposed enhancements to the Community Dispute
+notification: The Ministry of Culture, Community and Youth (MCCY),  the Ministry
+  of Law (MinLaw) and the Ministry of National Development (MND) are inviting
+  public feedback on the proposed enhancements to the Community Dispute
   Management Framework (CDMF) so that it continues to be effective in resolving
   community disputes.   The consultation period is from 11 May to 31 May 2023.
-  Please visit go.gov.sg/feedbackcdmf "
+  Please visit go.gov.sg/feedbackcdmf to share your views.
 sections:
   - hero:
       title: Community Mediation Centre
