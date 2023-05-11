@@ -29,7 +29,7 @@ breadcrumb: 'Disputes Suitable for Mediation'
 * Noise complaints (for e.g. noisy neighbours that create unacceptable noise from 10:30pm to 7:00am)
 * Utterance or unacceptable words
 
-<div class="image"><img src="/images/1525058260813.png/" title="Disputes Suitable for Mediation 2" alt="Disputes Suitable for Mediation 2" style="width: 600px"></div>
+<div class="image"><img src="/images/1525058260813.png" title="Disputes Suitable for Mediation 2" alt="Disputes Suitable for Mediation 2" style="width: 600px"></div>
 
 <b>Family Disputes in Singapore:</b>
 
@@ -39,7 +39,7 @@ breadcrumb: 'Disputes Suitable for Mediation'
 * Interest free monetary matter based on verbal agreement for amount involving less than $5000
 * Utterance of unacceptable words
 
-<div class="image"><img src="/images/1503990086253.jpg/" title="Disputes Suitable for Mediation 3" alt="Disputes Suitable for Mediation 3" style="width: 600px"></div>
+<div class="image"><img src="/images/1503990086253.jpg" title="Disputes Suitable for Mediation 3" alt="Disputes Suitable for Mediation 3" style="width: 600px"></div>
 
 <p style="text-align: justify"><b>Disputes between friends, co-workers or other forms of interpersonal relations:</b></p>
 

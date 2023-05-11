@@ -25,8 +25,8 @@ date: 2018-10-05T00:00:00.000Z
 
 6 The first recipient of this prestigious award is Mr G. Anthony Samy, aged 83. Mr Samy has been a volunteer mediator with the CMC for the last 19 years, contributing more than 1,000 hours of his time. During this period, he mediated 560 cases, the highest number of cases mediated by a volunteer at the CMC to-date. He also helped to coach newer mediators and played an instrumental role in promoting mediation, especially in schools.  
 
-7 Two other mediators, Mr Ameerali Abdeali and Dr Lee Chuan Guan, received the Distinguished Service Award and the Outstanding Newcomer Award respectively, for their exemplary performance. The CMC also appointed 13 new mediators, re-appointed 90 existing mediators, and promoted four mediators. For their years of volunteer service, 10 mediators received the 20 Year Appreciation Awards while six mediators received the Five Year Appreciation Awards. For a detailed list of the award recipients, please refer to [Annex](/files/Annex-RecipientsofCertificatesofAppointmentsandAwardsMACAD2018.pdf/).
+7 Two other mediators, Mr Ameerali Abdeali and Dr Lee Chuan Guan, received the Distinguished Service Award and the Outstanding Newcomer Award respectively, for their exemplary performance. The CMC also appointed 13 new mediators, re-appointed 90 existing mediators, and promoted four mediators. For their years of volunteer service, 10 mediators received the 20 Year Appreciation Awards while six mediators received the Five Year Appreciation Awards. For a detailed list of the award recipients, please refer to [Annex](/files/Annex-RecipientsofCertificatesofAppointmentsandAwardsMACAD2018.pdf).
 
-For more information on the CMC, please refer to the [Factsheet](/files/CommunityMediationCentreFactsheet.pdf/).
+For more information on the CMC, please refer to the [Factsheet](/files/CommunityMediationCentreFactsheet.pdf).
 
  
