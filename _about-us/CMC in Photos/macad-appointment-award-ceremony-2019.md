@@ -103,7 +103,7 @@ third_nav_title: 'CMC in Photos'
 </div>
 <div class="row">
   <div class="col is-4">
-    <a href="/images/MACAD2019/awardees-16.jpg.jpg" target="_blank">
+    <a href="/images/MACAD2019/awardees-16.jpg" target="_blank">
       <img src="/images/MACAD2019/awardees-16.jpg" title="MACAD 2019-16" alt="MACAD 2019-16">
     </a>
   </div>
