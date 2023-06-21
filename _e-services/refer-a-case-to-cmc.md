@@ -13,7 +13,7 @@ breadcrumb: Refer a Case to CMC
 
 <hr>
 
-<p style="text-align: justify"> 2) If you are an officer from a non-governmental organisation or voluntary welfare organisation, you can refer suitable cases to the CMC for voluntary mediation through one of the following modes:-</p>
+<p style="text-align: justify"> 2) If you are an officer from a non-governmental organisation or voluntary welfare organisation, please refer suitable cases to the CMC for voluntary mediation through one of the following modes:-</p>
 
 * Call the Ministry of Law Enquiry Line at 1800 2255 529 during office hours (Monday to Friday: 8.30am to 5.00pm, Closed on Weekends &amp; Public Holidays.)
 
