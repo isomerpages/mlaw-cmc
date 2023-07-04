@@ -1,11 +1,8 @@
 ---
-title: 'Apply Online'
+title: Apply Online
 permalink: /e-services/apply-online/
-breadcrumb: 'Apply Online'
-
+breadcrumb: Apply Online
 ---
-
-
 ## Apply
 
 <div class="image"><img src="/images/SGmap.png" style="width:600px" title="Apply Online" alt="Apply Online"></div>
@@ -23,7 +20,7 @@ breadcrumb: 'Apply Online'
 <p style="text-align: justify">You may call our enquiry line at 1800-CALL-LAW (1800-2255-529) during the following opening hours:</p>
 
 Mon - Fri: 8.30am to 5.00pm<br>
-(Closed on Weekends & Public Holidays)
+(Closed on Weekends &amp; Public Holidays)
 
 
 **3) List of Available Satellite Mediation Venues**
@@ -33,10 +30,10 @@ prior to the mediation session:</p>
 
 
   - Service SG Centre Our Tampines Hub<br>
-  Address: 1 Tampines Walk, Singapore 528523<br>
+  Address: 1 Tampines Walk, #01-21, Singapore 528523<br>
   
 - Service SG Centre One Punggol<br>
-  Address: 1 Punggol Drive, Singapore 828629<br>
+  Address: 1 Punggol Drive, #01-01, Singapore 828629<br>
   
 - Service SG @ The Frontier Community Club<br>
   Address: 60 Jurong West Central 3, #01-01, Singapore 648346<br>
@@ -50,4 +47,4 @@ prior to the mediation session:</p>
 - Wisma Geylang Serai<br>
   Address: 1 Engku Aman Turn, Singapore 408528<br>
 
-<p class="right-side-updated">Last updated on 5 April 2023</p> 
+<p class="right-side-updated">Last updated on 5 April 2023</p>
