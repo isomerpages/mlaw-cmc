@@ -2,6 +2,7 @@
 title: Refer a Case to CMC
 permalink: /e-services/refer-a-case-to-cmc/
 breadcrumb: Refer a Case to CMC
+variant: markdown
 ---
 <p style="text-align: justify">Disputes may also be referred to the CMC for voluntary mediation by the Singapore Police Force, HDB, Town Council, Members of Parliament, People’s Association or any other agency.</p>
 
@@ -9,7 +10,8 @@ breadcrumb: Refer a Case to CMC
 
 * Call the Ministry of Law Enquiry Line at 1800 2255 529 during office hours (Monday to Friday: 8.30am to 5.00pm, Closed on Weekends &amp; Public Holidays.)
 
-* Use the CMC Referral Form via this URL Link: https://cmc.intranet.mlaw.gov.sg/
+* Use the CMC Referral Form via this URL Link:    
+[https://cmc.intranet.mlaw.gov.sg/agency-login](https://cmc.intranet.mlaw.gov.sg/agency-login)
 
 <hr>
 
