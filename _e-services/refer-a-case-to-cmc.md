@@ -24,4 +24,4 @@ variant: markdown
 <p style="text-align: justify">Should you require any further assistance, please call 1800 2255 529.</p> 
 
 
-<br><br>Last updated on 20 June 2023
+<br><br>Last updated on 06 November 2023
