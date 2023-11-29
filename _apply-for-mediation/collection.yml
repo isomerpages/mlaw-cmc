@@ -2,8 +2,8 @@ collections:
   apply-for-mediation:
     output: true
     order:
-      - All You Need To Know.md
       - mediation-at-the-cmc.md
+      - All You Need To Know.md
       - the-mediation-process.md
       - disputes-suitable-for-mediation.md
       - benefits-of-mediation.md
