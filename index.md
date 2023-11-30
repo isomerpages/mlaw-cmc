@@ -15,7 +15,7 @@ sections:
         - title: About Mediation
           description: How mediation is conducted<br>at the CMC
           url: /apply-for-mediation/the-mediation-process/
-        - title: ALL YOU NEED TO KNOW
+        - title: All you need to know
           description: Watch our new video
           url: /apply-for-mediation/all-you-need-to-know/
         - title: Apply for Mediation
