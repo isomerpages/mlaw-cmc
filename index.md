@@ -17,7 +17,7 @@ sections:
           url: /apply-for-mediation/the-mediation-process/
         - title: ALL YOU NEED TO KNOW
           description: Watch the video our new video
-          url: /apply-for-mediation/all-you-need-to-know/
+          url: /self-manage-conflicts/all-you-need-to-know/
         - title: Apply for Mediation
           description: Where to apply for mediation<br>at the CMC
           url: /apply-for-mediation/ways-to-apply-for-mediation/
