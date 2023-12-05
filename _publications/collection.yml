@@ -2,6 +2,6 @@ collections:
   publications:
     output: true
     order:
-      - All You Need To Know.md
+      - What's New.md
       - edms.md
       - book-of-50-community-mediation-stories.md
