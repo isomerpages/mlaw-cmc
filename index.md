@@ -17,7 +17,7 @@ sections:
           url: /apply-for-mediation/the-mediation-process/
         - title: What's New
           description: Watch our new video
-          url: /apply-for-mediation/what's-new/
+          url: /publications/whats-new/
         - title: Apply for Mediation
           description: Where to apply for mediation<br>at the CMC
           url: /apply-for-mediation/ways-to-apply-for-mediation/
