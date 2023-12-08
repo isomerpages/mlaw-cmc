@@ -1,8 +1,8 @@
 logo: /images/cmc-logo.png
 links:
-  - title: 'About Us'
+  - title: About Us
     collection: about-us
-  - title: 'Self-Manage Conflicts'
+  - title: Self-Manage Conflicts
     collection: self-manage-conflicts
   - title: Mediation
     collection: apply-for-mediation
