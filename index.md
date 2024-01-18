@@ -22,6 +22,6 @@ sections:
           description: Where to apply for mediation<br>at the CMC
           url: /apply-for-mediation/ways-to-apply-for-mediation/
         - title: Volunteer with Us
-          description: Apply to be a<br>volunteer CMC Mediator
+          description: Be a CMC Volunteer Mediator
           url: /partner-with-us/apply-to-volunteer/
 ---
