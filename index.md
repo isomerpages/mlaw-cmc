@@ -24,33 +24,24 @@ sections:
         - title: Volunteer with Us
           description: Be a CMC Volunteer Mediator
           url: /partner-with-us/apply-to-volunteer/
-  - announcements:
-      title: Announcements
-      id: announcements
-      subtitle: Add a list of announcements with dates
-      announcement_items:
-        - title: New Announcement
-          date: 22 February 2024
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
+      variant: floating
+      size: sm
+      backgroundColor: gray
+      alignment: right
   - textcards:
-      title: Text Cards
-      subtitle: Add informational text
+      title: Ways to Apply for Mediation
       id: textcards
-      description: Text card description
+      description: At the CMC, our trained officers handle mediation requests and are
+        able to assess if the dispute is suitable for mediation. Register your
+        case via two methods.
       cards:
-        - title: Card
-          description: Card description
-          linktext: Learn more
+        - title: Direct Apply
+          description: If you are an individual and wishes to apply for a mediation
+          linktext: Click here
           url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
+        - title: Referral By Agency
+          description: If you're a public officer from any agency, NGO, or welfare group
+          linktext: Click here
           url: ""
   - infocols:
       title: Info-columns
@@ -64,4 +55,8 @@ sections:
           description: Infobox description
         - title: Infobox
           description: Infobox description
+  - resources:
+      title: What's New
+      id: resources
+      button: More
 ---
