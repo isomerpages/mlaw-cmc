@@ -28,6 +28,22 @@ sections:
       size: sm
       backgroundColor: gray
       alignment: right
+  - infocols:
+      title: Benefits of Mediation
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: Private and Confidential
+          description: The identities of the parties and the matters discussed during the
+            mediation is kept private and confidential.
+        - title: Quick
+          description: A typical mediation session lasts about 2 hours.
+        - title: Solution Oriented
+          description: Mediator will assist parties to develop their own solutions to
+            address the issues in conflict.
+        - title: Creative and Flexible
+          description: Parties have the flexibility of coming up with out-of-the-box
+            solutions that suits them.
   - textcards:
       title: Ways to Apply for Mediation
       id: textcards
@@ -43,18 +59,6 @@ sections:
           description: If you're a public officer from any agency, NGO, or welfare group
           linktext: Click here
           url: ""
-  - infocols:
-      title: Info-columns
-      subtitle: Add snippets of text in columns
-      id: infocols
-      linktext: Learn more
-      infoboxes:
-        - title: Infobox
-          description: Infobox description
-        - title: Infobox
-          description: Infobox description
-        - title: Infobox
-          description: Infobox description
   - resources:
       title: What's New
       id: resources
