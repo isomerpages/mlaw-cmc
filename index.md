@@ -63,4 +63,6 @@ sections:
       title: What's New
       id: resources
       button: More
+description: Description
+image: /images/isomer-logo.svg
 ---
