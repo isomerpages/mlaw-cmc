@@ -29,11 +29,11 @@ colors:
   secondary-color: "#164863"
   media-colors:
     - title: media-color-one
-      color: "#427d9d"
+      color: "#696969"
     - title: media-color-two
       color: "#ddf2fd"
     - title: media-color-three
-      color: "#696969"
+      color: "#427d9d"
     - title: media-color-four
       color: "#9bbec8"
     - title: media-color-five
