@@ -26,18 +26,18 @@ plugins:
   - jekyll-remote-theme
 colors:
   primary-color: "#427d9d"
-  secondary-color: "#164863"
+  secondary-color: "#696969"
   media-colors:
     - title: media-color-one
       color: "#696969"
     - title: media-color-two
-      color: "#ddf2fd"
+      color: "#696969"
     - title: media-color-three
-      color: "#427d9d"
+      color: "#696969"
     - title: media-color-four
-      color: "#9bbec8"
+      color: "#696969"
     - title: media-color-five
-      color: "#505050"
+      color: "#696969"
 facebook-pixel: ""
 shareicon: /images/isomer-logo.svg
 is_government: false
