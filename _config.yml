@@ -25,13 +25,13 @@ plugins:
   - jekyll-sitemap
   - jekyll-remote-theme
 colors:
-  primary-color: "#365486"
-  secondary-color: "#0f1035"
+  primary-color: "#427d9d"
+  secondary-color: "#164863"
   media-colors:
     - title: media-color-one
-      color: "#dcf2f1"
+      color: "#ddf2fd"
     - title: media-color-two
-      color: "#427d9d"
+      color: "#9bbec8"
     - title: media-color-three
       color: "#0f1035"
     - title: media-color-four
