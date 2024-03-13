@@ -28,6 +28,13 @@ sections:
       size: sm
       backgroundColor: gray
       alignment: right
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 description: Description
 image: /images/isomer-logo.svg
 ---
