@@ -35,6 +35,10 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
 description: Description
 image: /images/isomer-logo.svg
 ---
