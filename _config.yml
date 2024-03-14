@@ -29,9 +29,9 @@ colors:
   secondary-color: "#213555"
   media-colors:
     - title: media-color-one
-      color: "#4f709c"
-    - title: media-color-two
       color: "#d8c4b6"
+    - title: media-color-two
+      color: "#4f709c"
     - title: media-color-three
       color: "#213555"
     - title: media-color-four
