@@ -26,12 +26,12 @@ plugins:
   - jekyll-remote-theme
 colors:
   primary-color: "#d8c4b6"
-  secondary-color: "#d8c4b6"
+  secondary-color: "#4f709c"
   media-colors:
     - title: media-color-one
       color: "#213555"
     - title: media-color-two
-      color: "#4f709c"
+      color: "#d8c4b6"
     - title: media-color-three
       color: "#4f709c"
     - title: media-color-four
