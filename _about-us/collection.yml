@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - about-us.md
+      - About Us.md
       - history.md
       - mission-and-logo.md
       - organisation-structure.md
