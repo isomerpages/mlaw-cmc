@@ -24,7 +24,7 @@ sections:
         - title: Volunteer with Us
           description: Be a CMC Volunteer Mediator
           url: /partner-with-us/apply-to-volunteer/
-      variant: floating
+      variant: center
       size: sm
       backgroundColor: gray
       alignment: right
