@@ -1,6 +1,6 @@
-title: 'Community Mediation Centre'
+title: Community Mediation Centre
 description: Description
-url: 'https://cmc.mlaw.gov.sg'
+url: https://cmc.mlaw.gov.sg
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 paginate: 12
@@ -25,16 +25,21 @@ plugins:
   - jekyll-sitemap
   - jekyll-remote-theme
 colors:
-  primary-color: '#a40935'
-  secondary-color: '#a40935'
+  primary-color: "#a40a36"
+  secondary-color: "#740625"
   media-colors:
     - title: media-color-one
-      color: '#696969'
+      color: "#b79079"
     - title: media-color-two
-      color: '#800000'
+      color: "#4a4a4a"
     - title: media-color-three
-      color: '#A0522D'
+      color: "#b79079"
     - title: media-color-four
-      color: '#866633'
+      color: "#4a4a4a"
     - title: media-color-five
-      color: '#505050'
+      color: "#b79079"
+facebook-pixel: ""
+shareicon: /images/isomer-logo.svg
+is_government: false
+google_analytics_ga4: ""
+linkedin-insights: ""
