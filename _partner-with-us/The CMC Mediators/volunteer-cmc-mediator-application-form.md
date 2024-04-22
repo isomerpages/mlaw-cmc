@@ -5,7 +5,7 @@ breadcrumb: Volunteer CMC Mediator Application Form
 third_nav_title: The CMC Mediators
 variant: tiptap
 ---
-<h2>Volunteer CMC Mediator Application Form</h2>
+<h2>CMC Volunteer Mediator Application Form</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 600px" height="auto" width="100%" title="Volunteer CMC Mediator Application Form" alt="Volunteer CMC Mediator Application Form" src="/images/Mediation.jpg">
 </div>
@@ -37,7 +37,12 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Proficient in using the Zoom virtual platform to conduct mediation;
+<p>Proficient in using the Zoom virtual platform to conduct mediation;</p>
+<p></p>
+</li>
+<li>
+<p>You have been actively involved in volunteer community work in the past
+one year;
 <br>
 </p>
 </li>
@@ -55,7 +60,7 @@ through mediation.
 </p>
 </li>
 </ol>
-<p><strong><a href="https://go.gov.sg/cmcvolapp" rel="noopener noreferrer nofollow" target="_blank">Apply online</a></strong> to
+<p><strong><a href="https://go.gov.sg/cmcvolunteermediatorapplicationform" rel="noopener noreferrer nofollow" target="_blank">Apply online</a></strong> to
 become a volunteer CMC Mediator.
 <br>
 <br>
