@@ -39,7 +39,6 @@ description: ""
 </li>
 <li>
 <p>Proficient in using the Zoom virtual platform to conduct mediation;</p>
-<p></p>
 </li>
 <li>
 <p>You have been actively involved in volunteer community work in the past
