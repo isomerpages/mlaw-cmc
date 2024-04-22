@@ -18,39 +18,27 @@ description: ""
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>You are a Singapore Citizen or Singapore Permanent Resident;
-<br>
-</p>
+<p>You are a Singapore Citizen or Singapore Permanent Resident;</p>
 </li>
 <li>
-<p>Aged 30 years and above;
-<br>
-</p>
+<p>Aged 30 years and above;</p>
 </li>
 <li>
-<p>Fluent in written and spoken English;
-<br>
-</p>
+<p>Fluent in written and spoken English;</p>
 </li>
 <li>
-<p>Proficient in speaking a local language or dialect;
-<br>
-</p>
+<p>Proficient in speaking a local language or dialect;</p>
 </li>
 <li>
 <p>Proficient in using the Zoom virtual platform to conduct mediation;</p>
 </li>
 <li>
 <p>You have been actively involved in volunteer community work in the past
-one year;
-<br>
-</p>
+one year;</p>
 </li>
 <li>
 <p>Have attained at least a Level 1 Accreditation from the Singapore International
-Mediation Institute within the last 2 years; and
-<br>
-</p>
+Mediation Institute within the last 2 years; and</p>
 </li>
 <li>
 <p>You are interested in contributing towards creating a more cohesive Singapore
