@@ -13,7 +13,7 @@ description: ""
 <p>
 <br>
 </p>
-<p>To apply as a volunteer CMC Mediator, you have to meet the following criteria:
+<p>To apply as a CMC Volunteer Mediator, you have to meet the following criteria:
 <br>
 </p>
 <ol data-tight="true" class="tight">
@@ -49,7 +49,7 @@ through mediation.
 </li>
 </ol>
 <p><strong><a href="https://go.gov.sg/cmcvolunteermediatorapplicationform" rel="noopener noreferrer nofollow" target="_blank">Apply online</a></strong> to
-become a volunteer CMC Mediator.
+become a CMC Volunteer Mediator.
 <br>
 <br>
 </p>
