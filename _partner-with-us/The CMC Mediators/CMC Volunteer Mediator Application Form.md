@@ -33,8 +33,7 @@ description: ""
 <p>Proficient in using the Zoom virtual platform to conduct mediation;</p>
 </li>
 <li>
-<p>You have been actively involved in volunteer community work in the past
-one year;</p>
+<p>You are actively involved in volunteer community work;</p>
 </li>
 <li>
 <p>Have attained at least a Level 1 Accreditation from the Singapore International
