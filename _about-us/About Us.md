@@ -5,7 +5,7 @@ breadcrumb: About Us
 variant: tiptap
 description: ""
 ---
-<h2>&lt;h1 style="font-family:malgun gothic;"&gt;About Us&lt;/h1&gt;</h2>
+<h2>&lt;h1 style="font-family:Impact;"&gt;About Us&lt;/h1&gt;</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 600px" height="auto" width="100%" title="About Us" alt="About Us" src="/images/1504082743734.png">
 </div>
