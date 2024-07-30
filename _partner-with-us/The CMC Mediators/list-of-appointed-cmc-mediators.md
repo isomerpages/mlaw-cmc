@@ -7,11 +7,11 @@ variant: markdown
 ---
 ## List of Appointed CMC Mediators
 
-<p style="text-align: justify">The CMC Mediators are appointed by the Minister for Law for a 3-year renewable term. The appointed mediators are bound by the Community Mediation Centres Act (Cap 49A), the Mediators Code of Conduct and CMC’s policies and standing instructions.</p>
+<p style="font-family:arial;">The CMC Mediators are appointed by the Minister for Law for a 3-year renewable term. The appointed mediators are bound by the Community Mediation Centres Act (Cap 49A), the Mediators Code of Conduct and CMC’s policies and standing instructions.</p>
 
-<p style="text-align: justify">The following is the current panel of appointed mediators in alphabetical order:-</p>
+<p style="font-family:arial;">The following is the current panel of appointed mediators in alphabetical order:-</p>
 
-Mr	Abdul Harris Madon Bin Gani <br>
+<p style="font-family:arial;">Mr	Abdul Harris Madon Bin Gani <br>
 Mr	Alexander Santhosarajan s/o Singhamuthu <br>	
 Mr	Ameerali Abdeali, JP, PPA(G), PBM, PBS <br>
 Mr	Ang Kiat Seng Jeffrey, PBM <br>
@@ -167,4 +167,4 @@ Mr	Yeo Peng Keng Steven, PBM <br>
 Mr	Yeo Yong Chuan <br>
 Mr	Yeow Boon Kiang <br>
 Mr	Yip Hon Weng <br>
-Mr	Yoong Wee Sen Alfred <br>
+Mr	Yoong Wee Sen Alfred <br></p>
