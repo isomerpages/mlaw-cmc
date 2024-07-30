@@ -2,7 +2,7 @@ collections:
   apply-for-mediation:
     output: true
     order:
-      - mediation-at-the-cmc.md
+      - Mediation at the CMC.md
       - the-mediation-process.md
       - disputes-suitable-for-mediation.md
       - benefits-of-mediation.md
