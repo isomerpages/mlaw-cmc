@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - About Us.md
-      - history.md
+      - History.md
       - mission-and-logo.md
       - organisation-structure.md
       - simi-qap.md
