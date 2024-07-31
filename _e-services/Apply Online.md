@@ -14,7 +14,7 @@ description: ""
 <ul data-tight="true" class="tight"><li><p style="font-family:arial;"><strong>Direct:</strong> <a href="https://eservices.mlaw.gov.sg/cmc/mediatorsportal/direct-intake/" rel="noopener noreferrer nofollow" target="_blank">I am the applicant</a></p></li></ul>
 
 <p style="font-family:arial;"><strong>2) Register via our enquiry line</strong></p>
-<p style="font-family:arial;">You may call our enquiry line at 1800-CALL-LAW (1800-2255-529) during the following opening hours:</p>
+<p style="font-family:arial;">You may call our enquiry line at 6225 5529 during the following opening hours:</p>
 <p style="font-family:arial;">Mon - Fri: 8.30am to 5.00pm<br>(Closed on Weekends &amp; Public Holidays)</p>
 
 <p style="font-family:arial;"><strong>3) List of Available Satellite Mediation Venues</strong></p>
