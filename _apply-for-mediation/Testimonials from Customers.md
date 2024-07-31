@@ -1,11 +1,10 @@
 ---
-title: 'Testimonials from Customers'
+title: Testimonials from Customers
 permalink: /apply-for-mediation/testimonials-from-customers/
-breadcrumb: 'Testimonials from Customers'
-
+breadcrumb: Testimonials from Customers
+variant: markdown
+description: ""
 ---
-
-
 ## Testimonials from Parties
 
 <p style="text-align: justify"><i>"Keep up the good work."*  – T.S.Y.C.</i></p>

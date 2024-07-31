@@ -2,9 +2,9 @@ collections:
   apply-for-mediation:
     output: true
     order:
-      - mediation-at-the-cmc.md
-      - the-mediation-process.md
-      - disputes-suitable-for-mediation.md
-      - benefits-of-mediation.md
-      - testimonials-from-customers.md
-      - ways-to-apply-for-mediation.md
+      - Mediation at the CMC.md
+      - The Mediation Process.md
+      - Disputes Suitable For Mediation.md
+      - Benefits of Mediation.md
+      - Testimonials from Customers.md
+      - Ways to Apply for Mediation.md
