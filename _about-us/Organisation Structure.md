@@ -2,33 +2,24 @@
 title: Organisation Structure
 permalink: /about-us/organisation-structure/
 breadcrumb: Organisation Structure
-variant: markdown
+variant: tiptap
 description: ""
 ---
-## Organisation Structure
-
-**<p style="font-family:arial;">Director<br>**
-Ms Elsie Tjoeng
-
-**</p><p style="font-family:arial;">Deputy Director<br>**
-Ms Juliha Bee M Noor
-
-**</p><p style="font-family:arial;">Senior Executive<br>**
-Ms Indaraty Yunus
-
-**</p><p style="font-family:arial;">Senior Community Mediation Executive<br>**
-Mr Ridzuan Razali
-
-**</p><p style="font-family:arial;">Executive<br>**
-Ms Joyce Ng
-
-**</p><p style="font-family:arial;">Community Mediation Executive<br>**
-Ms Diana Heng
-
-**</p><p style="font-family:arial;">Community Mediation Executive<br>**
-Mr Izhar Rizman
-
-**</p><p style="font-family:arial;">Community Mediation Officer<br>**
-Ms Sandra Tiong
-
-</p><p class="right-side-updated"></p><p style="font-family:arial;">Last updated on 30 July 2024</p>
+<h2>Organisation Structure</h2>
+<p><strong>Director</strong>
+<br>Ms Elsie Tjoeng</p>
+<p><strong>Deputy Director</strong>
+<br>Ms Juliha Bee M Noor</p>
+<p><strong>Senior Executive</strong>
+<br>Ms Indaraty Yunus</p>
+<p><strong>Senior Community Mediation Executive</strong>
+<br>Mr Ridzuan Razali</p>
+<p><strong>Executive</strong>
+<br>Ms Joyce Ng</p>
+<p><strong>Community Mediation Executive</strong>
+<br>Ms Diana Heng</p>
+<p><strong>Community Mediation Executive</strong>
+<br>Mr Izhar Rizman</p>
+<p><strong>Community Mediation Officer</strong>
+<br>Ms Sandra Tiong</p>
+<p>Last updated on 30 July 2024</p>
