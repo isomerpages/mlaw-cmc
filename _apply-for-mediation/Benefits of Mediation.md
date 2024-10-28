@@ -15,10 +15,6 @@ description: ""
 
 <p style="font-family:arial;"><strong>Quick</strong><br>A typical mediation session lasts about 2 hours.</p>
 
-<div class="isomer-image-wrapper"><img style="width: 600px" height="auto" width="100%" title="Benefits of Mediation 3" alt="Benefits of Mediation 3" src="/images/1503990421802.png"></div>
-
-<p style="font-family:arial;"><strong>Cheap and Cost Effective</strong><br>The CMC provides cost effective and cheap mediation in Singapore. Pay a one-time only $5 administrative fee, regardless of the number of mediation sessions. A re-mediation can be requested free of charge 3 months from the last mediation session.</p>
-
 <div class="isomer-image-wrapper"><img style="width: 600px" height="auto" width="100%" title="Benefits of Mediation 4" alt="Benefits of Mediation 4" src="/images/1503990446466.png"></div>
 
 <p style="font-family:arial;"><strong>Solution Oriented</strong><br>Mediator will assist parties to develop their own solutions to address the issues in conflict.</p>
