@@ -59,10 +59,11 @@ description: ""
 </p>
 
 <p style="font-family:arial;"><strong>Marine Parade GRC</strong>
-<br>Mr Yoong Wee Sen Alfred
+<br>Mr Yoong Wee Sen Alfred, PBS
 </p>
 
 <p style="font-family:arial;"><strong>Marsiling-Yew Tee GRC</strong>
+<br>Mdm Annu Ratha Jayaram	
 <br>Mr Chua Guang Long Benjamin
 <br>Madam Neo Ah Kwai Jennifer
 <br>Mr Rajendren s/o Ramaswamy
@@ -106,7 +107,7 @@ description: ""
 
 <p style="font-family:arial;"><strong>Sembawang GRC</strong>
 <br>Mr Cheong Kwee Thiam
-<br>Mr Goh Peng Hong BBM
+<br>Mr Goh Peng Hong, BBM
 <br>Madam Kamaria Binte Djorimi
 </p>
 
