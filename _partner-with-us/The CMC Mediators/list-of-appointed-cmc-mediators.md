@@ -24,7 +24,7 @@ Ms Chan King Chi<br>
 Ms Chan Wei Ling<br>
 Mr Cheam Jinn Leung<br>
 Mr Cheong Aik Chye<br>
-Mr Cheong Kwee Thiam
+Mr Cheong Kwee Thiam<br>
 Mr Chew Chuan Kim, PBM<br>
 Mr Chew Yew Kuen Michael, PBM<br>
 Mrs Chia Swee Tin, JP (Retired), PBM<br>
