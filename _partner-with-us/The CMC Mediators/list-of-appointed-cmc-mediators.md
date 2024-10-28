@@ -18,7 +18,6 @@ Mr Ang Kiat Seng Jeffrey, PBM<br>
 Mr Ang Swee Nam Alec, PBM<br>
 Madam Ang Yun Han Jacqueline<br>
 Madam Annu Ratha Jayaram<br>
-Ms Aw Sze Min<br>
 Mr Chan Jason<br>
 Ms Chan King Chi<br>
 Ms Chan Wei Ling<br>
@@ -36,7 +35,6 @@ Mr Chong Yue-En<br>
 Mr Choy Khiong Rick<br>
 Mr Chua Guang Long Benjamin<br>
 Mr Chung Kwang Tong<br>
-Mr Desouza Karl Francis<br>
 Mr Edwin Tan Beng Lok<br>
 Mr Faris Danial Lau Chang Yi Bin Muhammad Heikel Lau<br>
 Mr Foo F.Y. Patrick<br>
@@ -51,7 +49,6 @@ Mr Goh Miah Meng<br>
 Mr Goh Peng Hong, BBM<br>
 Mr Gopala Krishnan, JP, BBM, PBM<br>
 Ms Harjeet Kaur Dhaliwal<br>
-Mr Ho Siew Cheong<br>
 Ms Hoon Shu Mei Sumathi<br>
 Mr Indu Kumar s/o Vasudevan<br>
 Mr Jayaperakash Jayadevan<br>
@@ -62,10 +59,8 @@ Madam Kadariah Maunah<br>
 Mr Kamalarajan M Chettiar<br>
 Madam Kamaria Binte Djorimi<br>
 Mr Kee Hung Cheng Steven, PBM<br>
-Mr Kevin Luke Kan Peng Hong<br>
 Mr Khng Joo Seng George<br>
 Madam Kum Diane<br>
-Mr Kwong Sze Ken Adrian<br>
 Mr Lau Kim Sui Andy, PBS<br>
 Dr Lau Yan Yong Christina, PBM<br>
 Mr Lee Boon Yew James<br>
@@ -93,7 +88,6 @@ Mr Low Chia Leong Steven<br>
 Ms Low Hwee Tian Catherine<br>
 Mr Low Lee Hean Edmund, PBM<br>
 Mr Lulla Ammar Khan<br>
-Ms Lydia Lim Ying Mei<br>
 Mr Ma Keow Yuen<br>
 Mr Ma Poh How, PBM<br>
 Mr Mahadevan Lukshumayeh<br>
@@ -112,7 +106,6 @@ Mr Ng Yong Ern Raymond<br>
 Mr Ong Leok Poon Ivan<br>
 Mr P. Thirunal Karasu, BBM (L), JP, BBM, PBM<br>
 Madam Patricia Chiota<br>
-Mr Perinpanayagam James<br>
 Mr Phan Kim Huat Peter<br>
 Mr Poh Yong Meng Stephen, PBM<br>
 Mr Raja Mohan M K, PBM<br>
@@ -127,17 +120,14 @@ Madam Seah Wei Li Francesca Lynn<br>
 Mr Seah Yee Men Vincent<br>
 Mr Selvaduray s/o Manikam<br>
 Dr Selvakumar Simon s/o Silvaraj<br>
-Mr Seow Shin Horng<br>
 Mr Shahib Maricar<br>
 Mr Sim Puay Jain Edwin<br>
 Ms Sithararani Doriasamy, BBM<br>
 Mrs Smitha Venkatesh<br>
 Mr Soh Zeng Sheng<br>
-Mr Sudhershen Hariram<br>
 Mr Sunil Rai<br>
 Mr T Pirakash<br>
 Mr Tan Emmanuel<br>
-Mr Tan Kan Hang Eddie<br>
 Ms Tan Keow Mui Cindy<br>
 Mr Tan Lam Siong<br>
 Mr Tan Teow Koon<br>
@@ -153,9 +143,7 @@ Madam Uma Devi d/o Sumeshwar, PBM<br>
 Mr V. Krishna, PPA (P), BBM, PBM, PBS<br>
 Mr Venkatesh Narasiah<br>
 Mr Wee Pang Kiat, JP, BBM, PBM<br>
-Ms Wong Chiou Torng<br>
 Dr Wong Kwan Ken Martin Magmarigen, PBM<br>
-Ms Wong Li-Jing Gail<br>
 Mr Wong Louis<br>
 Mr Wong Ngiam Chin Eric, JP, BBM (L), BBM, PBM<br>
 Madam Wong Siew Yin June<br>
@@ -171,5 +159,4 @@ Mr Yeo Peng Keng Steven, PBM<br>
 Mr Yeo Yong Chuan<br>
 Mr Yeow Boon Kiang<br>
 Mr Yip Hon Weng<br>
-Mr Yoong Wee Sen Alfred, PBS<br>
-Mr Zhong Ye David<br></p>
+Mr Yoong Wee Sen Alfred, PBS<br></p>
