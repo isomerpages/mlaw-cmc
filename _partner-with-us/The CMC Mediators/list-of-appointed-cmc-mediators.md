@@ -16,9 +16,9 @@ Mr	Abdul Harris Madon Bin Gani <br>
 Mr Alexander Santhosarajan s/o Singhamuthu<br>
 Mr Ang Kiat Seng Jeffrey, PBM<br>
 Mr Ang Swee Nam Alec, PBM<br>
-Ms Aw Sze Min<br>
 Madam Ang Yun Han Jacqueline<br>
 Madam Annu Ratha Jayaram<br>
+Ms Aw Sze Min<br>
 Mr Chan Jason<br>
 Ms Chan King Chi<br>
 Ms Chan Wei Ling<br>
@@ -110,9 +110,9 @@ Mr Ng Lee Chye John, BBM, PBM<br>
 Mr Ng Pak Shun<br>
 Mr Ng Yong Ern Raymond<br>
 Mr Ong Leok Poon Ivan<br>
-Mr Perinpanayagam James<br>
 Mr P. Thirunal Karasu, BBM (L), JP, BBM, PBM<br>
 Madam Patricia Chiota<br>
+Mr Perinpanayagam James<br>
 Mr Phan Kim Huat Peter<br>
 Mr Poh Yong Meng Stephen, PBM<br>
 Mr Raja Mohan M K, PBM<br>
