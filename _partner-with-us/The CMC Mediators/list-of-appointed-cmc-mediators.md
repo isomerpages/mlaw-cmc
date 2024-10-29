@@ -52,7 +52,7 @@ Mr Goh Peng Hong, BBM<br>
 Mr Gopala Krishnan, JP, BBM, PBM<br>
 Ms Harjeet Kaur Dhaliwal<br>
 Mr Ho Siew Cheong<br>
-Ms Hoon Shu Mei Sumathi<br>
+Ms Hoon Shu Mei, Sumathi<br>
 Mr Indu Kumar s/o Vasudevan<br>
 Mr Jayaperakash Jayadevan<br>
 Mr Jayems Dhingra<br>
