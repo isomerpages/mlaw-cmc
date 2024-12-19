@@ -6,7 +6,16 @@ third_nav_title: CMC in Photos
 variant: tiptap
 ---
 <h1>Gallery</h1>
+<p><strong>2024</strong>
+</p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MACAD 2024/101624_CMC_Mediators_Appointment_Ceremoney_Dinner_2024_235.jpg">
+</div>
+<p></p>
+<p><a href="/about-us/macad-appointment-awards-ceremony-2024/" rel="noopener nofollow" target="_blank">MACAD Appointment &amp; Award Ceremony 2024</a>
+</p>
 <p><strong>2022</strong>
 </p>
 <p></p>
