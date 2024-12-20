@@ -1,9 +1,10 @@
 ---
-title: MACAD Appointment & Award Ceremony 2022
+title: MACAD Appointment & Awards Ceremony 2022
 permalink: /about-us/macad2022-awardees/
 breadcrumb: MACAD Appointment & Award Ceremony 2022
 third_nav_title: CMC in Photos
 variant: tiptap
+description: ""
 ---
 <p><strong>MACAD Appointment &amp; Award Ceremony 2022</strong>
 <br>

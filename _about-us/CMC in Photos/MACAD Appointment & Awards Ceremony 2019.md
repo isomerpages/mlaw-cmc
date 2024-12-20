@@ -1,12 +1,11 @@
 ---
-title: 'MACAD Appointment & Award Ceremony 2019'
+title: MACAD Appointment & Awards Ceremony 2019
 permalink: /about-us/macad2019-awardees/
-breadcrumb: 'MACAD Appointment & Award Ceremony 2019'
-third_nav_title: 'CMC in Photos'
-
+breadcrumb: MACAD Appointment & Award Ceremony 2019
+third_nav_title: CMC in Photos
+variant: tiptap
+description: ""
 ---
-
-
 <style>
   .row .col img {
   width: 200px;
@@ -14,7 +13,7 @@ third_nav_title: 'CMC in Photos'
 }
 </style>
 
-## MACAD Appointment & Award Ceremony 2019
+## MACAD Appointment &amp; Award Ceremony 2019
 
 <div class="row">
   <div class="col is-4">
