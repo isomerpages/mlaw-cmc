@@ -34,6 +34,9 @@ Mr Lim Teck Whai Terence<br>
 
 </p><p style="font-family:arial;"><strong>Hougang SMC</strong><br>
 Mr Raja Mohan M K, PBM<br>
+	
+</p><p style="font-family:arial;"><strong>Holland - Bukit Timah GRC</strong><br>
+Mr Kevin Luke Kan Peng Hong<br>
 
 </p><p style="font-family:arial;"><strong>Jalan Besar GRC</strong><br>
 Mr Chiang Heng Liang, BBM, PBM<br>
