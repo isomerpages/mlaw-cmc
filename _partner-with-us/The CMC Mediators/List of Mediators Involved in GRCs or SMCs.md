@@ -44,6 +44,11 @@ description: ""
 <br>
 </p>
 
+<p style="font-family:arial;"><strong>Holland - Bukit Timah GRC</strong>
+<br>Mr Kevin Luke Kan Peng Hong
+<br>
+</p>
+
 <p style="font-family:arial;"><strong>Jalan Besar GRC</strong>
 <br>Mr Chiang Heng Liang, JP, BBM, PBM
 <br>Mr Khng Joo Seng George
