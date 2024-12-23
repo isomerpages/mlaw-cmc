@@ -44,7 +44,7 @@ description: ""
 <br>
 </p>
 
-<p style="font-family:arial;"><strong>Holland - Bukit Timah GRC</strong>
+<p style="font-family:arial;"><strong>Holland-Bukit Timah GRC</strong>
 <br>Mr Kevin Luke Kan Peng Hong
 <br>
 </p>
