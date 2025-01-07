@@ -6,26 +6,26 @@ notification: ""
 sections:
   - hero:
       title: Community Mediation Centre
-      subtitle: CMC provides mediation services for residents to resolve relational,
-        community and social disputes
-      background: /images/Hero-Banner-Minlaw.jpg
+      subtitle: Being in a dispute can lead to anxiety and stress. Let us help. Apply
+        for mediation at the CMC today.
+      background: /images/Web Revamp pics/Homepage.png
       button: Apply
       url: /e-services/apply-online/
       key_highlights:
-        - title: About Mediation
-          description: How mediation is conducted<br>at the CMC
+        - title: what is mediation
+          description: ""
           url: /apply-for-mediation/the-mediation-process/
-        - title: What's New
-          description: Watch our new video
+        - title: Why use mediation
+          description: ""
           url: /publications/whats-new/
-        - title: Apply for Mediation
-          description: Where to apply for mediation<br>at the CMC
+        - title: When you should use mediation
+          description: ""
           url: /apply-for-mediation/ways-to-apply-for-mediation/
-        - title: Volunteer with Us
-          description: Be a CMC Volunteer Mediator
+        - title: How to apply
+          description: ""
           url: /partner-with-us/apply-to-volunteer/
-      variant: center
-      size: sm
+      variant: floating
+      size: md
       backgroundColor: gray
       alignment: right
 description: Description
