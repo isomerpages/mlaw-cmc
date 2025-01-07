@@ -28,6 +28,14 @@ sections:
       size: md
       backgroundColor: gray
       alignment: right
+  - infopic:
+      title: Step into our mediation room
+      id: infopic
+      description: Find out what sets us apart. Watch this video and hear directly
+        from our mediators on why mediation works.
+      button: watch our video here
+      url: https://cmc.mlaw.gov.sg/apply-for-mediation/our-services/
+      image: /images/Web Revamp pics/infopic_thumbnail.png
 description: Description
 image: /images/isomer-logo.svg
 ---
