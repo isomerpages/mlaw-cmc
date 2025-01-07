@@ -19,6 +19,10 @@ in conflict. Through joint or private session, the mediator will define
 the issues in conflict, clarify the parties’ positions and interests and
 guide the parties towards coming up with their own solutions.</p>
 <p></p>
+<p>Watch the following video to find out how mediation is done at the CMC.</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dxFeDOSdi6E?si=8P1z601tdC53VD6R"></iframe>
+</div>
 <p></p>
 <p></p>
 <p></p>
