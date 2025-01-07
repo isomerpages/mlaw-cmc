@@ -36,6 +36,7 @@ sections:
       button: watch our video here
       url: https://cmc.mlaw.gov.sg/apply-for-mediation/our-services/
       image: /images/Web Revamp pics/infopic_thumbnail.png
+      alt: CMC's Corporate Video
 description: Description
 image: /images/isomer-logo.svg
 ---
