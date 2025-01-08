@@ -76,6 +76,15 @@ sections:
         solutions.
       button: FIND OUT MORE
       url: https://cmc.mlaw.gov.sg/apply-for-mediation/our-services/
+  - infopic:
+      title: Our Story
+      id: infopic
+      description: Discover the heart of CMC and our commitment to resolving
+        conflicts. Click to learn how we can support you through mediation.
+      button: FIND OUT MORE ABOUT US
+      url: https://cmc.mlaw.gov.sg/about-us/about-us/
+      image: /images/Web Revamp pics/Handshake_Icon.png
+      alt: Handshake_Our Story
 description: Description
 image: /images/isomer-logo.svg
 ---
