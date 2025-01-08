@@ -2,6 +2,7 @@ collections:
   publications:
     output: true
     order:
+      - Mediators Portal.md
       - Refer a Case to CMC.md
       - Apply Online.md
       - MACAD Appointment & Awards Ceremony 2024.md
