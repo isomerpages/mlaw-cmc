@@ -1,4 +1,5 @@
 collections:
   our-service:
     output: true
-    order: []
+    order:
+      - Mediation at the CMC.md
