@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - Our Logo.md
-      - Our Story.md
       - About Us.md
+      - Our Story.md
+      - Our Logo.md
       - Our Team.md
       - SIMI QAP.md
