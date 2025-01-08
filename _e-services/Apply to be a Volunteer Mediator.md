@@ -29,6 +29,10 @@ description: ""
 <p></p>
 </li>
 <li>
+<p>You are currently / were active in community / voluntary work;</p>
+<p></p>
+</li>
+<li>
 <p>Have attained at least a Level 1 Accreditation from the Singapore International
 Mediation Institute within thelast 2 years; and</p>
 <p></p>
@@ -38,4 +42,12 @@ Mediation Institute within thelast 2 years; and</p>
 through mediation.</p>
 </li>
 </ol>
+<p></p>
+<p>Selection interviews are conducted in the last quarter of each year. Only
+suitable candidates will be invited for an interview.</p>
+<p></p>
+<p><strong><a href="https://go.gov.sg/cmcvolunteermediatorapplicationform" rel="noopener noreferrer nofollow" target="_blank"><u>Apply online</u></a> </strong>to
+become a CMC Volunteer Mediator.</p>
+<p></p>
+<p>This form may take you up to 5-10 minutes to complete.</p>
 <p></p>
