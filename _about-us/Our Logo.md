@@ -4,7 +4,7 @@ permalink: /our-logo/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<h2>Logo</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" title="Mission and Logo" alt="Mission and Logo" src="/images/1544581758019.jpg">
 </div>
@@ -18,4 +18,8 @@ approachability and optimism.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2K9yrnyQDp4?rel=0"></iframe>
 </div>
+<h2>Mission</h2>
+<p>To provide an attractive, practical and convenient solution for relational&nbsp;and&nbsp;
+community&nbsp; disputes&nbsp; in&nbsp; Singapore.</p>
+<p>We have mediated more than 11,000 cases with a success rate of about 80%.</p>
 <p></p>
