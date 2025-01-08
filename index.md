@@ -8,7 +8,7 @@ sections:
       title: Community Mediation Centre
       subtitle: Being in a dispute can lead to anxiety and stress. Let us help. Apply
         for mediation at the CMC today.
-      background: /images/Web Revamp pics/people_sitting_table_shaking_hands_120.png
+      background: /images/Web Revamp pics/Homepage_120.png
       button: Apply
       url: /e-services/apply-online/
       key_highlights:
