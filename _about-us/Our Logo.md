@@ -18,8 +18,5 @@ approachability and optimism.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2K9yrnyQDp4?rel=0"></iframe>
 </div>
-<h2>Mission</h2>
-<p>To provide an attractive, practical and convenient solution for relational&nbsp;and&nbsp;
-community&nbsp; disputes&nbsp; in&nbsp; Singapore.</p>
-<p>We have mediated more than 11,000 cases with a success rate of about 80%.</p>
+<h2></h2>
 <p></p>
