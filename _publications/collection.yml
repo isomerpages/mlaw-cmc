@@ -2,6 +2,7 @@ collections:
   publications:
     output: true
     order:
+      - Mission and Logo.md
       - History.md
       - mediators-portal.md
       - edms.md
