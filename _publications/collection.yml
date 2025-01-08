@@ -2,5 +2,6 @@ collections:
   publications:
     output: true
     order:
+      - mediators-portal.md
       - edms.md
       - book-of-50-community-mediation-stories.md
