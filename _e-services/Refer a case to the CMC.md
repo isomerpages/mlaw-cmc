@@ -13,7 +13,7 @@ Parliament, People’s Association, or others.</p>
 <p>• Call the Ministry of Law Enquiry Line at <strong>6225 5529 </strong>(Monday
 to Friday, 8:30am to5:00pm, excluding weekends and public holidays).</p>
 <p></p>
-<p>•Use the <strong>CMC Referral Form</strong>: <a href="https://cmc.intranet.mlaw.gov.sg/agency-login" rel="noopener noreferrer nofollow" target="_blank"><u>Agency Login</u></a>.</p>
+<p>• Use the <strong>CMC Referral Form</strong>: <a href="https://cmc.intranet.mlaw.gov.sg/agency-login" rel="noopener noreferrer nofollow" target="_blank"><u>Agency Login</u></a>.</p>
 <p></p>
 <p><strong>For Non-Governmental or Voluntary Welfare Organisations:</strong>
 </p>
