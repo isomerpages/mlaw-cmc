@@ -2,6 +2,7 @@ collections:
   our-mediators:
     output: false
     order:
+      - List of Appointed CMC Mediators.md
       - Introduction.md
       - List of Mediators Involved in GRCs or SMCs.md
       - advisory-committee-on-community-mediation.md
