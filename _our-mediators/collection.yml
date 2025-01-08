@@ -3,6 +3,6 @@ collections:
     output: false
     order:
       - Introduction.md
-      - mediators-involved-in-grcs-smcs.md
+      - List of Mediators Involved in GRCs or SMCs.md
       - advisory-committee-on-community-mediation.md
       - mediators-portal.md
