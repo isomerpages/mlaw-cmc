@@ -37,6 +37,37 @@ sections:
       url: https://cmc.mlaw.gov.sg/apply-for-mediation/our-services/
       image: /images/Web Revamp pics/infopic_thumbnail.png
       alt: CMC's Corporate Video
+  - infocols:
+      title: Discover why you should choose mediation
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: We Safeguard Your Privacy
+          description: At CMC, your privacy is protected. Mediation discussions and your
+            identity remain strictly confidential.
+        - title: Your Time Matters to Us
+          description: Our 2-hour sessions run weekdays or Sat mornings. Need more time?
+            Just let us know. We’re here to help!
+        - title: We Are Located Near You
+          description: CMC offers in-person mediation at 16 venues islandwide or virtual
+            sessions. It's convenient and accessible for you.
+        - title: We Understand Affordability Matters
+          description: Mediation at the CMC is free. This includes any additional
+            mediation sessions that you may require.
+  - infocols:
+      title: More reasons why mediation is for you
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: Craft Flexible Solutions Together
+          description: Mediation helps you explore creative, workable solutions tailored
+            to your needs, with guidance from our mediators.
+        - title: We Preserve Your Relationships Post-Mediation
+          description: We help you maintain harmony at home and in your neighbourhood,
+            even after resolving conflicts.
+        - title: We Provide A Safe Space To Resolve Disputes
+          description: In a calm, neutral space, our mediation sessions help turn tension
+            into understanding and resolution.
 description: Description
 image: /images/isomer-logo.svg
 ---
