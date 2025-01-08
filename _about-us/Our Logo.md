@@ -4,10 +4,9 @@ permalink: /our-logo/
 variant: tiptap
 description: ""
 ---
-<p>To provide an attractive, practical and convenient solution for social
-and community disputes in Singapore.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 400px" height="auto" width="100%" title="Mission and Logo" alt="Mission and Logo" src="/images/1544581758019.jpg">
+<img style="width: 100%;" height="auto" width="100%" title="Mission and Logo" alt="Mission and Logo" src="/images/1544581758019.jpg">
 </div>
 <p>The two “Cs” in the logo symbolise the disputing parties. The “M” represents
 the mediator acting as the uniting force. The gradient arc reflects CMC’s
