@@ -4,7 +4,7 @@ permalink: /apply-online/
 variant: tiptap
 description: ""
 ---
-<p>• Apply <u>online</u>
+<p>• Apply <a href="https://eservices.mlaw.gov.sg/cmc/mediatorsportal/direct-intake/" rel="noopener nofollow" target="_blank">online</a>
 </p>
 <p></p>
 <p>• Apply by calling our enquiry line at <strong>6225 5529 </strong>during
