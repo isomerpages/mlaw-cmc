@@ -68,6 +68,14 @@ sections:
         - title: We Provide A Safe Space To Resolve Disputes
           description: In a calm, neutral space, our mediation sessions help turn tension
             into understanding and resolution.
+  - infobar:
+      title: Mediation at the CMC
+      id: infobar
+      description: CMC helps resolve relational and community disputes in Singapore.
+        Our trained mediators guide you with empathy to find practical
+        solutions.
+      button: FIND OUT MORE
+      url: https://cmc.mlaw.gov.sg/apply-for-mediation/our-services/
 description: Description
 image: /images/isomer-logo.svg
 ---
