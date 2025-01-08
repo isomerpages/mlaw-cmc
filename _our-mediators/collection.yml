@@ -2,6 +2,7 @@ collections:
   our-mediators:
     output: false
     order:
+      - Introduction.md
       - mediators-involved-in-grcs-smcs.md
       - advisory-committee-on-community-mediation.md
       - mediators-portal.md
