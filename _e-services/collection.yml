@@ -2,6 +2,7 @@ collections:
   e-services:
     output: true
     order:
+      - What's New.md
       - Apply Online.md
       - Refer a Case to CMC.md
       - Mediators Portal.md
