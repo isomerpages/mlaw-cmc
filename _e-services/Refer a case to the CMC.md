@@ -19,6 +19,6 @@ to Friday, 8:30am to5:00pm, excluding weekends and public holidays).</p>
 <p>•Call the Ministry of Law Enquiry Line at <strong>6225 5529 </strong>(Monday
 to Friday, 8:30am to5:00pm, excluding weekends and public</p>
 <p>holidays).</p>
-<p>•Submit your referral online: <a href="" rel="noopener nofollow" target="_blank">I am a representative from an agency and wouldlike to refer a case.</a>
+<p>•Submit your referral online: <a href="https://form.gov.sg/5dbfebfa1b03c2001911fc19" rel="noopener nofollow" target="_blank">I am a representative from an agency and wouldlike to refer a case.</a>
 </p>
 <p>For further assistance, please call <strong>6225 5529</strong>.</p>
