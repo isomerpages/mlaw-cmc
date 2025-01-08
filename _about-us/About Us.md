@@ -2,16 +2,24 @@
 title: About Us
 permalink: /about-us/about-us/
 breadcrumb: About Us
-variant: markdown
+variant: tiptap
 description: ""
 ---
-<h1> About Us</h1>
-<div class="isomer-image-wrapper">
-<img style="width: 600px" height="auto" width="100%" title="About Us" alt="About Us" src="/images/1504082743734.png">
-</div>
-<p style="font-family:Arial;">The Community Mediation Unit is the people behind the operations, administration and management of the Community Mediation Centre (CMC). Full-time public
-service officers of the Ministry of Law manage the administration of mediation
-cases, management of CMC Volunteer Mediators, publicity and outreach work
-as well as other administrative matters.</p>
+<h1>About Us</h1>
+<p>The CMC is a department under the Ministry of Law. As part of our goal
+in providing access to justice, weare here to help residents in Singapore
+resolve disputes, foster positive and harmonious relationshipswithin our
+communities, keeping tensions on the ground low and promoting greater understandingamong
+one another.</p>
 <p></p>
+<p>Managed by full-time public service officers of the Ministry of Law, our
+role is to be responsible for theoperations, administration, and management
+of the CMC. We handle everything from the administration ofmediation cases
+and the management of our Volunteer Mediators to publicity, outreach work,
+and otheradministrative matters.</p>
+<p></p>
+<p>At the CMC, we provide a valuable alternative for residents to address
+and resolve conflicts, ensuring thatcommunity ties are strengthened and
+preserved. By offering a neutral space for open dialogue, we aim totransform
+disputes into opportunities for mutual understanding.</p>
 <p></p>
