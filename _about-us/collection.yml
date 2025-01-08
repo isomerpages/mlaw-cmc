@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - About Us.md
-      - Organisation Structure.md
+      - Our Team.md
       - SIMI QAP.md
       - CMC in Photos/.keep
       - CMC in Photos/gallery.md
