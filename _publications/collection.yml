@@ -2,6 +2,7 @@ collections:
   publications:
     output: true
     order:
+      - What's New.md
       - Mediators Portal.md
       - Refer a Case to CMC.md
       - Apply Online.md
