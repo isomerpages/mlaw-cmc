@@ -4,17 +4,38 @@ permalink: /apply-to-be-a-volunteer-mediator/
 variant: tiptap
 description: ""
 ---
-<p>Access the <strong>Mediators Portal </strong><a href="https://chatgpt.com/c/0ebeb4e7-58b4-4788-aae9-51727a3f6945" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+<p><strong>To apply as a CMC Volunteer Mediator, you have to meet the following criteria:</strong>
+</p>
 <p></p>
-<p>The portal supports CMC’s volunteer mediators with key features such as:</p>
-<p>• Updating personal details</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>You are a Singapore Citizen or Singapore Permanent Resident;</p>
 <p></p>
-<p>• Indicating interest in mediation sessions</p>
+</li>
+<li>
+<p>Aged 30 years and above;</p>
 <p></p>
-<p>• Viewing case details for assigned mediation sessions</p>
+</li>
+<li>
+<p>Fluent in written and spoken English;</p>
 <p></p>
-<p>• Registering for training and workshops</p>
+</li>
+<li>
+<p>Proficient in speaking a local language or dialect;</p>
 <p></p>
-<p>• Tracking individual performance</p>
+</li>
+<li>
+<p>Proficient in using the Zoom virtual platform to conduct mediation;</p>
 <p></p>
-<p>• Applying for higher levels of SIMI Accreditation</p>
+</li>
+<li>
+<p>Have attained at least a Level 1 Accreditation from the Singapore International
+Mediation Institute within thelast 2 years; and</p>
+<p></p>
+</li>
+<li>
+<p>You are interested in contributing towards creating a more cohesive Singapore
+through mediation.</p>
+</li>
+</ol>
+<p></p>
