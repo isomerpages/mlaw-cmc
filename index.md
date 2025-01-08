@@ -85,6 +85,24 @@ sections:
       url: https://cmc.mlaw.gov.sg/about-us/about-us/
       image: /images/Web Revamp pics/Handshake_Icon.png
       alt: Handshake_Our Story
+  - textcards:
+      title: Latest News
+      subtitle: Us in the media
+      id: textcards
+      cards:
+        - title: Mediator's Point of View
+          description: Watch this "livestream" to find out the behind the scene of
+            mediation.
+          linktext: View Full Video
+          url: https://cmc.mlaw.gov.sg/publications/whats-new/
+        - title: Speeches
+          description: Find out the latest development in mediation.
+          linktext: Learn More
+          url: ""
+        - title: News
+          description: Catch our latest work available in public!
+          linktext: Learn more
+          url: ""
 description: Description
 image: /images/isomer-logo.svg
 ---
