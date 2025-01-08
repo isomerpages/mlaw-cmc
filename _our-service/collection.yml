@@ -2,7 +2,7 @@ collections:
   our-service:
     output: true
     order:
-      - Modes of Mediation.md
-      - Types of Disputes Suitable for Mediation.md
-      - The CMC Mediation Process.md
       - Mediation at the CMC.md
+      - The CMC Mediation Process.md
+      - Types of Disputes Suitable for Mediation.md
+      - Modes of Mediation.md
