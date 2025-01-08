@@ -4,7 +4,6 @@ permalink: /our-logo/
 variant: tiptap
 description: ""
 ---
-<h2>Mission and Logo</h2>
 <p>To provide an attractive, practical and convenient solution for social
 and community disputes in Singapore.</p>
 <div class="isomer-image-wrapper">
