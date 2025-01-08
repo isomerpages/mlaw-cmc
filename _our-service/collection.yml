@@ -2,4 +2,5 @@ collections:
   our-service:
     output: true
     order:
+      - The CMC Mediation Process.md
       - Mediation at the CMC.md
