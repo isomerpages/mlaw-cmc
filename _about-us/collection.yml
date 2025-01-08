@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Logo.md
       - Our Story.md
       - About Us.md
       - Our Team.md
