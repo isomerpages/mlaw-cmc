@@ -2,5 +2,6 @@ collections:
   our-service:
     output: true
     order:
+      - Types of Disputes Suitable for Mediation.md
       - The CMC Mediation Process.md
       - Mediation at the CMC.md
