@@ -2,6 +2,7 @@ collections:
   publications:
     output: true
     order:
+      - MACAD 2018 (20th Anniversary Celebrations).md
       - gallery.md
       - Mission and Logo.md
       - History.md
