@@ -4,7 +4,6 @@ permalink: /apply-online/
 variant: tiptap
 description: ""
 ---
-<h2>Apply</h2>
 <p>• Apply <u>online</u>
 </p>
 <p></p>
