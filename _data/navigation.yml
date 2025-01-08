@@ -2,13 +2,11 @@ logo: /images/cmc-logo.png
 links:
   - title: About Us
     collection: about-us
-  - title: Self-Manage Conflicts
+  - title: Our Services
     collection: self-manage-conflicts
-  - title: Mediation
+  - title: Our Mediators
     collection: apply-for-mediation
   - title: E-Services
     collection: e-services
-  - title: Partners
+  - title: Contact Us
     collection: partner-with-us
-  - title: Publications
-    collection: publications
