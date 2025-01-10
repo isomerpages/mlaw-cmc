@@ -79,7 +79,7 @@ sections:
   - infopic:
       title: Our Story
       id: infopic
-      description: Discover the heart of CMC and our commitment to resolving
+      description: Discover the heart of the CMC and our commitment to resolving
         conflicts. Click to learn how we can support you through mediation.
       button: FIND OUT MORE ABOUT US
       url: https://cmc.mlaw.gov.sg/about-us/about-us/
