@@ -95,7 +95,7 @@ sections:
           description: Watch this "livestream" to find out the behind the scene of
             mediation.
           linktext: View Full Video
-          url: https://cmc.mlaw.gov.sg/publications/whats-new/
+          url: https://www.instagram.com/reel/C0k-8GUuYBp/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
         - title: Speeches
           description: Find out the latest development in mediation.
           linktext: Learn More
