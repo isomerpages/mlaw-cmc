@@ -44,14 +44,14 @@ sections:
       linktext: Learn more
       infoboxes:
         - title: We Safeguard Your Privacy
-          description: At CMC, your privacy is protected. Mediation discussions and your
-            identity remain strictly confidential.
+          description: At  the CMC, your privacy is protected. Mediation discussions and
+            your identity remain strictly confidential.
         - title: Your Time Matters to Us
-          description: Our 2-hour sessions run weekdays or Sat mornings. Need more time?
-            Just let us know. We’re here to help!
+          description: Our 2-hour sessions run weekdays or Saturday mornings. Need more
+            time? Just let us know. We’re here to help!
         - title: We Are Located Near You
-          description: CMC offers in-person mediation at 16 venues islandwide or virtual
-            sessions. It's convenient and accessible for you.
+          description: The CMC offers in-person mediation at 16 venues islandwide or
+            virtual sessions. It's convenient and accessible for you.
         - title: We Understand Affordability Matters
           description: Mediation at the CMC is free. This includes any additional
             mediation sessions that you may require.
