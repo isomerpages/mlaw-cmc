@@ -99,7 +99,7 @@ sections:
         - title: Speeches
           description: Find out the latest development in mediation.
           linktext: Learn More
-          url: ""
+          url: https://www.mlaw.gov.sg/news/parliamentary-speeches/
         - title: News
           description: Catch our latest work available in public!
           linktext: Learn more
