@@ -12,12 +12,6 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<h3><strong>Benefits</strong></h3>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p></p>
 <p><strong>1: Registration</strong>
 </p>
 <p>Arrive at least 20 minutes before the session to register andcomplete
