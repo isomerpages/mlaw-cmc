@@ -67,8 +67,8 @@ sections:
           description: We help you maintain harmony at home and in your neighbourhood,
             even after resolving conflicts.
         - title: We Provide A Safe Space To Resolve Disputes
-          description: In a calm, neutral space, our mediation sessions help turn tension
-            into understanding and resolution.
+          description: In a calm, neutral space, our mediations help to turn tension into
+            understanding and resolution.
   - infobar:
       title: Mediation at the CMC
       id: infobar
