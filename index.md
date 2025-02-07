@@ -34,7 +34,7 @@ sections:
       description: Watch the video and hear from our mediators on why mediation works.
         Videos are available in English, Chinese, Malay and Tamil.
       button: watch our video here
-      url: https://cmc.mlaw.gov.sg/apply-for-mediation/our-services/
+      url: /apply-for-mediation/our-services/
       image: /images/Web Revamp pics/infopic_thumbnail.png
       alt: CMC's Corporate Video
   - infocols:
