@@ -32,7 +32,7 @@ description: ""
 <p>Minlaw Service Centre</p>
 </li>
 <li>
-<p>16 Satellite Locations</p>
+<p>18 Satellite Locations</p>
 </li>
 </ul>
 </th>
@@ -50,10 +50,12 @@ description: ""
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Off-site Zoom Mediation</p>
+<p><strong>Zoom Mediation</strong>
+</p>
 </li>
 <li>
-<p>Hybrid Mediation</p>
+<p><strong>Hybrid Mediation</strong>
+</p>
 </li>
 </ul>
 </td>
