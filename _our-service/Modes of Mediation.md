@@ -66,7 +66,7 @@ description: ""
 <p><strong>Satellite Mediation Venues</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/Satellite_Venues.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/SATELLITE_MEDIATION_CENTRE_2025.png">
 </div>
 </td>
 </tr>
