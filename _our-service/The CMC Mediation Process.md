@@ -14,9 +14,10 @@ description: ""
 <td rowspan="1" colspan="2">
 <p><strong>1: Registration</strong>
 </p>
-<p>Arrive at least 20 minutes before the session to register andcomplete
-the administrative process. Our officer willreceive you, help verify your
-identity and make sureeverything is in order before the mediation begins.</p>
+<p>Arrive at least <strong>20 minutes before</strong> the session to register
+and complete the administrative process. Our officer will receive you,
+help verify your identity and make sure everything is in order before the
+start of the mediation session.</p>
 </td>
 </tr>
 <tr>
@@ -24,29 +25,28 @@ identity and make sureeverything is in order before the mediation begins.</p>
 <p></p>
 <p><strong>2: Opening Statement</strong>
 </p>
-<p>Our mediator will begin with an opening statement, setting thetone for
-a constructive dialogue. Some ground rules willbe laid&nbsp; out&nbsp;
-to ensure&nbsp; everyone&nbsp; feels&nbsp; heard&nbsp; and&nbsp;respected
-throughout the process.</p>
+<p>Our mediator will begin with an opening statement to set the tone for
+a constructive dialogue. Some ground rules will be laid out to ensure everyone
+feels heard and respected throughout the process.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
 <p></p>
-<p><strong>3: Sharing your Perspective</strong>
+<p><strong>3: Sharing Your Perspective</strong>
 </p>
-<p>In a joint session at the CMC, you'll have the chance to shareyour perspective
-and explain your side of the storywithout interruptions.</p>
+<p>In a joint session at the CMC, you will have the chance to share your
+perspective and explain your side of the story without interruptions.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
 <p></p>
-<p><strong>4: Understanding each other</strong>
+<p><strong>4: Understanding Each Other</strong>
 </p>
-<p>After you've had your say, it's time to listen. The other partywill share
-their version of the dispute, and our mediatorwill help summarise the key
-issues raised.</p>
+<p>After you have had your say, it is time to listen. The other party will
+share their version of the dispute, and our mediator will help summarise
+the key issues raised.</p>
 </td>
 </tr>
 <tr>
@@ -54,10 +54,11 @@ issues raised.</p>
 <p></p>
 <p><strong>5: Confidential Discussions</strong>
 </p>
-<p>If there are sensitive matters that require private discussion,our&nbsp;
-mediator&nbsp; will&nbsp; speak&nbsp; to&nbsp; each party&nbsp; separately.&nbsp;
-Your confidentiality is important, and nothing will be sharedwithout your
-permission.</p>
+<p>If there are sensitive matters that require private discussion, our mediator
+will speak to each party separately. Your confidentiality is important
+to us –nothing will be shared without your permission.</p>
+<p>Our mediator may alternate between joint and private sessions to explore
+different solutions with both parties until a mutual agreement is reached.</p>
 </td>
 </tr>
 <tr>
@@ -65,9 +66,8 @@ permission.</p>
 <p></p>
 <p><strong>6: Reaching A Mutual Agreement</strong>
 </p>
-<p></p>
-<p>Our mediator may alternate between joint and private sessionsto explore
-different avenues until a mutual agreementis reached.</p>
+<p>Our mediator may alternate between joint and private sessions to explore
+different avenues until a mutual agreement is reached.</p>
 </td>
 </tr>
 <tr>
@@ -75,10 +75,9 @@ different avenues until a mutual agreementis reached.</p>
 <p></p>
 <p><strong>7: Finalising The Agreement</strong>
 </p>
-<p></p>
-<p>Once an agreement is reached, our mediator will document theterms. You'll
-have the opportunity to review and signthe agreement. A copy of the agreement
-will be provided toyou.</p>
+<p>Once an agreement is reached, our mediator will document the terms. You
+will have the opportunity to review the document before signing it. A copy
+of the agreement will be provided to you.</p>
 </td>
 </tr>
 <tr>
@@ -86,10 +85,10 @@ will be provided toyou.</p>
 <p></p>
 <p><strong>8: Conclusion</strong>
 </p>
-<p></p>
-<p>If an agreement couldn't be reached, we'll close the sessionrespectfully.
-You may choose to explore other options toaddress the dispute which includes
-seeking legal adviceor proceeding to the Courts.</p>
+<p>If an agreement cannot be reached, we will close the session respectfully.
+You may choose to explore other options to address the dispute, which may
+include seeking legal advice or proceeding to file an application with
+the Courts.</p>
 </td>
 </tr>
 </tbody>
