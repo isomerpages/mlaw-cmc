@@ -29,7 +29,7 @@ description: ""
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Minlaw Service Centre</p>
+<p>Minlaw Services Centre</p>
 </li>
 <li>
 <p>18 Satellite Locations</p>
