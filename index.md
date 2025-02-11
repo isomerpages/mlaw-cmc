@@ -31,8 +31,9 @@ sections:
   - infopic:
       title: Step into our mediation room
       id: infopic
-      description: Watch the video and hear from our mediators on why mediation works.
-        Videos are available in English, Chinese, Malay and Tamil.
+      description: Step into our mediation room. Hear from our mediators how mediation
+        works. Watch our video here. Available in English, Chinese, Malay and
+        Tamil.
       button: watch our video here
       url: /apply-for-mediation/our-services/
       image: /images/Web Revamp pics/infopic_thumbnail.png
@@ -43,16 +44,15 @@ sections:
       linktext: Learn more
       infoboxes:
         - title: Privacy
-          description: We protect your privacy. Identity and discussions are kept
-            confidential.
+          description: We respect your privacy. Details of mediation are kept confidential.
         - title: Time
-          description: An average mediation session is 2-hours long, available on weekday
-            afternoons or Saturday mornings.
+          description: A mediation session typically last about two hours and is available
+            on weekday afternoons and Saturday mornings.
         - title: Location
           description: We offer in-person mediation at 18 locations island wide and
             virtually.
         - title: Cost
-          description: Mediation at the CMC is free.
+          description: Mediation is free.
   - infocols:
       title: More reasons why mediation is for you
       id: infocols
@@ -64,8 +64,8 @@ sections:
           description: We know how important it is to have harmony at home and in your
             neighbourhood.
         - title: Safe
-          description: Use our calm and neutral space to discuss and turn tension into
-            understanding and resolution.
+          description: A neutral and safe space to communicate and turn tension into
+            understanding and resolutions.
   - infobar:
       title: Mediation at the CMC
       id: infobar
@@ -75,8 +75,8 @@ sections:
   - infopic:
       title: Our Story
       id: infopic
-      description: Discover why we do what we do.
-      button: FIND OUT MORE ABOUT US
+      description: Discover what we do.
+      button: FIND OUT MORE
       url: https://cmc.mlaw.gov.sg/about-us/about-us/
       image: /images/Web Revamp pics/Handshake_Icon.png
       alt: Handshake_Our Story
