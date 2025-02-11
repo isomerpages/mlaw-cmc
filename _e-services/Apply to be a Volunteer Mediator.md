@@ -34,7 +34,7 @@ description: ""
 </li>
 <li>
 <p>Have attained at least a Level 1 Accreditation from the Singapore International
-Mediation Institute within thelast 2 years; and</p>
+Mediation Institute within the last 2 years; and</p>
 <p></p>
 </li>
 <li>
