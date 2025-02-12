@@ -71,7 +71,7 @@ sections:
       id: infobar
       description: We help to resolve relational and community disputes in Singapore.
       button: FIND OUT MORE
-      url: /about-us/about-us/
+      url: /mediation-at-the-cmc/
   - infopic:
       title: Our Story
       id: infopic
