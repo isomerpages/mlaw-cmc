@@ -96,7 +96,7 @@ sections:
         - title: Photos
           description: Check out the latest photos.
           linktext: View Photos
-          url: ""
+          url: /about-us/macad-appointment-awards-ceremony-2024/
 description: Description
 image: /images/isomer-logo.svg
 ---
