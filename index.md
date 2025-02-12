@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: what is mediation
           description: ""
-          url: /apply-for-mediation/the-mediation-process/
+          url: /about-us/about-us/
         - title: Why choose mediation
           description: ""
           url: /publications/whats-new/
