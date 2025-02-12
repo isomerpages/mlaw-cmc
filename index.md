@@ -77,7 +77,7 @@ sections:
       id: infopic
       description: Discover what we do.
       button: FIND OUT MORE
-      url: https://cmc.mlaw.gov.sg/about-us/about-us/
+      url: /our-story/
       image: /images/Web Revamp pics/Handshake_Icon.png
       alt: Handshake_Our Story
   - textcards:
