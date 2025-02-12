@@ -23,7 +23,7 @@ sections:
           url: /types-of-disputes-suitable-for-mediation/
         - title: How to apply
           description: ""
-          url: /partner-with-us/apply-to-volunteer/
+          url: /apply-online/
       variant: floating
       size: md
       backgroundColor: gray
