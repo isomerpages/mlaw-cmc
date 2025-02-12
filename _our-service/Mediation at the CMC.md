@@ -18,3 +18,9 @@ you to define the issues, clarify positions and interests, and explore
 creative solutions tailored to your unique needs and circumstances.</p>
 <p><strong>Our aim is to empower you to resolve your dispute and move forward positively.</strong>
 </p>
+<p></p>
+<p>Watch the following video to find out how mediation is done at the CMC.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dxFeDOSdi6E?si=WGJAMRyeMN_oWQ15"></iframe>
+</div>
+<p></p>
