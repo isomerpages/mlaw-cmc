@@ -17,7 +17,7 @@ sections:
           url: /about-us/about-us/
         - title: Why choose mediation
           description: ""
-          url: /publications/whats-new/
+          url: /mediation-at-the-cmc/
         - title: When is mediation suitable
           description: ""
           url: /apply-for-mediation/ways-to-apply-for-mediation/
