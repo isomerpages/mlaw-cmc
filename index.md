@@ -20,7 +20,7 @@ sections:
           url: /mediation-at-the-cmc/
         - title: When is mediation suitable
           description: ""
-          url: /apply-for-mediation/ways-to-apply-for-mediation/
+          url: /types-of-disputes-suitable-for-mediation/
         - title: How to apply
           description: ""
           url: /partner-with-us/apply-to-volunteer/
