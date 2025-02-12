@@ -10,7 +10,7 @@ sections:
         today.
       background: /images/Web Revamp pics/Homepage_120.png
       button: Apply
-      url: /e-services/apply-online/
+      url: /apply-online/
       key_highlights:
         - title: what is mediation
           description: ""
