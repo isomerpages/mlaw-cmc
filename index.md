@@ -35,7 +35,7 @@ sections:
         works. Watch our video here. Available in English, Chinese, Malay and
         Tamil.
       button: watch our video here
-      url: /apply-for-mediation/our-services/
+      url: /mediation-at-the-cmc/
       image: /images/Web Revamp pics/infopic_thumbnail.png
       alt: CMC's Corporate Video
   - infocols:
