@@ -21,9 +21,6 @@ sections:
         - title: When is mediation suitable
           description: ""
           url: /types-of-disputes-suitable-for-mediation/
-        - title: How to apply
-          description: ""
-          url: /apply-online/
       variant: floating
       size: md
       backgroundColor: gray
@@ -53,33 +50,18 @@ sections:
             virtually.
         - title: Cost
           description: Mediation is free.
-  - infocols:
-      title: More reasons why mediation is for you
-      id: infocols
-      linktext: Learn more
-      infoboxes:
-        - title: Solutions
-          description: We help you find creative, workable solutions tailored to your needs.
-        - title: Relationships
-          description: We know how important it is to have harmony at home and in your
-            neighbourhood.
-        - title: Safe
-          description: A neutral and safe space to communicate and turn tension into
-            understanding and resolutions.
   - infobar:
       title: Mediation at the CMC
       id: infobar
       description: We help to resolve relational and community disputes in Singapore.
       button: FIND OUT MORE
       url: /about-us/about-us/
-  - infopic:
+  - infobar:
       title: Our Story
-      id: infopic
+      id: infobar
       description: Discover what we do.
       button: FIND OUT MORE
       url: /our-story/
-      image: /images/Web Revamp pics/Handshake_Icon.png
-      alt: Handshake_Our Story
   - textcards:
       title: Latest News
       subtitle: Us in the media
