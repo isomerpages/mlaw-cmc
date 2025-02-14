@@ -18,3 +18,9 @@ Mediators to publicity, outreach work, and other administrative matters.</p>
 amicably while ensuring that community ties are strengthened and preserved.</p>
 <p>By offering a neutral space for open dialogue, we aim to transform disputes
 into opportunities for mutual understanding.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1448512173351.jpg">
+</div>
+<p></p>
+<p></p>
