@@ -22,5 +22,7 @@ into opportunities for mutual understanding.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1448512173351.jpg">
 </div>
-<p></p>
+<p>Read 50 community mediation stories, Mending Fences Building Bridges,
+as told by our mediators.</p>
+<p>Click here to download a pdf copy.</p>
 <p></p>
