@@ -59,8 +59,7 @@ sections:
   - infobar:
       title: Our Story
       id: infobar
-      description: Discover what we do.
-      button: FIND OUT MORE
+      button: Discover what we do
       url: /our-story/
   - textcards:
       title: Latest News
