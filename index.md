@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: what is mediation
           description: ""
-          url: /about-us/about-us/
+          url: /our-story/
         - title: Why choose mediation
           description: ""
           url: /mediation-at-the-cmc/
