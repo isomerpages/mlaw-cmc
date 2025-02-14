@@ -24,5 +24,5 @@ into opportunities for mutual understanding.</p>
 </div>
 <p>Read 50 community mediation stories, Mending Fences Building Bridges,
 as told by our mediators.</p>
-<p>Click here to download a pdf copy.</p>
+<p>Click here to download a copy.</p>
 <p></p>
