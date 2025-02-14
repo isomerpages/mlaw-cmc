@@ -9,40 +9,45 @@ description: ""
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
-<p>You are a Singapore Citizen or Singapore Permanent Resident;</p>
+<p>Be a Singapore Citizen or Singapore Permanent Resident.</p>
 <p></p>
 </li>
 <li>
-<p>Aged 30 years and above;</p>
+<p>Be aged 30 years or older.</p>
 <p></p>
 </li>
 <li>
-<p>Fluent in written and spoken English;</p>
+<p>Be fluent in both written and spoken English.</p>
 <p></p>
 </li>
 <li>
-<p>Proficient in speaking a local language or dialect;</p>
+<p>Be proficient in a local language or dialect.</p>
 <p></p>
 </li>
 <li>
-<p>Proficient in using the Zoom virtual platform to conduct mediation;</p>
+<p>Be comfortable using the Zoom platform for conducting mediation.</p>
 <p></p>
 </li>
 <li>
-<p>You are currently / were active in community / voluntary work;</p>
+<p>Actively involved in community or voluntary work, either currently or
+in the past, is important.</p>
 <p></p>
 </li>
 <li>
 <p>Have attained at least a Level 1 Accreditation from the Singapore International
-Mediation Institute within the last 2 years; and</p>
+Mediation Institute (SIMI) within the last two years.</p>
 <p></p>
 </li>
 <li>
-<p>You are interested in contributing towards creating a more cohesive Singapore
-through mediation.</p>
+<p>Has an interest in contributing to building a gracious and harmonious
+community in Singapore.</p>
 </li>
 </ol>
 <p></p>
+<p>The CMC recruits new volunteers every year, with applications closing
+at the end of September.</p>
+<p>Selected candidates will be invited to attend the Selection Interviews,
+which are usually held from October to November each year.</p>
 <p>Selection interviews are conducted in the last quarter of each year. Only
 suitable candidates will be invited for an interview.</p>
 <p></p>
