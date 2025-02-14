@@ -40,6 +40,8 @@ sections:
       id: infocols
       linktext: Learn more
       infoboxes:
+        - title: Cost
+          description: Mediation is free.
         - title: Privacy
           description: We respect your privacy. Details of mediation are kept confidential.
         - title: Time
@@ -48,8 +50,6 @@ sections:
         - title: Location
           description: We offer in-person mediation at 18 locations island wide and
             virtually.
-        - title: Cost
-          description: Mediation is free.
   - infobar:
       title: Mediation at the CMC
       id: infobar
