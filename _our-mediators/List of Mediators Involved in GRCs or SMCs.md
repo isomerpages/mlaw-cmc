@@ -131,7 +131,6 @@ description: ""
 </p>
 <p><strong>Yio Chu Kang SMC</strong>
 <br>Mr Lau Kim Sui Andy, PBS
-<br>Mr Yip Hon Weng
 <br>
 </p>
 <p><strong>Yuhua SMC</strong>
