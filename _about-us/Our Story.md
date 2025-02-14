@@ -14,7 +14,7 @@ relationships are preserved.</p>
 the operations, administration, and management of the CMC. We handle everything
 from the administration of mediation cases and the management of our Volunteer
 Mediators to publicity, outreach work, and other administrative matters.</p>
-<p>We have provided valuable alternative for addressing and resolving conflicts
+<p>We provide a valuable alternative for addressing and resolving conflicts
 amicably while ensuring that community ties are strengthened and preserved.</p>
 <p>By offering a neutral space for open dialogue, we aim to transform disputes
 into opportunities for mutual understanding.</p>
