@@ -55,11 +55,6 @@ sections:
       id: infobar
       description: We help to resolve relational and community disputes in Singapore.
       button: FIND OUT MORE
-      url: /about-us/about-us/
-  - infobar:
-      title: Our Story
-      id: infobar
-      button: Discover what we do
       url: /our-story/
   - textcards:
       title: Latest News
