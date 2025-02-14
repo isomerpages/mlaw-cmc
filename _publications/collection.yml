@@ -2,6 +2,7 @@ collections:
   publications:
     output: true
     order:
+      - About Us and Our Mission.md
       - Our Logo.md
       - What's New.md
       - Mediators Portal.md
