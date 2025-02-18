@@ -19,7 +19,7 @@ solutions.</p>
 <div class="isomer-card-title">Family Members</div>
 <div class="isomer-card-description">Living Arrangements, Care &amp; maintenance of elderly parents or family
 members. Unacceptable words or behaviour.</div>
-<div class="isomer-card-link">Click here to read our story</div>
+<div class="isomer-card-link">Click here to read our story.</div>
 </div>
 </a>
 <div class="isomer-card">
