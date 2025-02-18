@@ -7,12 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MEDIATION STORIES/Noise_story_1.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MEDIATION STORIES/Noise_story_2.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/types-of-disputes-suitable-for-mediation/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/MEDIATION STORIES/Noise_story_1.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/types-of-disputes-suitable-for-mediation/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MEDIATION STORIES/Noise_story_2.png"></a>
 <p></p>
