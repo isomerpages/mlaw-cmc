@@ -6,21 +6,6 @@ description: ""
 third_nav_title: CMC in Photos
 ---
 <p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1Gzu6avqB9csRv-OsfZj5KFwsv--Xuisp/view?usp=share_link"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MACAD 2024/101624_CMC_Mediators_Appointment_Ceremoney_Dinner_2024_254.jpg"></a>
-</td>
-</tr>
-</tbody>
-</table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="macad_2024_01" src="/images/MACAD 2024/macad_2024_01.jpg">
-</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -31,6 +16,9 @@ third_nav_title: CMC in Photos
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MACAD 2024/macad_2024_01.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
