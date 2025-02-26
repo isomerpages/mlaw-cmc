@@ -4,7 +4,6 @@ permalink: /our-story/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <p>The Community Mediation Centre (CMC), a centre under the Ministry of Law,
 offers mediation service to residents in Singapore facing relational and
 community disputes.</p>
