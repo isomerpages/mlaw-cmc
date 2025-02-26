@@ -1,5 +1,5 @@
 collections:
-  publications:
+  holding-pages:
     output: true
     order:
       - Mediation at the CMC.md
