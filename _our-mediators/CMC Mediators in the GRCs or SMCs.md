@@ -5,7 +5,6 @@ breadcrumb: Mediators Involved In Grcs Smcs
 variant: tiptap
 description: ""
 ---
-<h4>List of Mediators Involved in GRCs or SMCs</h4>
 <p><strong>Aljunied GRC</strong>
 <br>Mr Kee Hung Cheng Steven, PBM
 <br>
