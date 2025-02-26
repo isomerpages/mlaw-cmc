@@ -55,7 +55,7 @@ sections:
       id: infobar
       description: We help to resolve relational and community disputes.
       button: FIND OUT MORE
-      url: /our-story/
+      url: /types-of-disputes-suitable-for-mediation/
   - textcards:
       title: Latest News
       subtitle: Us in the media
