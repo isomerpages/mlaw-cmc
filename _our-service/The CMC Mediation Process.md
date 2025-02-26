@@ -14,10 +14,9 @@ description: ""
 <td rowspan="1" colspan="2">
 <p><strong>1: Registration</strong>
 </p>
-<p>Arrive at least <strong>20 minutes before</strong> the session to register
-and complete the administrative process. Our officer will receive you,
-help verify your identity and make sure everything is in order before the
-start of the mediation session.</p>
+<p>Arrive at least 20 minutes before the session. Our officer will receive
+you, verify the identities of the parties and make sure everything is in
+order before the start of the mediation session.</p>
 </td>
 </tr>
 <tr>
@@ -25,70 +24,53 @@ start of the mediation session.</p>
 <p></p>
 <p><strong>2: Opening Statement</strong>
 </p>
-<p>Our mediator will begin with an opening statement to set the tone for
-a constructive dialogue. Some ground rules will be laid out to ensure everyone
-feels heard and respected throughout the process.</p>
+<p>Our mediator(s) will invite you into the mediation room where you and
+the other party will be seated. The mediator(s) will then begin with an
+opening statement which includes an explanation on the mediation process
+and some ground rules.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
 <p></p>
-<p><strong>3: Sharing Your Perspective</strong>
+<p><strong>3: Joint Session</strong>
 </p>
-<p>In a joint session at the CMC, you will have the chance to share your
-perspective and explain your side of the story without interruptions.</p>
+<p>The Applicant will start with his/her sharing of the issues that have
+come for mediation. Then the Respondent will have an opportunity to respond.
+Our mediator(s) will help to summarise the key issues raised.&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
 <p></p>
-<p><strong>4: Understanding Each Other</strong>
+<p><strong>4: Private Session</strong>
 </p>
-<p>After you have had your say, it is time to listen. The other party will
-share their version of the dispute, and our mediator will help summarise
-the key issues raised.</p>
+<p>If there are sensitive matters that require a private discussion, the
+mediator(s) may speak to each party separately. Matters revealed during
+a private session is kept confidential unless permission is given to reveal
+such information.</p>
+<p>Our mediator(s) may alternate between joint and private sessions to explore
+different solutions with both parties.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
 <p></p>
-<p><strong>5: Confidential Discussions</strong>
+<p><strong>5: Conclusion</strong>
 </p>
-<p>If there are sensitive matters that require private discussion, our mediator
-will speak to each party separately. Your confidentiality is important
-to us –nothing will be shared without your permission.</p>
-<p>Our mediator may alternate between joint and private sessions to explore
-different solutions with both parties until a mutual agreement is reached.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p></p>
-<p><strong>6: Reaching A Mutual Agreement</strong>
+<p><u>Settlement with an agreement</u>
 </p>
-<p>Our mediator may alternate between joint and private sessions to explore
-different avenues until a mutual agreement is reached.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
+<p>Once an agreement is reached, our mediator(s) will document the terms.
+You will have the opportunity to review the document before signing it.
+You will also receive a copy of the signed agreement.&nbsp; &nbsp;</p>
 <p></p>
-<p><strong>7: Finalising The Agreement</strong>
-</p>
-<p>Once an agreement is reached, our mediator will document the terms. You
-will have the opportunity to review the document before signing it. A copy
-of the agreement will be provided to you.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p></p>
-<p><strong>8: Conclusion</strong>
+<p><u>No settlement</u>
 </p>
 <p>If an agreement cannot be reached, we will close the session respectfully.
 You may choose to explore other options to address the dispute, which may
 include seeking legal advice or proceeding to file an application with
-the Courts.</p>
+the Courts.&nbsp;</p>
 </td>
 </tr>
 </tbody>
