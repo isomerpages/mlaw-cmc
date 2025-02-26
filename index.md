@@ -28,9 +28,8 @@ sections:
   - infopic:
       title: Step into our mediation room
       id: infopic
-      description: Step into our mediation room. Hear from our mediators how mediation
-        works. Watch our video here. Available in English, Chinese, Malay and
-        Tamil.
+      description: Hear from our mediators how mediation works. Watch our video now
+        available in English, Chinese, Malay and Tamil.
       button: watch our video here
       url: /mediation-at-the-cmc/
       image: /images/Web Revamp pics/infopic_thumbnail.png
@@ -41,19 +40,20 @@ sections:
       linktext: Learn more
       infoboxes:
         - title: Cost
-          description: Mediation is free.
+          description: It is free.
         - title: Privacy
-          description: We respect your privacy. Details of mediation are kept confidential.
+          description: Matters discussed during mediation and identity of the parties are
+            kept confidential.
         - title: Time
-          description: A mediation session typically last about two hours and is available
-            on weekday afternoons and Saturday mornings.
+          description: A mediation session typically lasts about two hours and is
+            available on Mondays to Fridays and Saturday mornings.
         - title: Location
           description: We offer in-person mediation at 18 locations island wide and
             virtually.
   - infobar:
       title: Mediation at the CMC
       id: infobar
-      description: We help to resolve relational and community disputes in Singapore.
+      description: We help to resolve relational and community disputes.
       button: FIND OUT MORE
       url: /our-story/
   - textcards:
