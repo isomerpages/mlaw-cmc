@@ -5,22 +5,26 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<p>The CMC is a centre under the Ministry of Law (MinLaw). As part of ongoing
-efforts to enhance access to justice, we are here to help residents in
-Singapore resolve disputes effectively and foster a more gracious and harmonious
-living environment for all through open communication. This ensures that
-relationships are preserved.</p>
+<p>The Community Mediation Centre (CMC), a centre under the Ministry of Law,
+offers mediation service to residents in Singapore facing relational and
+community disputes.</p>
+<p>What distinguishes the mediation at the CMC from others, is our focus
+on repairing relationships between disputing parties.</p>
+<p>Through a facilitated process, our mediators help parties to start communicating
+the issues that matter to them, with the aim of uncovering what is at the
+core of their interest.</p>
+<p>Through joint and private sessions, the purpose of the CMC mediation is
+to foster greater understanding between disputing parties, arrive at mutually
+acceptable solutions and hopefully preserving relationships as well. &nbsp;</p>
+<p>Resolving one dispute at a time, we are focused on building a more gracious
+and harmonious living environment for residents in Singapore.</p>
 <p>The CMC is managed by full-time MinLaw officers, who are responsible for
-the operations, administration, and management of the CMC. We handle everything
-from the administration of mediation cases and the management of our Volunteer
-Mediators to publicity, outreach work, and other administrative matters.</p>
-<p>We provide a valuable alternative for addressing and resolving conflicts
-amicably while ensuring that community ties are strengthened and preserved.</p>
-<p>By offering a neutral space for open dialogue, we aim to transform disputes
-into opportunities for mutual understanding.</p>
+the administration and management of the CMC and augmented by a panel of
+trained and experienced volunteer community mediators.</p>
 <h1>Our Mission</h1>
 <p>To provide an attractive, practical and convenient solution for relational
 and community disputes in Singapore.</p>
+<p></p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
