@@ -76,4 +76,13 @@ the Courts.&nbsp;</p>
 </tbody>
 </table>
 <p></p>
+<p><strong>Our aim is to empower you to resolve your dispute and move forward positively.</strong>
+</p>
+<p></p>
+<p>Watch the following video to find out how mediation is done at the CMC.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dxFeDOSdi6E?si=WGJAMRyeMN_oWQ15"></iframe>
+</div>
+<p>To watch the video in other vernaculars, click <a href="https://www.youtube.com/@ministryoflawsingapore1325" rel="noopener nofollow" target="_blank">here</a>
+</p>
 <p></p>
