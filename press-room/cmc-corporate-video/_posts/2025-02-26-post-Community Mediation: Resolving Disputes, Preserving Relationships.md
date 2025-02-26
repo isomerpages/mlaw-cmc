@@ -17,8 +17,5 @@ variant: tiptap
 <p>To watch the video in other vernaculars, click <a href="https://www.youtube.com/@ministryoflawsingapore1325" rel="noopener nofollow" target="_blank">here</a>
 </p>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/MEDIATION STORIES/Back_button.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://cmc.mlaw.gov.sg"><img style="width: 10%;" height="auto" width="100%" alt="" src="/images/MEDIATION STORIES/Back_button.png"></a>
 <p></p>
