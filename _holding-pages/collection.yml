@@ -2,6 +2,7 @@ collections:
   holding-pages:
     output: true
     order:
+      - Advisory Committee On Community Mediation.md
       - Mediation at the CMC.md
       - About Us and Our Mission.md
       - Our Logo.md
