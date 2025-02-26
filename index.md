@@ -17,7 +17,7 @@ sections:
           url: /our-story/
         - title: Why choose mediation
           description: ""
-          url: /mediation-at-the-cmc/
+          url: /the-cmc-mediation-process/
         - title: When is mediation suitable
           description: ""
           url: /types-of-disputes-suitable-for-mediation/
