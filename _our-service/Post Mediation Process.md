@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p>If you encounter post-mediation issues, you can apply for remediation
-through our online application <a href="https://cmc.mlaw.gov.sg/e-services/apply-online/" rel="noopener noreferrer nofollow" target="_blank"><u>form</u></a>,
+through our online application <a href="https://eservices.mlaw.gov.sg/cmc/mediatorsportal/direct-intake/" rel="noopener noreferrer nofollow" target="_blank"><u>form</u></a>,
 one month from the last mediation session. You can also call the MinLaw
 Enquiry Line at 1800 2255 529* during office hours.</p>
 <p><strong><u>Non-neighbour Disputes</u></strong>
