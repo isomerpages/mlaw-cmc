@@ -267,7 +267,7 @@ third_nav_title: CMC in Photos
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="MACAD 2022-27" alt="MACAD 2022-27" src="/images/MACAD2022/C0000740_1.jpg">
+<img style="width: 100%;" height="auto" width="100%" title="MACAD 2022-27" alt="MACAD 2022-27" src="/images/MACAD2022/C0000740_1.jpg">
 </div>
 <p></p>
 </th>
