@@ -13,11 +13,18 @@ description: ""
 <p></p>
 <h4>Assessment</h4>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/Assessment.png">
 </div>
 <h4>Invitation to the other party (Respondent)</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/Invitation.png">
+</div>
+<p></p>
+<h4>Scheduling</h4>
+<p></p>
+<p></p>
 <h4></h4>
 <p></p>
 <p></p>
