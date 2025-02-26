@@ -2,6 +2,7 @@ collections:
   our-mediators:
     output: true
     order:
+      - The CMC Mediators Portal (authorised access only).md
       - Who Are They.md
       - How to be a CMC Mediator.md
       - Appointed CMC Mediators.md
