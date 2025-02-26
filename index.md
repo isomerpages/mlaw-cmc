@@ -10,7 +10,7 @@ sections:
         today.
       background: /images/Web Revamp pics/freepik__expand_the_background__32739.png
       button: Apply
-      url: /apply-online/
+      url: /apply-for-mediation/
       key_highlights:
         - title: what is mediation
           description: ""
