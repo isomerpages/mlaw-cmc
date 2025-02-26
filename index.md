@@ -8,7 +8,8 @@ sections:
       title: Community Mediation Centre
       subtitle: Being in a dispute can be stressful. Let us help. Apply for mediation
         today.
-      background: /images/Web Revamp pics/WhatsApp_Image_2025_02_26_at_16_19_50.jpg
+      background: /images/Web Revamp
+        pics/freepik__a_closeup_shot_capturing_a_handshake_between_two_m__59378.png
       button: Apply
       url: /apply-for-mediation/
       key_highlights:
