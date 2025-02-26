@@ -2,6 +2,7 @@ collections:
   publications:
     output: true
     order:
+      - Mediation at the CMC.md
       - About Us and Our Mission.md
       - Our Logo.md
       - What's New.md
