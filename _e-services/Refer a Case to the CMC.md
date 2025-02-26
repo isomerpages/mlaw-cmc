@@ -14,7 +14,7 @@ office hours. &nbsp;</p>
 <p><strong>&nbsp;</strong>1) Call the MinLaw enquiry line at <strong>1800 5529 259*</strong> during
 office hours (Monday to Friday: 8:30am to 5:00pm; closed on weekends and
 public holidays).</p>
-<p>&nbsp;2) Submit your referral online: <strong><a href="https://safe.menlosecurity.com/https:/form.gov.sg/5dbfebfa1b03c2001911fc19" rel="noopener noreferrer nofollow" target="_blank"><u>I am a representative from an agency and would like to refer a case</u></a></strong>
-<a href="https://safe.menlosecurity.com/https:/form.gov.sg/5dbfebfa1b03c2001911fc19" rel="noopener noreferrer nofollow" target="_blank"><u>.</u>
+<p>&nbsp;2) Submit your referral online: <strong><a href="https://form.gov.sg/5dbfebfa1b03c2001911fc19" rel="noopener noreferrer nofollow" target="_blank"><u>I am a representative from an agency and would like to refer a case</u></a></strong>
+<a href="https://form.gov.sg/5dbfebfa1b03c2001911fc19" rel="noopener noreferrer nofollow" target="_blank"><u>.</u>
 </a>
 </p>
