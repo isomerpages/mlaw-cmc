@@ -13,7 +13,7 @@ sections:
       button: Apply
       url: /apply-for-mediation/
       key_highlights:
-        - title: what is mediation
+        - title: what is community mediation
           description: ""
           url: /our-story/
         - title: Why choose mediation
@@ -26,6 +26,12 @@ sections:
       size: md
       backgroundColor: gray
       alignment: right
+  - infobar:
+      title: Mediation at the CMC
+      id: infobar
+      description: We help to resolve relational and community disputes.
+      button: FIND OUT MORE
+      url: /types-of-disputes-suitable-for-mediation/
   - infopic:
       title: Step into our mediation room
       id: infopic
@@ -51,12 +57,6 @@ sections:
             kept confidential.
         - title: Cost
           description: It is free.
-  - infobar:
-      title: Mediation at the CMC
-      id: infobar
-      description: We help to resolve relational and community disputes.
-      button: FIND OUT MORE
-      url: /types-of-disputes-suitable-for-mediation/
   - textcards:
       title: Latest News
       subtitle: Us in the media
