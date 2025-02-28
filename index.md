@@ -71,7 +71,7 @@ sections:
           linktext: View Full Video
           url: https://www.youtube.com/watch?v=i6F8962aRIA&t=2s
         - title: Speeches
-          description: Find out the latest development in mediation.
+          description: Find out the latest development in community mediation.
           linktext: Learn More
           url: https://www.mlaw.gov.sg/news/parliamentary-speeches/
 description: Description
