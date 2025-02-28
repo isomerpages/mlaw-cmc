@@ -4,11 +4,13 @@ permalink: /our-story/
 variant: tiptap
 description: ""
 ---
+<h3>What distinguishes the mediation at the CMC from others, is our focus on repairing relationships between disputing parties.</h3>
+<p></p>
+<p></p>
 <p>The Community Mediation Centre (CMC), a centre under the Ministry of Law,
 offers mediation service to residents in Singapore facing relational and
 community disputes.</p>
-<p>What distinguishes the mediation at the CMC from others, is our focus
-on repairing relationships between disputing parties.</p>
+<p></p>
 <p>Through a facilitated process, our mediators help parties to start communicating
 the issues that matter to them, with the aim of uncovering what is at the
 core of their interest.</p>
