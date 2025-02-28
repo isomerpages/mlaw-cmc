@@ -62,6 +62,10 @@ sections:
       subtitle: Us in the media
       id: textcards
       cards:
+        - title: Photos
+          description: Check out our latest photos.
+          linktext: View Photos
+          url: /about-us/macad-appointment-awards-ceremony-2024/
         - title: Videos
           description: Watch the latest videos.
           linktext: View Full Video
@@ -70,10 +74,6 @@ sections:
           description: Find out the latest development in mediation.
           linktext: Learn More
           url: https://www.mlaw.gov.sg/news/parliamentary-speeches/
-        - title: Photos
-          description: Check out the latest photos.
-          linktext: View Photos
-          url: /about-us/macad-appointment-awards-ceremony-2024/
 description: Description
 image: /images/isomer-logo.svg
 ---
