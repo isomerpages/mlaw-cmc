@@ -67,7 +67,7 @@ sections:
           linktext: View Photos
           url: /about-us/macad-appointment-awards-ceremony-2024/
         - title: Videos
-          description: Watch the latest videos.
+          description: Watch our latest videos.
           linktext: View Full Video
           url: https://www.youtube.com/watch?v=i6F8962aRIA&t=2s
         - title: Speeches
