@@ -40,17 +40,17 @@ sections:
       id: infocols
       linktext: Learn more
       infoboxes:
-        - title: Cost
-          description: It is free.
-        - title: Privacy
-          description: Matters discussed during mediation and identity of the parties are
-            kept confidential.
-        - title: Time
-          description: A mediation session typically lasts about two hours and is
-            available on Mondays to Fridays and Saturday mornings.
         - title: Location
           description: We offer in-person mediation at 19 locations islandwide. Virtual
             mediation is an option for less complex disputes.
+        - title: Time
+          description: A mediation session typically lasts about two hours and is
+            available on Mondays to Fridays and Saturday mornings.
+        - title: Privacy
+          description: Matters discussed during mediation and identity of the parties are
+            kept confidential.
+        - title: Cost
+          description: It is free.
   - infobar:
       title: Mediation at the CMC
       id: infobar
