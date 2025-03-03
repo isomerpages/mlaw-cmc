@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Mission.md
       - Our Story.md
       - Our Team.md
       - SIMI QAP.md
