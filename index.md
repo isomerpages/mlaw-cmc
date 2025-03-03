@@ -74,10 +74,6 @@ sections:
           description: Find out the latest development in community mediation.
           linktext: Learn More
           url: https://www.mlaw.gov.sg/news/parliamentary-speeches/
-  - resources:
-      title: Resources
-      id: resources
-      button: More
 description: Description
 image: /images/isomer-logo.svg
 ---
