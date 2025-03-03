@@ -21,7 +21,7 @@ sections:
           url: /why-choose-mediation/
         - title: When is mediation suitable
           description: ""
-          url: /types-of-disputes-suitable-for-mediation/
+          url: /disputes-suitable-for-mediation/
       variant: floating
       size: md
       backgroundColor: gray
