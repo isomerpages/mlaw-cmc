@@ -4,59 +4,20 @@ permalink: /modes-of-mediation/
 variant: tiptap
 description: ""
 ---
-<h3>Ministry of Law Services Centre (MSC)</h3>
-<p>The CMC mediation takes place at <strong>MinLaw Services Centre</strong> at
-45 Maxwell Road, The URA Centre (East Wing), #07-11, Singapore 069118.</p>
-<p>Court referred and directed mediation takes place on:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mondays to Fridays from 9.00am to 1.00pm</p>
-</li>
-</ul>
-<p>Voluntary mediation takes place on:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mondays to Fridays from 2:00 PM to 6.00pm</p>
-</li>
-<li>
-<p>Saturdays from 9:00 AM to 1.00pm</p>
-</li>
-</ul>
+<h3></h3>
 <p></p>
-<h4>Modes of Mediation</h4>
-<p><strong>Satellite Mediation Venues</strong>
-</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Web Revamp pics/WEB GRAPHICS/Face_to_face.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Face to face mediation</div><div class="isomer-card-description">We provide face to face mediation at various location islandwide.
+</div><div class="isomer-card-link">Click here to find out more.</div></div></a>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Web Revamp pics/SATELLITE_MEDIATION_CENTRE_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Web Revamp pics/WEB GRAPHICS/Virtual.png">
 </div>
-<p>We also provide voluntary mediation at <strong>18 satellite mediation locations</strong>:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ACE the Place Community Club</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bedok Community Centre</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ci Yuan Community Club</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Clementi Community Club</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Geylang Serai Community Club@Wisma
-Geylang Serai</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MacPherson Community Club</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nee Soon East Community Club</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Paya Lebar-Kovan Community Club</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Toa Payoh West Community Club</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Telok Blangah Community Club</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ServiceSG Centre One Punggol</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ServiceSG Centre Our Tampines Hub</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ServiceSG@Keat Hong Community Club</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ServiceSG Centre@The Frontier Community
-Club</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ServiceSG Centre Bukit Merah</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ServiceSG Centre Woodlands</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tampines East Neighbourhood Police
-Post</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tampines North Neighbourhood Police
-Post</p>
-<p></p>
-<p><strong>Virtual Mediation Session</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Web Revamp pics/Virtual.png">
 </div>
-<p>Virtual mediation can be offered for less complex cases.</p>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Virtual Mediation</div>
+<div class="isomer-card-description">Virtual mediation can be offered for less complex cases.</div>
+</div>
+</div>
+</div>
+<p></p>
