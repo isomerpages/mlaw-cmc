@@ -13,7 +13,7 @@ solutions.</p>
 <a rel="noopener noreferrer nofollow" href="/family-story/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Family" src="/images/Web Revamp pics/Family_members_600x400.png">
+<img style="width: 100%" height="auto" width="100%" alt="Family" src="/images/Web Revamp pics/WEB GRAPHICS/Family_1.png">
 </div>
 </div>
 <div class="isomer-card-body">
