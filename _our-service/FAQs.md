@@ -97,11 +97,9 @@ Tribunal (CDRT).</p>
 </blockquote>
 <p>The mediation at the CMC is a confidential process, as outlined in the
 CMC Act, Cap 49A.</p>
-<p>&nbsp;</p>
 <p>To maintain confidentiality and to provide a safe space for parties to
 share without fear, no photography, videography or audio recording is allowed
 during the mediation session.</p>
-<p>&nbsp;</p>
 <p>Should we realise that a recording has taken place, the party responsible
 will be asked to delete the content, in the presence of the mediators or
 the CMC officer.</p>
