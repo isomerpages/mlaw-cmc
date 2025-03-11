@@ -42,10 +42,12 @@ attend the session.</p>
 <blockquote>
 <h4>Can I get my family members/agent to attend the mediation session on my behalf?</h4>
 </blockquote>
-<p>At the CMC, lawyers are not allowed to attend the mediation sessions with
-the parties.</p>
-<p>If you require legal advice, it is advisable to seek it separately before
-the mediation session.</p>
+<p>If your family member or agent has been issued with a Power of Attorney
+to manage your affairs, you can authorise them to attend the session on
+your behalf.</p>
+<p>For all other reasons, please contact us.&nbsp;</p>
+<p>For <strong>Court-Directed </strong>Mediation, only parties named in the
+Order of Court will attend the mediation session.</p>
 <hr>
 <blockquote>
 <h4>Can I get a lawyer to attend the mediation with me?</h4>
