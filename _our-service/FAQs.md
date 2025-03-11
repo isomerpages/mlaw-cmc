@@ -67,15 +67,13 @@ the mediation session.</p>
 <h4>If the Respondent ignores or declines the CMC invitation, what are my other options? Can I bring the case up to the Community Disputes Resolution Tribunal (CDRT)?</h4>
 </blockquote>
 <p>For voluntary mediation, we can only proceed to arrange a mediation session
-when both parties are willing to participate.</p>
-<p>&nbsp;</p>
-<p><strong><u>Non-neighbour Disputes</u></strong>
+when both parties are willing to participate.&nbsp;</p>
+<p><strong><u>Non-Neighbour Disputes</u></strong>
 </p>
 <p>If the Respondent declines or fails to respond to a mediation invitation,
 you may choose to explore other options to address the dispute, which may
 include seeking legal advice or proceeding to file an application with
-the Courts.&nbsp;</p>
-<p>&nbsp;</p>
+the Courts.&nbsp;&nbsp;</p>
 <p><strong><u>Neighbour Disputes</u></strong>
 </p>
 <p>If the Respondent declines or fails to respond to a mediation invitation,
@@ -122,7 +120,6 @@ legal proceedings.</p>
 </blockquote>
 <p>The CMC recruits new volunteers every year, with applications closing
 at the end of September.</p>
-<p>&nbsp;</p>
 <p>Only shortlisted candidates will be invited to attend the Selection Interviews,
 which are usually held from October to November each year.</p>
 </div>
