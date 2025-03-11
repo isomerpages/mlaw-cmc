@@ -10,7 +10,7 @@ solutions.</p>
 </blockquote>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/neighbour-dispute/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Neighbours" src="/images/Web Revamp pics/WEB GRAPHICS/Neighbours_2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Neighbours</div><div class="isomer-card-description">Noise, cigarette smoke, obstruction of corridor, unacceptable words or behaviour, privacy concerns.</div><div class="isomer-card-link">Click here to read a mediated case</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/family-story/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/family-dispute/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Family" src="/images/Web Revamp pics/WEB GRAPHICS/Family_1.png">
