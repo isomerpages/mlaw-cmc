@@ -38,7 +38,7 @@ sections:
       description: Hear from our mediators how mediation works. Watch our video now
         available in English, Chinese, Malay and Tamil.
       button: watch our video here
-      url: /community-mediation-resolving-disputes-preserving-relationships/
+      url: /cmc-corporate-video/
       image: /images/Web Revamp pics/infopic_thumbnail.png
       alt: CMC's Corporate Video
   - infocols:
