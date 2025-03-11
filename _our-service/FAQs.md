@@ -7,7 +7,7 @@ description: ""
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Operational Matters - Suitability of Application for Mediation at the CM</strong>
+<summary><strong>Operational Matters - Suitability of Application for Mediation at the CMC</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -44,7 +44,6 @@ attend the session.</p>
 </blockquote>
 <p>At the CMC, lawyers are not allowed to attend the mediation sessions with
 the parties.</p>
-<p>&nbsp;</p>
 <p>If you require legal advice, it is advisable to seek it separately before
 the mediation session.</p>
 <hr>
@@ -52,8 +51,7 @@ the mediation session.</p>
 <h4>Can I get a lawyer to attend the mediation with me?</h4>
 </blockquote>
 <p>At the CMC, lawyers are not allowed to attend the mediation sessions with
-the parties.</p>
-<p>&nbsp;</p>
+the parties.&nbsp;</p>
 <p>If you require legal advice, it is advisable to seek it separately before
 the mediation session.</p>
 <p></p>
