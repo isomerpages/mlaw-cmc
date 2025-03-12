@@ -35,7 +35,7 @@ sections:
   - infopic:
       title: Step into our mediation room
       id: infopic
-      description: Hear from our mediators how mediation works. Watch our video now
+      description: Hear from our mediators on how mediation works. Watch our video now
         available in English, Chinese, Malay and Tamil.
       button: watch our video here
       url: /cmc-corporate-video/
