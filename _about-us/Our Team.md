@@ -7,7 +7,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/ORG_CHART_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/ORG_CHART_2025_NEW.png">
 </div>
 <p></p>
-<p>Last updated on 30 July 2024</p>
+<p>Information correct as at 1 April 2025</p>
