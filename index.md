@@ -31,7 +31,7 @@ sections:
       id: infobar
       description: We help to resolve relational and community disputes.
       button: FIND OUT MORE
-      url: /the-cmc-mediation-process/
+      url: /pre-mediation-process/
   - infopic:
       title: Step into our mediation room
       id: infopic
