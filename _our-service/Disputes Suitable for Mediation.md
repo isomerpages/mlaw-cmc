@@ -95,7 +95,8 @@ solutions.</p>
 </div>
 </details>
 </div>
-<p>Click here to read a mediated case</p>
+<p>Click <a href="/neighbour-dispute/" rel="noopener nofollow" target="_blank">here</a> to
+read a mediated case</p>
 </td>
 </tr>
 <tr>
