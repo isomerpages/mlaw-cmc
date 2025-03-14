@@ -88,10 +88,6 @@ solutions.</p>
 </div>
 <p></p><a class="isomer-image-wrapper" href="/neighbour-dispute/"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/Asset_80.png"></a>
 <p></p>
-<p></p>
-<p>Click <a href="/neighbour-dispute/" rel="noopener nofollow" target="_blank">here</a> to
-read a mediated case</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -151,8 +147,7 @@ read a mediated case</p>
 </div>
 </details>
 </div>
-<p>Click <a href="/family-dispute/" rel="noopener nofollow" target="_blank">here</a> to
-read a mediated case</p>
+<p></p><a class="isomer-image-wrapper" href="/family-dispute/"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/Asset_80.png"></a>
 </td>
 </tr>
 <tr>
@@ -191,8 +186,7 @@ read a mediated case</p>
 </div>
 </details>
 </div>
-<p>Click <a href="/friends-or-coworker-dispute/" rel="noopener nofollow" target="_blank">here</a> to
-read a mediated case</p>
+<p></p><a class="isomer-image-wrapper" href="/friends-or-coworker-dispute/"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/Asset_80.png"></a>
 </td>
 </tr>
 <tr>
@@ -249,8 +243,7 @@ read a mediated case</p>
 </div>
 </details>
 </div>
-<p>Click <a href="/landlord-tenant-dispute/" rel="noopener nofollow" target="_blank">here</a> to
-read a mediated case</p>
+<p></p><a class="isomer-image-wrapper" href="/landlord-tenant-dispute/"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/Asset_80.png"></a>
 </td>
 </tr>
 </tbody>
