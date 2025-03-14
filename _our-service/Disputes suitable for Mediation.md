@@ -42,7 +42,8 @@ solutions.</p>
 <p>Encroachment into property</p>
 </li>
 <li>
-<p>Harassment (must be deemed by Police as non-arrest able)</p>
+<p>Harassment <em>(must be deemed by Police as non-arrestable)</em>
+</p>
 </li>
 <li>
 <p>Interfering with property</p>
@@ -63,7 +64,8 @@ solutions.</p>
 <p>Online falsehood</p>
 </li>
 <li>
-<p>Online harassment (must be deemed by Police as non-arrestable)</p>
+<p>Online harassment <em>(must be deemed by Police as non-arrestable)</em>
+</p>
 </li>
 <li>
 <p>Religious practices</p>
