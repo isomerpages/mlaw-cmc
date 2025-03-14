@@ -78,7 +78,16 @@ solutions.</p>
 <p>Surveillance and privacy issues</p>
 </li>
 <li>
-<p>Trespassin</p>
+<p>Trespassing</p>
+</li>
+<li>
+<p>Unacceptable conduct</p>
+</li>
+<li>
+<p>Vibrations</p>
+</li>
+<li>
+<p>Wet laundry</p>
 <p></p>
 <p></p>
 </li>
