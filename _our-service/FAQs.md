@@ -173,4 +173,5 @@ or submit your request using the online form <a href="https://eservices.mlaw.gov
 </details>
 </div>
 <p></p>
-<p></p>
+<p><em>This page view may vary across different browsers*</em>
+</p>
