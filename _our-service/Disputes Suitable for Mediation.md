@@ -95,7 +95,7 @@ solutions.</p>
 </div>
 </details>
 </div>
-<p></p>
+<p>Click here to read a mediated case</p>
 </td>
 </tr>
 <tr>
@@ -155,7 +155,7 @@ solutions.</p>
 </div>
 </details>
 </div>
-<p></p>
+<p>Click here to read a mediated case</p>
 </td>
 </tr>
 <tr>
@@ -194,7 +194,7 @@ solutions.</p>
 </div>
 </details>
 </div>
-<p></p>
+<p>Click here to read a mediated case</p>
 </td>
 </tr>
 <tr>
@@ -251,7 +251,7 @@ solutions.</p>
 </div>
 </details>
 </div>
-<p></p>
+<p>Click here to read a mediated case</p>
 </td>
 </tr>
 </tbody>
