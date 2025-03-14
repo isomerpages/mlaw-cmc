@@ -18,10 +18,7 @@ solutions.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/Neighbours_2.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/neighbour-dispute/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/Neighbours_2.png"></a>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Neighbours</strong>
