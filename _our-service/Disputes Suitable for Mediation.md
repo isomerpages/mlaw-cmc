@@ -43,8 +43,7 @@ solutions.</p>
 <p>Encroachment into property</p>
 </li>
 <li>
-<p>Harassment <em>(must be deemed by Police as non-arrest able)</em>
-</p>
+<p>Harassment (must be deemed by Police as non-arrest able)</p>
 </li>
 <li>
 <p>Interfering with property</p>
@@ -65,8 +64,7 @@ solutions.</p>
 <p>Online falsehood</p>
 </li>
 <li>
-<p>Online harassment <em>(must be deemed by Police as non-arrestable)</em>
-</p>
+<p>Online harassment (must be deemed by Police as non-arrestable)</p>
 </li>
 <li>
 <p>Religious practices</p>
@@ -112,37 +110,44 @@ solutions.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>Access to elderly parents</p>
-</li>
-<li>
-<p>Access to other family members</p>
-</li>
-<li>
-<p>Care and maintenance of elderly parents</p>
-</li>
-<li>
-<p>Care and maintenance of other family members</p>
-</li>
-<li>
-<p>Disagreement on living arrangements</p>
-</li>
-<li>
-<p>Harassment <em>(must be deemed by Police as non-arrestable)</em>
+<p><strong>Access to elderly parents</strong>
 </p>
 </li>
 <li>
-<p>Interest free monetary matters <em>(for amount less than $5000)</em>
+<p><strong>Access to other family members</strong>
 </p>
 </li>
 <li>
-<p>Online falsehood</p>
-</li>
-<li>
-<p>Online harassment <em>(must be deemed by Police as non-arrestable)</em>
+<p><strong>Care and maintenance of elderly parents</strong>
 </p>
 </li>
 <li>
-<p>Unacceptable conduct</p>
+<p><strong>Care and maintenance of other family members</strong>
+</p>
+</li>
+<li>
+<p><strong>Disagreement on living arrangements</strong>
+</p>
+</li>
+<li>
+<p><strong>Harassment <em>(must be deemed by Police as non-arrestable)</em></strong>
+</p>
+</li>
+<li>
+<p><strong>Interest free monetary matters <em>(for amount less than $5000)</em></strong>
+</p>
+</li>
+<li>
+<p><strong>Online falsehood</strong>
+</p>
+</li>
+<li>
+<p><strong>Online harassment <em>(must be deemed by Police as non-arrestable)</em></strong>
+</p>
+</li>
+<li>
+<p><strong>Unacceptable conduct</strong>
+</p>
 </li>
 </ul>
 <hr>
@@ -165,22 +170,24 @@ solutions.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>Harassment <em>(must be deemed by Police as non-arrestable)</em>
+<p><strong>Harassment <em>(must be deemed by Police as non-arrestable)</em></strong>
 </p>
 </li>
 <li>
-<p>Interest free monetary matters <em>(for amount less than $5000)</em>
+<p><strong>Interest free monetary matters <em>(for amount less than $5000)</em></strong>
 </p>
 </li>
 <li>
-<p>Online falsehood</p>
-</li>
-<li>
-<p>Online harassment <em>(must be deemed by Police as non-arrestable)</em>
+<p><strong>Online falsehood</strong>
 </p>
 </li>
 <li>
-<p>Unacceptable conduct</p>
+<p><strong>Online harassment <em>(must be deemed by Police as non-arrestable)</em></strong>
+</p>
+</li>
+<li>
+<p><strong>Unacceptable conduct</strong>
+</p>
 </li>
 </ul>
 </div>
@@ -200,37 +207,44 @@ solutions.</p>
 <summary><strong>Landlord and Tenant/Co-Tenants</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Non-contractual matters regarding living arrangements and includes:</p>
+<p><strong>Non-contractual matters regarding living arrangements and includes:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Damage to property</p>
-</li>
-<li>
-<p>Disagreement on living arrangements</p>
-</li>
-<li>
-<p>Harassment <em>(must be deemed by Police as non-arrestable)</em>
+<p><strong>Damage to property</strong>
 </p>
 </li>
 <li>
-<p>Interest free monetary matters <em>(for amount less than $5000)</em>
+<p><strong>Disagreement on living arrangements</strong>
 </p>
 </li>
 <li>
-<p>Online falsehood</p>
-</li>
-<li>
-<p>Online harassment <em>(must be deemed by Police as non-arrestable)</em>
+<p><strong>Harassment <em>(must be deemed by Police as non-arrestable)</em></strong>
 </p>
 </li>
 <li>
-<p>Payment of miscellaneous expenses</p>
+<p><strong>Interest free monetary matters <em>(for amount less than $5000)</em></strong>
+</p>
 </li>
 <li>
-<p>Problems with rented property</p>
+<p><strong>Online falsehood</strong>
+</p>
 </li>
 <li>
-<p>Unacceptable conduct</p>
+<p><strong>Online harassment <em>(must be deemed by Police as non-arrestable)</em></strong>
+</p>
+</li>
+<li>
+<p><strong>Payment of miscellaneous expenses</strong>
+</p>
+</li>
+<li>
+<p><strong>Problems with rented property</strong>
+</p>
+</li>
+<li>
+<p><strong>Unacceptable conduct</strong>
+</p>
 </li>
 </ul>
 </div>
