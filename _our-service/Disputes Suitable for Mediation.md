@@ -19,6 +19,7 @@ solutions.</p>
 <tr>
 <td rowspan="1" colspan="3">
 <p></p><a class="isomer-image-wrapper" href="/neighbour-dispute/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/Neighbours_2.png"></a>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Neighbours</strong>
@@ -78,53 +79,17 @@ solutions.</p>
 </li>
 <li>
 <p>Trespassin</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
-</div>
-</a>
-</div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
-</div>
-</a>
-</div>
-<p>g</p>
-</li>
-<li>
-<p>Unacceptable conduct</p>
-</li>
-<li>
-<p>Vibrations</p>
-</li>
-<li>
-<p>Wet laundry</p>
+<p></p>
+<p></p>
 </li>
 </ul>
 </div>
 </details>
 </div>
+<p></p>
 <p>Click <a href="/neighbour-dispute/" rel="noopener nofollow" target="_blank">here</a> to
 read a mediated case</p>
-<p><a href="/landlord-tenant-dispute/" rel="noopener nofollow" target="_blank">hello</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
