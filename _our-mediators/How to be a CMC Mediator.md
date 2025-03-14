@@ -15,8 +15,8 @@ which are usually held from October to November each year.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Apprenticeship</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Appointment</p>
 <p></p>
-<p>To apply as a volunteer CMC mediator, you will have to meet the following
-criteria:</p>
+<p>To <a href="https://go.gov.sg/cmcvolunteermediatorapplicationform" rel="noopener nofollow" target="_blank">apply</a> as
+a volunteer CMC mediator, you will have to meet the following criteria:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>A Singapore Citizen or a Singapore Permanent Resident.</p>
