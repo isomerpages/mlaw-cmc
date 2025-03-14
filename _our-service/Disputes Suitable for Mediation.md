@@ -17,14 +17,15 @@ solutions.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="3">
+<td rowspan="1" colspan="3">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/Neighbours_2.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Neighbours</summary>
+<summary><strong>Neighbours</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
@@ -95,7 +96,7 @@ solutions.</p>
 </details>
 </div>
 <p></p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
