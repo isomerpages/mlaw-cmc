@@ -20,5 +20,5 @@ at the Community Disputes Resolution Tribunals (CDRT).</p>
 the dispute, including to seek legal advice or to file an application with
 the courts.</p>
 <p></p>
-<p><em>Please note that airtime charges may apply to calls made from mobile phones*</em>
+<p><em>*Please note that airtime charges may apply to calls made from mobile phones.</em>
 </p>
