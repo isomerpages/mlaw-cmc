@@ -8,7 +8,7 @@ description: ""
 for relational and community disputes in Singapore.</p>
 <p></p>
 <p>To find out how we do this, read "Mending Fences Building Bridges" as
-told by our mediators</p>
+told by our mediators.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1448512173351.jpg">
 </div>
