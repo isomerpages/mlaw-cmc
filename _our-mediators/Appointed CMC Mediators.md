@@ -5,8 +5,8 @@ breadcrumb: List of Appointed CMC Mediators
 variant: tiptap
 description: ""
 ---
-<p>The following mediators are appointed for a 3-year term under the Community
-Mediation Centres Act 1997.&nbsp; &nbsp;</p>
+<p>The following mediators have been appointed for a 3-year term under the
+Community Mediation Centres Act 1997.&nbsp; &nbsp;</p>
 <p>Mr Abdul Harris Madon Bin Gani
 <br>Mr Alexander Santhosarajan s/o Singhamuthu
 <br>Mr Ang Kiat Seng Jeffrey, PBM
