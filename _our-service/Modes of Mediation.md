@@ -22,5 +22,5 @@ description: ""
 <p></p>
 <p></p>
 <p></p>
-<p><em>This page view may vary across different browsers*</em>
+<p><em>*This page view may vary across different browsers.</em>
 </p>
