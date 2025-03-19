@@ -16,4 +16,8 @@ to file an application with the Courts.&nbsp;</p>
 <p><strong><u>Neighbour Disputes</u></strong>
 </p>
 <p>If remediation does not materialise, you have the option of filing a claim
-at the Community Disputes Resolution Tribunal (CDRT).</p>
+at the Community Disputes Resolution Tribunals (CDRT).</p>
+<p></p>
+<p></p>
+<p><em>Please note that airtime charges may apply to calls made from mobile phones*</em>
+</p>
