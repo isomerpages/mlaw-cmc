@@ -66,21 +66,20 @@ the mediation session.</p>
 <p></p>
 <p></p>
 <blockquote>
-<h4>If the Respondent ignores or declines the CMC invitation, what are my other options? Can I bring the case up to the Community Disputes Resolution Tribunal (CDRT)?</h4>
+<h4>If the Respondent ignores or declines the CMC invitation, what are my other options? Can I bring the case up to the Community Disputes Resolution Tribunals (CDRT)?</h4>
 </blockquote>
+<p></p>
 <p>For voluntary mediation, we can only proceed to arrange a mediation session
 when both parties are willing to participate.&nbsp;</p>
-<p><strong><u>Non-Neighbour Disputes</u></strong>
-</p>
-<p>If the Respondent declines or fails to respond to a mediation invitation,
-you may choose to explore other options to address the dispute, which may
-include seeking legal advice or proceeding to file an application with
-the Courts.&nbsp;&nbsp;</p>
 <p><strong><u>Neighbour Disputes</u></strong>
 </p>
 <p>If the Respondent declines or fails to respond to a mediation invitation,
-you have the option of filing a claim at the Community Disputes Resolution
-Tribunal (CDRT).</p>
+you have the option of filing a claim at the CDRT.</p>
+<p><strong><u>Other Relational Disputes</u></strong>
+</p>
+<p>For other types of disputes, you may explore various options to address
+the dispute, including to seek legal advice or to file an application with
+the courts.</p>
 <p></p>
 <p>&nbsp;</p>
 </div>
@@ -138,10 +137,10 @@ which are usually held from October to November each year.</p>
 or submit your request using the online form <a href="https://eservices.mlaw.gov.sg/enquiry/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <hr>
 <blockquote>
-<h4>Where can I find the annual reports by the CMC?</h4>
+<h4>Where do I obtain relevant reports or statistics about the CMC?</h4>
 </blockquote>
-<p>The CMC does not publish annual reports. If you require certain type of
-statistics, please submit your request using the online form <a href="https://eservices.mlaw.gov.sg/enquiry/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>For specific CMC-related statistics, you may submit your request using
+the online form <a href="https://eservices.mlaw.gov.sg/enquiry/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <hr>
 <blockquote>
 <h4>&nbsp;I would like to conduct a media interview.</h4>
@@ -156,12 +155,6 @@ and purpose of your request.</p>
 <p>Please call the MinLaw Enquiry Line at 1800 2255 529* during office hours
 or submit your request using the online form <a href="https://eservices.mlaw.gov.sg/enquiry/" rel="noopener noreferrer nofollow" target="_blank">here </a>stating the nature
 and purpose of your request.</p>
-<hr>
-<blockquote>
-<h4>Where do I get The Community Mediation Centre statistics report?</h4>
-</blockquote>
-<p>The CMC does not publish statistics reports. If you require certain type
-of statistics, please submit your request using the online form <a href="https://eservices.mlaw.gov.sg/enquiry/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <hr>
 <blockquote>
 <h4>My agency would like to request for CMC’s collaterals.</h4>
