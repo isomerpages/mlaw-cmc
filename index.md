@@ -13,7 +13,7 @@ sections:
       button: Apply
       url: /apply-for-mediation/
       key_highlights:
-        - title: what is community mediation
+        - title: what is CMC
           description: ""
           url: /our-story/
         - title: Why choose mediation
