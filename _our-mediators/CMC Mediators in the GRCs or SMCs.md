@@ -125,7 +125,7 @@ description: ""
 <br>Mr Lee Poh Leng
 <br>Mr Mohamed Feroz Bin Abdul Hamid
 <br>Mr Seah Yee Men Vincent
-<br>Mr Toh MingHong Eugene
+<br>Mr Toh Ming Hong Eugene
 <br>
 </p>
 <p><strong>Yio Chu Kang SMC</strong>
