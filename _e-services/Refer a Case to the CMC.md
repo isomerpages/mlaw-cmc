@@ -19,5 +19,5 @@ public holidays).</p>
 </a>
 </p>
 <p></p>
-<p><em>Please note that airtime charges may apply to calls made from mobile phones.*</em>
+<p><em>*Please note that airtime charges may apply to calls made from mobile phones.</em>
 </p>
