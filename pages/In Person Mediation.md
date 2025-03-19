@@ -9,7 +9,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/SATELLITE_MEDIATION_CENTRE_2025.png">
 </div>
 <p></p>
-<p>Apart from teh CMC at MinLaw Services Centre, we also provide voluntary
+<p>Apart from the CMC at MinLaw Services Centre, we also provide voluntary
 mediation at <strong>18 satellite mediation locations</strong>:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ACE the Place Community Club</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bedok Community Centre</p>
