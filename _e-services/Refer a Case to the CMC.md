@@ -18,3 +18,6 @@ public holidays).</p>
 <a href="https://form.gov.sg/5dbfebfa1b03c2001911fc19" rel="noopener noreferrer nofollow" target="_blank"><u>.</u>
 </a>
 </p>
+<p></p>
+<p><em>Please note that airtime charges may apply to calls made from mobile phones.*</em>
+</p>
