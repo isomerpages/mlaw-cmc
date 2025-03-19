@@ -26,4 +26,5 @@ description: ""
 <p>Apply for voluntary mediation by calling the MinLaw enquiry line at <strong>1800 2255 529* </strong>during
 office hours.</p>
 <p></p>
-<p></p>
+<p><em>Please note that airtime charges may apply to calls made from mobile phones.*</em>
+</p>
