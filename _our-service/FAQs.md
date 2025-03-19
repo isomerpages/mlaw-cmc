@@ -135,6 +135,9 @@ which are usually held from October to November each year.</p>
 </blockquote>
 <p>Please call the MinLaw Enquiry Line at 1800 2255* 529 during office hours
 or submit your request using the online form <a href="https://eservices.mlaw.gov.sg/enquiry/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
+<p><em>*Please note that airtime charges may apply to calls made from mobile phones.</em>
+</p>
 <hr>
 <blockquote>
 <h4>Where do I obtain relevant reports or statistics about the CMC?</h4>
@@ -148,6 +151,9 @@ the online form <a href="https://eservices.mlaw.gov.sg/enquiry/" rel="noopener n
 <p>Please call the MinLaw Enquiry Line at 1800 2255 529* during office hours
 or submit your request using the online form <a href="https://eservices.mlaw.gov.sg/enquiry/" rel="noopener noreferrer nofollow" target="_blank">here </a>stating the nature
 and purpose of your request.</p>
+<p></p>
+<p><em>*Please note that airtime charges may apply to calls made from mobile phones.</em>
+</p>
 <hr>
 <blockquote>
 <h4>I would like to collaborate with the CMC on an event. Who can I speak to?</h4>
@@ -155,6 +161,9 @@ and purpose of your request.</p>
 <p>Please call the MinLaw Enquiry Line at 1800 2255 529* during office hours
 or submit your request using the online form <a href="https://eservices.mlaw.gov.sg/enquiry/" rel="noopener noreferrer nofollow" target="_blank">here </a>stating the nature
 and purpose of your request.</p>
+<p></p>
+<p><em>*Please note that airtime charges may apply to calls made from mobile phones.</em>
+</p>
 <hr>
 <blockquote>
 <h4>My agency would like to request for CMC’s collaterals.</h4>
@@ -162,9 +171,12 @@ and purpose of your request.</p>
 <p>Please call the MinLaw Enquiry Line at 1800 2255 529* during office hours
 or submit your request using the online form <a href="https://eservices.mlaw.gov.sg/enquiry/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
+<p><em>*Please note that airtime charges may apply to calls made from mobile phones.</em>
+</p>
+<p></p>
 </div>
 </details>
 </div>
 <p></p>
-<p><em>This page view may vary across different browsers*</em>
+<p><em>*This page view may vary across different browsers.</em>
 </p>
