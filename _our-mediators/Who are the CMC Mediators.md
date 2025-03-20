@@ -6,12 +6,9 @@ description: ""
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p>The CMC mediators are volunteers who are appointed by the Minister for
-Law.</p>
-</li>
-<li>
-<p>They have been carefully selected, trained and assessed before they are
-appointed to their role.</p>
+<p>The CMC mediators are volunteers who are carefully selected, trained and
+assessed before they are appointed to their role.</p>
+<p></p>
 </li>
 <li>
 <p>They are also required to remain relevant in their role through regular
