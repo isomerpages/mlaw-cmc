@@ -15,7 +15,7 @@ office hours. &nbsp;</p>
 <p><strong>&nbsp;</strong>1) Call the MinLaw enquiry line at <strong>1800 5529 259*</strong> during
 office hours (Monday to Friday: 8:30am to 5:00pm; closed on weekends and
 public holidays).</p>
-<p>&nbsp;2) Submit your CMC referral through <a href="https://form.gov.sg/5dbfebfa1b03c2001911fc19" rel="noopener noreferrer nofollow" target="_blank"><u>the Non-Goverment Agency Form</u></a>
+<p>&nbsp;2) Submit your CMC referral form <a href="https://form.gov.sg/5dbfebfa1b03c2001911fc19" rel="noopener noreferrer nofollow" target="_blank"><u>here.</u></a>
 </p>
 <p></p>
 <p><em>*Please note that airtime charges may apply to calls made from mobile phones.</em>
