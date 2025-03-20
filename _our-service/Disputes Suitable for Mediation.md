@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
-<p>We can assist in resolving a wide range of disputes with empathy and practical
-solutions.</p>
+<p>We can assist in resolving a wide range of disputes with empathy and by
+offering practical solutions.</p>
 </blockquote>
 <p></p>
 <table style="minWidth: 75px">
