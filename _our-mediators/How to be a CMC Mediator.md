@@ -16,7 +16,7 @@ which are usually held from October to November each year.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Appointment</p>
 <p></p>
 <p>To <a href="https://go.gov.sg/cmcvolunteermediatorapplicationform" rel="noopener nofollow" target="_blank">apply</a> as
-a volunteer CMC mediator, you will have to meet the following criteria:</p>
+a volunteer CMC mediator, you must meet the following criteria:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>A Singapore Citizen or a Singapore Permanent Resident.</p>
@@ -31,18 +31,21 @@ a volunteer CMC mediator, you will have to meet the following criteria:</p>
 <p>Proficient in a local language or dialect.</p>
 </li>
 <li>
-<p>&nbsp;Familiar with using the Zoom platform for conducting mediation.</p>
+<p>Proficient in using the Zoom platform for conducting mediation.</p>
 </li>
 <li>
-<p>Active involvement in community or voluntary work, either currently or
-in the past, is important.</p>
+<p>Active involvement in community work either currently or in the past;
+and/or</p>
 </li>
 <li>
-<p>Attained at least a Level 1 Accreditation from the Singapore International
+<p>Active involvement in voluntary work either currently or in the past.</p>
+</li>
+<li>
+<p>Have attained at least a Level 1 Accreditation from the Singapore International
 Mediation Institute (SIMI) within the last two years.</p>
 </li>
 <li>
-<p>&nbsp;An interest in contributing to building a gracious and harmonious
+<p>Have an interest in contributing to building a gracious and harmonious
 community in Singapore.</p>
 </li>
 </ul>
