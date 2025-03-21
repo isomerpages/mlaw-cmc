@@ -4,8 +4,8 @@ permalink: /our-mission/
 variant: tiptap
 description: ""
 ---
-<p>Our mission is to provide a practical and convenient solution with empathy
-for relational and community disputes in Singapore.</p>
+<p>Our mission is to provide a practical and convenient solution for relational
+and community disputes in Singapore.</p>
 <p></p>
 <p>To find out how we do this, read "Mending Fences Building Bridges" as
 told by our mediators.</p>
