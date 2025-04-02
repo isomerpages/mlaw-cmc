@@ -111,7 +111,7 @@ neighbours, family members, friends, co-workers, landlords, tenants or
 other interpersonal relationships.&nbsp;</p>
 <p>However, it is not suitable for contractual or commercial disputes.</p>
 <p>For a more comprehensive list of the types of disputes that are appropriate
-for mediation at the CMC, please click <a href="https://cmc.mlaw.gov.sg/apply-for-mediation/disputes-suitable-for-mediation/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+for mediation at the CMC, please click <a href="https://cmc.mlaw.gov.sg/disputes-suitable-for-mediation/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <hr>
 <blockquote>
 <h4>Why is the CMC accepting a mediation application without carrying out any investigations?</h4>
@@ -308,11 +308,9 @@ the Courts.</p>
 </blockquote>
 <p>The mediation at the CMC is a confidential process, as outlined in the
 CMC Act, Cap 49A.</p>
-<p>&nbsp;</p>
 <p>To maintain confidentiality and to provide a safe space for parties to
 share without fear, no photography, videography or audio recording is allowed
 during the mediation session.</p>
-<p>&nbsp;</p>
 <p>Should we realise that a recording has taken place, the party responsible
 will be asked to delete the content, in the presence of the mediators or
 the CMC officer.</p>
