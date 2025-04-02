@@ -333,7 +333,7 @@ legal proceedings.</p>
 <h4>What happens if the other party breaches the agreement?</h4>
 </blockquote>
 <p></p>
-<p>You can apply for remediation through our online application <a href="https://cmc.mlaw.gov.sg/e-services/apply-online/" rel="noopener noreferrer nofollow" target="_blank"><u>form</u></a>.
+<p>You can apply for remediation through our online application <a href="https://cmc.mlaw.gov.sg/apply-for-mediation/" rel="noopener noreferrer nofollow" target="_blank"><u>form</u></a>.
 You can also call the MinLaw Enquiry Line at 1800 2255 529* during office
 hours.&nbsp;</p>
 <p><strong><u>Non-neighbour Disputes</u></strong>
@@ -345,7 +345,7 @@ to file an application with the Courts.&nbsp;</p>
 </p>
 <p>If remediation does not materialise because the Respondent declines or
 fails to respond, you can apply for Directed Remediation through our online
-application <a href="https://cmc.mlaw.gov.sg/e-services/apply-online/" rel="noopener noreferrer nofollow" target="_blank"><u>form</u></a>.
+application <a href="https://cmc.mlaw.gov.sg/apply-for-mediation/" rel="noopener noreferrer nofollow" target="_blank"><u>form</u></a>.
 You can also call the MinLaw Enquiry Line at 1800 2255 529* during office
 hours. This means attendance at a CMC mediation session is compulsory for
 both parties.</p>
@@ -387,7 +387,7 @@ which are usually held from October to November each year.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Assessment</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Apprenticeship</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Appointment</p>
-<p>You can apply <a href="https://cmc.mlaw.gov.sg/partner-with-us/apply-to-volunteer/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+<p>You can apply <a href="https://cmc.mlaw.gov.sg/how-to-be-a-cmc-mediator/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <hr>
 <blockquote>
 <h4>How to be a CMC mediator?</h4>
@@ -423,7 +423,7 @@ Mediation Institute (SIMI) within the last two years.</p>
 community in Singapore.</p>
 </li>
 </ul>
-<p>You can apply <a href="https://cmc.mlaw.gov.sg/partner-with-us/apply-to-volunteer/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+<p>You can apply <a href="https://cmc.mlaw.gov.sg/how-to-be-a-cmc-mediator/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 </div>
 </details>
 <details class="isomer-details">
