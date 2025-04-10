@@ -232,8 +232,8 @@ sessions.</p>
 <h4>If the Respondent ignores or declines the CMC invitation, what are my other options? Can I bring the case up to the Community Disputes Resolution Tribunal (CDRT)?</h4>
 </blockquote>
 <p></p>
-<p>For voluntary mediation, we can only proceed to arrange a mediation session
-when both parties are willing to participate.</p>
+<p>For <strong>voluntary mediation</strong>, we can only proceed to arrange
+a mediation session when both parties are willing to participate.</p>
 <p><strong><u>Non-Neighbour Disputes</u></strong>
 </p>
 <p>If the Respondent declines or fails to respond to a mediation invitation,
