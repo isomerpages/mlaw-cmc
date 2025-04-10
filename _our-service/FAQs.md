@@ -349,6 +349,9 @@ session is compulsory for both parties.</p>
 <p>If remediation does not materialise because the Respondent declines or
 fails to respond, we will issue you with an outcome letter. You have the
 option to file a claim at the CDRT.</p>
+<p></p>
+<p><em>*Please note that airtime charges may apply to calls made from mobile phones.</em>
+</p>
 <hr>
 </div>
 </details>
