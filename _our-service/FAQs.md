@@ -248,7 +248,7 @@ their hotline at 3300 3300, between 9am to 9pm on weekdays.</p>
 <p><strong><u>Neighbour Disputes from all other Towns (During Pilot)</u></strong>
 </p>
 <p>If the Respondent declines or fails to respond, we will issue you with
-a Certificate of Waiver. You have the option to file a claim at the CDRT.</p>
+an outcome letter. You have the option to file a claim at the CDRT.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -331,11 +331,8 @@ legal proceedings.</p>
 <p></p>
 <blockquote>
 <h4>What happens if the other party breaches the agreement?</h4>
-</blockquote>
 <p></p>
-<p>You can apply for remediation through our online application <a href="https://cmc.mlaw.gov.sg/apply-for-mediation/" rel="noopener noreferrer nofollow" target="_blank"><u>form</u></a>.
-You can also call the MinLaw Enquiry Line at 1800 2255 529* during office
-hours.&nbsp;</p>
+</blockquote>
 <p><strong><u>Non-neighbour Disputes</u></strong>
 </p>
 <p>If remediation does not materialise, you may choose to explore other options
@@ -344,16 +341,14 @@ to file an application with the Courts.&nbsp;</p>
 <p><strong><u>Neighbour Disputes from Tampines (During Pilot)</u></strong>
 </p>
 <p>If remediation does not materialise because the Respondent declines or
-fails to respond, you can apply for Directed Remediation through our online
-application <a href="https://cmc.mlaw.gov.sg/apply-for-mediation/" rel="noopener noreferrer nofollow" target="_blank"><u>form</u></a>.
-You can also call the MinLaw Enquiry Line at 1800 2255 529* during office
-hours. This means attendance at a CMC mediation session is compulsory for
-both parties.</p>
+fails to respond, you can call the MinLaw Enquiry Line at 1800 2255 529*
+during office hours<em>. </em>This means attendance at a CMC mediation
+session is compulsory for both parties.</p>
 <p><strong><u>Neighbour Disputes from all other Towns (During Pilot)</u></strong>
 </p>
 <p>If remediation does not materialise because the Respondent declines or
-fails to respond, we will issue you with a Certificate of Waiver. You have
-the option to file a claim at the CDRT.</p>
+fails to respond, we will issue you with an outcome letter. You have the
+option to file a claim at the CDRT.</p>
 <hr>
 </div>
 </details>
