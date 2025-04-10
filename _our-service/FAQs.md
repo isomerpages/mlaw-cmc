@@ -351,7 +351,7 @@ or fails to respond, you can call the MinLaw Enquiry Line at 1800 2255
 session is compulsory for both parties.</p>
 <p><strong><u>Neighbour Disputes from all other Towns (During Pilot Phase)</u></strong>
 </p>
-<p>If Voluntary remediation does not materialise because the Respondent declines
+<p>If voluntary remediation does not materialise because the Respondent declines
 or fails to respond, we will issue you with an outcome letter. You have
 the option to file a claim at the CDRT.</p>
 <p></p>
