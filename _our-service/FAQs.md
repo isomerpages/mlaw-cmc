@@ -346,9 +346,9 @@ or proceeding to file an application with the Courts.&nbsp;</p>
 <p><strong><u>Neighbour Disputes from Tampines (During Pilot Phase)</u></strong>
 </p>
 <p>If voluntary remediation does not materialise because the Respondent declines
-or fails to respond, you can call the MinLaw Enquiry Line at 1800 2255
-529* during office hours<em>. </em>This means attendance at a CMC mediation
-session is compulsory for both parties.</p>
+or fails to respond, you can apply for Directed Remediation by calling
+the MinLaw Enquiry Line at 1800 2255 529* during office hours<em>. </em>This
+means attendance at a CMC mediation session is compulsory for both parties.</p>
 <p><strong><u>Neighbour Disputes from all other Towns (During Pilot Phase)</u></strong>
 </p>
 <p>If voluntary remediation does not materialise because the Respondent declines
