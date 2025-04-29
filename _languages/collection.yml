@@ -1,5 +1,5 @@
 collections:
-  vernaculars:
+  languages:
     output: true
     order:
       - Chinese/.keep
