@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Chinese/.keep
-      - Chinese/Why Choose Mediation.md
+      - Chinese/为什么选择调解.md
       - Chinese/Disputes Suitable for Mediation.md
       - Chinese/Our Story.md
       - Malay/.keep
