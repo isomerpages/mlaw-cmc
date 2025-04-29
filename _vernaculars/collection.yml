@@ -2,5 +2,6 @@ collections:
   vernaculars:
     output: true
     order:
+      - Tamil/.keep
       - Malay/.keep
       - Chinese/.keep
