@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Tamil/.keep
+      - Malay/Our Story.md
       - Malay/.keep
       - Chinese/Our Story.md
       - Chinese/.keep
