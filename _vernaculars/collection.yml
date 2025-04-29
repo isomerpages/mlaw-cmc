@@ -4,4 +4,5 @@ collections:
     order:
       - Tamil/.keep
       - Malay/.keep
+      - Chinese/Our Story.md
       - Chinese/.keep
