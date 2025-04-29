@@ -2,6 +2,7 @@ collections:
   vernaculars:
     output: true
     order:
+      - Chinese/Why Choose Mediation.md
       - Chinese/.keep
       - Chinese/Our Story.md
       - Malay/.keep
