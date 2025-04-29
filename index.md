@@ -74,6 +74,10 @@ sections:
           description: Find out the latest development in community mediation.
           linktext: Coming soon
           url: "-"
+  - resources:
+      title: View our website in other vernaculars
+      id: resources
+      button: Click here to view
 description: Description
 image: /images/isomer-logo.svg
 ---
