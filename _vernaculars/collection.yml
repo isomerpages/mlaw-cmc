@@ -1,4 +1,5 @@
 collections:
   vernaculars:
     output: true
-    order: []
+    order:
+      - Chinese/.keep
