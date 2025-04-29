@@ -2,10 +2,10 @@ collections:
   vernaculars:
     output: true
     order:
-      - Chinese/Pre Mediation Process.md
       - Chinese/.keep
       - Chinese/为什么选择调解.md
       - Chinese/适合调解的纠纷类型.md
+      - Chinese/Pre Mediation Process.md
       - Chinese/Our Story.md
       - Malay/.keep
       - Malay/Our Story.md
