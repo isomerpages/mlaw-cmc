@@ -2,9 +2,9 @@ collections:
   vernaculars:
     output: true
     order:
-      - Tamil/Our Story.md
-      - Tamil/.keep
-      - Malay/Our Story.md
-      - Malay/.keep
-      - Chinese/Our Story.md
       - Chinese/.keep
+      - Chinese/Our Story.md
+      - Malay/.keep
+      - Malay/Our Story.md
+      - Tamil/.keep
+      - Tamil/Our Story.md
