@@ -2,6 +2,7 @@ collections:
   languages:
     output: true
     order:
+      - Chinese/Who are the CMC Mediators.md
       - Chinese/.keep
       - Chinese/为什么选择调解.md
       - Chinese/适合调解的纠纷类型.md
