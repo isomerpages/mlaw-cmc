@@ -2,7 +2,6 @@ collections:
   languages:
     output: true
     order:
-      - Chinese/SIMI QAP.md
       - Chinese/.keep
       - Chinese/为什么选择调解.md
       - Chinese/适合调解的纠纷类型.md
@@ -19,6 +18,7 @@ collections:
       - Chinese/我们的故事.md
       - Chinese/我们的使命.md
       - Chinese/我们的团队.md
+      - Chinese/SIMI QAP.md
       - Malay/.keep
       - Malay/Our Story.md
       - Tamil/.keep
