@@ -2,9 +2,6 @@ collections:
   languages:
     output: true
     order:
-      - Chinese/Appointed CMC Mediators.md
-      - Chinese/How to be a CMC Mediator.md
-      - Chinese/Who are the CMC Mediators.md
       - Chinese/.keep
       - Chinese/为什么选择调解.md
       - Chinese/适合调解的纠纷类型.md
@@ -15,6 +12,9 @@ collections:
       - Chinese/常见问题.md
       - Chinese/申请调解.md
       - Chinese/向社区调解中心转介案件.md
+      - Chinese/Who are the CMC Mediators.md
+      - Chinese/How to be a CMC Mediator.md
+      - Chinese/Appointed CMC Mediators.md
       - Chinese/我们的故事.md
       - Malay/.keep
       - Malay/Our Story.md
