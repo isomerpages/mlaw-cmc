@@ -2,8 +2,6 @@ collections:
   languages:
     output: true
     order:
-      - Chinese/Refer a Case to the CMC.md
-      - Chinese/Apply for Mediation.md
       - Chinese/.keep
       - Chinese/为什么选择调解.md
       - Chinese/适合调解的纠纷类型.md
@@ -12,6 +10,8 @@ collections:
       - Chinese/社区调解中心调解程序.md
       - Chinese/调解后程序.md
       - Chinese/常见问题.md
+      - Chinese/Apply for Mediation.md
+      - Chinese/Refer a Case to the CMC.md
       - Chinese/我们的故事.md
       - Malay/.keep
       - Malay/Our Story.md
