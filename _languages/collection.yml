@@ -2,7 +2,6 @@ collections:
   languages:
     output: true
     order:
-      - Chinese/FAQs.md
       - Chinese/.keep
       - Chinese/为什么选择调解.md
       - Chinese/适合调解的纠纷类型.md
@@ -10,6 +9,7 @@ collections:
       - Chinese/调解方式.md
       - Chinese/The CMC Mediation Process.md
       - Chinese/Post Mediation Process.md
+      - Chinese/FAQs.md
       - Chinese/我们的故事.md
       - Malay/.keep
       - Malay/Our Story.md
