@@ -2,7 +2,6 @@ collections:
   languages:
     output: true
     order:
-      - Chinese/Our Mission.md
       - Chinese/.keep
       - Chinese/为什么选择调解.md
       - Chinese/适合调解的纠纷类型.md
@@ -17,6 +16,7 @@ collections:
       - Chinese/如何成为社区调解中心的调解员.md
       - Chinese/获任命的社区调解中心调解员名单.md
       - Chinese/我们的故事.md
+      - Chinese/Our Mission.md
       - Malay/.keep
       - Malay/Our Story.md
       - Tamil/.keep
