@@ -5,3 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Chinese
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS CHINESE/The_CMC_Mediation_Process_Chinese.png">
+</div>
+<p></p>
