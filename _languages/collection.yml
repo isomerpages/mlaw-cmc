@@ -2,12 +2,12 @@ collections:
   languages:
     output: true
     order:
-      - Chinese/The CMC Mediation Process.md
       - Chinese/.keep
       - Chinese/为什么选择调解.md
       - Chinese/适合调解的纠纷类型.md
       - Chinese/调解前程序.md
       - Chinese/调解方式.md
+      - Chinese/The CMC Mediation Process.md
       - Chinese/我们的故事.md
       - Malay/.keep
       - Malay/Our Story.md
