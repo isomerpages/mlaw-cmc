@@ -294,6 +294,22 @@ telah ditandatangani.</p>
 hormat. Anda boleh memilih untuk meneroka pilihan lain bagi menyelesaikan
 pertikaian, termasuk mendapatkan nasihat undang-undang atau memfailkan
 permohonan di mahkamah.</p>
+<p></p>
+<blockquote>
+<p>Bolehkah saya merakam sesi pengantaraan?</p>
+</blockquote>
+<p>Pengantaraan di CMC ialah proses sulit, seperti yang digariskan dalam
+Akta CMC, Bab 49A. Untuk mengekalkan kerahsiaan dan untuk menyediakan ruang
+yang selamat kepada pihak-pihak untuk berkongsi tanpa rasa takut, tiada
+fotografi, videografi atau rakaman audio dibenarkan semasa sesi pengantaraan.
+Sekiranya kami menyedari bahawa terdapat rakaman, pihak yang bertanggungjawab
+akan diminta untuk memadamkan kandungan tersebut dengan kehadiran pengantara
+atau pegawai CMC.</p>
+<p></p>
+<blockquote>
+<p>Adakah Perjanjian Penyelesaian CMC dimeterai secara sah?</p>
+</blockquote>
+<p></p>
 </div>
 </details>
 </div>
