@@ -309,7 +309,9 @@ atau pegawai CMC.</p>
 <blockquote>
 <p>Adakah Perjanjian Penyelesaian CMC dimeterai secara sah?</p>
 </blockquote>
-<p></p>
+<p>Sebaik sahaja Perjanjian Penyelesaian ditandatangani, perjanjian tersebut
+mengikat pihak yang menandatangan, jadi anda boleh menggunakan dokumen
+tersebut sebagai bukti untuk menyokong prosiding undang-undang.</p>
 </div>
 </details>
 </div>
