@@ -347,5 +347,133 @@ Anda mempunyai pilihan untuk memfailkan tuntutan di CDRT.</p>
 <p></p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Urusan Pengurusan Sukarelawan</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<blockquote>
+<p>Siapakah mediator CMC?</p>
+</blockquote>
+<p>Mediator CMC ialah sukarelawan yang dilantik oleh Menteri Undang-Undang.</p>
+<p>Mereka telah dipilih dengan teliti, menjalani latihan dan penilaian sebelum
+dilantik secara rasmi. Mereka juga dikehendaki untuk kekal relevan dalam
+peranan ini melalui mediasi yang dijalankan secara berkala serta latihan
+berterusan.</p>
+<p></p>
+<blockquote>
+<p>Adakah CMC merekrut mana-mana sukarelawan baharu?</p>
+</blockquote>
+<p>CMC merekrut sukarelawan baharu setiap tahun dan permohonan ditutup pada
+penghujung September. Hanya calon yang disenarai pendek akan dijemput untuk
+menghadiri Temu Duga Pemilihan, yang biasa diadakan dari Oktober hingga
+November setiap tahun.</p>
+<p></p>
+<blockquote>
+<p>Bagaimanakah untuk layak menjadi mediator CMC?</p>
+</blockquote>
+<p>Terdapat <strong>lima peringkat</strong> dalam proses kelayakan:</p>
+<ul>
+<li>
+<p>Permohonan</p>
+</li>
+<li>
+<p>Pemilihan</p>
+</li>
+<li>
+<p>Penilaian</p>
+</li>
+<li>
+<p>Latihan Praktikal (Apprenticeship)</p>
+</li>
+<li>
+<p>Pelantikan</p>
+</li>
+</ul>
+<p>Anda boleh membuat permohonan di <a href="/how-to-be-a-cmc-mediator-malay/" rel="noopener nofollow" target="_blank">sini</a>.</p>
+<p></p>
+<blockquote>
+<p>Bagaimanakah untuk menjadi mediator CMC?</p>
+</blockquote>
+<p>Untuk memohon sebagai mediator sukarelawan CMC, anda perlu memenuhi kriteria
+berikut:</p>
+<ul>
+<li>
+<p>Warganegara Singapura atau Penduduk Tetap Singapura</p>
+</li>
+<li>
+<p>Berumur 30 tahun dan ke atas</p>
+</li>
+<li>
+<p>Fasih dalam bahasa Inggeris, secara lisan dan bertulis</p>
+</li>
+<li>
+<p>Mempunyai penguasaan dalam bahasa atau dialek tempatan</p>
+</li>
+<li>
+<p>Biasa menggunakan platform Zoom untuk sesi mediasi</p>
+</li>
+<li>
+<p>Pernah atau sedang terlibat secara aktif dalam kerja kemasyarakatan atau
+kesukarelawanan</p>
+</li>
+<li>
+<p>Telah mendapat Akreditasi Tahap 1 daripada Singapore International Mediation
+Institute (SIMI) dalam tempoh dua tahun kebelakangan ini</p>
+</li>
+<li>
+<p>Berminat untuk menyumbang kepada pembinaan masyarakat yang beradab dan
+harmoni di Singapura</p>
+</li>
+</ul>
+<p>Anda boleh membuat permohonan di <a href="/how-to-be-a-cmc-mediator-malay/" rel="noopener nofollow" target="_blank">sini</a>.</p>
 </div>
+</details>
+<details class="isomer-details">
+<summary>Urusan Media dan Jangkauan</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<blockquote>
+<p>Saya ingin meminta taklimat oleh CMC.</p>
+</blockquote>
+<p>Sila hubungi Talian Pertanyaan MinLaw di 1800 2255* 529 semasa waktu pejabat
+atau serahkan permintaan anda menggunakan borang dalam talian&nbsp;<a href="https://eservices.mlaw.gov.sg/enquiry/" rel="noopener noreferrer nofollow" target="_blank"><u>di sini</u></a>.</p>
+<p><em>*Sila ambil perhatian bahawa caj masa siaran mungkin dikenakan untuk panggilan yang dibuat daripada telefon mudah alih.</em>
+</p>
+<p></p>
+<blockquote>
+<p>Di manakah saya boleh mendapatkan laporan atau statistik yang berkaitan
+tentang CMC?</p>
+</blockquote>
+<p>Untuk statistik berkaitan CMC tertentu, anda boleh menghantar permintaan
+menggunakan borang dalam talian&nbsp;<a href="https://eservices.mlaw.gov.sg/enquiry/" rel="noopener noreferrer nofollow" target="_blank"><u>di sini</u></a>.</p>
+<p></p>
+<blockquote>
+<p>Saya ingin mengadakan wawancara media.</p>
+</blockquote>
+<p>Sila hubungi Talian Pertanyaan MinLaw di 1800 2255 529* semasa waktu pejabat
+atau hantar permintaan anda menggunakan borang dalam talian&nbsp;<a href="https://eservices.mlaw.gov.sg/enquiry/" rel="noopener noreferrer nofollow" target="_blank"><u>di sini&nbsp;</u></a>dengan
+menyatakan sebab dan tujuan permintaan anda.</p>
+<p><em>*Sila ambil perhatian bahawa caj masa siaran mungkin dikenakan untuk panggilan yang dibuat daripada telefon mudah alih.</em>
+</p>
+<p></p>
+<blockquote>
+<p>Saya ingin bekerjasama dengan CMC dalam satu acara. Siapakah yang saya
+boleh hubungi?</p>
+</blockquote>
+<p>Sila hubungi Talian Pertanyaan MinLaw di 1800 2255 529* semasa waktu pejabat
+atau hantar permintaan anda menggunakan borang dalam talian&nbsp;<a href="https://eservices.mlaw.gov.sg/enquiry/" rel="noopener noreferrer nofollow" target="_blank"><u>di sini&nbsp;</u></a>dengan
+menyatakan sebab dan tujuan permintaan anda.</p>
+<p><em>*Sila ambil perhatian bahawa caj masa siaran mungkin dikenakan untuk panggilan yang dibuat daripada telefon mudah alih.</em>
+</p>
+<p></p>
+<blockquote>
+<p>Agensi saya ingin meminta sandaran CMC.</p>
+</blockquote>
+<p>Sila hubungi Talian Pertanyaan MinLaw di 1800 2255 529* semasa waktu pejabat
+atau hantar permintaan anda menggunakan borang dalam talian&nbsp;<a href="https://eservices.mlaw.gov.sg/enquiry/" rel="noopener noreferrer nofollow" target="_blank"><u>di sini</u></a>.</p>
+<p><em>*Sila ambil perhatian bahawa caj masa siaran mungkin dikenakan untuk panggilan yang dibuat daripada telefon mudah alih.</em>
+</p>
+</div>
+</details>
+</div>
+<p><em>*Paparan halaman ini mungkin berbeza di pelayar yang berbeza.</em>
+</p>
 <p></p>
