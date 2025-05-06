@@ -13,5 +13,5 @@ Building Bridges” seperti yang diberitahu oleh pengantara kami.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1448512173351.jpg">
 </div>
-<p><a href="Mending_Fences__Building_Bridges.pdf" rel="noopener nofollow" target="_blank">Klik</a> di
+<p><a href="/files/Mending_Fences__Building_Bridges.pdf" rel="noopener nofollow" target="_blank">Klik</a> di
 sini untuk memuat turun salinan.</p>
