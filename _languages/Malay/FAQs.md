@@ -252,9 +252,48 @@ di CDRT.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>Urusan Penting- Sesi Pengantaraan</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<blockquote>
+<p>Apa yang berlaku semasa sesi mediasi?</p>
+</blockquote>
+<p>Berikut adalah proses mediasi di CMC:</p>
 <p></p>
+<p><strong>Pendaftaran</strong>: Sila hadir sekurang-kurangnya 20 minit sebelum
+sesi bermula. Pegawai kami akan menyambut anda, mengesahkan identiti semua
+pihak yang terlibat, dan memastikan semua perkara telah disediakan sebelum
+sesi mediasi dimulakan.</p>
+<p></p>
+<p><strong>Penyataan Pembukaan</strong>: Mediator kami akan menjemput anda
+masuk ke dalam bilik mediasi, di mana anda dan pihak satu lagi akan duduk.
+Sesi akan dimulakan dengan penyataan pembukaan oleh mediator, termasuk
+penerangan tentang proses mediasi dan peraturan asas yang perlu dipatuhi.</p>
+<p></p>
+<p><strong>Sesi Bersama</strong>: Pihak Pemohon akan memulakan sesi dengan
+membentangkan isu-isu yang dibawa ke mediasi. Selepas itu, Responden akan
+diberi peluang untuk memberi maklum balas. Mediator kami akan merumuskan
+isu-isu utama yang telah dikemukakan.</p>
+<p></p>
+<p><strong>Sesi Peribadi</strong>: Sekiranya terdapat isu sensitif yang memerlukan
+perbincangan secara berasingan, mediator boleh berbincang secara peribadi
+dengan setiap pihak. Maklumat yang dikongsi dalam sesi peribadi akan dirahsiakan,
+kecuali jika diberi kebenaran untuk didedahkan kepada pihak lain.</p>
+<p>Mediator kami mungkin akan bertukar antara sesi bersama dan sesi peribadi,
+bagi meneroka pelbagai penyelesaian yang mungkin.</p>
+<p></p>
+<p><strong>Penutup:</strong>
+</p>
+<p><u>Penyelesaian dengan Persetujuan</u>
+<br>Sekiranya persetujuan dicapai, mediator kami akan mendokumenkan terma
+persetujuan tersebut. Anda akan diberi peluang untuk meneliti dokumen itu
+sebelum menandatanganinya. Anda juga akan menerima salinan perjanjian yang
+telah ditandatangani.</p>
+<p></p>
+<p><u>Tiada Penyelesaian</u>
+<br>Sekiranya tiada persetujuan dicapai, sesi akan ditamatkan dengan penuh
+hormat. Anda boleh memilih untuk meneroka pilihan lain bagi menyelesaikan
+pertikaian, termasuk mendapatkan nasihat undang-undang atau memfailkan
+permohonan di mahkamah.</p>
 </div>
 </details>
 </div>
