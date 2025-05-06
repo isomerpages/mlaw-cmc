@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Tamil
 ---
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Web Revamp pics/WEB GRAPHICS/Face_to_face.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">நேரில் சமரசம்</div><div class="isomer-card-description">நாங்கள் நாடு முழுவதும் பல்வேறு இடங்களில் நேரில் சமரசம் செய்கிறோம்.</div><div class="isomer-card-link">மேலும் அறிய இங்கு கிளிக் செய்க.</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/in-person-mediation-tamil/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Web Revamp pics/WEB GRAPHICS/Face_to_face.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">நேரில் சமரசம்</div><div class="isomer-card-description">நாங்கள் நாடு முழுவதும் பல்வேறு இடங்களில் நேரில் சமரசம் செய்கிறோம்.</div><div class="isomer-card-link">மேலும் அறிய இங்கு கிளிக் செய்க.</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
