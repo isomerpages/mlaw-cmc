@@ -252,7 +252,7 @@ di CDRT.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Urusan Penting- Sesi Pengantaraan</summary>
+<summary>Urusan Operasi- Sesi Pengantaraan</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <blockquote>
 <p>Apa yang berlaku semasa sesi mediasi?</p>
@@ -312,6 +312,18 @@ atau pegawai CMC.</p>
 <p>Sebaik sahaja Perjanjian Penyelesaian ditandatangani, perjanjian tersebut
 mengikat pihak yang menandatangan, jadi anda boleh menggunakan dokumen
 tersebut sebagai bukti untuk menyokong prosiding undang-undang.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Urusan Operasi – Pascapengantaraan</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<blockquote>
+<p>Apa yang berlaku jika pihak lain melanggar perjanjian?</p>
+</blockquote>
+<p>Anda boleh memohon&nbsp;<strong>pemulihan sukarela</strong>&nbsp;<u>sebulan selepas sesi pengantaraan terakhir melalui</u>&nbsp;
+<a href="https://eservices.mlaw.gov.sg/cmc/mediatorsportal/direct-intake/" rel="noopener noreferrer nofollow" target="_blank"><u>borang</u>
+</a>permohonan dalam talian kami. Anda juga boleh memohon dengan menghubungi
+Talian Pertanyaan MinLaw di 1800 2255 529* semasa waktu pejabat.</p>
 </div>
 </details>
 </div>
