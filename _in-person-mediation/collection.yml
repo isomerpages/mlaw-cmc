@@ -2,5 +2,6 @@ collections:
   in-person-mediation:
     output: true
     order:
+      - நேரில் சமரசம்.md
       - Pengantaraan Bersemuka.md
       - In Person Mediation.md
