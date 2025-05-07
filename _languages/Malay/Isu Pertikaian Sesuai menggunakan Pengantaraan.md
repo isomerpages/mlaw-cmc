@@ -87,7 +87,8 @@ serta menawarkan penyelesaian praktikal.</p>
 </div>
 </details>
 </div>
-<p>Klik di sini untuk membaca kes pengantaraan.</p>
+<p><a href="/neighbour-dispute-malay/" rel="noopener nofollow" target="_blank">Klik</a> di
+sini untuk membaca kes pengantaraan.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/Family_1.png">
@@ -134,7 +135,8 @@ serta menawarkan penyelesaian praktikal.</p>
 </div>
 </details>
 </div>
-<p>Klik di sini untuk membaca kes pengantaraan.</p>
+<p><a href="/family-dispute-malay/" rel="noopener nofollow" target="_blank">Klik</a> di
+sini untuk membaca kes pengantaraan.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/Friends_1.png">
 </div>
@@ -165,7 +167,8 @@ serta menawarkan penyelesaian praktikal.</p>
 </div>
 </details>
 </div>
-<p>Klik di sini untuk membaca kes pengantaraan.</p>
+<p><a href="/friends-or-coworker-dispute-malay/" rel="noopener nofollow" target="_blank">Klik</a> di
+sini untuk membaca kes pengantaraan.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/Landlord_1.png">
 </div>
@@ -209,6 +212,7 @@ serta menawarkan penyelesaian praktikal.</p>
 </div>
 </details>
 </div>
-<p>Klik di sini untuk membaca kes pengantaraan.</p>
+<p><a href="/landlord-tenant-dispute-malay/" rel="noopener nofollow" target="_blank">Klik</a> di
+sini untuk membaca kes pengantaraan.</p>
 <p><em>*Paparan halaman ini mungkin berbeza di pelayar yang berbeza.</em>
 </p>
