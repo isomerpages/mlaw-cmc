@@ -1,4 +1,5 @@
 collections:
   in-person-mediation:
     output: true
-    order: []
+    order:
+      - In Person Mediation.md
