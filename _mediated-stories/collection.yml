@@ -2,4 +2,5 @@ collections:
   mediated-stories:
     output: true
     order:
+      - I O U, BUT NOT THAT MUCH.md
       - BLOOD IS THICKER THAN A 2 STOREY SHOPHOUSE.md
