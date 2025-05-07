@@ -1,0 +1,4 @@
+collections:
+  mediated-stories:
+    output: true
+    order: []
