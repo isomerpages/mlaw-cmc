@@ -1,4 +1,5 @@
 collections:
   mediated-stories:
     output: true
-    order: []
+    order:
+      - BLOOD IS THICKER THAN A 2 STOREY SHOPHOUSE.md
