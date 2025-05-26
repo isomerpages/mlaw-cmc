@@ -6,8 +6,8 @@ description: ""
 third_nav_title: Malay
 ---
 <blockquote>
-<p>Kami boleh membantu dalam menyelesaikan pelbagai pertikaian dengan memahami
-serta menawarkan penyelesaian praktikal.</p>
+<p>Kami boleh bantu selesaikan macam-macam jenis pertikaian dengan cuba faham
+situasi anda dan beri jalan penyelesaian yang praktikal.</p>
 </blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
