@@ -307,29 +307,32 @@ itu sebagai bukti kalau ada tindakan undang-undang diambil kemudian.</p>
 <blockquote>
 <p>Apa yang berlaku jika pihak lain melanggar perjanjian?</p>
 </blockquote>
-<p>Anda boleh memohon&nbsp;<strong>pemulihan sukarela</strong>&nbsp;<u>sebulan selepas sesi pengantaraan terakhir melalui</u>&nbsp;
-<a href="https://eservices.mlaw.gov.sg/cmc/mediatorsportal/direct-intake/" rel="noopener noreferrer nofollow" target="_blank"><u>borang </u>
-</a>permohonan dalam talian kami. Anda juga boleh memohon dengan menghubungi
-Talian Pertanyaan MinLaw di 1800 2255 529* semasa waktu pejabat.</p>
-<p><u>Pertikaian Melibatkan Bukan Jiran</u>
-</p>
-<p>Jika pemulihan sukarela tidak menjadi, anda boleh memilih untuk meneroka
-pilihan lain bagi menangani pertikaian yang mungkin termasuk mendapatkan
-nasihat undang-undang atau meneruskan untuk memfailkan permohonan di Mahkamah.&nbsp;</p>
-<p><u>Pertikaian Melibatkan Jiran dari Tampines (Semasa Fasa Perintis)</u>
-</p>
-<p>Jika pemulihan sukarela tidak menjadi kerana Responden menolak atau gagal
-memberikan respons, anda boleh memohon Pemulihan Berarah dengan menghubungi
-Talian Pertanyaan MinLaw di 1800 2255 529* pada waktu pejabat.<em>&nbsp;</em>Ini
-bererti kehadiran pada sesi pengantaraan CMC adalah wajib bagi kedua-dua
-pihak.</p>
-<p><u>Pertikaian Melibatkan Jiran dari semua Bandar lain (Semasa Fasa Perintis)</u>
-</p>
-<p>Jika pemulihan sukarela tidak menjadi kerana Responden menolak atau gagal
-memberikan respons, kami akan mengeluarkan surat keputusan kepada anda.
-Anda mempunyai pilihan untuk memfailkan tuntutan di CDRT.</p>
+<p>Kalau pihak satu lagi tak ikut apa yang telah dipersetujui, anda boleh
+mohon <em>pemulihan sukarela</em> sebulan selepas sesi pengantaraan terakhir.
+Permohonan ini boleh dibuat melalui <a href="https://eservices.mlaw.gov.sg/cmc/mediatorsportal/direct-intake/" rel="noopener nofollow" target="_blank">borang</a> atas
+talian kami, atau anda juga boleh hubungi Talian Pertanyaan MinLaw di <strong>1800 2255 529</strong> pada
+waktu pejabat.</p>
 <p></p>
-<p><em>*Sila ambil perhatian bahawa caj masa siaran mungkin dikenakan untuk panggilan yang dibuat daripada telefon bimbit.</em>
+<p><u>Kalau pertikaian anda bukan melibatkan jiran:</u>
+</p>
+<p>Kalau <em>pemulihan sukarela</em> tidak berjaya, anda boleh pilih untuk
+teruskan dengan langkah lain – seperti mendapatkan nasihat undang-undang
+atau memfailkan permohonan di Mahkamah.</p>
+<p></p>
+<p><u>Kalau pertikaian anda melibatkan jiran di kawasan Tampines (semasa fasa perintis):</u>
+</p>
+<p>Kalau Responden tak beri jawapan atau menolak, anda boleh mohon <em>Pemulihan Berarah</em> dengan
+hubungi Talian Pertanyaan MinLaw di 1800 2255 529 pada waktu pejabat. Dalam
+kes ini, kehadiran untuk sesi pengantaraan CMC adalah wajib untuk kedua-dua
+pihak.</p>
+<p></p>
+<p><u>Kalau pertikaian anda melibatkan jiran di kawasan lain (semasa fasa perintis):</u>
+</p>
+<p>Kalau Responden menolak atau tak beri jawapan, kami akan keluarkan surat
+keputusan kepada anda. Anda ada pilihan untuk failkan tuntutan di Tribunal
+Penyelesaian Pertikaian Komuniti (CDRT).</p>
+<p></p>
+<p><em>*Sila ambil perhatian bahawa caj mungkin dikenakan untuk panggilan dari telefon bimbit.</em>
 </p>
 <p></p>
 </div>
@@ -340,25 +343,36 @@ Anda mempunyai pilihan untuk memfailkan tuntutan di CDRT.</p>
 <blockquote>
 <p>Siapakah mediator CMC?</p>
 </blockquote>
-<p>Mediator CMC ialah sukarelawan yang dilantik oleh Menteri Undang-Undang.</p>
-<p>Mereka telah dipilih dengan teliti, menjalani latihan dan penilaian sebelum
-dilantik secara rasmi. Mereka juga dikehendaki untuk kekal relevan dalam
-peranan ini melalui mediasi yang dijalankan secara berkala serta latihan
-berterusan.</p>
+<p>Mediator di CMC ialah <strong>sukarelawan terlatih</strong> yang dilantik
+oleh Menteri Undang-Undang. Mereka telah:</p>
+<ul>
+<li>
+<p>Dipilih dengan teliti</p>
+</li>
+<li>
+<p>Menjalani latihan dan penilaian sebelum dilantik secara rasmi</p>
+</li>
+<li>
+<p>Terus aktif dalam sesi mediasi secara berkala</p>
+</li>
+<li>
+<p>Menyertai latihan berterusan untuk mengekalkan kemahiran mereka</p>
+</li>
+</ul>
 <p></p>
 <blockquote>
-<p>Adakah CMC merekrut mana-mana sukarelawan baharu?</p>
+<p>Adakah CMC mengambil sukarelawan baharu?</p>
 </blockquote>
-<p>CMC merekrut sukarelawan baharu setiap tahun dan permohonan ditutup pada
-penghujung September. Hanya calon yang disenarai pendek akan dijemput untuk
-menghadiri Temu Duga Pemilihan, yang biasa diadakan dari Oktober hingga
-November setiap tahun.</p>
+<p>Ya! CMC merekrut mediator sukarelawan setiap tahun, dan permohonan akan
+ditutup pada hujung bulan September.</p>
+<p>Hanya calon yang disenarai pendek akan dijemput menghadiri Temu Duga Pemilihan,
+biasanya antara Oktober hingga November setiap tahun.</p>
 <p></p>
 <blockquote>
 <p>Bagaimanakah untuk layak menjadi mediator CMC?</p>
 </blockquote>
-<p>Terdapat <strong>lima peringkat</strong> dalam proses kelayakan:</p>
-<ul>
+<p>Terdapat lima peringkat untuk menjadi mediator:</p>
+<ol>
 <li>
 <p>Permohonan</p>
 </li>
@@ -372,46 +386,45 @@ November setiap tahun.</p>
 <p>Latihan Praktikal (Apprenticeship)</p>
 </li>
 <li>
-<p>Pelantikan</p>
+<p>Pelantikan Rasmi</p>
 </li>
-</ul>
-<p>Anda boleh membuat permohonan di <a href="/how-to-be-a-cmc-mediator-malay/" rel="noopener nofollow" target="_blank">sini</a>.</p>
+</ol>
+<p>Anda boleh hantar permohonan <a href="/how-to-be-a-cmc-mediator-malay/" rel="noopener nofollow" target="_blank">di sini</a>
+</p>
 <p></p>
 <blockquote>
-<p>Bagaimanakah untuk menjadi mediator CMC?</p>
+<p>Siapakah yang layak memohon sebagai mediator CMC?</p>
 </blockquote>
-<p>Untuk memohon sebagai mediator sukarelawan CMC, anda perlu memenuhi kriteria
-berikut:</p>
+<p>Untuk jadi mediator sukarelawan CMC, anda perlu:</p>
 <ul>
 <li>
 <p>Warganegara Singapura atau Penduduk Tetap Singapura</p>
 </li>
 <li>
-<p>Berumur 30 tahun dan ke atas</p>
+<p><strong>Berumur 30 tahun dan ke atas</strong>
+</p>
 </li>
 <li>
-<p>Fasih dalam bahasa Inggeris, secara lisan dan bertulis</p>
+<p><strong>Fasih dalam Bahasa Inggeris</strong>, lisan dan tulisan</p>
 </li>
 <li>
-<p>Mempunyai penguasaan dalam bahasa atau dialek tempatan</p>
+<p>Boleh bertutur dalam bahasa atau dialek tempatan</p>
 </li>
 <li>
-<p>Biasa menggunakan platform Zoom untuk sesi mediasi</p>
+<p>Biasa menggunakan <strong>Zoom</strong> untuk sesi mediasi</p>
 </li>
 <li>
-<p>Pernah atau sedang terlibat secara aktif dalam kerja kemasyarakatan atau
-kesukarelawanan</p>
+<p>Aktif dalam kerja komuniti atau kesukarelawanan</p>
 </li>
 <li>
-<p>Telah mendapat Akreditasi Tahap 1 daripada Singapore International Mediation
-Institute (SIMI) dalam tempoh dua tahun kebelakangan ini</p>
+<p><strong>Mempunyai Akreditasi Tahap 1 daripada Singapore International Mediation Institute (SIMI)</strong> dalam
+tempoh 2 tahun terakhir</p>
 </li>
 <li>
-<p>Berminat untuk menyumbang kepada pembinaan masyarakat yang beradab dan
-harmoni di Singapura</p>
+<p>Berminat untuk menyumbang kepada masyarakat yang harmoni dan beradab</p>
 </li>
 </ul>
-<p>Anda boleh membuat permohonan di <a href="/how-to-be-a-cmc-mediator-malay/" rel="noopener nofollow" target="_blank">sini</a>.</p>
+<p>Permohonan boleh dihantar <a href="/how-to-be-a-cmc-mediator-malay/" rel="noopener nofollow" target="_blank">di sini</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
