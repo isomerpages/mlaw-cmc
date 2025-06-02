@@ -15,10 +15,10 @@ description: ""
 <p>Voluntary mediation takes place on:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mondays to Fridays from 2:00 PM to 6.00pm</p>
+<p>Mondays to Fridays from 2:00 pm to 6.00pm</p>
 </li>
 <li>
-<p>Saturdays from 9:00 AM to 1.00pm</p>
+<p>Saturdays from 9:00 am to 1.00pm</p>
 </li>
 </ul>
 <p></p>
