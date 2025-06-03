@@ -1,13 +1,13 @@
 ---
-title: Isu Pertikaian Sesuai menggunakan Pengantaraan
+title: Isu Pertikaian Sesuai untuk Pengantaraan
 permalink: /disputes-suitable-for-mediation-malay/
 variant: tiptap
 description: ""
 third_nav_title: Malay
 ---
 <blockquote>
-<p>Kami boleh membantu dalam menyelesaikan pelbagai pertikaian dengan memahami
-serta menawarkan penyelesaian praktikal.</p>
+<p>Kami boleh bantu selesaikan pelbagai jenis pertikaian dengan penuh prihatin
+dan beri jalan menyelesaian yang mudah dan praktikal.</p>
 </blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -34,8 +34,7 @@ serta menawarkan penyelesaian praktikal.</p>
 <p>Pencerobohan harta</p>
 </li>
 <li>
-<p>Gangguan&nbsp;<em>(harus dianggap oleh Polis sebagai tidak boleh ditahan)</em>
-</p>
+<p>Gangguan (mesti dianggap oleh Polis sebagai kesalahan tidak boleh ditahan)</p>
 </li>
 <li>
 <p>Mengganggu harta benda</p>
@@ -53,11 +52,11 @@ serta menawarkan penyelesaian praktikal.</p>
 <p>Halangan di koridor umum</p>
 </li>
 <li>
-<p>Pembohongan dalam talian</p>
+<p>Berita palsu dalam talian</p>
 </li>
 <li>
-<p>Gangguan dalam talian&nbsp;<em>(harus dianggap oleh Polis sebagai tidak boleh ditahan)</em>
-</p>
+<p>Gangguan dalam talian (mesti dianggap oleh Polis sebagai kesalahan tidak
+boleh ditahan)</p>
 </li>
 <li>
 <p>Amalan agama</p>

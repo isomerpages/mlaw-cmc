@@ -1,5 +1,5 @@
 ---
-title: Sebab Memilih Pengantaraan
+title: Mengapa Memilih Pengantaraan
 permalink: /why-choose-mediation-malay/
 variant: tiptap
 description: ""

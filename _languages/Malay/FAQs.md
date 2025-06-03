@@ -7,42 +7,39 @@ third_nav_title: Malay
 ---
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Utusan Operasi - Maklumat Mengenai Pusat Mediasi Komuniti (CMC)</summary>
+<summary>Urusan Operasi - Maklumat Mengenai Pusat Mediasi Komuniti (CMC)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <blockquote>
 <p>Apakah yang dilakukan oleh Pusat Mediasi Komuniti (CMC)?</p>
 </blockquote>
-<p>Pusat Mediasi Komuniti (CMC), yang terletak di bawah Kementerian Undang-Undang,
-menawarkan perkhidmatan mediasi kepada penduduk Singapura yang menghadapi
-pertikaian hubungan dan komuniti.</p>
-<p>Perkhidmatan ini disediakan secara <strong>percuma</strong>.</p>
+<p>CMC, di bawah Kementerian Undang-Undang, sediakan perkhidmatan mediasi
+secara percuma untuk penduduk Singapura yang ada masalah hubungan atau
+pertikaian dalam komuniti.</p>
 <p></p>
 <blockquote>
 <p>- Apakah faedah mediasi?</p>
 </blockquote>
-<p>Mediasi di CMC menawarkan faedah berikut:</p>
-<ul>
+<p>Mediasi di CMC ada banyak kelebihan:</p>
+<ul data-tight="true" class="tight">
 <li>
-<p><strong>Kos</strong>: Perkhidmatan ini adalah percuma.</p>
+<p><strong>Percuma</strong>: Tak perlu bayar apa-apa.</p>
 </li>
 <li>
-<p><strong>Privasi</strong>: Perkara yang dibincangkan semasa sesi mediasi
-dan identiti pihak-pihak yang terlibat akan dirahsiakan.</p>
+<p><strong>Privasi terjaga</strong>: Apa yang dibincang dan siapa yang terlibat
+akan dirahsiakan.</p>
 </li>
 <li>
-<p><strong>Masa</strong>: Sesi mediasi biasanya berlangsung selama kira-kira
-dua jam dan tersedia dari hari Isnin hingga Jumaat, serta pada pagi hari
-Sabtu.</p>
+<p><strong>Jimatan masa</strong>: Sesi biasanya ambil masa lebih kurang 2
+jam. Dibuka hari Isnin sampai Jumaat, dan pagi Sabtu.</p>
 </li>
 <li>
-<p><strong>Lokasi</strong>: Mediasi secara fizikal disediakan di Pusat Perkhidmatan
-Kementerian Undang-Undang dan di 18 lokasi satelit di seluruh pulau. Mediasi
-secara dalam talian juga boleh diadakan untuk pertikaian yang kurang rumit.</p>
+<p><strong>Lokasi senang dicapai</strong>: Ada sesi bersemuka di Pusat Perkhidmatan
+MinLaw dan 18 lokasi lain seluruh Singapura. Kalau isu tak terlalu rumit,
+boleh juga buat sesi secara online.</p>
 </li>
 </ul>
 <p></p>
-<p>Anda <strong>tidak perlu mengemukakan sebarang bukti</strong> sebelum memohon
-mediasi di CMC.</p>
+<p>Tak perlu sediakan bukti untuk mohon mediasi di CMC.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -110,145 +107,132 @@ North</p>
 <blockquote>
 <p>Apakah jenis pertikaian yang sesuai untuk mediasi di CMC?</p>
 </blockquote>
-<p>Mediasi di CMC merupakan satu pilihan yang berkesan untuk menyelesaikan
-pertikaian antara jiran tetangga, ahli keluarga, rakan, rakan sekerja,
-tuan rumah, penyewa, atau hubungan antara peribadi yang lain.</p>
-<p>Walau bagaimanapun, mediasi ini <strong>tidak sesuai untuk pertikaian kontrak atau komersial</strong>.</p>
-<p>Untuk senarai penuh jenis pertikaian yang sesuai untuk mediasi di CMC,
-sila <a href="/disputes-suitable-for-mediation-malay/" rel="noopener nofollow" target="_blank">klik </a>di
-sini.</p>
+<p>Mediasi di CMC sesuai untuk selesaikan masalah antara jiran, ahli keluarga,
+kawan, rakan sekerja, tuan rumah dan penyewa – pendek kata, apa-apa pertikaian
+yang libatkan hubungan peribadi. Tapi ia <strong>tak sesuai untuk kes kontrak atau urusan bisnes</strong>.</p>
+<p></p>
+<p>Untuk senarai penuh jenis pertikaian yang boleh dimediasikan, klik <a href="/disputes-suitable-for-mediation-malay/" rel="noopener nofollow" target="_blank">di sini</a>.</p>
+<p></p>
 <p></p>
 <blockquote>
-<p>Mengapakah CMC menerima permohonan mediasi tanpa menjalankan sebarang
-siasatan?</p>
+<p>Kenapa CMC terima permohonan tanpa buat siasatan?</p>
 </blockquote>
-<p>CMC tidak menjalankan sebarang siasatan. Fokus utama kami adalah untuk
-memudahcara perbincangan antara pihak-pihak yang terlibat dalam pertikaian.</p>
-<p>Menerusi mediasi, kami berusaha untuk membantu pihak-pihak yang terlibat
-berkomunikasi dengan berkesan, meneroka penyelesaian, dan mencapai persetujuan
-yang saling menguntungkan.</p>
+<p>CMC tak jalankan siasatan. Kami fokus bantu pihak-pihak berbincang dengan
+baik dan cari penyelesaian yang semua boleh setuju.
+<br>Matlamat kami ialah bantu anda berkomunikasi secara terbuka dan capai
+persetujuan bersama.</p>
 <p></p>
 <blockquote>
 <p>Bolehkah CMC menerima kes yang melibatkan pertikaian jiran di kondominium
 persendirian atau harta tanah?</p>
 </blockquote>
-<p>Kami menerima kes yang melibatkan pertikaian jiran di kawasan rumah awam
-atau persendirian termasuk harta tanah, kondominium dan pangsapuri persendirian.</p>
+<p>Boleh! Kami terima kes jiran dari rumah HDB dan hartanah persendirian
+– termasuk kondominium dan apartmen.</p>
 <p></p>
 <blockquote>
-<p>Mengapakah CMC menerima permohonan pengantaraan tanpa menjalankan apa-apa
-siasatan?</p>
+<p>Perlu ke saya sediakan bukti bila mohon mediasi?</p>
 </blockquote>
-<p>CMC tidak menjalankan siasatan. Fokus utama kami adalah untuk memudahkan
-perbincangan antara pihak yang bertikai. Melalui pengantaraan, kami berhasrat
-untuk membantu pihak-pihak berkomunikasi dengan berkesan, meneroka penyelesaian
-dan mencapai persetujuan yang adil bagi kedua-dua pihak.</p>
+<p><strong>Tak perlu.</strong> Anda boleh buat permohonan tanpa sediakan bukti
+apa-apa.</p>
 <p></p>
 <blockquote>
-<p>Adakah saya memerlukan bukti untuk mengemukakan kes kepada CMC?</p>
+<p>Berapa ramai boleh hadir sesi mediasi?</p>
 </blockquote>
-<p>Anda tidak perlu mengemukakan apa-apa bukti sebelum memohon pengantaraan
-di CMC.</p>
+<p>Biasanya, maksimum dua orang setiap pihak dibenarkan hadir – dengan syarat
+mereka terlibat secara langsung dalam pertikaian. Untuk sesi di lokasi
+satelit, hanya seorang wakil dari setiap pihak boleh hadir.</p>
 <p></p>
 <blockquote>
-<p>Berapakah bilangan orang boleh menghadiri sesi pengantaraan?</p>
+<p>Boleh ke ahli keluarga atau ejen saya datang mewakili saya?</p>
 </blockquote>
-<p>Tidak termasuk pertikaian keluarga, kami membenarkan sehingga dua orang
-daripada setiap pihak, yang terlibat secara langsung dengan pertikaian
-itu untuk menghadiri sesi pengantaraan. Untuk sesi pengantaraan satelit,
-hanya seorang daripada setiap pihak akan menghadiri sesi tersebut.</p>
+<p>Boleh, jika mereka ada Surat Kuasa Wakil (Power of Attorney). Kalau tidak,
+sila hubungi kami dulu.
+<br>
+</p>
+<p>Untuk kes yang diarahkan Mahkamah, hanya individu yang disebut dalam Perintah
+Mahkamah boleh hadir.</p>
 <p></p>
 <blockquote>
-<p>Bolehkah ahli keluarga/ejen saya menghadiri sesi pengantaraan bagi pihak
-saya?</p>
+<p>Boleh ke peguam datang temankan saya masa sesi?</p>
 </blockquote>
-<p>Jika ahli keluarga atau ejen anda telah diberikan Surat Kuasa Wakil untuk
-menguruskan hal ehwal anda, anda boleh membenarkan mereka menghadiri sesi
-tersebut bagi pihak anda. Untuk semua sebab lain, sila hubungi kami.&nbsp;Untuk
-Pengantaraan yang&nbsp;<strong>Diarah Mahkamah&nbsp;</strong>, hanya pihak
-yang dinamakan dalam Perintah Mahkamah akan menghadiri sesi pengantaraan.</p>
-<p></p>
-<blockquote>
-<p>Bolehkah peguam menghadiri pengantaraan bersama saya?</p>
-</blockquote>
-<p>Di CMC, peguam tidak dibenarkan menghadiri sesi pengantaraan dengan pihak-pihak.
-Jika anda memerlukan nasihat undang-undang, anda dinasihatkan untuk mendapatkan
-nasihat secara berasingan sebelum sesi pengantaraan.</p>
+<p>Di CMC, peguam tak dibenarkan hadir dalam sesi mediasi. Kalau anda perlukan
+nasihat undang-undang, sila dapatkan nasihat tu secara berasingan sebelum
+sesi.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Urusan Operasi - Permohonan Pengantaraan di CMC</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <blockquote>
-<p>Apa yang berlaku selepas saya memohon mediasi?</p>
+<p>Apa berlaku selepas saya hantar permohonan mediasi?</p>
 </blockquote>
-<p>Apabila permohonan untuk mediasi secara sukarela diterima oleh CMC, prosesnya
-adalah seperti berikut:</p>
+<p>Kalau anda mohon untuk sesi mediasi secara sukarela dengan CMC, inilah
+apa yang akan berlaku:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Pengakuan Terima</strong>: Anda akan menerima pengakuan penerimaan
-permohonan anda.</p>
+<p><strong>Pengesahan Permohonan: </strong>Kami akan hantar pengakuan terima
+– jadi anda tahu permohonan dah diterima.</p>
 </li>
 <li>
-<p><strong>Penilaian</strong>: Kami akan menilai kes anda untuk menentukan
-sama ada ia sesuai untuk dimediasi.</p>
+<p><strong>Penilaian Kes: </strong>Kami akan semak dulu sama ada kes anda
+sesuai untuk mediasi.</p>
 </li>
 <li>
-<p><strong>Jemputan kepada pihak satu lagi (Responden)</strong>: Jika permohonan
-anda didapati sesuai untuk mediasi di CMC, kami akan menjemput Responden
-untuk menghadiri sesi mediasi dan akan memaklumkan kepada anda hasil maklum
-balas daripada pihak tersebut.</p>
+<p><strong>Jemputan kepada Responden: </strong>Kalau kes sesuai, kami akan
+jemput pihak satu lagi (Responden) untuk datang ke sesi mediasi, dan kami
+juga akan maklumkan anda tentang jawapan mereka.</p>
 </li>
 <li>
-<p><strong>Penjadualan</strong>: Apabila kedua-dua pihak bersetuju untuk
-menghadiri sesi mediasi, kami akan menjadualkan tarikh mediasi dan memaklumkan
-kepada anda tentang tarikh, masa dan lokasi sesi tersebut.</p>
+<p><strong>Penjadualan Sesi: </strong>Kalau dua-dua pihak setuju nak datang,
+kami akan tetapkan tarikh, masa dan lokasi sesi. Anda akan dapat maklumat
+penuh.</p>
 </li>
 <li>
-<p><strong>Sesi Mediasi</strong>: Pada tarikh yang ditetapkan, anda dan Responden
-akan bertemu dengan mediator kami. Mediator akan memudahcara perbincangan
-antara kedua-dua pihak, bagi mewujudkan persefahaman dan, jika boleh, mencapai
-penyelesaian yang baik untuk semua pihak.</p>
+<p><strong>Sesi Mediasi: </strong>Pada hari sesi, anda dan Responden akan
+jumpa mediator kami. Mediator akan bantu anda berdua berbincang dengan
+baik dan cari jalan penyelesaian yang semua pihak boleh terima.</p>
 </li>
 <li>
-<p><strong>Keputusan</strong>: Jika persetujuan dicapai, mediator akan mendokumenkan
-terma persetujuan tersebut. Anda akan diberi peluang untuk meneliti dokumen
-itu sebelum menandatanganinya. Anda juga akan menerima salinan perjanjian
-yang telah ditandatangani.</p>
-<p>Sekiranya persetujuan tidak dapat dicapai, sesi mediasi akan ditamatkan
-secara hormat. Anda boleh memilih untuk meneroka pilihan lain, termasuk
-mendapatkan nasihat undang-undang atau memfailkan permohonan di mahkamah.</p>
-</li>
-<li>
-<p><strong>Tindakan Susulan</strong>: Jika perlu, CMC mungkin akan menawarkan
-sesi mediasi susulan.</p>
+<p><strong>Keputusan &amp; Perjanjian: </strong>Kalau ada persetujuan, mediator
+akan tulis semua syarat dalam satu dokumen. Anda akan diberi masa untuk
+semak sebelum tandatangan. Salinan dokumen juga akan diberi kepada anda.</p>
 </li>
 </ol>
 <p></p>
+<p><strong>Kalau tak ada persetujuan</strong>, sesi akan tamat dengan cara
+yang sopan. Anda masih boleh pertimbangkan pilihan lain – contohnya, dapatkan
+nasihat undang-undang atau buat permohonan di mahkamah.</p>
+<p></p>
+<ol start="7" data-tight="true" class="tight">
+<li>
+<p><strong>Tindakan Susulan</strong>
+<br>Kadang-kadang, kalau sesuai, kami mungkin tawarkan sesi mediasi tambahan.</p>
+</li>
+</ol>
+<p></p>
+<p></p>
 <blockquote>
-<p>Jika Responden mengabaikan atau menolak jemputan CMC, apakah pilihan saya
-yang lain? Bolehkah saya membawa kes itu ke Tribunal Penyelesaian Pertikaian
-Komuniti (CDRT)?</p>
+<p>JKalau Responden abaikan atau tolak jemputan CMC, apa pilihan saya? Bolehkah
+saya bawa kes ini ke Tribunal Penyelesaian Pertikaian Komuniti (CDRT)?</p>
 </blockquote>
+<p></p>
 <p><strong><u>Pertikaian Melibatkan Bukan Jiran</u></strong>
 </p>
-<p>Jika Responden menolak atau gagal memberikan respons kepada jemputan pengantaraan,
-anda boleh memilih untuk meneroka pilihan lain bagi menangani pertikaian
-itu, yang mungkin termasuk mendapatkan nasihat undang-undang atau meneruskan
-untuk memfailkan permohonan di Mahkamah.&nbsp;</p>
+<p>Kalau Responden tolak atau langsung tak balas jemputan pengantaraan, anda
+boleh pertimbangkan pilihan lain untuk selesaikan pertikaian. Ini termasuk
+dapatkan nasihat undang-undang atau terus failkan permohonan di mahkamah.</p>
 <p></p>
 <p><strong><u>Pertikaian Melibatkan Jiran dari Tampines (Semasa Fasa Perintis)</u></strong>
 </p>
-<p>Jika Responden menolak atau gagal memberikan respons kepada jemputan pengantaraan,
-anda boleh mendapatkan bantuan Unit Perhubungan Komuniti (CRU) dengan menghubungi
-talian penting mereka di 3300 3300, antara 9 pagi hingga 9 malam pada hari
-bekerja.</p>
+<p>Kalau Responden tak setuju atau tak beri sebarang jawapan, anda boleh
+minta bantuan dari <em>Unit Perhubungan Komuniti (CRU)</em>. Hubungi mereka
+di 3300 3300, dari 9 pagi hingga 9 malam pada hari bekerja.</p>
 <p>&nbsp;</p>
 <p><strong><u>Pertikaian Melibatkan Jiran dari semua Bandar lain (Semasa Fasa Perintis)</u></strong>
 </p>
-<p>Jika Responden menolak atau gagal memberikan respons, kami akan mengeluarkan
-surat keputusan kepada anda. Anda mempunyai pilihan untuk memfailkan tuntutan
-di CDRT.</p>
+<p>Kalau Responden tak beri maklum balas atau tolak jemputan, kami akan keluarkan
+surat keputusan untuk anda. Lepas itu, anda boleh pilih untuk failkan tuntutan
+di Tribunal Penyelesaian Pertikaian Komuniti (CDRT).</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -257,61 +241,64 @@ di CDRT.</p>
 <blockquote>
 <p>Apa yang berlaku semasa sesi mediasi?</p>
 </blockquote>
-<p>Berikut adalah proses mediasi di CMC:</p>
+<p>Beginilah aliran proses pengantaraan di CMC:</p>
 <p></p>
-<p><strong>Pendaftaran</strong>: Sila hadir sekurang-kurangnya 20 minit sebelum
-sesi bermula. Pegawai kami akan menyambut anda, mengesahkan identiti semua
-pihak yang terlibat, dan memastikan semua perkara telah disediakan sebelum
-sesi mediasi dimulakan.</p>
-<p></p>
-<p><strong>Penyataan Pembukaan</strong>: Mediator kami akan menjemput anda
-masuk ke dalam bilik mediasi, di mana anda dan pihak satu lagi akan duduk.
-Sesi akan dimulakan dengan penyataan pembukaan oleh mediator, termasuk
-penerangan tentang proses mediasi dan peraturan asas yang perlu dipatuhi.</p>
-<p></p>
-<p><strong>Sesi Bersama</strong>: Pihak Pemohon akan memulakan sesi dengan
-membentangkan isu-isu yang dibawa ke mediasi. Selepas itu, Responden akan
-diberi peluang untuk memberi maklum balas. Mediator kami akan merumuskan
-isu-isu utama yang telah dikemukakan.</p>
-<p></p>
-<p><strong>Sesi Peribadi</strong>: Sekiranya terdapat isu sensitif yang memerlukan
-perbincangan secara berasingan, mediator boleh berbincang secara peribadi
-dengan setiap pihak. Maklumat yang dikongsi dalam sesi peribadi akan dirahsiakan,
-kecuali jika diberi kebenaran untuk didedahkan kepada pihak lain.</p>
-<p>Mediator kami mungkin akan bertukar antara sesi bersama dan sesi peribadi,
-bagi meneroka pelbagai penyelesaian yang mungkin.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Pendaftaran: </strong>Datang sekurang-kurangnya 20 minit sebelum
+sesi bermula. Pegawai kami akan sambut anda, sahkan identiti semua yang
+hadir, dan pastikan semuanya siap sebelum sesi dimulakan.</p>
+</li>
+<li>
+<p><strong>Pengenalan oleh Pengantara: </strong>Pengantara kami akan jemput
+anda masuk ke bilik pengantaraan. Anda dan pihak satu lagi akan duduk di
+tempat yang disediakan. Sesi akan dimulakan dengan pengenalan ringkas oleh
+pengantara, termasuk penerangan tentang proses pengantaraan dan beberapa
+peraturan asas.</p>
+</li>
+<li>
+<p><strong>Sesi Bersama: </strong>Pemohon akan mulakan dengan berkongsi isu-isu
+utama yang ingin dibincangkan. Selepas itu, Responden pula akan beri maklum
+balas. Pengantara kami akan bantu rumuskan isu-isu penting yang diketengahkan.</p>
+</li>
+<li>
+<p><strong>Sesi Peribadi (jika perlu) : </strong>Kalau ada isu sensitif yang
+lebih sesuai dibincang secara berasingan, pengantara boleh adakan sesi
+peribadi dengan setiap pihak. Apa yang dikongsi dalam sesi ini akan dirahsiakan,
+kecuali anda izinkan untuk dikongsikan.</p>
+</li>
+</ul>
+<p>Pengantara boleh bergilir-gilir antara sesi bersama dan peribadi untuk
+bantu cari penyelesaian yang sesuai.</p>
 <p></p>
 <p><strong>Penutup:</strong>
 </p>
-<p><u>Penyelesaian dengan Persetujuan</u>
-<br>Sekiranya persetujuan dicapai, mediator kami akan mendokumenkan terma
-persetujuan tersebut. Anda akan diberi peluang untuk meneliti dokumen itu
-sebelum menandatanganinya. Anda juga akan menerima salinan perjanjian yang
-telah ditandatangani.</p>
+<p><u>Dengan Persetujuan</u>
+<br>Jika anda dan pihak satu lagi berjaya capai persetujuan, pengantara akan
+tulis semua terma dalam satu dokumen. Anda boleh semak dulu sebelum tandatangan.
+Salinan perjanjian yang telah ditandatangani juga akan diberikan kepada
+anda.</p>
 <p></p>
-<p><u>Tiada Penyelesaian</u>
-<br>Sekiranya tiada persetujuan dicapai, sesi akan ditamatkan dengan penuh
-hormat. Anda boleh memilih untuk meneroka pilihan lain bagi menyelesaikan
-pertikaian, termasuk mendapatkan nasihat undang-undang atau memfailkan
-permohonan di mahkamah.</p>
+<p><u>Tanpa Persetujuan</u>
+<br>Kalau tak ada persetujuan, sesi akan ditamatkan secara baik. Anda masih
+boleh pertimbangkan pilihan lain seperti mendapatkan nasihat undang-undang
+atau memfailkan permohonan di mahkamah.</p>
 <p></p>
 <blockquote>
 <p>Bolehkah saya merakam sesi pengantaraan?</p>
 </blockquote>
-<p>Pengantaraan di CMC ialah proses sulit, seperti yang digariskan dalam
-Akta CMC, Bab 49A. Untuk mengekalkan kerahsiaan dan untuk menyediakan ruang
-yang selamat kepada pihak-pihak untuk berkongsi tanpa rasa takut, tiada
-fotografi, videografi atau rakaman audio dibenarkan semasa sesi pengantaraan.
-Sekiranya kami menyedari bahawa terdapat rakaman, pihak yang bertanggungjawab
-akan diminta untuk memadamkan kandungan tersebut dengan kehadiran pengantara
-atau pegawai CMC.</p>
+<p>Tak boleh. Sesi pengantaraan di CMC adalah sulit dan dilindungi undang-undang
+di bawah Akta CMC (Bab 49A). Untuk jaga kerahsiaan dan beri ruang selamat
+untuk semua, rakaman video, audio atau gambar tidak dibenarkansemasa sesi.
+Kalau kami dapati ada yang merakam, pihak itu akan diminta padamkan rakaman
+serta-merta di hadapan pengantara atau pegawai CMC.</p>
 <p></p>
 <blockquote>
-<p>Adakah Perjanjian Penyelesaian CMC dimeterai secara sah?</p>
+<p>Adakah Perjanjian Penyelesaian CMC sah dari segi undang-undang?</p>
 </blockquote>
-<p>Sebaik sahaja Perjanjian Penyelesaian ditandatangani, perjanjian tersebut
-mengikat pihak yang menandatangan, jadi anda boleh menggunakan dokumen
-tersebut sebagai bukti untuk menyokong prosiding undang-undang.</p>
+<p>Ya. Bila anda dan pihak satu lagi tandatangan perjanjian penyelesaian,
+dokumen itu sah dan mengikat secara undang-undang. Anda boleh guna dokumen
+itu sebagai bukti kalau ada tindakan undang-undang diambil kemudian.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -320,29 +307,32 @@ tersebut sebagai bukti untuk menyokong prosiding undang-undang.</p>
 <blockquote>
 <p>Apa yang berlaku jika pihak lain melanggar perjanjian?</p>
 </blockquote>
-<p>Anda boleh memohon&nbsp;<strong>pemulihan sukarela</strong>&nbsp;<u>sebulan selepas sesi pengantaraan terakhir melalui</u>&nbsp;
-<a href="https://eservices.mlaw.gov.sg/cmc/mediatorsportal/direct-intake/" rel="noopener noreferrer nofollow" target="_blank"><u>borang </u>
-</a>permohonan dalam talian kami. Anda juga boleh memohon dengan menghubungi
-Talian Pertanyaan MinLaw di 1800 2255 529* semasa waktu pejabat.</p>
-<p><u>Pertikaian Melibatkan Bukan Jiran</u>
-</p>
-<p>Jika pemulihan sukarela tidak menjadi, anda boleh memilih untuk meneroka
-pilihan lain bagi menangani pertikaian yang mungkin termasuk mendapatkan
-nasihat undang-undang atau meneruskan untuk memfailkan permohonan di Mahkamah.&nbsp;</p>
-<p><u>Pertikaian Melibatkan Jiran dari Tampines (Semasa Fasa Perintis)</u>
-</p>
-<p>Jika pemulihan sukarela tidak menjadi kerana Responden menolak atau gagal
-memberikan respons, anda boleh memohon Pemulihan Berarah dengan menghubungi
-Talian Pertanyaan MinLaw di 1800 2255 529* pada waktu pejabat.<em>&nbsp;</em>Ini
-bererti kehadiran pada sesi pengantaraan CMC adalah wajib bagi kedua-dua
-pihak.</p>
-<p><u>Pertikaian Melibatkan Jiran dari semua Bandar lain (Semasa Fasa Perintis)</u>
-</p>
-<p>Jika pemulihan sukarela tidak menjadi kerana Responden menolak atau gagal
-memberikan respons, kami akan mengeluarkan surat keputusan kepada anda.
-Anda mempunyai pilihan untuk memfailkan tuntutan di CDRT.</p>
+<p>Kalau pihak satu lagi tak ikut apa yang telah dipersetujui, anda boleh
+mohon <em>pemulihan sukarela</em> sebulan selepas sesi pengantaraan terakhir.
+Permohonan ini boleh dibuat melalui <a href="https://eservices.mlaw.gov.sg/cmc/mediatorsportal/direct-intake/" rel="noopener nofollow" target="_blank">borang</a> atas
+talian kami, atau anda juga boleh hubungi Talian Pertanyaan MinLaw di <strong>1800 2255 529</strong> pada
+waktu pejabat.</p>
 <p></p>
-<p><em>*Sila ambil perhatian bahawa caj masa siaran mungkin dikenakan untuk panggilan yang dibuat daripada telefon bimbit.</em>
+<p><u>Kalau pertikaian anda bukan melibatkan jiran:</u>
+</p>
+<p>Kalau <em>pemulihan sukarela</em> tidak berjaya, anda boleh pilih untuk
+teruskan dengan langkah lain – seperti mendapatkan nasihat undang-undang
+atau memfailkan permohonan di Mahkamah.</p>
+<p></p>
+<p><u>Kalau pertikaian anda melibatkan jiran di kawasan Tampines (semasa fasa perintis):</u>
+</p>
+<p>Kalau Responden tak beri jawapan atau menolak, anda boleh mohon <em>Pemulihan Berarah</em> dengan
+hubungi Talian Pertanyaan MinLaw di 1800 2255 529 pada waktu pejabat. Dalam
+kes ini, kehadiran untuk sesi pengantaraan CMC adalah wajib untuk kedua-dua
+pihak.</p>
+<p></p>
+<p><u>Kalau pertikaian anda melibatkan jiran di kawasan lain (semasa fasa perintis):</u>
+</p>
+<p>Kalau Responden menolak atau tak beri jawapan, kami akan keluarkan surat
+keputusan kepada anda. Anda ada pilihan untuk failkan tuntutan di Tribunal
+Penyelesaian Pertikaian Komuniti (CDRT).</p>
+<p></p>
+<p><em>*Sila ambil perhatian bahawa caj mungkin dikenakan untuk panggilan dari telefon bimbit.</em>
 </p>
 <p></p>
 </div>
@@ -353,25 +343,36 @@ Anda mempunyai pilihan untuk memfailkan tuntutan di CDRT.</p>
 <blockquote>
 <p>Siapakah mediator CMC?</p>
 </blockquote>
-<p>Mediator CMC ialah sukarelawan yang dilantik oleh Menteri Undang-Undang.</p>
-<p>Mereka telah dipilih dengan teliti, menjalani latihan dan penilaian sebelum
-dilantik secara rasmi. Mereka juga dikehendaki untuk kekal relevan dalam
-peranan ini melalui mediasi yang dijalankan secara berkala serta latihan
-berterusan.</p>
+<p>Mediator di CMC ialah <strong>sukarelawan terlatih</strong> yang dilantik
+oleh Menteri Undang-Undang. Mereka telah:</p>
+<ul>
+<li>
+<p>Dipilih dengan teliti</p>
+</li>
+<li>
+<p>Menjalani latihan dan penilaian sebelum dilantik secara rasmi</p>
+</li>
+<li>
+<p>Terus aktif dalam sesi mediasi secara berkala</p>
+</li>
+<li>
+<p>Menyertai latihan berterusan untuk mengekalkan kemahiran mereka</p>
+</li>
+</ul>
 <p></p>
 <blockquote>
-<p>Adakah CMC merekrut mana-mana sukarelawan baharu?</p>
+<p>Adakah CMC mengambil sukarelawan baharu?</p>
 </blockquote>
-<p>CMC merekrut sukarelawan baharu setiap tahun dan permohonan ditutup pada
-penghujung September. Hanya calon yang disenarai pendek akan dijemput untuk
-menghadiri Temu Duga Pemilihan, yang biasa diadakan dari Oktober hingga
-November setiap tahun.</p>
+<p>Ya! CMC merekrut mediator sukarelawan setiap tahun, dan permohonan akan
+ditutup pada hujung bulan September.</p>
+<p>Hanya calon yang disenarai pendek akan dijemput menghadiri Temu Duga Pemilihan,
+biasanya antara Oktober hingga November setiap tahun.</p>
 <p></p>
 <blockquote>
 <p>Bagaimanakah untuk layak menjadi mediator CMC?</p>
 </blockquote>
-<p>Terdapat <strong>lima peringkat</strong> dalam proses kelayakan:</p>
-<ul>
+<p>Terdapat lima peringkat untuk menjadi mediator:</p>
+<ol>
 <li>
 <p>Permohonan</p>
 </li>
@@ -385,46 +386,45 @@ November setiap tahun.</p>
 <p>Latihan Praktikal (Apprenticeship)</p>
 </li>
 <li>
-<p>Pelantikan</p>
+<p>Pelantikan Rasmi</p>
 </li>
-</ul>
-<p>Anda boleh membuat permohonan di <a href="/how-to-be-a-cmc-mediator-malay/" rel="noopener nofollow" target="_blank">sini</a>.</p>
+</ol>
+<p>Anda boleh hantar permohonan <a href="/how-to-be-a-cmc-mediator-malay/" rel="noopener nofollow" target="_blank">di sini</a>
+</p>
 <p></p>
 <blockquote>
-<p>Bagaimanakah untuk menjadi mediator CMC?</p>
+<p>Siapakah yang layak memohon sebagai mediator CMC?</p>
 </blockquote>
-<p>Untuk memohon sebagai mediator sukarelawan CMC, anda perlu memenuhi kriteria
-berikut:</p>
+<p>Untuk jadi mediator sukarelawan CMC, anda perlu:</p>
 <ul>
 <li>
 <p>Warganegara Singapura atau Penduduk Tetap Singapura</p>
 </li>
 <li>
-<p>Berumur 30 tahun dan ke atas</p>
+<p><strong>Berumur 30 tahun dan ke atas</strong>
+</p>
 </li>
 <li>
-<p>Fasih dalam bahasa Inggeris, secara lisan dan bertulis</p>
+<p><strong>Fasih dalam Bahasa Inggeris</strong>, lisan dan tulisan</p>
 </li>
 <li>
-<p>Mempunyai penguasaan dalam bahasa atau dialek tempatan</p>
+<p>Boleh bertutur dalam bahasa atau dialek tempatan</p>
 </li>
 <li>
-<p>Biasa menggunakan platform Zoom untuk sesi mediasi</p>
+<p>Biasa menggunakan <strong>Zoom</strong> untuk sesi mediasi</p>
 </li>
 <li>
-<p>Pernah atau sedang terlibat secara aktif dalam kerja kemasyarakatan atau
-kesukarelawanan</p>
+<p>Aktif dalam kerja komuniti atau kesukarelawanan</p>
 </li>
 <li>
-<p>Telah mendapat Akreditasi Tahap 1 daripada Singapore International Mediation
-Institute (SIMI) dalam tempoh dua tahun kebelakangan ini</p>
+<p><strong>Mempunyai Akreditasi Tahap 1 daripada Singapore International Mediation Institute (SIMI)</strong> dalam
+tempoh 2 tahun terakhir</p>
 </li>
 <li>
-<p>Berminat untuk menyumbang kepada pembinaan masyarakat yang beradab dan
-harmoni di Singapura</p>
+<p>Berminat untuk menyumbang kepada masyarakat yang harmoni dan beradab</p>
 </li>
 </ul>
-<p>Anda boleh membuat permohonan di <a href="/how-to-be-a-cmc-mediator-malay/" rel="noopener nofollow" target="_blank">sini</a>.</p>
+<p>Permohonan boleh dihantar <a href="/how-to-be-a-cmc-mediator-malay/" rel="noopener nofollow" target="_blank">di sini</a>.</p>
 </div>
 </details>
 <details class="isomer-details">

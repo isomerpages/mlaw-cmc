@@ -1,5 +1,5 @@
 ---
-title: Pasukan Kami
+title: Kumpulan Kami
 permalink: /our-team-malay/
 variant: tiptap
 description: ""
