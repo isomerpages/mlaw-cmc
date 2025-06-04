@@ -4,6 +4,9 @@ permalink: /refer-a-case-to-the-cmc/
 variant: tiptap
 description: ""
 ---
+<blockquote>
+<p>Mediation at the CMC is free.</p>
+</blockquote>
 <p><strong>For Public Officers (Government Agencies):</strong>
 </p>
 <p>&nbsp;1) Call the MinLaw Enquiry Line at <strong>1800 2255 529* </strong>during
