@@ -27,7 +27,7 @@ third_nav_title: Malay
 <p>Anda boleh memohon melalui dua cara:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Dalam talian – <a href="https://auth.singpass.gov.sg/main" class="" rel="noopener" target="_blank">Mohon di sini</a>
+<p>Dalam talian – <a href="https://eservices.mlaw.gov.sg/cmc/mediatorsportal/direct-intake/" class="" rel="noopener" target="_blank">Mohon di sini</a>
 </p>
 </li>
 <li>
