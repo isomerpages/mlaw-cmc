@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Malay
 ---
+<blockquote>
+<p>Pengantaraan di CMC ialah percuma.</p>
+</blockquote>
 <p><strong>Bagi Penjawat Awam (Agensi Kerajaan):</strong>
 </p>
 <p>&nbsp;1) Hubungi Talian Pertanyaan MinLaw di&nbsp;<strong>1800 2255 529*&nbsp;</strong>semasa
