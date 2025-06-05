@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Tamil
 ---
 <blockquote>
-<p>CMC-இல் நடக்கும் 중재ம் இலவசமாக உள்ளது.</p>
+<p>CMC-இல் சமரச சேவைகள் இலவசம்.</p>
 </blockquote>
 <p><strong>அரசாங்க அதிகாரிகளுக்கு (அரசாங்க நிறுவனங்கள்):</strong>
 </p>
