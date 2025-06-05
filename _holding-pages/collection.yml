@@ -2,6 +2,7 @@ collections:
   holding-pages:
     output: true
     order:
+      - 向社区调解中心转介案件.md
       - CMC Mediators in the GRCs or SMCs.md
       - Apply to be a Volunteer Mediator.md
       - Mediators Portal (Latest).md
