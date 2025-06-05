@@ -75,7 +75,7 @@ sections:
           url: https://www.youtube.com/watch?v=i6F8962aRIA&t=2s
         - title: Speeches
           description: Find out the latest development in community mediation.
-          linktext: Coming soon
+          linktext: Coming Soon
           url: "-"
 description: Description
 image: /images/isomer-logo.svg
