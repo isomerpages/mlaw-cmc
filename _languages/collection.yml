@@ -2,7 +2,6 @@ collections:
   languages:
     output: true
     order:
-      - Tamil/.keep
       - Chinese/.keep
       - Chinese/为什么选择调解.md
       - Chinese/适合调解的纠纷类型.md
@@ -35,3 +34,4 @@ collections:
       - Malay/Misi Kami.md
       - Malay/Kumpulan Kami.md
       - Malay/SIMI QAP.md
+      - Tamil/.keep
