@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Chinese/.keep
-      - Malay/Mengapa Memilih Pengantaraan.md
       - Malay/.keep
