@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - Chinese/.keep
-      - SIMI QAP.md
