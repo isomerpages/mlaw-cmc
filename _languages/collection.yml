@@ -2,6 +2,7 @@ collections:
   languages:
     output: true
     order:
+      - Chinese (中文)/社区调解中心的调解员是谁.md
       - Chinese (中文)/如何成为社区调解中心的调解员.md
       - Chinese (中文)/获任命的社区调解中心调解员名单.md
       - Chinese (中文)/我们的故事.md
