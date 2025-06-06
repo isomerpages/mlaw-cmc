@@ -2,54 +2,37 @@ collections:
   languages:
     output: true
     order:
-      - Chinese/.keep
-      - Chinese/为什么选择调解.md
-      - Chinese/适合调解的纠纷类型.md
-      - Chinese/调解前程序.md
-      - Chinese/调解方式.md
-      - Chinese/社区调解中心调解程序.md
-      - Chinese/调解后程序.md
-      - Chinese/FAQs.md
-      - Chinese/申请调解.md
-      - Chinese/向社区调解中心转介案件.md
-      - Chinese/社区调解中心的调解员是谁.md
-      - Chinese/如何成为社区调解中心的调解员.md
-      - Chinese/获任命的社区调解中心调解员名单.md
-      - Chinese/我们的故事.md
-      - Chinese/我们的使命.md
-      - Chinese/我们的团队.md
-      - Chinese/SIMI QAP.md
-      - Malay/.keep
-      - Malay/Mengapa Memilih Pengantaraan.md
-      - Malay/Isu Pertikaian Sesuai untuk Pengantaraan.md
-      - Malay/Proses Sebelum Pengantaraan.md
-      - Malay/Kaedah Pengantaraan.md
-      - Malay/Proses Pengantaraan CMC.md
-      - Malay/Process Selepas Pengantaraan.md
-      - Malay/FAQs.md
-      - Malay/Mohon Pengantaraan.md
-      - Malay/Rujuk Kes Kepada CMC.md
-      - Malay/Siapa Pengantara CMC.md
-      - Malay/Cara Menjadi Pengantara.md
-      - Malay/Pengantara CMC yang dilantik.md
-      - Malay/Kisah Kami.md
-      - Malay/Misi Kami.md
-      - Malay/Kumpulan Kami.md
-      - Malay/SIMI QAP.md
-      - Tamil/.keep
-      - Tamil/சமரசத்தை ஏன் தேர்வுசெய்ய வேண்டும்.md
-      - Tamil/சமரசத்திற்கு ஏற்ற சர்ச்சைகள்.md
-      - Tamil/சமரசத்திற்கு முந்தைய செயல்முறை.md
-      - Tamil/சமரச முறைகள்.md
-      - Tamil/சமூக சமரச நிலையத்தின் (CMC) சமரசச் செயல்முறை.md
-      - Tamil/சமரசத்திற்குப் பிந்தைய செயல்முறை.md
-      - Tamil/FAQs.md
-      - Tamil/சமரசரத்திற்கு விண்ணப்பியுங்கள்.md
-      - Tamil/ஒரு வழக்கை சமூக சமரச நிலையத்துக்குப் (CMC) பரிந்துரையுங்கள்.md
-      - Tamil/சமூக சமரச நிலையத்தின் (CMC) சமரச நிபுணர்கள் என்பவர்கள் யார்.md
-      - Tamil/சமூக சமரச நிலையத்தின் (CMC) சமரச நிபுணராக ஆவது எப்படி.md
-      - Tamil/சமூக சமரச நிலையத்தின் (CMC) நியமிக்கப்பட்ட சமரச நிபுணர்கள்.md
-      - Tamil/எங்கள் கதை.md
-      - Tamil/எங்கள் நோக்கம்.md
-      - Tamil/எங்கள் அணி.md
-      - Tamil/SIMI QAP.md
+      - Chinese (中文)/为什么选择调解.md
+      - Chinese (中文)/适合调解的纠纷类型.md
+      - Chinese (中文)/调解前程序.md
+      - Chinese (中文)/调解方式.md
+      - Chinese (中文)/社区调解中心调解程序.md
+      - Chinese (中文)/调解后程序.md
+      - Chinese (中文)/FAQs.md
+      - Chinese (中文)/申请调解.md
+      - Chinese (中文)/社区调解中心的调解员是谁.md
+      - Chinese (中文)/如何成为社区调解中心的调解员.md
+      - Chinese (中文)/获任命的社区调解中心调解员名单.md
+      - Chinese (中文)/我们的故事.md
+      - Chinese (中文)/我们的使命.md
+      - Chinese (中文)/我们的团队.md
+      - Chinese (中文)/SIMI QAP.md
+      - Chinese (中文)/.keep
+      - Malay (Melayu)/Mengapa Memilih Pengantaraan.md
+      - Malay (Melayu)/Isu Pertikaian Sesuai untuk Pengantaraan.md
+      - Malay (Melayu)/Proses Sebelum Pengantaraan.md
+      - Malay (Melayu)/Kaedah Pengantaraan.md
+      - Malay (Melayu)/Proses Pengantaraan CMC.md
+      - Malay (Melayu)/Process Selepas Pengantaraan.md
+      - Malay (Melayu)/FAQs.md
+      - Malay (Melayu)/Mohon Pengantaraan.md
+      - Malay (Melayu)/Siapa Pengantara CMC.md
+      - Malay (Melayu)/Cara Menjadi Pengantara.md
+      - Malay (Melayu)/Pengantara CMC yang dilantik.md
+      - Malay (Melayu)/Kisah Kami.md
+      - Malay (Melayu)/Misi Kami.md
+      - Malay (Melayu)/Kumpulan Kami.md
+      - Malay (Melayu)/SIMI QAP.md
+      - Malay (Melayu)/.keep
+      - Tamil (தமிழ்)/Coming Soon.md
+      - Tamil (தமிழ்)/.keep
