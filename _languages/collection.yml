@@ -2,7 +2,6 @@ collections:
   languages:
     output: true
     order:
-      - Chinese/.keep
       - Malay/.keep
       - Malay/Mengapa Memilih Pengantaraan.md
       - Malay/Isu Pertikaian Sesuai untuk Pengantaraan.md
