@@ -2,7 +2,6 @@ collections:
   media-room:
     output: false
     order:
-      - SIMI QAP.md
       - press-releases.md
       - speeches.md
       - announcements.md
