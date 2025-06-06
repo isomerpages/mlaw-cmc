@@ -2,6 +2,7 @@ collections:
   holding-page-2:
     output: true
     order:
+      - Chinese/社区调解中心调解程序.md
       - Chinese/调解后程序.md
       - Chinese/FAQs.md
       - Chinese/申请调解.md
