@@ -2,6 +2,7 @@ collections:
   languages:
     output: true
     order:
+      - Chinese (中文)/调解后程序.md
       - Chinese (中文)/FAQs.md
       - Chinese (中文)/申请调解.md
       - Chinese (中文)/社区调解中心的调解员是谁.md
