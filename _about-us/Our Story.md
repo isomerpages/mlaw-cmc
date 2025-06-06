@@ -27,7 +27,8 @@ trained and experienced volunteer community mediators.</p>
 <p></p>
 <p>
 	<title>Our Story</title>
-<audio src="ourstory.mp3" controls=""></audio>
+<audio controls=""> 
+	</audio>
 </p><p></p>
 <p></p>
 <p></p>
