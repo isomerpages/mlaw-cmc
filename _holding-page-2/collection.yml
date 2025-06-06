@@ -2,5 +2,6 @@ collections:
   holding-page-2:
     output: true
     order:
+      - Chinese/我们的团队.md
       - Chinese/SIMI QAP.md
       - Chinese/.keep
