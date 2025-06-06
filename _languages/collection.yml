@@ -2,6 +2,7 @@ collections:
   languages:
     output: true
     order:
+      - Chinese (中文)/我们的故事.md
       - Chinese (中文)/我们的使命.md
       - Chinese (中文)/我们的团队.md
       - Chinese (中文)/SIMI QAP.md
