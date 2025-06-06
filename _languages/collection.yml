@@ -2,5 +2,6 @@ collections:
   languages:
     output: true
     order:
+      - Tamil (தமிழ்)/.keep
       - Malay (Melayu)/.keep
       - Chinese (中文)/.keep
