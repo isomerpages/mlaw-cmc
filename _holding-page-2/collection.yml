@@ -2,4 +2,5 @@ collections:
   holding-page-2:
     output: true
     order:
+      - Chinese/.keep
       - SIMI QAP.md
