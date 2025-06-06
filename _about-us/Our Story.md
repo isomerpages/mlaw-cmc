@@ -23,8 +23,16 @@ and harmonious living environment for residents in Singapore.</p>
 the administration and management of the CMC and augmented by a panel of
 trained and experienced volunteer community mediators.</p>
 <p></p>
-<p>&lt;audio src="<a href="https://drive.google.com/file/d/14D7YoaVbt8FgVSnD_VAcXpReuyLyoGD0/view?usp=share_link" rel="noopener noreferrer nofollow" target="_blank">audio.mp</a>3"
-controls&gt;&lt;/audio&gt;</p>
+<p>&lt;!DOCTYPE html&gt;</p>
+<p>&lt;html lang="en"&gt;</p>
+<p>&lt;head&gt;</p>
+<p></p>
+<p>&lt;title&gt;Our Story&lt;/title&gt;</p>
+<p>&lt;/head&gt;</p>
+<p>&lt;body&gt;</p>
+<p>&lt;audio controls src="/<a href="https://drive.google.com/file/d/14D7YoaVbt8FgVSnD_VAcXpReuyLyoGD0/view?usp=share_link" rel="noopener noreferrer nofollow" target="_blank">https://drive.google.com/file/d/14D7YoaVbt8FgVSnD_VAcXpReuyLyoGD0/view?usp=share_link</a>&gt;&lt;/audio&gt;</p>
+<p>&lt;/body&gt;</p>
+<p>&lt;/html&gt;</p>
 <p></p>
 <p></p>
 <p></p>
