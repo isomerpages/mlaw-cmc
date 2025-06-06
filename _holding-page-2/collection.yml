@@ -2,6 +2,7 @@ collections:
   holding-page-2:
     output: true
     order:
+      - Chinese/申请调解.md
       - Chinese/社区调解中心的调解员是谁.md
       - Chinese/如何成为社区调解中心的调解员.md
       - Chinese/获任命的社区调解中心调解员名单.md
