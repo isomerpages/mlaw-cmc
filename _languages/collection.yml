@@ -1,5 +1,4 @@
 collections:
   languages:
     output: true
-    order:
-      - Malay/.keep
+    order: []
