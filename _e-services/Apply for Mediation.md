@@ -12,6 +12,9 @@ description: ""
 <p>Mondays to Fridays from 9.00am to 1.00pm</p>
 </li>
 </ul>
+<p>To apply for directed remediation, click here.</p>
+<p><em>(This is only for parties who had attempted voluntary remediation after 1 April 2025)</em>
+</p>
 <p>Voluntary mediation takes place on:</p>
 <ul data-tight="true" class="tight">
 <li>
