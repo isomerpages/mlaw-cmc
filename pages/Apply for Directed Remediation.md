@@ -23,13 +23,11 @@ party has breached one or more terms of the written settlement agreement.</p>
 <li>
 <p>You have applied for voluntary remediation after 1 April 2025 but the
 Respondent has declined/failed to respond to the mediation invitation.</p>
-<p></p>
 </li>
 </ul>
-<p>If one or more of the criteria are not met and you need further assistance,
+<p>To apply for directed remediation and if you require further assistance,
 please contact our Enquiry Line at <strong>1800 2255 529*</strong> during
-office hours for further assistance. We will get back to you within three
-working days.</p>
+office hours. We will get back to you within three working days.</p>
 <p><em>*Please note that airtime charges may apply to calls made from mobile phones.</em>
 </p>
 <p></p>
