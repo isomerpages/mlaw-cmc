@@ -25,7 +25,7 @@ party has breached one or more terms of the written settlement agreement.</p>
 Respondent has declined/failed to respond to the mediation invitation.</p>
 </li>
 </ul>
-<p>To apply for directed remediation and if you require further assistance,
+<p>To apply for directed remediation or if you require further assistance,
 please contact our Enquiry Line at <strong>1800 2255 529*</strong> during
 office hours. We will get back to you within three working days.</p>
 <p><em>*Please note that airtime charges may apply to calls made from mobile phones.</em>
