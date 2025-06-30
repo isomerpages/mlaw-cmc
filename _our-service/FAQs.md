@@ -281,8 +281,8 @@ issues raised. &nbsp;</p>
 <li>
 <p><strong>Private Session:</strong> If there are sensitive matters that require
 a private discussion, the mediator(s) may speak to each party separately.
-Matters revealed during a private session is kept confidential unless permission
-is given to reveal such information.</p>
+Matters revealed during a private session are kept confidential unless
+permission is given to reveal such information.</p>
 <p>Our mediator(s) may alternate between joint and private sessions to explore
 different solutions with both parties.&nbsp;</p>
 </li>
