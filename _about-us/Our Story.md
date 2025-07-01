@@ -22,3 +22,8 @@ and harmonious living environment for residents in Singapore.</p>
 <p>The CMC is managed by full-time MinLaw officers, who are responsible for
 the administration and management of the CMC and augmented by a panel of
 trained and experienced volunteer community mediators.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1.png">
+</div>
+<p></p>
