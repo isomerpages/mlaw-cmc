@@ -10,7 +10,6 @@ description: ""
 <p>The Community Mediation Centre (CMC), a centre under the Ministry of Law
 (MinLaw), offers mediation service to residents in Singapore facing relational
 and community disputes.</p>
-<p></p>
 <p>Through a facilitated process, our mediators help parties to communicate
 the issues that matter to them, with the aim of uncovering what is at the
 core of their interest.</p>
