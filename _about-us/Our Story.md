@@ -4,9 +4,10 @@ permalink: /our-story/
 variant: tiptap
 description: ""
 ---
-<p></p><a class="isomer-image-wrapper" href="https://youtu.be/CcPaplKjUfU"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_5.png"></a>
 <p></p>
-<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_6.png">
+</div>
 <h3>What distinguishes mediation at the CMC from others, is our focus on repairing relationships between disputing parties.</h3>
 <p></p>
 <p>The Community Mediation Centre (CMC), a centre under the Ministry of Law
