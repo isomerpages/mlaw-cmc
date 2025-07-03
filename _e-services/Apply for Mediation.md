@@ -4,6 +4,8 @@ permalink: /apply-for-mediation/
 variant: tiptap
 description: ""
 ---
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/wKfiYPQURx0"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
+<p></p>
 <p>The CMC mediation takes place at <strong>MinLaw Services Centre</strong> at
 45 Maxwell Road, The URA Centre (East Wing), #07-11, Singapore 069118.</p>
 <p>Court referred and directed mediation takes place on:</p>
