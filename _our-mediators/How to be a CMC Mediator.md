@@ -4,6 +4,8 @@ permalink: /how-to-be-a-cmc-mediator/
 variant: tiptap
 description: ""
 ---
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/AueER2TiEmg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
+<p></p>
 <p>The CMC recruits new volunteers every year, with applications closing
 at the end of September.</p>
 <p>Only shortlisted candidates will be invited to attend the Selection Interviews,
