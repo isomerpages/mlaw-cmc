@@ -4,6 +4,7 @@ permalink: /refer-a-case-to-the-cmc/
 variant: tiptap
 description: ""
 ---
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/q07fHeQbiBw"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
 <h4>Before you refer a case to the CMC for mediation, please take note of the following:</h4>
 <ol data-tight="true" class="tight">
 <li>
