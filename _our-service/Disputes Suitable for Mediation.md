@@ -4,11 +4,12 @@ permalink: /disputes-suitable-for-mediation/
 variant: tiptap
 description: ""
 ---
+<a class="isomer-image-wrapper" href="https://youtu.be/wQlQ5Ph0FsA"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
+<p></p>
 <blockquote>
 <p>We can assist in resolving a wide range of disputes with empathy and by
 offering practical solutions.</p>
 </blockquote>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -18,6 +19,7 @@ offering practical solutions.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
+<p></p>
 <p></p><a class="isomer-image-wrapper" href="/neighbour-dispute/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/Neighbours_2.png"></a>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
@@ -103,6 +105,7 @@ offering practical solutions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/uO_VTWIJJmU"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/Family_1.png">
@@ -156,6 +159,7 @@ offering practical solutions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/-E-GfwMGK9U"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/Friends_1.png">
@@ -193,6 +197,7 @@ offering practical solutions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/1W_u04TiJys"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/Landlord_1.png">

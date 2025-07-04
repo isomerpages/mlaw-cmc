@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/SATELLITE_MEDIATION_CENTRE_2025.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Web Revamp pics/SATELLITE_MEDIATION_CENTRE_2025.png">
 </div>
 <p></p>
 <p>Apart from the CMC at the MinLaw Services Centre, we also provide voluntary
@@ -34,4 +34,6 @@ Post</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tampines North Neighbourhood Police
 Post</p>
 <p></p><a class="isomer-image-wrapper" href="/modes-of-mediation/"><img style="width: 10%;" height="auto" width="100%" alt="" src="/images/MEDIATION STORIES/Back_button.png"></a>
+<p></p>
+<p></p>
 <p></p>

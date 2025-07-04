@@ -11,6 +11,8 @@ description: ""
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/iupoOcwp3iM"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
+<p></p>
 <blockquote>
 <h4>What does the Community Mediation Centre (CMC) do?</h4>
 </blockquote>
@@ -45,7 +47,7 @@ at the CMC.</p>
 <summary><strong>Operational Matters - Modes of Mediation</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/BvCGxiRdIhw"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
 <p></p>
 <blockquote>
 <h4>Where is the CMC mediation held?</h4>
@@ -102,6 +104,7 @@ Post</p>
 <summary><strong>Operational Matters - Suitability of Application for Mediation at the CMC</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/dTYOV1c3oqc"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
 <p></p>
 <blockquote>
 <h4>What are the disputes that are suitable for mediation at the CMC?</h4>
@@ -178,6 +181,7 @@ the mediation session.</p>
 <summary><strong>Operational Matters - Application for Mediation at CMC</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/QLAh7a62Grc"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
 <p></p>
 <blockquote>
 <h4>What happens after I apply for mediation?</h4>
@@ -255,6 +259,7 @@ an outcome letter. You have the option to file a claim at the CDRT.</p>
 <summary><strong>Operational Matters – Mediation Session</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/_SH1rlh3i18"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
 <p></p>
 <blockquote>
 <h4>What happens during mediation?</h4>
@@ -328,6 +333,7 @@ legal proceedings.</p>
 <summary><strong>Operational Matters – Post Mediation</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/36MZnW_rQCc"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
 <p></p>
 <blockquote>
 <h4>What happens if the other party breaches the agreement?</h4>
@@ -364,6 +370,8 @@ the option to file a claim at the CDRT.</p>
 <summary><strong>Volunteer Management Matters</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/hE3n3aGFCgA"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
+<p></p>
 <blockquote>
 <h4>Who are the CMC mediators?</h4>
 </blockquote>
@@ -433,6 +441,8 @@ community in Singapore.</p>
 <summary><strong>Media and Outreach Matters</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/wTBR7Cqdt2w"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
+<p></p>
 <blockquote>
 <h4>I would like to request a briefing by the CMC.</h4>
 </blockquote>

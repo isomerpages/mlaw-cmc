@@ -4,6 +4,7 @@ permalink: /our-mission/
 variant: tiptap
 description: ""
 ---
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/2uw04gt9e_k"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
 <p>Our mission is to provide a practical and convenient solution for relational
 and community disputes in Singapore.</p>
 <p></p>

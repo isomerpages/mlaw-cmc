@@ -4,6 +4,8 @@ permalink: /post-mediation-process/
 variant: tiptap
 description: ""
 ---
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/0crlTXGxmaE"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
+<p></p>
 <p>You can apply for <strong>voluntary remediation</strong>  <u>one month after the last mediation session</u> through
 our online application <a href="https://eservices.mlaw.gov.sg/cmc/mediatorsportal/direct-intake/" rel="noopener nofollow" target="_blank">form</a>.
 You can also apply by calling the MinLaw Enquiry Line at 1800 2255 529*
