@@ -4,6 +4,8 @@ permalink: /disputes-suitable-for-mediation/
 variant: tiptap
 description: ""
 ---
+<a class="isomer-image-wrapper" href="https://youtu.be/wQlQ5Ph0FsA"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
+<p></p>
 <blockquote>
 <p>We can assist in resolving a wide range of disputes with empathy and by
 offering practical solutions.</p>
@@ -17,7 +19,7 @@ offering practical solutions.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
-<p></p><a class="isomer-image-wrapper" href="https://youtu.be/wQlQ5Ph0FsA"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
+<p></p>
 <p></p><a class="isomer-image-wrapper" href="/neighbour-dispute/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/Neighbours_2.png"></a>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
