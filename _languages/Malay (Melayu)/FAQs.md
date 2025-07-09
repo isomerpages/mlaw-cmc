@@ -341,9 +341,9 @@ Penyelesaian Pertikaian Komuniti (CDRT).</p>
 <summary>Urusan Pengurusan Sukarelawan</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <blockquote>
-<p>Siapakah mediator CMC?</p>
+<p>Siapakah pengantara CMC?</p>
 </blockquote>
-<p>Mediator di CMC ialah <strong>sukarelawan terlatih</strong> yang dilantik
+<p>Pengantara di CMC ialah <strong>sukarelawan terlatih</strong> yang dilantik
 oleh Menteri Undang-Undang. Mereka telah:</p>
 <ul>
 <li>
@@ -363,15 +363,15 @@ oleh Menteri Undang-Undang. Mereka telah:</p>
 <blockquote>
 <p>Adakah CMC mengambil sukarelawan baharu?</p>
 </blockquote>
-<p>Ya! CMC merekrut mediator sukarelawan setiap tahun, dan permohonan akan
-ditutup pada hujung bulan September.</p>
+<p>Ya! CMC mengambil pengantara sukarelawan baru setiap tahun, dan permohonan
+akan ditutup pada hujung bulan September.</p>
 <p>Hanya calon yang disenarai pendek akan dijemput menghadiri Temu Duga Pemilihan,
 biasanya antara Oktober hingga November setiap tahun.</p>
 <p></p>
 <blockquote>
-<p>Bagaimanakah untuk layak menjadi mediator CMC?</p>
+<p>Bagaimanakah untuk layak menjadi pengantara CMC?</p>
 </blockquote>
-<p>Terdapat lima peringkat untuk menjadi mediator:</p>
+<p>Terdapat lima peringkat untuk menjadi pengantara:</p>
 <ol>
 <li>
 <p>Permohonan</p>
@@ -393,9 +393,9 @@ biasanya antara Oktober hingga November setiap tahun.</p>
 </p>
 <p></p>
 <blockquote>
-<p>Siapakah yang layak memohon sebagai mediator CMC?</p>
+<p>Siapakah yang layak memohon sebagai pengantara CMC?</p>
 </blockquote>
-<p>Untuk jadi mediator sukarelawan CMC, anda perlu:</p>
+<p>Untuk jadi pengantara sukarelawan CMC, anda perlu:</p>
 <ul>
 <li>
 <p>Warganegara Singapura atau Penduduk Tetap Singapura</p>
