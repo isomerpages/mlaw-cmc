@@ -212,7 +212,7 @@ nasihat undang-undang atau buat permohonan di mahkamah.</p>
 <p></p>
 <p></p>
 <blockquote>
-<p>JKalau Responden abaikan atau tolak jemputan CMC, apa pilihan saya? Bolehkah
+<p>Jikalau Responden abaikan atau tolak jemputan CMC, apa pilihan saya? Bolehkah
 saya bawa kes ini ke Tribunal Penyelesaian Pertikaian Komuniti (CDRT)?</p>
 </blockquote>
 <p></p>
