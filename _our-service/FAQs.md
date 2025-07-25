@@ -119,6 +119,7 @@ for mediation at the CMC, please click <a href="https://cmc.mlaw.gov.sg/disputes
 <blockquote>
 <h4>Why is the CMC accepting a mediation application without carrying out any investigations?</h4>
 </blockquote>
+<p></p>
 <p>The CMC does not carry out investigations. Our primary focus is on facilitating
 discussions between disputing parties.</p>
 <p>Through mediation, we aim to help parties communicate effectively, explore
@@ -213,13 +214,13 @@ location.</p>
 </li>
 <li>
 <p><strong>Mediation Session</strong>: On the scheduled date, you and the
-Respondent will meet with our mediator(s). &nbsp;The mediator(s) will facilitate
+Respondent will meet with our mediator. &nbsp;The mediator will facilitate
 a discussion between both parties, in an attempt to foster greater understanding
 and possibly an amicable resolution.</p>
 </li>
 <li>
-<p><strong>Outcome</strong>: Once an agreement is reached, our mediator(s)
-will document the terms. You will have the opportunity to review the document
+<p><strong>Outcome</strong>: Once an agreement is reached, our mediator will
+document the terms. You will have the opportunity to review the document
 before signing it. You will also receive a copy of the signed agreement.
 If an agreement cannot be reached, we will close the session respectfully.
 You may choose to explore other options to address the dispute, which may
@@ -272,8 +273,8 @@ Our officer will receive you, verify the identities of the parties and
 make sure everything is in order before the start of the mediation session.</p>
 </li>
 <li>
-<p><strong>Opening Statement:</strong> Our mediator(s) will invite you into
-the mediation room where you and the other party will be seated. The mediator(s)
+<p><strong>Opening Statement:</strong> Our mediator will invite you into the
+mediation room where you and the other party will be seated. The mediator
 will then begin with an opening statement which includes an explanation
 on the mediation process and some ground rules.</p>
 </li>
@@ -285,10 +286,10 @@ issues raised. &nbsp;</p>
 </li>
 <li>
 <p><strong>Private Session:</strong> If there are sensitive matters that require
-a private discussion, the mediator(s) may speak to each party separately.
+a private discussion, the mediator may speak to each party separately.
 Matters revealed during a private session are kept confidential unless
 permission is given to reveal such information.</p>
-<p>Our mediator(s) may alternate between joint and private sessions to explore
+<p>Our mediator may alternate between joint and private sessions to explore
 different solutions with both parties.&nbsp;</p>
 </li>
 <li>
@@ -298,9 +299,9 @@ different solutions with both parties.&nbsp;</p>
 </ol>
 <p><u>Settlement with an agreement</u>
 </p>
-<p>Once an agreement is reached, our mediator(s) will document the terms.
-You will have the opportunity to review the document before signing it.
-You will also receive a copy of the signed agreement. &nbsp;&nbsp;</p>
+<p>Once an agreement is reached, our mediator will document the terms. You
+will have the opportunity to review the document before signing it. You
+will also receive a copy of the signed agreement. &nbsp;&nbsp;</p>
 <p><u>No settlement</u>
 </p>
 <p>If an agreement cannot be reached, we will close the session respectfully.
