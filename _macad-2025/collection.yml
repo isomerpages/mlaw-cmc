@@ -1,5 +1,0 @@
-collections:
-  macad-2025:
-    output: true
-    order:
-      - Programme.md
