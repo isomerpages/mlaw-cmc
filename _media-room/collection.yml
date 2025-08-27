@@ -2,6 +2,7 @@ collections:
   media-room:
     output: false
     order:
+      - MACAD 2025 Programme.md
       - press-releases.md
       - speeches.md
       - announcements.md
