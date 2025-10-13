@@ -1,0 +1,15 @@
+collections:
+  partner-with-us:
+    output: true
+    order:
+      - our-work.md
+      - briefings-for-organisations.md
+      - request-for-collaterals.md
+      - The CMC Mediators/.keep
+      - The CMC Mediators/our-mediators.md
+      - The CMC Mediators/List of Mediators Involved in GRCs or SMCs.md
+      - The CMC Mediators/Advisory Committee on Community Mediation.md
+      - The CMC
+        Mediators/cmc-s-re-appointees-and-long-service-award-recipients.md
+      - The CMC Mediators/CMC Volunteer Mediator Application Form.md
+      - useful-links.md

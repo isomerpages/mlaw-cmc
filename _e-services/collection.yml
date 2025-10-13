@@ -1,0 +1,6 @@
+collections:
+  e-services:
+    output: true
+    order:
+      - Apply for Mediation.md
+      - Refer a Case to the CMC.md

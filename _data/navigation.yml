@@ -1,0 +1,14 @@
+logo: /images/cmc-logo.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Our Service
+    collection: our-service
+  - title: Our Mediators
+    collection: our-mediators
+  - title: E-Services
+    collection: e-services
+  - title: Contact Us
+    url: https://www.mlaw.gov.sg/about-us/contact-us/
+  - title: Languages
+    collection: languages
