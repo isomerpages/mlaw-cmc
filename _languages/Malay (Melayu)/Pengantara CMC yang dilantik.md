@@ -7,876 +7,163 @@ third_nav_title: Malay (Melayu)
 ---
 <p>Pengantara berikut telah dilantik untuk tempoh 3 tahun di bawah Akta Pusat
 Pengantaraan Komuniti 1997.&nbsp;</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Abdul Harris Madon Bin Gani</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Alexander Santhosarajan s/o Singhamuthu</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ang Kiat Seng Jeffrey, PBM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ang Swee Nam Alec, PBM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Madam Ang Yun Han Jacqueline</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Madam Annu Ratha Jayaram</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Aw Sze Min</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chan Jason</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Chan King Chi</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Chan Wei Ling</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Cheam Jinn Leung</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Cheong Aik Chye</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Cheong Kwee Thiam</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chew Chuan Kim, PBM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chew Yew Kuen Michael, PBM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Chia Swee Tin, JP (Retired), PBM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Chiang Ah Choo, BBM, PBM, PBS</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chiang Heng Liang, JP, BBM, PBM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chong Kia Khin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chong Kum Wah Raymond</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chong Yue-En</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Choy Khiong Rick</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chua Guang Long Benjamin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chung Kwang Tong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Desouza Karl Francis</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Edmund Tan Yen Kuan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Edwin Tan Beng Lok</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Foo F.Y. Patrick</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Gan Chun Kiat Kenny</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Gan Ong Peng, PBM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ganesan s/o Kulandai, PBM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Madam Giam Lay Eng Marcellina, JP, BBM, PBM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Goh Eng Tat</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Goh Han Hian Anthony</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Goh Hock Leng Adrian</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Goh Kian Boon Phillip</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Goh Miah Meng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Goh Peng Hong, BBM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Gopala Krishnan, JP, BBM, PBM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Haridas Vasantha Devi</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Harjeet Kaur Dhaliwal</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ho Siew Cheong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Hoon Shu Mei Sumathi</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Indu Kumar s/o Vasudevan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Jayaperakash Jayadevan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Jayems Dhingra</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dr Joshua VM Kuma, PBM, BBM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Jufri Bin Osman</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Madam Kadariah Maunah</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Kamalarajan M Chettiar</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Madam Kamaria Binte Djorimi</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Kee Hung Cheng Steven, PBM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Kevin Luke Kan Peng Hong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Khng Joo Seng George</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dr Kho Choon Joo</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Madam Kum Diane</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Kwong Sze Ken Adrian</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lai Chee Choy Tommy</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lau Kim Sui Andy, PBS</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dr Lau Yan Yong Christina, PBM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lee Boon Yew James</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dr Lee Chuan Guan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lee Kher Sheng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lee Kok Eng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lee Kwang Chian</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Madam Lee Lay Min Kris</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lee Ming Woei Kevin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lee Poh Leng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Madam Lee Seow Lan Violet</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Lee Tai-Hwa</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Lela Kaur, PBM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Lim Kee Chiok Jenny</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dr Lim Lan Yuan, JP (Retired), BBM(L), BBM, PPA(G), PBM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Madam Lim Siew Mui</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Soon Hock, JP (Retired), BBM, PBM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Teck Whai Terence</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Lin Youshan Eleanor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Loh Choong Seng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Loh Guo Wei, Melvin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Low Chia Leong Steven</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Low Hwee Tian Catherine</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Low Lee Hean Edmund, PBM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lulla Ammar Khan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Lydia Lim Ying Mei</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ma Keow Yuen</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ma Poh How, PBM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Mahadevan Lukshumayeh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Marini Martin Vincent</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Meyyappan Saravanan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Madam Michelle Cheng Soo Yuen</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Mock Pack Kay</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Mohamed Fazal Bin Abdul Hamid</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Mohamed Feroz Bin Abdul Hamid</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Narindar Singh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Madam Neo Ah Kwai Jennifer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dr Neo Teck Koon Simon</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ng Lee Chye John, BBM, PBM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ng Pak Shun</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ng Yong Ern Raymond</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ong Leok Poon Ivan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr P. Thirunal Karasu, BBM(L), JP, BBM, PBM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Pang Mun Ting, Juvy</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Madam Patricia Chiota</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Peh Zhengguang, Benjamin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Perinpanayagam James</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Phan Kim Huat Peter</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Poh Yong Meng Stephen, PBM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Raja Mohan M K, PBM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Rajendren s/o Ramaswamy</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ram Narain Dubey</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ramachandran Perumal</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Sabiha Shiraz Husain</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Sargeet Singh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Sashikala Rajah Indhiran</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Madam Seah Wei Li Francesca Lynn</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Seah Yee Men Vincent</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr See Hsien Huei Melvin, PBM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Selvaduray s/o Manikam</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dr Selvakumar Simon s/o Silvaraj</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Seow Shin Horng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Shahib Maricar</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Sim Puay Jain Edwin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Sithararani Doriasamy, BBM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Smitha Venkatesh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Soh Zeng Sheng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Sudhershen Hariram</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Sunil Rai</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr T Pirakash</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Emmanuel</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Kan Hang Eddie</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Keow Mui Cindy</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Lam Siong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Lay Bay, PBM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Shaofeng, Donny</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Teow Koon</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Xi En Rachel</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Yi Wei, Nicholas</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Ying Shi</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Teh Joo Lin, PPA(G)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Teo Beng Ghee Jimmy, PBM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Teo Seng Leong Peter, BBM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Terence Tan Zhong Wei</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Thaddaeus Aaron Tan Yong Zhong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Then Choon Huat</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Toh Minghong Eugene</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Tsang Ka Mei</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Madam Uma Devi d/o Sumeshwar, PBM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr V. Krishna, PPA(P), BBM, PBM, PBS</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Venkatesh Narasiah</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Viviene Kaur Sandhu</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Wee Pang Kiat, JP, BBM, PBM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Wong Chiou Torng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dr Wong Kwan Ken Martin Magmarigen, PBM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Wong Li-Jing Gail</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Wong Louis</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Wong Ngiam Chin Eric, JP, BBM(L), BBM, PBM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Madam Wong Siew Yin June</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Madam Wong Suet Mui Alice</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Wong Weng Kee David, BBM, PBM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Wong Yat Men Grace</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Yang Chengxi</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Madam Yap Ming Hwee Katherine</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Yeo En Fei, Walter</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Madam Yeo Hwee Peng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Madam Yeo Kim Neo Josephine, PBM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Yeo Peck Hoon Pansy</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Yeo Peng Keng Steven, PBM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Yeo Yong Chuan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Yeow Boon Kiang</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Yip Hon Weng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Yoong Wee Sen Alfred, PBS</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Zhong Ye David</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Zhong Zewei</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
+<p>Mr Abdul Harris Madon Bin Gani
+<br>Mr Alexander Santhosarajan s/o Singhamuthu
+<br>Mr Ang Kiat Seng Jeffrey, PBM
+<br>Mr Ang Swee Nam Alec, PBM
+<br>Madam Ang Yun Han Jacqueline
+<br>Madam Annu Ratha Jayaram
+<br>Ms Aw Sze Min
+<br>Mr Chan Jason
+<br>Ms Chan King Chi
+<br>Ms Chan Wei Ling
+<br>Mr Cheam Jinn Leung
+<br>Mr Cheong Aik Chye
+<br>Mr Cheong Kwee Thiam
+<br>Mr Chew Chuan Kim, PBM
+<br>Mr Chew Yew Kuen Michael, PBM
+<br>Mrs Chia Swee Tin, JP (Retired), PBM
+<br>Ms Chiang Ah Choo, BBM, PBM, PBS
+<br>Mr Chiang Heng Liang, JP, BBM, PBM
+<br>Mr Chong Kia Khin
+<br>Mr Chong Kum Wah Raymond
+<br>Mr Chong Yue-En
+<br>Mr Choy Khiong Rick
+<br>Mr Chua Guang Long Benjamin
+<br>Mr Chung Kwang Tong
+<br>Mr Desouza Karl Francis
+<br>Mr Edwin Tan Beng Lok
+<br>Mr Faris Danial Lau Chang Yi Bin Muhammad Heikel Lau
+<br>Mr Foo F.Y. Patrick
+<br>Mr Gan Chun Kiat Kenny
+<br>Mr Gan Ong Peng, PBM
+<br>Mr Ganesan s/o Kulandai, PBM
+<br>Madam Giam Lay Eng Marcellina, JP, BBM, PBM
+<br>Mr Goh Han Hian Anthony
+<br>Mr Goh Hock Leng Adrian
+<br>Mr Goh Kian Boon Phillip
+<br>Mr Goh Miah Meng
+<br>Mr Goh Peng Hong, BBM
+<br>Mr Gopala Krishnan, JP, BBM, PBM
+<br>Ms Harjeet Kaur Dhaliwal
+<br>Mr Ho Siew Cheong
+<br>Ms Hoon Shu Mei, Sumathi
+<br>Mr Indu Kumar s/o Vasudevan
+<br>Mr Jayaperakash Jayadevan
+<br>Mr Jayems Dhingra
+<br>Dr Joshua VM Kuma, PBM, BBM
+<br>Mr Jufri Bin Osman
+<br>Madam Kadariah Maunah
+<br>Mr Kamalarajan M Chettiar
+<br>Madam Kamaria Binte Djorimi
+<br>Mr Kee Hung Cheng Steven, PBM
+<br>Mr Kevin Luke Kan Peng Hong
+<br>Mr Khng Joo Seng George
+<br>Madam Kum Diane
+<br>Mr Kwong Sze Ken Adrian
+<br>Mr Lau Kim Sui Andy, PBS
+<br>Dr Lau Yan Yong Christina, PBM
+<br>Mr Lee Boon Yew James
+<br>Dr Lee Chuan Guan
+<br>Mr Lee Kher Sheng
+<br>Mr Lee Kok Eng
+<br>Mr Lee Kwang Chian
+<br>Madam Lee Lay Min Kris
+<br>Mr Lee Ming Woei Kevin
+<br>Mr Lee Poh Leng
+<br>Madam Lee Seow Lan Violet
+<br>Ms Lee Tai-Hwa
+<br>Ms Lela Kaur, PBM
+<br>Madam Leow Soon Gee Christine
+<br>Ms Lim Kee Chiok Jenny
+<br>Dr Lim Lan Yuan, JP (Retired), BBM (L), BBM, PPA (G), PBM
+<br>Madam Lim Siew Mui
+<br>Mr Lim Soon Hock, JP (Retired), BBM, PBM
+<br>Mr Lim Teck Whai Terence
+<br>Ms Lin Youshan Eleanor
+<br>Ms Lo On Kay Agnes
+<br>Mr Loh Choong Seng
+<br>Mr Loh Guo Wei, Melvin
+<br>Mr Low Chia Leong Steven
+<br>Ms Low Hwee Tian Catherine
+<br>Mr Low Lee Hean Edmund, PBM
+<br>Mr Lulla Ammar Khan
+<br>Ms Lydia Lim Ying Mei
+<br>Mr Ma Keow Yuen
+<br>Mr Ma Poh How, PBM
+<br>Mr Mahadevan Lukshumayeh
+<br>Mr Meyyappan Saravanan
+<br>Madam Michelle Cheng Soo Yuen
+<br>Mr Mock Pack Kay
+<br>Mr Mohamed Fazal Bin Abdul Hamid
+<br>Mr Mohamed Feroz Bin Abdul Hamid
+<br>Ms Muntaz Binte Zainuddin
+<br>Mr Narindar Singh
+<br>Madam Neo Ah Kwai Jennifer
+<br>Dr Neo Teck Koon Simon
+<br>Mr Ng Lee Chye John, BBM, PBM
+<br>Mr Ng Pak Shun
+<br>Mr Ng Yong Ern Raymond
+<br>Mr Ong Leok Poon Ivan
+<br>Mr P. Thirunal Karasu, BBM (L), JP, BBM, PBM
+<br>Madam Patricia Chiota
+<br>Mr Perinpanayagam James
+<br>Mr Phan Kim Huat Peter
+<br>Mr Poh Yong Meng Stephen, PBM
+<br>Mr Raja Mohan M K, PBM
+<br>Mr Rajendren s/o Ramaswamy
+<br>Mr Ram Narain Dubey
+<br>Mr Ramachandran Perumal
+<br>Prof Rozario Sean Patrick
+<br>Ms Sabiha Shiraz Husain
+<br>Mr Sargeet Singh
+<br>Ms Sashikala Rajah Indhiran
+<br>Madam Seah Wei Li Francesca Lynn
+<br>Mr Seah Yee Men Vincent
+<br>Mr Selvaduray s/o Manikam
+<br>Dr Selvakumar Simon s/o Silvaraj
+<br>Mr Seow Shin Horng
+<br>Mr Shahib Maricar
+<br>Mr Sim Puay Jain Edwin
+<br>Ms Sithararani Doriasamy, BBM
+<br>Mrs Smitha Venkatesh
+<br>Mr Soh Zeng Sheng
+<br>Mr Sudhershen Hariram
+<br>Mr Sunil Rai
+<br>Mr T Pirakash
+<br>Mr Tan Emmanuel
+<br>Mr Tan Kan Hang Eddie
+<br>Ms Tan Keow Mui Cindy
+<br>Mr Tan Lam Siong
+<br>Mr Tan Teow Koon
+<br>Ms Tan Xi En Rachel
+<br>Ms Tan Ying Shi
+<br>Mr Teh Joo Lin, PPA (G)
+<br>Mr Teo Beng Ghee Jimmy, PBM
+<br>Mr Teo Seng Leong Peter, BBM
+<br>Mr Terence Tan Zhong Wei
+<br>Mr Then Choon Huat
+<br>Mr Toh Minghong Eugene
+<br>Madam Uma Devi d/o Sumeshwar, PBM
+<br>Mr V. Krishna, PPA (P), BBM, PBM, PBS
+<br>Mr Venkatesh Narasiah
+<br>Mr Wee Pang Kiat, JP, BBM, PBM
+<br>Ms Wong Chiou Torng
+<br>Dr Wong Kwan Ken Martin Magmarigen, PBM
+<br>Ms Wong Li-Jing Gail
+<br>Mr Wong Louis
+<br>Mr Wong Ngiam Chin Eric, JP, BBM (L), BBM, PBM
+<br>Madam Wong Siew Yin June
+<br>Madam Wong Suet Mui Alice
+<br>Mr Wong Weng Kee David, BBM, PBM
+<br>Ms Wong Yat Men Grace
+<br>Mr Yang Chengxi
+<br>Madam Yap Ming Hwee Katherine
+<br>Madam Yeo Hwee Peng
+<br>Madam Yeo Kim Neo Josephine, PBM
+<br>Ms Yeo Peck Hoon Pansy
+<br>Mr Yeo Peng Keng Steven, PBM
+<br>Mr Yeo Yong Chuan
+<br>Mr Yeow Boon Kiang
+<br>Mr Yoong Wee Sen Alfred, PBS
+<br>Mr Zhong Ye David</p>
