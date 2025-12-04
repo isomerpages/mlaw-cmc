@@ -9,6 +9,7 @@ third_nav_title: Chinese (中文)
 <details class="isomer-details">
 <summary>运营事项 - 关于社区调解中心（CMC）的详情</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <blockquote>
 <p>社区调解中心（CMC）是做什么的？</p>
 </blockquote>
