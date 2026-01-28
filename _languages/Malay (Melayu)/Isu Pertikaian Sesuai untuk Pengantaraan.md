@@ -92,6 +92,7 @@ sini untuk membaca kes pengantaraan.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/Family_1.png">
 </div>
+<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=LQoUYX2nu40&amp;list=PLFSiktHGT-t6cfXLnndVfCWpqMm5UhsxF&amp;index=10"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Ahli Keluarga</summary>
