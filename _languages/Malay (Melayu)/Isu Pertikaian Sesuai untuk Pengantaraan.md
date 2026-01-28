@@ -13,6 +13,7 @@ dan beri jalan menyelesaian yang mudah dan praktikal.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/Neighbours_2.png">
 </div>
+<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=5HgSq7qdawg&amp;list=PLFSiktHGT-t6cfXLnndVfCWpqMm5UhsxF&amp;index=15"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Jiran-jiran</summary>
@@ -140,6 +141,7 @@ sini untuk membaca kes pengantaraan.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/Friends_1.png">
 </div>
+<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=kJHl-4BS5yI&amp;list=PLFSiktHGT-t6cfXLnndVfCWpqMm5UhsxF&amp;index=14"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Rakan atau Rakan Sekerja</summary>
@@ -172,6 +174,7 @@ sini untuk membaca kes pengantaraan.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/Landlord_1.png">
 </div>
+<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=Kfr_g2LJKx8&amp;list=PLFSiktHGT-t6cfXLnndVfCWpqMm5UhsxF&amp;index=13"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Tuan Rumah dan Penyewa/Penyewa Bersama</summary>
