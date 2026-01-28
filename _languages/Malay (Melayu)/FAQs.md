@@ -9,6 +9,7 @@ third_nav_title: Malay (Melayu)
 <details class="isomer-details">
 <summary>Urusan Operasi - Maklumat Mengenai Pusat Mediasi Komuniti (CMC)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=BOXHGAF_r1I&amp;list=PLFSiktHGT-t6cfXLnndVfCWpqMm5UhsxF&amp;index=5"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
 <blockquote>
 <p>Apakah yang dilakukan oleh Pusat Mediasi Komuniti (CMC)?</p>
 </blockquote>
@@ -45,6 +46,7 @@ boleh juga buat sesi secara online.</p>
 <details class="isomer-details">
 <summary>Urusan Operasi - Kaedah Mediasi</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=71u6WfK6Gdk&amp;list=PLFSiktHGT-t6cfXLnndVfCWpqMm5UhsxF&amp;index=11"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
 <blockquote>
 <p>Di manakah mediasi CMC dijalankan?</p>
 </blockquote>
@@ -104,6 +106,7 @@ North</p>
 <details class="isomer-details">
 <summary>Urusan Operasi- Kesesuaian Permohonan Pengantaraan di CMC</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=0ab8DQA4Cfs&amp;list=PLFSiktHGT-t6cfXLnndVfCWpqMm5UhsxF&amp;index=6"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
 <blockquote>
 <p>Apakah jenis pertikaian yang sesuai untuk mediasi di CMC?</p>
 </blockquote>
@@ -146,9 +149,7 @@ satelit, hanya seorang wakil dari setiap pihak boleh hadir.</p>
 <p>Boleh ke ahli keluarga atau ejen saya datang mewakili saya?</p>
 </blockquote>
 <p>Boleh, jika mereka ada Surat Kuasa Wakil (Power of Attorney). Kalau tidak,
-sila hubungi kami dulu.
-<br>
-</p>
+sila hubungi kami dulu.</p>
 <p>Untuk kes yang diarahkan Mahkamah, hanya individu yang disebut dalam Perintah
 Mahkamah boleh hadir.</p>
 <p></p>
@@ -163,6 +164,8 @@ sesi.</p>
 <details class="isomer-details">
 <summary>Urusan Operasi - Permohonan Pengantaraan di CMC</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=5P5uH09KXl8&amp;list=PLFSiktHGT-t6cfXLnndVfCWpqMm5UhsxF&amp;index=4"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
+<p></p>
 <blockquote>
 <p>Apa berlaku selepas saya hantar permohonan mediasi?</p>
 </blockquote>
@@ -238,6 +241,7 @@ di Tribunal Penyelesaian Pertikaian Komuniti (CDRT).</p>
 <details class="isomer-details">
 <summary>Urusan Operasi- Sesi Pengantaraan</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=M3PI3Pc0BU8&amp;list=PLFSiktHGT-t6cfXLnndVfCWpqMm5UhsxF&amp;index=7"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
 <blockquote>
 <p>Apa yang berlaku semasa sesi mediasi?</p>
 </blockquote>
@@ -303,7 +307,8 @@ itu sebagai bukti kalau ada tindakan undang-undang diambil kemudian.</p>
 </details>
 <details class="isomer-details">
 <summary>Urusan Operasi – Pascapengantaraan</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<div data-type="detailsContent" class="isomer-details-content"><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=u8G8oZe_JG8&amp;list=PLFSiktHGT-t6cfXLnndVfCWpqMm5UhsxF&amp;index=3"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
+<p></p>
 <blockquote>
 <p>Apa yang berlaku jika pihak lain melanggar perjanjian?</p>
 </blockquote>
@@ -334,12 +339,12 @@ Penyelesaian Pertikaian Komuniti (CDRT).</p>
 <p></p>
 <p><em>*Sila ambil perhatian bahawa caj mungkin dikenakan untuk panggilan dari telefon bimbit.</em>
 </p>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Urusan Pengurusan Sukarelawan</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=fw4wIALyv5M&amp;list=PLFSiktHGT-t6cfXLnndVfCWpqMm5UhsxF&amp;index=8"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
 <blockquote>
 <p>Siapakah pengantara CMC?</p>
 </blockquote>
@@ -430,6 +435,8 @@ tempoh 2 tahun terakhir</p>
 <details class="isomer-details">
 <summary>Urusan Media dan Jangkauan</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=v0Em7tGEr2w&amp;list=PLFSiktHGT-t6cfXLnndVfCWpqMm5UhsxF&amp;index=1"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
+<p></p>
 <blockquote>
 <p>Saya ingin meminta taklimat oleh CMC.</p>
 </blockquote>
