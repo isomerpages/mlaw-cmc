@@ -9,7 +9,7 @@ third_nav_title: Chinese (中文)
 <details class="isomer-details">
 <summary>运营事项 - 关于社区调解中心（CMC）的详情</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=KoXcSrv0rCw&amp;list=PLFSiktHGT-t7-GfRNQ3XWdfApcSR4ow9z&amp;index=14"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
 <blockquote>
 <p>社区调解中心（CMC）是做什么的？</p>
 </blockquote>
