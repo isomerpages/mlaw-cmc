@@ -30,6 +30,7 @@ third_nav_title: Chinese (中文)
 <details class="isomer-details">
 <summary>运营事项 - 调解方式</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=AsI5j5hIgFo&amp;list=PLFSiktHGT-t7-GfRNQ3XWdfApcSR4ow9z&amp;index=15"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
 <blockquote>
 <p>社区调解中心（CMC）的调解在哪里进行？</p>
 </blockquote>
@@ -70,6 +71,7 @@ third_nav_title: Chinese (中文)
 <details class="isomer-details">
 <summary>运营事项 - 社区调解中心调解申请的适用性</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=hG_-407X0dI&amp;list=PLFSiktHGT-t7-GfRNQ3XWdfApcSR4ow9z&amp;index=16"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
 <blockquote>
 <p>什么样的纠纷适合找社区调解中心（CMC）帮忙？</p>
 </blockquote>
@@ -117,6 +119,7 @@ third_nav_title: Chinese (中文)
 <details class="isomer-details">
 <summary>运营事项 - 向社区调解中心申请调解</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=z8-GfpDcw7Y&amp;list=PLFSiktHGT-t7-GfRNQ3XWdfApcSR4ow9z&amp;index=17"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
 <blockquote>
 <p>提交调解申请后会发生什么？</p>
 </blockquote>
@@ -174,6 +177,7 @@ third_nav_title: Chinese (中文)
 <details class="isomer-details">
 <summary>运营事项 - 调解对话会</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=9ODQDbAaLBE&amp;list=PLFSiktHGT-t7-GfRNQ3XWdfApcSR4ow9z&amp;index=18"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
 <blockquote>
 <p>调解过程中会发生什么？</p>
 </blockquote>
@@ -222,6 +226,7 @@ third_nav_title: Chinese (中文)
 <details class="isomer-details">
 <summary>运营事项 - 调解后程序</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=h7iUIdyWTzA&amp;list=PLFSiktHGT-t7-GfRNQ3XWdfApcSR4ow9z&amp;index=20"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
 <blockquote>
 <p>如果对方违反了协议，会发生什么？</p>
 </blockquote>
@@ -245,6 +250,7 @@ third_nav_title: Chinese (中文)
 <details class="isomer-details">
 <summary>志愿者管理事项</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=AIHqDTXCghA&amp;list=PLFSiktHGT-t7-GfRNQ3XWdfApcSR4ow9z&amp;index=19"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
 <blockquote>
 <p>谁是社区调解中心（CMC）的调解员？</p>
 </blockquote>
@@ -307,6 +313,7 @@ third_nav_title: Chinese (中文)
 <details class="isomer-details">
 <summary>媒体与推广事项</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=MuAGWy0CwMg&amp;list=PLFSiktHGT-t7-GfRNQ3XWdfApcSR4ow9z&amp;index=21"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
 <blockquote>
 <p>我想请求社区调解中心简要介绍情况。</p>
 </blockquote>
