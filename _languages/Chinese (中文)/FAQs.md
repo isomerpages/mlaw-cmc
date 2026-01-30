@@ -9,7 +9,10 @@ third_nav_title: Chinese (中文)
 <details class="isomer-details">
 <summary>运营事项 - 关于社区调解中心（CMC）的详情</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=KoXcSrv0rCw&amp;list=PLFSiktHGT-t7-GfRNQ3XWdfApcSR4ow9z&amp;index=14"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png">
+</div>
 <blockquote>
 <p>社区调解中心（CMC）是做什么的？</p>
 </blockquote>
@@ -20,7 +23,7 @@ third_nav_title: Chinese (中文)
 </blockquote>
 <p>在 CMC 进行调解的好处包括：
 <br>· 免费：调解不收费。
-<br>· 保密：讨论内容和身份信息都会保密。
+<br>· 保密：一次调解会议通常少于四小时，并在周一至周五以及周六上午提供。
 <br>· 时间灵活：每次大约两小时，可安排在平日或星期六早上。
 <br>· 地点方便：除了律政部，我们在全岛18个地点也提供面对面调解。简单的纠纷也可以选择线上调解。</p>
 <p></p>
