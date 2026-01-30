@@ -9,7 +9,10 @@ third_nav_title: Malay (Melayu)
 <details class="isomer-details">
 <summary>Urusan Operasi - Maklumat Mengenai Pusat Mediasi Komuniti (CMC)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=BOXHGAF_r1I&amp;list=PLFSiktHGT-t6cfXLnndVfCWpqMm5UhsxF&amp;index=5"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png">
+</div>
 <blockquote>
 <p>Apakah yang dilakukan oleh Pusat Mediasi Komuniti (CMC)?</p>
 </blockquote>
@@ -30,8 +33,9 @@ pertikaian dalam komuniti.</p>
 akan dirahsiakan.</p>
 </li>
 <li>
-<p><strong>Jimatan masa</strong>: Sesi biasanya ambil masa lebih kurang 2
-jam. Dibuka hari Isnin sampai Jumaat, dan pagi Sabtu.</p>
+<p><strong>Jimatan masa</strong>: Sesi pengantaraan biasanya mengambil masa
+kurang daripada 4 jam dan disediakan dari Isnin hingga Jumaat serta pada
+pagi hari Sabtu.</p>
 </li>
 <li>
 <p><strong>Lokasi senang dicapai</strong>: Ada sesi bersemuka di Pusat Perkhidmatan
