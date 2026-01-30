@@ -10,7 +10,10 @@ third_nav_title: Tamil (தமிழ்)
 <summary><strong>செயல்பாட்டு விவரங்கள் - சமூக சமரச நிலையம் (CMC) குறித்த விவரங்கள்</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=Vu1jFpOQPa4&amp;list=PLFSiktHGT-t7LXEyaEoArvUCL4AZwt1Al&amp;index=12"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png">
+</div>
 <blockquote>
 <p>சமூக சமரச நிலையம் (CMC) என்ன செய்கிறது?</p>
 </blockquote>
