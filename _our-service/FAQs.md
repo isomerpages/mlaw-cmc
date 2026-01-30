@@ -11,7 +11,10 @@ description: ""
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://youtu.be/iupoOcwp3iM"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png">
+</div>
 <p></p>
 <blockquote>
 <h4>What does the Community Mediation Centre (CMC) do?</h4>
@@ -31,8 +34,8 @@ community disputes.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Privacy:&nbsp;Matters discussed
 during mediation and identity of the parties are kept confidential.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Time:&nbsp;A mediation session typically
-lasts about two hours and is available from Mondays to Fridays and on Saturday
-mornings.</p>
+takes less than 4 hours and is available from Mondays to Fridays and on
+Saturday mornings.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Location: We offer in-person mediation
 at the Ministry of Law Services Centre and 18 satellite mediation locations
 island wide. Virtual mediation is also an option for less complex disputes.Do
