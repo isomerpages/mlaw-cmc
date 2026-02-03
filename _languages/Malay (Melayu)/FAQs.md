@@ -10,9 +10,6 @@ third_nav_title: Malay (Melayu)
 <summary>Urusan Operasi - Maklumat Mengenai Pusat Mediasi Komuniti (CMC)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png">
-</div>
 <blockquote>
 <p>Apakah yang dilakukan oleh Pusat Mediasi Komuniti (CMC)?</p>
 </blockquote>
