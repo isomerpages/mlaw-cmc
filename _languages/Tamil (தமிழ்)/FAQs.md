@@ -11,9 +11,6 @@ third_nav_title: Tamil (தமிழ்)
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png">
-</div>
 <blockquote>
 <p>சமூக சமரச நிலையம் (CMC) என்ன செய்கிறது?</p>
 </blockquote>
@@ -505,19 +502,12 @@ CRU) உதவியை நீங்கள் நாடலாம்.</p>
 </blockquote>
 <p>1800 2255 529* என்ற சட்ட அமைச்சின் வினவல் தொலைபேசி எண்ணை அலுவலக நேரங்களில்
 அழைக்கவும் அல்லது&nbsp;<a href="https://eservices.mlaw.gov.sg/enquiry/" rel="noopener noreferrer nofollow" target="_blank"><u>இங்கே</u></a>&nbsp;உள்ள
-இணையவழிப் படிவத்தைப் பயன்படுத்தி உங்கள் கோரிக்கையைச் சமர்ப்பிக்கவும்.&nbsp;<em>*கைப்பேசிகளிலிருந்து செய்யப்படும் அழைப்புகளுக்கு ஏர்டைம் கட்டணங்கள் விதிக்கப்படலாம் என்பதை நினைவில் கொள்ளவும்.</em>
-</p>
+இணையவழிப் படிவத்தைப் பயன்படுத்தி உங்கள் கோரிக்கையைச் சமர்ப்பிக்கவும்.</p>
 <p><em>&nbsp;</em>
 </p>
-<p></p>
-</div>
-</details>
-</div>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><em>*இந்தப் பக்கக் காட்சி வெவ்வேறு உலாவிகளுக்கு இடையில் மாறுபடலாம்.</em>
+<p>&nbsp;<em>*கைப்பேசிகளிலிருந்து செய்யப்படும் அழைப்புகளுக்கு ஏர்டைம் கட்டணங்கள் விதிக்கப்படலாம் என்பதை நினைவில் கொள்ளவும்.</em>
 </p>
 </div>
 </details>
+</div>
 <p></p>
