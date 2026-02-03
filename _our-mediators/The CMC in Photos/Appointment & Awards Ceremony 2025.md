@@ -378,14 +378,11 @@ third_nav_title: The CMC in Photos
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MACAD 2025/Distinguished Service Award/251029_Minlaw_Event_518.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MACAD 2025/Distinguished Service Award/251029_Minlaw_Event_520.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MACAD 2025/Distinguished Service Award/251029_Minlaw_Event_519.jpg">
-</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
