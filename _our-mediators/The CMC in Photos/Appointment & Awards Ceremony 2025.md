@@ -125,16 +125,12 @@ third_nav_title: The CMC in Photos
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MACAD 2025/Advancement to Master Mediator/251029_Minlaw_Event_375.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MACAD 2025/Advancement to Master Mediator/251029_Minlaw_Event_376.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MACAD 2025/Advancement to Master Mediator/251029_Minlaw_Event_376.jpg">
-</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
