@@ -10,9 +10,6 @@ third_nav_title: Chinese (中文)
 <summary>运营事项 - 关于社区调解中心（CMC）的详情</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png">
-</div>
 <blockquote>
 <p>社区调解中心（CMC）是做什么的？</p>
 </blockquote>
