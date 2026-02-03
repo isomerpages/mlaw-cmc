@@ -2,7 +2,6 @@ collections:
   media-room:
     output: false
     order:
-      - announcements.md
       - publications.md
       - gallery.md
       - Gallery/.keep
