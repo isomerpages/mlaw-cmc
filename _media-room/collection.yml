@@ -2,7 +2,6 @@ collections:
   media-room:
     output: false
     order:
-      - publications.md
       - gallery.md
       - Gallery/.keep
       - Gallery/macad-2018-20th-anniversary-celebrations.md
