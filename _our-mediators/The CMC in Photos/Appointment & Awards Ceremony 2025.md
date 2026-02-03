@@ -404,30 +404,20 @@ third_nav_title: The CMC in Photos
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MACAD 2025/Community Luminary Award/251029_Minlaw_Event_525.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MACAD 2025/Community Luminary Award/251029_Minlaw_Event_526.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MACAD 2025/Community Luminary Award/251029_Minlaw_Event_527.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MACAD 2025/Community Luminary Award/251029_Minlaw_Event_528.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
