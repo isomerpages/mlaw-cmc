@@ -11,11 +11,6 @@ description: ""
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png">
-</div>
-<p></p>
 <blockquote>
 <h4>What does the Community Mediation Centre (CMC) do?</h4>
 </blockquote>
