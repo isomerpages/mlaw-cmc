@@ -1,5 +1,0 @@
-collections:
-  media-room:
-    output: false
-    order:
-      - Gallery/.keep
