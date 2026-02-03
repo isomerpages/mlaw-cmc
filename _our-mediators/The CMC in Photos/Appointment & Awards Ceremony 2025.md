@@ -277,6 +277,7 @@ third_nav_title: The CMC in Photos
 </table>
 <p><strong>25<sup>th</sup> Year Appreciation Award</strong>
 </p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -288,19 +289,19 @@ third_nav_title: The CMC in Photos
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MACAD 2025/25th Year Appreciation Award/251029_Minlaw_Event_499.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MACAD 2025/25th Year Appreciation Award/251029_Minlaw_Event_500.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MACAD 2025/25th Year Appreciation Award/251029_Minlaw_Event_501.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MACAD 2025/25th Year Appreciation Award/251029_Minlaw_Event_502.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MACAD 2025/25th Year Appreciation Award/251029_Minlaw_Event_505.jpg">
 </div>
 </th>
 </tr>
@@ -308,47 +309,7 @@ third_nav_title: The CMC in Photos
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MACAD 2025/25th Year Appreciation Award/251029_Minlaw_Event_502.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MACAD 2025/25th Year Appreciation Award/251029_Minlaw_Event_504.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MACAD 2025/25th Year Appreciation Award/251029_Minlaw_Event_505.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MACAD 2025/25th Year Appreciation Award/251029_Minlaw_Event_506.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MACAD 2025/25th Year Appreciation Award/251029_Minlaw_Event_507.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MACAD 2025/25th Year Appreciation Award/251029_Minlaw_Event_507.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MACAD 2025/25th Year Appreciation Award/251029_Minlaw_Event_508.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -360,7 +321,7 @@ third_nav_title: The CMC in Photos
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MACAD 2025/25th Year Appreciation Award/251029_Minlaw_Event_510.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MACAD 2025/25th Year Appreciation Award/251029_Minlaw_Event_511.jpg">
 </div>
 </td>
 </tr>
@@ -368,20 +329,14 @@ third_nav_title: The CMC in Photos
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MACAD 2025/25th Year Appreciation Award/251029_Minlaw_Event_511.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MACAD 2025/25th Year Appreciation Award/251029_Minlaw_Event_512.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MACAD 2025/25th Year Appreciation Award/251029_Minlaw_Event_513.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -397,16 +352,12 @@ third_nav_title: The CMC in Photos
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MACAD 2025/Outstanding NewComer/251029_Minlaw_Event_516.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MACAD 2025/Outstanding NewComer/251029_Minlaw_Event_517.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MACAD 2025/Outstanding NewComer/251029_Minlaw_Event_517.jpg">
-</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
