@@ -2,6 +2,7 @@ collections:
   unused-pages:
     output: true
     order:
+      - Appointment & Awards Ceremony 2022.md
       - Mediation at the CMC.md
       - The Mediation Process.md
       - Disputes Suitable For Mediation.md
