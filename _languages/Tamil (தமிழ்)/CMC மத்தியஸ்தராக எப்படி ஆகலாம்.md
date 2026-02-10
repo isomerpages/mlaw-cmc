@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Tamil (தமிழ்)
 ---
+<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=xbO4XFEWkTQ&amp;list=PLFSiktHGT-t7LXEyaEoArvUCL4AZwt1Al&amp;index=14"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
 <p>சமூக சமரச நிலையம் ஒவ்வொரு ஆண்டும் புதிய தொண்டூழியர்களை நியமிக்கிறது, அதற்கான
 விண்ணப்பச் சமர்ப்பிப்பு செப்டம்பர் மாத இறுதியில் முடிவடைகிறது.</p>
 <p>ஒவ்வொரு ஆண்டும் அக்டோபர் முதல் நவம்பர் வரை வழக்கமாக நடைபெறும் தேர்வு நேர்காணல்களில்

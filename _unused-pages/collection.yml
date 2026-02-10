@@ -1,0 +1,11 @@
+collections:
+  unused-pages:
+    output: true
+    order:
+      - Appointment & Awards Ceremony 2022.md
+      - Mediation at the CMC.md
+      - The Mediation Process.md
+      - Disputes Suitable For Mediation.md
+      - Benefits of Mediation.md
+      - Testimonials from Customers.md
+      - Ways to Apply for Mediation.md

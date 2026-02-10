@@ -10,6 +10,7 @@ third_nav_title: Tamil (தமிழ்)
 <summary><strong>செயல்பாட்டு விவரங்கள் - சமூக சமரச நிலையம் (CMC) குறித்த விவரங்கள்</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <blockquote>
 <p>சமூக சமரச நிலையம் (CMC) என்ன செய்கிறது?</p>
 </blockquote>
@@ -31,8 +32,8 @@ third_nav_title: Tamil (தமிழ்)
 அடையாளம் இரகசியமாக வைக்கப்படும்.</p>
 </li>
 <li>
-<p>நேரம்: ஒரு சமரச அமர்வு வழக்கமாக சுமார் இரண்டு மணிநேரம் நடைபெறும். இது
-திங்கள் முதல் வெள்ளி வரை மற்றும் சனிக்கிழமைகளில் காலை நேரத்தில் நடைபெறும்.</p>
+<p>நேரம்: ஒரு நடுவர் அமர்வு சாதாரணமாக 4 மணி நேரத்தை விட குறைவாக நடைபெறும்
+மற்றும் திங்கட்கிழமை முதல் வெள்ளிக்கிழமை வரை மற்றும் சனிக்கிழமை காலை கிடைக்கிறது.</p>
 </li>
 <li>
 <p>இருப்பிடம்: நாங்கள் சட்ட அமைச்சின் சேவை நிலையத்தில் நேரில் சமரச சேவையையும்,
@@ -48,6 +49,7 @@ third_nav_title: Tamil (தமிழ்)
 <summary><strong>செயல்பாட்டு விவகாரங்கள் – சமரச முறைகள்</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=4S2xRdZm3rI&amp;list=PLFSiktHGT-t7LXEyaEoArvUCL4AZwt1Al&amp;index=11"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
 <blockquote>
 <p>சமூக சமரச நிலையத்தில் (CMC) சமரசம் எங்கே நடைபெறுகிறது?</p>
 </blockquote>
@@ -138,6 +140,7 @@ third_nav_title: Tamil (தமிழ்)
 <summary><strong>செயல்பாடு சார்ந்த விவகாரங்கள் – சமூக சமரச நிலையத்தில் சமரசத்திற்கான விண்ணப்பத்தின் பொருத்தம்</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=DXxq7aGOdII&amp;list=PLFSiktHGT-t7LXEyaEoArvUCL4AZwt1Al&amp;index=7"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
 <blockquote>
 <p>சமூக சமரச நிலையத்தில் (CMC) சமரசத்திற்கு ஏற்ற சர்ச்சைகள் என்னென்ன?</p>
 </blockquote>
@@ -203,6 +206,7 @@ third_nav_title: Tamil (தமிழ்)
 <summary><strong>செயல்பாடு சார்ந்த விவகாரங்கள் – சமூக சமரச நிலையத்தில் சமரசத்திற்கான விண்ணப்பம்</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=c9sCxFqOmOg&amp;list=PLFSiktHGT-t7LXEyaEoArvUCL4AZwt1Al&amp;index=10"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
 <blockquote>
 <p>சமரசத்திற்கு விண்ணப்பித்த பிறகு என்ன நடக்கும்?</p>
 </blockquote>
@@ -278,6 +282,7 @@ CRU) உதவியை நீங்கள் நாடலாம்.</p>
 <summary><strong>செயல்பாடு சார்ந்த விவகாரங்கள் - சமரச அமர்வு</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=rD4dQDCj1pA&amp;list=PLFSiktHGT-t7LXEyaEoArvUCL4AZwt1Al&amp;index=8"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
 <blockquote>
 <p>சமரசத்தின் போது என்ன நடக்கிறது?</p>
 </blockquote>
@@ -337,6 +342,7 @@ CRU) உதவியை நீங்கள் நாடலாம்.</p>
 <summary><strong>செயல்பாட்டு விவகாரங்கள் – சமரசத்திற்குப் பிந்தைய செயல்</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=ViAM-b7GYDs&amp;list=PLFSiktHGT-t7LXEyaEoArvUCL4AZwt1Al&amp;index=15"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
 <blockquote>
 <p>மற்ற தரப்பு ஒப்பந்தத்தை மீறினால் என்ன நடக்கும்?</p>
 </blockquote>
@@ -371,6 +377,7 @@ CRU) உதவியை நீங்கள் நாடலாம்.</p>
 <summary><strong>தொண்டூழியர் நிர்வாக விவகாரங்கள்</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=R8Vkr153-to&amp;list=PLFSiktHGT-t7LXEyaEoArvUCL4AZwt1Al&amp;index=3"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
 <blockquote>
 <p>சமூக சமரச நிலையத்தின் (CMC) சமரச நிபுணர்கள் யார்?</p>
 </blockquote>
@@ -453,6 +460,7 @@ CRU) உதவியை நீங்கள் நாடலாம்.</p>
 <summary><strong>ஊடகங்கள் மற்றும் சமூக விவகாரங்கள்</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=01DKf8u_gDk&amp;list=PLFSiktHGT-t7LXEyaEoArvUCL4AZwt1Al&amp;index=4"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
 <blockquote>
 <p>சமூக சமரச நிலையத்திடம் ஒரு விளக்கத்தை நான் கோர விரும்புகிறேன்.</p>
 </blockquote>
@@ -494,13 +502,13 @@ CRU) உதவியை நீங்கள் நாடலாம்.</p>
 </blockquote>
 <p>1800 2255 529* என்ற சட்ட அமைச்சின் வினவல் தொலைபேசி எண்ணை அலுவலக நேரங்களில்
 அழைக்கவும் அல்லது&nbsp;<a href="https://eservices.mlaw.gov.sg/enquiry/" rel="noopener noreferrer nofollow" target="_blank"><u>இங்கே</u></a>&nbsp;உள்ள
-இணையவழிப் படிவத்தைப் பயன்படுத்தி உங்கள் கோரிக்கையைச் சமர்ப்பிக்கவும்.&nbsp;<em>*கைப்பேசிகளிலிருந்து செய்யப்படும் அழைப்புகளுக்கு ஏர்டைம் கட்டணங்கள் விதிக்கப்படலாம் என்பதை நினைவில் கொள்ளவும்.</em>
-</p>
+இணையவழிப் படிவத்தைப் பயன்படுத்தி உங்கள் கோரிக்கையைச் சமர்ப்பிக்கவும்.</p>
 <p><em>&nbsp;</em>
 </p>
-<p><em>*இந்தப் பக்கக் காட்சி வெவ்வேறு உலாவிகளுக்கு இடையில் மாறுபடலாம்.</em>
+<p>&nbsp;<em>*கைப்பேசிகளிலிருந்து செய்யப்படும் அழைப்புகளுக்கு ஏர்டைம் கட்டணங்கள் விதிக்கப்படலாம் என்பதை நினைவில் கொள்ளவும்.</em>
 </p>
 </div>
 </details>
 </div>
+<p></p>
 <p></p>
