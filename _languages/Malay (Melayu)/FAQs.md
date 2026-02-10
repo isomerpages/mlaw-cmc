@@ -436,7 +436,7 @@ tempoh 2 tahun terakhir</p>
 <details class="isomer-details">
 <summary>Urusan Media dan Jangkauan</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=v0Em7tGEr2w&amp;list=PLFSiktHGT-t6cfXLnndVfCWpqMm5UhsxF&amp;index=1"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=X4Mc9Bf04R8&amp;list=PLFSiktHGT-t6cfXLnndVfCWpqMm5UhsxF&amp;index=2"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
 <p></p>
 <blockquote>
 <p>Saya ingin meminta taklimat oleh CMC.</p>
