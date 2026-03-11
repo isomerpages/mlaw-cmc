@@ -5,12 +5,13 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Web Revamp pics/SATELLITE_MEDIATION_CENTRE_2025.png">
-</div>
 <p></p>
-<p>Apart from the CMC at the MinLaw Services Centre, we also provide voluntary
-mediation at <strong>18 satellite mediation locations</strong>:</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/SATELLITE_MEDIATION_CENTRE_2026.png">
+</div>
+<p>part from the CMC at the MinLaw Services Centre, we also provide voluntary
+mediation at <strong>20 satellite mediation locations</strong>:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ACE the Place Community Club</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bedok Community Centre</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ci Yuan Community Club</p>
@@ -22,12 +23,14 @@ Geylang Serai</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Paya Lebar-Kovan Community Club</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Toa Payoh West Community Club</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Telok Blangah Community Club</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ServiceSG Centre Ang Mo Kio</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ServiceSG Centre Bukit Canberra</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ServiceSG Centre Bukit Merah</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ServiceSG Centre One Punggol</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ServiceSG Centre Our Tampines Hub</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ServiceSG@Keat Hong Community Club</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ServiceSG Centre@The Frontier Community
 Club</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ServiceSG Centre Bukit Merah</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ServiceSG Centre Woodlands</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tampines East Neighbourhood Police
 Post</p>
