@@ -5,11 +5,12 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Web Revamp pics/SATELLITE_MEDIATION_CENTRE_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/SATELLITE_MEDIATION_CENTRE_2026.png">
 </div>
 <p>Selain daripada CMC di Pusat Perkhidmatan MinLaw, kami juga menyediakan
-pengantaraan sukarela di <strong>18 lokasi pengantaraan satelit:</strong>
+pengantaraan sukarela di <strong>20 lokasi pengantaraan satelit:</strong>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kelab Komuniti ACE the Place</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kelab Komuniti Bedok</p>
@@ -22,12 +23,14 @@ Geylang Serai</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kelab Komuniti Paya Lebar-Kovan</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kelab Komuniti Toa Payoh Barat</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kelab Komuniti Telok Blangah</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pusat ServiceSG Ang Mo Kio</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pusat ServiceSG Bukit Canberra</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pusat ServiceSG Bukit Merah</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pusat ServiceSG One Punggol</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pusat ServiceSG Our Tampines Hub</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ServiceSG@Kelab Komuniti Keat Hong</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ServiceSG Centre@Kelab Komuniti
 The Frontier</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pusat ServiceSG Bukit Merah</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pusat ServiceSG Woodlands</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pondok Polis Kejiranan Tampines
 East</p>
