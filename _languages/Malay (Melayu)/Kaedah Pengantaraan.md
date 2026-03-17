@@ -14,10 +14,10 @@ third_nav_title: Malay (Melayu)
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=SlkRB94_b_4&amp;list=PLFSiktHGT-t6cfXLnndVfCWpqMm5UhsxF&amp;index=14"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=SlkRB94_b_4&amp;list=PLFSiktHGT-t6cfXLnndVfCWpqMm5UhsxF&amp;index=14"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
+<p></p>
 </th>
 </tr>
 </tbody>
