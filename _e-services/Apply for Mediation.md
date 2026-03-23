@@ -44,9 +44,8 @@ hours.
 <p>Court-Referred Cases</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mediation Hours: </strong>
-</p>
-<p>Mondays to Fridays: 9.00am to 1.00pm</p>
+<p><strong>Mediation Hours:</strong>
+<br>Mondays to Fridays: 9.00am to 1.00pm</p>
 </td>
 </tr>
 <tr>
@@ -54,8 +53,8 @@ hours.
 <p>Directed Mediation Cases</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mediation Hours:</p>
-<p>Mondays to Fridays: 9.00am to 1.00pm</p>
+<p><strong>Mediation Hours:</strong>
+<br>Mondays to Fridays: 9.00am to 1.00pm</p>
 </td>
 </tr>
 </tbody>
