@@ -4,7 +4,6 @@ permalink: /apply-for-mediation/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <h4>Before you apply for mediation, please take note of the following:</h4>
 <ol data-tight="true" class="tight">
 <li>
@@ -48,7 +47,6 @@ of the case.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
