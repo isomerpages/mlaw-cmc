@@ -28,12 +28,9 @@ hours.
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><strong>Mediation Hours:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mondays to Fridays: 2.00pm to 6.00pm
+<br>Mondays to Fridays: 2.00pm to 6.00pm
 <br>Saturdays: 9.00am to 1.00pm</p>
 </td>
 </tr>
@@ -47,11 +44,8 @@ hours.
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p>Satellite Locations:</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
