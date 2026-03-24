@@ -4,7 +4,7 @@ permalink: /apply-for-mediation/
 variant: tiptap
 description: ""
 ---
-<p></p><a class="isomer-image-wrapper" href="https://youtu.be/wKfiYPQURx0"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
+<p></p>
 <h4>Before you apply for mediation, please take note of the following:</h4>
 <ol data-tight="true" class="tight">
 <li>
@@ -22,7 +22,7 @@ of the case.</p>
 45 Maxwell Road, The URA Centre (East Wing), #07-11, Singapore 069118.</p>
 </li>
 <li>
-<p>For low complexity cases, we also offer mediation at <u>satellite mediation locations</u>.</p>
+<p>For low complexity cases, we also offer mediation at <a href="https://cmc.mlaw.gov.sg/in-person-mediation/" rel="noopener nofollow" target="_blank">satellite mediation locations</a>.</p>
 </li>
 <li>
 <p>Please note our mediation hours at the locations indicated below:</p>
@@ -74,18 +74,6 @@ of the case.</p>
 <p></p>
 <p></p>
 <p></p>
-<p><strong>Application: </strong>
-<br>To apply for voluntary mediation, <strong><a href="https://eservices.mlaw.gov.sg/cmc/mediatorsportal/direct-intake/" rel="noopener nofollow" target="_blank">click here</a></strong> or
-call the MinLaw Enquiry Line at <strong>1800 2255 529*</strong> during office
-hours.</p>
-<p>The CMC mediation takes place at <strong>MinLaw Services Centre</strong> at
-45 Maxwell Road, The URA Centre (East Wing), #07-11, Singapore 069118.
-Mediation is also available at <a href="/in-person-mediation/" rel="noopener nofollow" target="_blank">satellite locations</a>.</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>offer satellite mediation at various locations in Singapore. Please click
-<a href="https://cmc.mlaw.gov.sg/in-person-mediation/" rel="noopener nofollow" target="_blank">here</a>to find the nearest satellite mediation location.</p>
-</li>
-</ol>
+<p></p>
 <p></p>
 <p></p>
