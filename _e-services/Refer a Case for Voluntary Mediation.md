@@ -18,9 +18,11 @@ given you permission to release their details to the CMC.</p>
 the complexity of the case.</p>
 </li>
 <li>
-<p>We offer satellite mediation at various locations in Singapore. Please
-click <a href="https://cmc.mlaw.gov.sg/in-person-mediation/" rel="noopener nofollow" target="_blank">here</a> to
-find the nearest satellite mediation location.</p>
+<p>For in-person mediation, it can take place at <strong>MinLaw Services Centre</strong> at
+45 Maxwell Road, The URA Centre (East Wing), #07-11, Singapore 069118.</p>
+</li>
+<li>
+<p>For low complexity cases, we also offer mediation at <a href="https://cmc.mlaw.gov.sg/in-person-mediation/" rel="noopener nofollow" target="_blank">satellite mediation locations</a>.</p>
 </li>
 <li>
 <p>Voluntary mediation takes place on weekday afternoons or Saturday mornings.</p>
