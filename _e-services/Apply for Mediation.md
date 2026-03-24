@@ -8,7 +8,7 @@ description: ""
 <p></p>
 <p>The CMC mediation takes place at <strong>MinLaw Services Centre</strong> at
 45 Maxwell Road, The URA Centre (East Wing), #07-11, Singapore 069118.
-Mediation is also available at satellite locations.</p>
+Mediation is also available at <a href="/in-person-mediation/" rel="noopener nofollow" target="_blank">satellite locations</a>.</p>
 <p>
 <br><strong>Application: </strong>
 <br>To apply for voluntary mediation, <strong><a href="https://eservices.mlaw.gov.sg/cmc/mediatorsportal/direct-intake/" rel="noopener nofollow" target="_blank">click here</a></strong> or
