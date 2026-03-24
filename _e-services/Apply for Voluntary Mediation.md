@@ -67,9 +67,12 @@ of the case.</p>
 </tbody>
 </table>
 <p>
-<br>
+<br><strong>Application: </strong>
+<br>To apply for voluntary mediation, <strong><a href="https://eservices.mlaw.gov.sg/cmc/mediatorsportal/direct-intake/" rel="noopener noreferrer nofollow" target="_blank"><u>click here</u></a></strong> or
+call the MinLaw Enquiry Line at <strong>1800 2255 529*</strong> during office
+hours.</p>
+<p><em>*Please note that airtime charges may apply to calls made from mobile phones.</em>
 </p>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
