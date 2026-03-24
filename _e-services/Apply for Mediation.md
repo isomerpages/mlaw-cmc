@@ -16,30 +16,30 @@ call the MinLaw Enquiry Line at <strong>1800 2255 529*</strong> during office
 hours.
 <br>
 </p>
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
+<th rowspan="1" colspan="2">
+<p>MinLaw Services Centre:</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mediation Hours:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mondays to Fridays: 2.00pm to 6.00pm
+<br>Saturdays: 9.00am to 1.00pm</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p>Main Location Hours:</p>
-<p>Mondays to Fridays: 2.00pm to 6.00pm</p>
-<p>Saturdays: 9.00am to 1.00pm</p>
-<p>Satellite Locations: For locations and hours, click here.
-<br>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -48,49 +48,26 @@ hours.
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Types of Mediation</p>
+<p>Satellite Locations:</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Details</p>
+<p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Voluntary Mediation Cases</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Application:</strong>
-<br>To apply for voluntary mediation, <strong><a href="https://eservices.mlaw.gov.sg/cmc/mediatorsportal/direct-intake/" rel="noopener nofollow" target="_blank">click here</a></strong> or
-call the MinLaw Enquiry Line at <strong>1800 2255 529*</strong> during office
-hours.
-<br>
-<br><strong>Mediation Hours:</strong>
-<br>Mondays to Fridays: 2.00pm to 6.00pm
-<br>Saturdays: 9.00am to 1.00pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Court-Referred Cases</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>Mediation Hours:</strong>
-<br>Mondays to Fridays: 9.00am to 1.00pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Directed Mediation Cases</p>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mediation Hours:</strong>
-<br>Mondays to Fridays: 9.00am to 1.00pm</p>
+<p>Mondays to Fridays: 2.00pm to 6.00pm
+<br>Saturdays: 10.30am to 2.30pm</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p><em>*Please note that airtime charges may apply to calls made from mobile phones.</em>
+<p>
+<br><em>*Please note that airtime charges may apply to calls made from mobile phones.</em>
 </p>
 <p></p>
 <p></p>
