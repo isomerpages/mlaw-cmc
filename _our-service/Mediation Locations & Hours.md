@@ -4,37 +4,21 @@ permalink: /modes-of-mediation/
 variant: tiptap
 description: ""
 ---
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Web Revamp pics/WEB GRAPHICS/Face_to_face.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">In-person mediation</div>
-<div class="isomer-card-description">Mandatory Mediation Location: Minlaw Services Centre</div>
-</div>
-</div>
-</div>
+<h4>Minlaw Services Centre</h4>
+<p>In-person Mediation</p>
+<p><strong>Mediation Hours:</strong>
+<br>Mondays to Fridays: 2.00pm to 6.00pm
+<br>Saturdays: 9.00am to 1.00pm</p>
 <hr>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-</div>
+<h4>Satellite Mediation Locations</h4>
+<p>In-person Mediation</p>
+<p><strong>Mediation Hours:</strong>
+<br>Saturdays: 10.30am to 2.30pm</p>
+<p>We provide in-person mediation at various locations islandwide.</p>
+<p>Click <a href="https://cmc.mlaw.gov.sg/in-person-mediation/" rel="noopener nofollow" target="_blank">here</a> to
+find out more</p>
 <hr>
+<h4>Virtual Mediation</h4>
+<p><strong>Mediation Hours:</strong>
+<br>Mondays to Fridays: 2.00pm to 6.00pm</p>
 <p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Web Revamp pics/WEB GRAPHICS/Virtual.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Virtual Mediation</div>
-<div class="isomer-card-description">Mondays to Fridays from 2:00 pm to 6.00pm</div>
-</div>
-</div>
-</div>
-<p></p>
-<p><em>*This page view may vary across different browsers.</em>
-</p>
