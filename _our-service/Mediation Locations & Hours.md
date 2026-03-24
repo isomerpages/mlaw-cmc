@@ -53,18 +53,10 @@ description: ""
 <p>Mondays to Fridays: 2.00pm to 6.00pm</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
-<th rowspan="1" colspan="2">
+<td rowspan="1" colspan="2">
 <h4>Court-Referred Cases</h4>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -76,18 +68,10 @@ description: ""
 <br>Mondays to Fridays: 9.00am to 1.00pm</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
-<th rowspan="1" colspan="2">
+<td rowspan="1" colspan="2">
 <h4>Directed Mediation Cases</h4>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -99,26 +83,18 @@ description: ""
 <br>Mondays to Fridays: 9.00am to 1.00pm</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
-<th rowspan="1" colspan="2">
+<td rowspan="1" colspan="2">
 <h4>Virtual Mediation</h4>
-</th>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p><strong>Mediation Hours:</strong>
 <br>Mondays to Fridays: 2.00pm to 6.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
