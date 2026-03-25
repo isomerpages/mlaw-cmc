@@ -4,7 +4,12 @@ permalink: /apply-for-mediation/
 variant: tiptap
 description: ""
 ---
-<h4>Before you apply for mediation, please take note of the following:</h4>
+<p></p>
+<p><strong>Application: </strong>
+<br>To apply for voluntary mediation, <strong><a href="https://eservices.mlaw.gov.sg/cmc/mediatorsportal/direct-intake/" rel="noopener noreferrer nofollow" target="_blank"><u>click here</u></a></strong> or
+call the MinLaw Enquiry Line at <strong>1800 2255 529*</strong> during office
+hours.</p>
+<p>Before you apply for mediation, please take note of the following:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>You will need to provide the residential address of the Respondent.</p>
@@ -66,10 +71,7 @@ of the case.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Application: </strong>
-<br>To apply for voluntary mediation, <strong><a href="https://eservices.mlaw.gov.sg/cmc/mediatorsportal/direct-intake/" rel="noopener noreferrer nofollow" target="_blank"><u>click here</u></a></strong> or
-call the MinLaw Enquiry Line at <strong>1800 2255 529*</strong> during office
-hours.</p>
+<p></p>
 <p><em>*Please note that airtime charges may apply to calls made from mobile phones.</em>
 </p>
 <p></p>
