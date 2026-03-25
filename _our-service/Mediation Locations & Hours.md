@@ -48,12 +48,57 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mediation Hours:</strong>
-</p>
-<p>Mondays to Fridays: 2.00pm to 6.00pm</p>
+<br>Mondays to Fridays: 2.00pm to 6.00pm</p>
 </td>
 </tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/Court_Referred_Casesd_1.png">
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Minlaw Services Centre
+<br> In-person Mediation</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mediation Hours:</strong>
+<br>Mondays to Fridays: 9.00am to 1.00pm</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mediation Hours: </strong>
+<br>Saturdays: 10.30am to 2.30pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
@@ -64,47 +109,32 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="2">
-<h4>Court-Referred Cases</h4>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Minlaw Services Centre
-<br> In-person Mediation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mediation Hours:</strong>
-<br>Mondays to Fridays: 9.00am to 1.00pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<h4>Directed Mediation Cases</h4>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Minlaw Services Centre
-<br> In-person Mediation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mediation Hours:</strong>
-<br>Mondays to Fridays: 9.00am to 1.00pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<h4>Virtual Mediation</h4>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/Directed_Mediation_Cases_1.png">
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Minlaw Services Centre
+<br> In-person Mediation</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Mediation Hours:</strong>
-<br>Mondays to Fridays: 2.00pm to 6.00pm</p>
+<br>Mondays to Fridays: 9.00am to 1.00pm</p>
 </td>
 </tr>
 </tbody>
