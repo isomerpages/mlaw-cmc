@@ -5,17 +5,16 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/Voluntary_Mediation_1.png">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<h4>Voluntary Mediation Cases</h4>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Minlaw Services Centre
@@ -53,6 +52,17 @@ description: ""
 <p>Mondays to Fridays: 2.00pm to 6.00pm</p>
 </td>
 </tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="2">
 <h4>Court-Referred Cases</h4>
@@ -99,9 +109,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
