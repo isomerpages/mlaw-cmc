@@ -6,8 +6,14 @@ description: ""
 third_nav_title: Malay (Melayu)
 ---
 <p></p>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/Voluntary_Mediation_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="Voluntary Mediation Malay" src="/images/Web Revamp pics/WEB GRAPHICS MALAY/Voluntary_Mediation_Malay.png">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
@@ -32,7 +38,7 @@ third_nav_title: Malay (Melayu)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Minlaw Services Centre
+<p><a href="https://cmc.mlaw.gov.sg/in-person-mediation/" rel="noopener nofollow" target="_blank">Lokasi Pengantaraan Satelit </a>
 <br>Pengantaraan Bersemuka</p>
 <p></p>
 <p></p>
@@ -55,8 +61,14 @@ third_nav_title: Malay (Melayu)
 </tr>
 </tbody>
 </table>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/Court_Referred_Casesd_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="Court Referred Case" src="/images/Web Revamp pics/WEB GRAPHICS MALAY/Court_Referred_Casesd_Malay.png">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
@@ -77,9 +89,14 @@ third_nav_title: Malay (Melayu)
 </tr>
 </tbody>
 </table>
-<p></p>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/Directed_Mediation_Cases_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="Directed Mediation Cases Malay" src="/images/Web Revamp pics/WEB GRAPHICS MALAY/Directed_Mediation_Cases_Malay.png">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
