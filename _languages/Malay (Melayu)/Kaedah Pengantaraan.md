@@ -38,7 +38,7 @@ third_nav_title: Malay (Melayu)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://cmc.mlaw.gov.sg/in-person-mediation/" rel="noopener nofollow" target="_blank">Lokasi Pengantaraan Satelit </a>
+<p><a href="https://cmc.mlaw.gov.sg/in-person-mediation-malay/" rel="noopener nofollow" target="_blank">Lokasi Pengantaraan Satelit </a>
 <br>Pengantaraan Bersemuka</p>
 <p></p>
 <p></p>
