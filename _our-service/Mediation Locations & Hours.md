@@ -5,36 +5,34 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/Voluntary_Mediation_1.png">
-</div>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
+<h3><strong>Voluntary Mediation Cases</strong></h3>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p>Minlaw Services Centre
 <br> In-person Mediation</p>
-<p></p>
-<p></p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mediation Hours: </strong>
 <br>Mondays to Fridays: 2.00pm to 6.00pm  
 <br>Saturdays: 9.00am to 1.00pm</p>
-<p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://cmc.mlaw.gov.sg/in-person-mediation/" rel="noopener nofollow" target="_blank">Satellite Mediation </a>
-<br><a href="https://cmc.mlaw.gov.sg/in-person-mediation/" rel="noopener nofollow" target="_blank">Locations</a>
+<td rowspan="1" colspan="2">
+<p><a href="https://cmc.mlaw.gov.sg/in-person-mediation/" rel="noopener nofollow" target="_blank"><u>Satellite Mediation </u></a>
+<br><a href="https://cmc.mlaw.gov.sg/in-person-mediation/" rel="noopener nofollow" target="_blank"><u>Locations</u></a>
 <br>In-person Mediation</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mediation Hours: </strong>
@@ -42,51 +40,36 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Virtual Mediation</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mediation Hours:</strong>
 <br>Mondays to Fridays: 2.00pm to 6.00pm</p>
 </td>
 </tr>
-</tbody>
-</table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/Court_Referred_Casesd_1.png">
-</div>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
+<h3><strong>Court-Referred Cases</strong></h3>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p>Minlaw Services Centre
 <br> In-person Mediation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mediation Hours:</strong>
 <br>Mondays to Fridays: 9.00am to 1.00pm</p>
-<p></p>
 </td>
 </tr>
-</tbody>
-</table>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/Directed_Mediation_Cases_1.png">
-</div>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
+<h3><strong>Directed Mediation Cases</strong></h3>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p>Minlaw Services Centre
 <br> In-person Mediation</p>
 </td>
@@ -97,7 +80,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
