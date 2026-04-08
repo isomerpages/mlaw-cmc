@@ -129,9 +129,12 @@ third_nav_title: Malay (Melayu)
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Minlaw Services Centre
 <br>Pengantaraan Bersemuka</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Waktu Pengantaraan</strong>:
@@ -140,9 +143,12 @@ third_nav_title: Malay (Melayu)
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p><a href="https://cmc.mlaw.gov.sg/in-person-mediation-malay/" rel="noopener nofollow" target="_blank">Lokasi Pengantaraan Satelit </a>
 <br>Pengantaraan Bersemuka</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Waktu Pengantaraan:</strong>
@@ -150,8 +156,11 @@ third_nav_title: Malay (Melayu)
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Pengantaraan Maya</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Waktu Pengantaraan:</strong>
@@ -172,9 +181,12 @@ third_nav_title: Malay (Melayu)
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Minlaw Services Centre
 <br>Pengantaraan Bersemuka</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Waktu Pengantaraan:</strong>
@@ -195,9 +207,12 @@ third_nav_title: Malay (Melayu)
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Minlaw Services Centre
 <br>Pengantaraan Bersemuka</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Waktu Pengantaraan:</strong>
@@ -206,4 +221,6 @@ third_nav_title: Malay (Melayu)
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <p></p>
