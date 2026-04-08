@@ -30,7 +30,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="https://cmc.mlaw.gov.sg/in-person-mediation/" rel="noopener nofollow" target="_blank"><u>Satellite Mediation </u></a>
+<p><a href="/in-person-mediation/" rel="noopener nofollow" target="_blank"><u>Satellite Mediation </u></a>
 <br><a href="https://cmc.mlaw.gov.sg/in-person-mediation/" rel="noopener nofollow" target="_blank"><u>Locations</u></a>
 <br>In-person Mediation</p>
 </td>
