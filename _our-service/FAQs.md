@@ -33,9 +33,13 @@ during mediation and identity of the parties are kept confidential.</p>
 takes less than 4 hours and is available from Mondays to Fridays and on
 Saturday mornings.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Location: We offer in-person mediation
-at the Ministry of Law Services Centre and 18 satellite mediation locations
-island wide. Virtual mediation is also an option for less complex disputes.Do
-I need evidence to lodge a case with the CMC?</p>
+at the Ministry of Law Services Centre and 20 satellite mediation locations
+island wide.</p>
+<hr>
+<blockquote>
+<p>Virtual mediation is also an option for less complex disputes.Do I need
+evidence to lodge a case with the CMC?</p>
+</blockquote>
 <p></p>
 <p>You do not have to produce any evidence before applying for mediation
 at the CMC.</p>
