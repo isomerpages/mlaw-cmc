@@ -43,7 +43,7 @@ at the CMC.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Operational Matters - Modes of Mediation</strong>
+<summary><strong>Operational Matters - Mediation Locations &amp; Hours</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p><a class="isomer-image-wrapper" href="https://youtu.be/BvCGxiRdIhw"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
@@ -53,11 +53,9 @@ at the CMC.</p>
 </blockquote>
 <p></p>
 <p>The CMC mediation takes place at 45 Maxwell Road, The URA Centre (East
-Wing), #07-11, Singapore 069118.</p>
-<p>Court referred and directed mediation takes place on:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mondays to Fridays from 9.00am to
-1.00pm</p>
-<p>Voluntary mediation takes place on:&nbsp;</p>
+Wing), #07-11, Singapore 069118.
+<br>
+<br>Voluntary mediation takes place on:&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mondays to Fridays from 2:00 PM to 6.00pm</p>
@@ -66,37 +64,60 @@ Wing), #07-11, Singapore 069118.</p>
 <p>Saturdays from 9:00 AM to 1.00pm</p>
 </li>
 </ul>
-<p>We are closed on Sundays and Public Holidays.</p>
 <p></p>
-<p>We also provide voluntary mediation at 18 satellite mediation locations:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ACE the Place Community Club</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bedok Community Centre</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ci Yuan Community Club</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Clementi Community Club</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Geylang Serai Community Club @ Wisma
-Geylang Serai</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MacPherson Community Club</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nee Soon East Community Club</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Paya Lebar-Kovan Community Club</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Toa Payoh West Community Club</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Telok Blangah Community Club</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ServiceSG Centre One Punggol</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ServiceSG Centre Our Tampines Hub</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ServiceSG @ Keat Hong Community
-Club</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ServiceSG Centre @ The Frontier
-Community Club</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ServiceSG Centre Bukit Merah</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ServiceSG Centre Woodlands</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tampines East Neighbourhood Police
-Post</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tampines North Neighbourhood Police
-Post</p>
+<p>We are closed on Sundays and Public Holidays.
+<br>
+</p>
+<p>Court referred and directed mediation takes place on:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mondays to Fridays from 9.00am to
+1.00pm
+<br>
+</p>
+<p>We also provide voluntary mediation at 20 satellite mediation locations:</p>
+<p></p>
+<p><strong>North</strong>
+<br>• ACE the Place Community Club
+<br>• Nee Soon East Community Club
+<br>• ServiceSG Centre Bukit Canberra
+<br>• ServiceSG Centre Woodlands
+<br>
+<br><strong>Northeast</strong>
+<br>• Ci Yuan Community Club
+<br>• Paya Lebar-Kovan Community Club
+<br>• ServiceSG Centre Ang Mo Kio
+<br>• ServiceSG Centre One Punggol
+<br>
+<br><strong>Central</strong>
+<br>• MacPherson Community Club
+<br>• Toa Payoh West Community Club
+<br>
+<br><strong>South</strong>
+<br>• ServiceSG Centre Bukit Merah
+<br>• Telok Blangah Community Club
+<br>
+<br><strong>East</strong>
+<br>• Bedok Community Centre
+<br>• Geylang Serai Community Club @Wisma Geylang Serai
+<br>• ServiceSG Centre Our Tampines Hub
+<br>• Tampines East Neighbourhood Police Post
+<br>• Tampines North Neighbourhood Police Post
+<br>
+<br><strong>West</strong>
+<br>• Clementi Community Club
+<br>• ServiceSG@Keat Hong Community Club
+<br>• ServiceSG Centre @ The Frontier Community Club</p>
 <hr>
 <blockquote>
 <h4>Can the mediation be conducted via zoom?</h4>
 </blockquote>
-<p>Virtual mediation can be offered for less complex cases.</p>
+<p>Virtual mediation can be offered for less complex cases.
+<br>
+<br>Virtual Mediation takes place on:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mondays to Fridays: 2.00pm to 6.00pm</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
