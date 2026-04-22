@@ -2,5 +2,6 @@ collections:
   e-services:
     output: true
     order:
+      - Submission of Reasonable Excuse.md
       - Apply for Voluntary Mediation.md
       - Refer a Case for Voluntary Mediation.md
