@@ -41,7 +41,7 @@ of the case.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>MinLaw Services Centre:</p>
+<h3>MinLaw Services Centre:</h3>
 </th>
 </tr>
 <tr>
@@ -61,7 +61,7 @@ of the case.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>Satellite Mediation Locations:</p>
+<h3>Satellite Mediation Locations:</h3>
 </th>
 </tr>
 <tr>
@@ -72,6 +72,8 @@ of the case.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <p></p>
 <p><em>*Please note that airtime charges may apply to calls made from mobile phones.</em>
 </p>
