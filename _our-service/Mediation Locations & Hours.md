@@ -30,10 +30,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="/in-person-mediation/" rel="noopener nofollow" target="_blank"><u>Satellite Mediation </u></a>
-<a href="/in-person-mediation/" rel="noopener noreferrer nofollow" target="_blank">
-<br>
-</a><a href="/in-person-mediation/" rel="noopener nofollow" target="_blank"><u>Locations</u></a>
+<p><a href="/in-person-mediation/" rel="noopener nofollow" target="_blank"><u>Satellite Mediation Locations</u></a>
 <br>In-person Mediation</p>
 </td>
 <td rowspan="1" colspan="1">
