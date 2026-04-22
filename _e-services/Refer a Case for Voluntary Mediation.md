@@ -5,6 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h4>Before you refer a case to the CMC for mediation, please take note of the following:</h4>
+<hr>
+<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>The Applicant (the person who is requesting for voluntary mediation) has
@@ -29,7 +31,9 @@ the complexity of the case.</p>
 <p></p>
 </li>
 </ol>
-<h4>For Public Officers (Government Agencies):</h4>
+<h3>For Public Officers (Government Agencies):</h3>
+<hr>
+<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Call the MinLaw Enquiry Line at <strong>1800 2255 529* </strong>during
@@ -42,6 +46,8 @@ and public holidays).&nbsp;</p>
 </li>
 </ol>
 <h4>&nbsp;For Non-Governmental Agencies or Organisations:</h4>
+<hr>
+<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Call the MinLaw enquiry line at <strong>1800 2255 529*</strong> during office
