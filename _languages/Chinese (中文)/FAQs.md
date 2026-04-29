@@ -42,25 +42,41 @@ third_nav_title: Chinese (中文)
 <p>· 星期一至星期五：下午2点至6点
 <br>· 星期六：上午9点至下午1点
 <br>· 星期日及公共假期休息</p>
-<p>我们也在全岛18个卫星调解地点提供自愿调解服务，包括：</p>
-<p>· ACE The Place 民众俱乐部
-<br>· 勿洛民众联络所
-<br>· 茨苑民众俱乐部
-<br>· 金文泰民众俱乐部
-<br>· 芽笼士乃民众俱乐部（位于Wisma Geylang Serai）
-<br>· 麦波申民众俱乐部
-<br>· 义顺东民众俱乐部
-<br>· 巴耶利峇－高文民众俱乐部
-<br>· 大巴窑西民众俱乐部
-<br>· 直落布兰雅民众俱乐部
-<br>· ServiceSG One Punggol 中心
-<br>· ServiceSG Our Tampines Hub 中心
-<br>· ServiceSG @ 吉丰民众俱乐部
-<br>· ServiceSG @ The Frontier 民众俱乐部
-<br>· ServiceSG 红山中心
-<br>· ServiceSG 兀兰中心
-<br>· 淡滨尼东邻里警岗
-<br>· 淡滨尼北邻里警岗</p>
+<p>我们也在全岛20个卫星调解地点提供自愿调解服务，包括：</p>
+<p>总办事处
+<br>• 法律部服务中心
+<br>
+<br>北部
+<br>• ACE the Place 民众俱乐部
+<br>• 义顺东民众俱乐部
+<br>• 武吉坎贝拉ServiceSG服务中心
+<br>• 兀兰 ServiceSG 中心
+<br>
+<br>东北
+<br>• 芽园民众俱乐部
+<br>• 巴耶利峇高文民众俱乐部
+<br>• 宏茂桥ServiceSG服务中心
+<br>• 榜鹅综合社区中心 ServiceSG 中心
+<br>
+<br>中部
+<br>• 麦波申民众俱乐部
+<br>• 大巴窑西民众俱乐部
+<br>
+<br>南部
+<br>• 红山 ServiceSG 中心
+<br>• 直落布兰雅民众俱乐部
+<br>
+<br>东部
+<br>• 勿洛民众联络所
+<br>• 芽笼士乃民众俱乐部
+<br>• 淡滨尼天地 ServiceSG 中心
+<br>• 淡滨尼东邻里警岗
+<br>• 淡滨尼北邻里警岗
+<br>
+<br>西部
+<br>• 金文泰民众联络所
+<br>• 吉丰 ServiceSG 中心
+<br>• 先锋 ServiceSG 中心</p>
 <p></p>
 <blockquote>
 <p>可以通过 Zoom 进行调解吗？</p>
