@@ -7,8 +7,8 @@ description: ""
 <p></p>
 <p>Application<strong>: </strong>
 <br>To apply for voluntary mediation, <strong><a href="https://eservices.mlaw.gov.sg/cmc/mediatorsportal/direct-intake/" rel="noopener noreferrer nofollow" target="_blank"><u>click here</u></a></strong> or
-call the MinLaw Enquiry Line at
-<br><strong>1800 2255 529*</strong> during office hours.</p>
+call the MinLaw Enquiry Line at <strong>1800 2255 529*</strong> during office
+hours.</p>
 <h4>Before you apply for mediation, please take note of the following:</h4>
 <ol data-tight="true" class="tight">
 <li>
