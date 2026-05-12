@@ -5,12 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/SATELLITE_MEDIATION_CENTRE_2026.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Web Revamp pics/SATELLITE_MEDIATION_CENTRE_2026.png">
 </div>
-<p>part from the CMC at the MinLaw Services Centre, we also provide voluntary
+<p>Apart from the CMC at the MinLaw Services Centre, we also provide voluntary
 mediation at <strong>20 satellite mediation locations</strong>:</p>
 <p>Main Office
 <br>• Ministry of Law Services Centre

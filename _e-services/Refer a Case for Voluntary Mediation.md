@@ -1,11 +1,12 @@
 ---
-title: Refer a Case to the CMC
+title: Refer a Case for Voluntary Mediation
 permalink: /refer-a-case-to-the-cmc/
 variant: tiptap
 description: ""
 ---
-<p></p><a class="isomer-image-wrapper" href="https://youtu.be/q07fHeQbiBw"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
 <h4>Before you refer a case to the CMC for mediation, please take note of the following:</h4>
+<hr>
+<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>The Applicant (the person who is requesting for voluntary mediation) has
@@ -19,16 +20,20 @@ given you permission to release their details to the CMC.</p>
 the complexity of the case.</p>
 </li>
 <li>
-<p>We offer satellite mediation at various locations in Singapore. Please
-click <a href="https://cmc.mlaw.gov.sg/in-person-mediation/" rel="noopener nofollow" target="_blank">here</a> to
-find the nearest satellite mediation location.</p>
+<p>For in-person mediation, it can take place at <strong>MinLaw Services Centre</strong> at
+45 Maxwell Road, The URA Centre (East Wing), #07-11, Singapore 069118.</p>
+</li>
+<li>
+<p>For low complexity cases, we also offer mediation at <a href="https://cmc.mlaw.gov.sg/in-person-mediation/" rel="noopener nofollow" target="_blank">satellite mediation locations</a>.</p>
 </li>
 <li>
 <p>Voluntary mediation takes place on weekday afternoons or Saturday mornings.</p>
 <p></p>
 </li>
 </ol>
-<h4>For Public Officers (Government Agencies):</h4>
+<h3>For Public Officers (Government Agencies):</h3>
+<hr>
+<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Call the MinLaw Enquiry Line at <strong>1800 2255 529* </strong>during
@@ -41,6 +46,8 @@ and public holidays).&nbsp;</p>
 </li>
 </ol>
 <h4>&nbsp;For Non-Governmental Agencies or Organisations:</h4>
+<hr>
+<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Call the MinLaw enquiry line at <strong>1800 2255 529*</strong> during office

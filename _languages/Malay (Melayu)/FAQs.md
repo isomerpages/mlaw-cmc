@@ -36,7 +36,7 @@ pagi hari Sabtu.</p>
 </li>
 <li>
 <p><strong>Lokasi senang dicapai</strong>: Ada sesi bersemuka di Pusat Perkhidmatan
-MinLaw dan 18 lokasi lain seluruh Singapura. Kalau isu tak terlalu rumit,
+MinLaw dan 20 lokasi lain seluruh Singapura. Kalau isu tak terlalu rumit,
 boleh juga buat sesi secara online.</p>
 </li>
 </ul>
@@ -74,29 +74,41 @@ pada:</p>
 </li>
 </ul>
 <p></p>
-<p>Kami juga menyediakan mediasi secara sukarela di <strong>18 lokasi mediasi satelit</strong> berikut:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kelab Komuniti ACE the Place</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kelab Komuniti Bedok</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kelab Komuniti Ci Yuan</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kelab Komuniti Clementi</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kelab Komuniti Geylang Serai@Wisma
-Geylang Serai</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kelab Komuniti MacPherson</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kelab Komuniti Nee Soon East</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kelab Komuniti Paya Lebar-Kovan</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kelab Komuniti Toa Payoh Barat</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kelab Komuniti Telok Blangah</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pusat ServiceSG One Punggol</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pusat ServiceSG Our Tampines Hub</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ServiceSG@Kelab Komuniti Keat Hong</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ServiceSG Centre@Kelab Komuniti
-The Frontier</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pusat ServiceSG Bukit Merah</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pusat ServiceSG Woodlands</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pondok Polis Kejiranan Tampines
-East</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pondok Polis Kejiranan Tampines
-North</p>
+<p>Kami juga menyediakan mediasi secara sukarela di <strong>20 lokasi mediasi satelit</strong> berikut:</p>
+<p>Pejabat Utama
+<br>• Pusat Perkhidmatan Kementerian Undang-Undang
+<br>
+<br>Utara
+<br>• Kelab Komuniti ACE the Place
+<br>• Kelab Komuniti Nee Soon East
+<br>• Pusat ServiceSG Bukit Canberra
+<br>• Pusat ServiceSG Woodlands
+<br>
+<br>Timur Laut
+<br>• Kelab Komuniti Ci Yuan
+<br>• Kelab Komuniti Paya Lebar-Kovan
+<br>• Pusat ServiceSG Ang Mo Kio
+<br>• Pusat ServiceSG One Punggol
+<br>
+<br>Tengah
+<br>• Kelab Komuniti MacPherson
+<br>• Kelab Komuniti Toa Payoh West
+<br>
+<br>Selatan
+<br>• Pusat ServiceSG Bukit Merah
+<br>• Kelab Komuniti Telok Blangah
+<br>
+<br>Timur
+<br>• Kelab Komuniti Bedok
+<br>• Kelab Komuniti Geylang Serai @Wisma Geylang Serai
+<br>• Pusat ServiceSG Our Tampines Hub
+<br>• Balai Polis Kejiranan Tampines East
+<br>• Balai Polis Kejiranan Tampines North
+<br>
+<br>Barat
+<br>• Kelab Komuniti Clementi
+<br>• ServiceSG@Kelab Komuniti Keat Hong
+<br>• ServiceSG Centre@Kelab Komuniti The Frontier</p>
 <p></p>
 <blockquote>
 <p>Bolehkah mediasi dijalankan melalui Zoom?</p>
