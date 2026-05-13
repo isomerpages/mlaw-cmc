@@ -30,8 +30,8 @@ community disputes.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Privacy:&nbsp;Matters discussed
 during mediation and identity of the parties are kept confidential.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Time:&nbsp;A mediation session typically
-takes less than 4 hours and is available from Mondays to Fridays and on
-Saturday mornings.</p>
+takes about 4 hours and is available from Mondays to Fridays and on Saturday
+mornings.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Location: We offer in-person mediation
 at the Ministry of Law Services Centre and 20 satellite mediation locations
 island wide.</p>
