@@ -30,9 +30,9 @@ pertikaian dalam komuniti.</p>
 akan dirahsiakan.</p>
 </li>
 <li>
-<p><strong>Jimatan masa</strong>: Sesi pengantaraan biasanya mengambil masa
-kurang daripada 4 jam dan disediakan dari Isnin hingga Jumaat serta pada
-pagi hari Sabtu.</p>
+<p><strong>Jimatan masa</strong>: A mediation session takes about 2 to 4
+hours</p>
+<p>and is available from Mondays to Fridays and on Saturday mornings.</p>
 </li>
 <li>
 <p><strong>Lokasi senang dicapai</strong>: Ada sesi bersemuka di Pusat Perkhidmatan
@@ -175,7 +175,7 @@ sesi.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Urusan Operasi - Permohonan Pengantaraan di CMC</summary>
+<summary>Urusan Operasi - Permohonan Pengantaraan Sukarela di CMC</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p></p>
