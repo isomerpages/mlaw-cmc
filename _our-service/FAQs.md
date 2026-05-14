@@ -29,8 +29,8 @@ community disputes.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cost: It is free.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Privacy:&nbsp;Matters discussed
 during mediation and identity of the parties are kept confidential.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Time:&nbsp;A mediation session typically
-takes about 4 hours and is available from Mondays to Fridays and on Saturday
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Time:&nbsp;A mediation session takes
+about 2 to 4 hours and is available from Mondays to Fridays and on Saturday
 mornings.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Location: We offer in-person mediation
 at the Ministry of Law Services Centre and 20 satellite mediation locations
@@ -50,78 +50,82 @@ at the CMC.</p>
 <summary><strong>Operational Matters - Mediation Locations &amp; Hours</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p><a class="isomer-image-wrapper" href="https://youtu.be/BvCGxiRdIhw"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
 <p></p>
-<blockquote>
-<h4>Where is the CMC mediation held?</h4>
-</blockquote>
-<p></p>
-<p>The CMC mediation takes place at 45 Maxwell Road, The URA Centre (East
-Wing), #07-11, Singapore 069118.
-<br>
-<br>Voluntary mediation takes place on:&nbsp;</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mondays to Fridays from 2:00 PM to 6.00pm</p>
-</li>
-<li>
-<p>Saturdays from 9:00 AM to 1.00pm</p>
-</li>
-</ul>
-<p></p>
-<p>We are closed on Sundays and Public Holidays.
-<br>
-</p>
-<p>Court referred and directed mediation takes place on:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mondays to Fridays from 9.00am to
-1.00pm
-<br>
-</p>
-<p>We also provide voluntary mediation at 20 satellite mediation locations:</p>
-<p></p>
-<p><strong>North</strong>
-<br>• ACE the Place Community Club
-<br>• Nee Soon East Community Club
-<br>• ServiceSG Centre Bukit Canberra
-<br>• ServiceSG Centre Woodlands
-<br>
-<br><strong>Northeast</strong>
-<br>• Ci Yuan Community Club
-<br>• Paya Lebar-Kovan Community Club
-<br>• ServiceSG Centre Ang Mo Kio
-<br>• ServiceSG Centre One Punggol
-<br>
-<br><strong>Central</strong>
-<br>• MacPherson Community Club
-<br>• Toa Payoh West Community Club
-<br>
-<br><strong>South</strong>
-<br>• ServiceSG Centre Bukit Merah
-<br>• Telok Blangah Community Club
-<br>
-<br><strong>East</strong>
-<br>• Bedok Community Centre
-<br>• Geylang Serai Community Club @Wisma Geylang Serai
-<br>• ServiceSG Centre Our Tampines Hub
-<br>• Tampines East Neighbourhood Police Post
-<br>• Tampines North Neighbourhood Police Post
-<br>
-<br><strong>West</strong>
-<br>• Clementi Community Club
-<br>• ServiceSG@Keat Hong Community Club
-<br>• ServiceSG Centre @ The Frontier Community Club</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<h3><strong>Voluntary Mediation Cases</strong></h3>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Minlaw Services Centre
+<br> In-person Mediation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mediation Hours: </strong>
+<br>Mondays to Fridays: 2.00pm to 6.00pm  
+<br>Saturdays: 9.00am to 1.00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><a href="https://staging-lite.d1nxsvy1qb2k9y.amplifyapp.com/in-person-mediation/" rel="noopener nofollow" target="_blank"><u>Satellite Mediation Locations</u></a>
+<br>In-person Mediation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mediation Hours: </strong>
+<br>Saturdays: 10.30am to 2.30pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Virtual Mediation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mediation Hours:</strong>
+<br>Mondays to Fridays: 2.00pm to 6.00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<h3><strong>Court-Referred Cases</strong></h3>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Minlaw Services Centre
+<br> In-person Mediation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mediation Hours:</strong>
+<br>Mondays to Fridays: 9.00am to 1.00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<h3><strong>Directed Mediation Cases</strong></h3>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Minlaw Services Centre
+<br> In-person Mediation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mediation Hours:</strong>
+<br>Mondays to Fridays: 9.00am to 1.00pm</p>
+</td>
+</tr>
+</tbody>
+</table>
 <hr>
-<blockquote>
-<h4>Can the mediation be conducted via zoom?</h4>
-</blockquote>
-<p>Virtual mediation can be offered for less complex cases.
-<br>
-<br>Virtual Mediation takes place on:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mondays to Fridays: 2.00pm to 6.00pm</p>
-</li>
-</ul>
 </div>
 </details>
 <details class="isomer-details">
@@ -203,7 +207,7 @@ the mediation session.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Operational Matters - Application for Mediation at CMC</strong>
+<summary><strong>Operational Matters - Application for Voluntary Mediation at CMC</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p><a class="isomer-image-wrapper" href="https://youtu.be/QLAh7a62Grc"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Web Revamp pics/WEB GRAPHICS/audio_bar_V1_8.png"></a>
