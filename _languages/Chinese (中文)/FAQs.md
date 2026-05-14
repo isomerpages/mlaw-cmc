@@ -31,57 +31,80 @@ third_nav_title: Chinese (中文)
 <summary>运营事项 - 调解方式</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<blockquote>
-<p>社区调解中心（CMC）的调解在哪里进行？</p>
-</blockquote>
-<p>社区调解中心的调解地点为：
-<br>新加坡麦士威路45号，市区重建局大厦东翼，#07-11，邮区069118。</p>
-<p>法院转介或指示的调解安排如下：</p>
-<p>· 星期一至星期五：上午9点至下午1点</p>
-<p>自愿调解安排如下：</p>
-<p>· 星期一至星期五：下午2点至6点
-<br>· 星期六：上午9点至下午1点
-<br>· 星期日及公共假期休息</p>
-<p>我们也在全岛20个卫星调解地点提供自愿调解服务，包括：</p>
-<p>总办事处
-<br>• 法律部服务中心
-<br>
-<br>北部
-<br>• ACE the Place 民众俱乐部
-<br>• 义顺东民众俱乐部
-<br>• 武吉坎贝拉ServiceSG服务中心
-<br>• 兀兰 ServiceSG 中心
-<br>
-<br>东北
-<br>• 芽园民众俱乐部
-<br>• 巴耶利峇高文民众俱乐部
-<br>• 宏茂桥ServiceSG服务中心
-<br>• 榜鹅综合社区中心 ServiceSG 中心
-<br>
-<br>中部
-<br>• 麦波申民众俱乐部
-<br>• 大巴窑西民众俱乐部
-<br>
-<br>南部
-<br>• 红山 ServiceSG 中心
-<br>• 直落布兰雅民众俱乐部
-<br>
-<br>东部
-<br>• 勿洛民众联络所
-<br>• 芽笼士乃民众俱乐部
-<br>• 淡滨尼天地 ServiceSG 中心
-<br>• 淡滨尼东邻里警岗
-<br>• 淡滨尼北邻里警岗
-<br>
-<br>西部
-<br>• 金文泰民众联络所
-<br>• 吉丰 ServiceSG 中心
-<br>• 先锋 ServiceSG 中心</p>
-<p></p>
-<blockquote>
-<p>可以通过 Zoom 进行调解吗？</p>
-</blockquote>
-<p>对于较简单的个案，我们可提供线上（Zoom）调解服务。</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<h3><strong>自愿调解案件</strong></h3>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Minlaw Services Centre
+<br>面对面调解</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>调解时间：</strong>
+<br>星期一至星期五：下午2时至下午6时
+<br>星期六：上午9时至下午1时</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><a href="/in-person-mediation-chinese/" rel="noopener nofollow" target="_blank">卫星调解地点</a>
+<br>面对面调解</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>调解时间：</strong>
+<br>星期六：上午10.30分至下午2.30分</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>线上调解</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>调解时间：</strong>
+<br>星期一至星期五：下午2时至下午6时</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<h3><strong>法院转介案件</strong></h3>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Minlaw Services Centre
+<br>面对面调解</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>调解时间</strong>：
+<br>星期一至星期五：上午9时至下午1时</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<h3><strong>指示调解案件</strong></h3>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Minlaw Services Centre
+<br>面对面调解</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>调解时间：</strong>
+<br>星期一至星期五：上午9时至下午1时</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 <details class="isomer-details">
@@ -133,7 +156,7 @@ third_nav_title: Chinese (中文)
 </div>
 </details>
 <details class="isomer-details">
-<summary>运营事项 - 向社区调解中心申请调解</summary>
+<summary>运营事项 - CMC自愿调解申请</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <blockquote>
