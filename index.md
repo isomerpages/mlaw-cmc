@@ -54,7 +54,7 @@ sections:
           description: We offer in-person mediation at 20 locations islandwide. Virtual
             mediation is an option for less complex disputes.
         - title: Time
-          description: A mediation session takes about 2 to 4 hours and is available from
+          description: A mediation session takes about 2 to 4 hours. It is available on
             Mondays to Fridays and on Saturday mornings.
         - title: Privacy
           description: Matters discussed during mediation and identity of the parties are
