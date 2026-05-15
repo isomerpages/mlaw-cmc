@@ -20,28 +20,26 @@ pertikaian dalam komuniti.</p>
 <blockquote>
 <p>- Apakah faedah mediasi?</p>
 </blockquote>
-<p>Mediasi di CMC ada banyak kelebihan:</p>
+<p>Pengantaraan di CMC menawarkan manfaat berikut:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Percuma</strong>: Tak perlu bayar apa-apa.</p>
+<p><strong>Lokasi:</strong> Kami menyediakan sesi pengantaraan secara fizikal
+di 20 lokasi di seluruh Singapura. Pengantaraan secara maya juga disediakan
+bagi pertikaian yang kurang rumit.</p>
 </li>
 <li>
-<p><strong>Privasi terjaga</strong>: Apa yang dibincang dan siapa yang terlibat
-akan dirahsiakan.</p>
+<p><strong>Masa:</strong> Sesi pengantaraan biasanya mengambil masa sekitar
+2 hingga 4 jam. Ia disediakan dari hari Isnin hingga Jumaat, serta pada
+pagi Sabtu.</p>
 </li>
 <li>
-<p><strong>Jimatan masa</strong>: A mediation session takes about 2 to 4
-hours</p>
-<p>and is available from Mondays to Fridays and on Saturday mornings.</p>
+<p><strong>Privasi:</strong> Segala perkara yang dibincangkan semasa sesi
+pengantaraan, termasuk identiti pihak-pihak yang terlibat, akan dirahsiakan.</p>
 </li>
 <li>
-<p><strong>Lokasi senang dicapai</strong>: Ada sesi bersemuka di Pusat Perkhidmatan
-MinLaw dan 20 lokasi lain seluruh Singapura. Kalau isu tak terlalu rumit,
-boleh juga buat sesi secara online.</p>
+<p><strong>Kos:</strong> Perkhidmatan ini adalah percuma.</p>
 </li>
 </ul>
-<p></p>
-<p>Tak perlu sediakan bukti untuk mohon mediasi di CMC.</p>
 </div>
 </details>
 <details class="isomer-details">
