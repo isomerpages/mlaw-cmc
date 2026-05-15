@@ -18,13 +18,21 @@ third_nav_title: Chinese (中文)
 <blockquote>
 <p>调解有什么好处？</p>
 </blockquote>
-<p>在 CMC 进行调解的好处包括：
-<br>· 免费：调解不收费。
-<br>· 保密：讨论内容和身份信息都会保密。
-<br>· 时间灵活：调解会谈通常需时约2至4小时，星期一至星期五以及星期六上午提供服务。
-<br>· 地点方便：除了律政部，我们在全岛20个地点也提供面对面调解。简单的纠纷也可以选择线上调解。</p>
-<p></p>
-<p>申请调解时，不需要提供证据。</p>
+<p>CMC调解服务提供以下好处：</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>地点：</strong> 我们在全岛20个地点提供面对面调解服务。对于较不复杂的纠纷，也可选择线上调解。</p>
+</li>
+<li>
+<p><strong>时间：</strong> 调解会谈通常需时约2至4小时，并于星期一至星期五以及星期六上午提供服务。</p>
+</li>
+<li>
+<p><strong>隐私：</strong> 调解过程中讨论的事项以及双方身份资料都会严格保密。</p>
+</li>
+<li>
+<p><strong>费用：</strong> 服务完全免费。</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
