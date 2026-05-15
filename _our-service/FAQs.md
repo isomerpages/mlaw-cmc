@@ -26,15 +26,15 @@ community disputes.</p>
 <h4>What are the benefits of mediation?</h4>
 </blockquote>
 <p>Mediation at the CMC offers the following benefits:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cost: It is free.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Privacy:&nbsp;Matters discussed
-during mediation and identity of the parties are kept confidential.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Location: We offer in-person mediation
+at 20 locations</p>
+<p>islandwide. Virtual mediation is an option for less complex disputes.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Time:&nbsp;A mediation session takes
 about 2 to 4 hours.</p>
 <p>It is available on Mondays to Fridays and on Saturday mornings.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Location: We offer in-person mediation
-at the Ministry of Law Services Centre and 20 satellite mediation locations
-island wide.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Privacy:&nbsp;Matters discussed
+during mediation and identity of the parties are kept confidential.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cost: It is free.</p>
 <hr>
 <blockquote>
 <p>Virtual mediation is also an option for less complex disputes.Do I need
