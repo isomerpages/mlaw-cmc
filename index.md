@@ -51,7 +51,7 @@ sections:
       linktext: Learn more
       infoboxes:
         - title: Location
-          description: We offer in-person mediation at 20 locations islandwide. Virtual
+          description: We offer in-person mediation at 21 locations islandwide. Virtual
             mediation is an option for less complex disputes.
         - title: Time
           description: A mediation session takes about 2 to 4 hours. It is available on
