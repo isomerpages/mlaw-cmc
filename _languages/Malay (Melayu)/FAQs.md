@@ -20,100 +20,105 @@ pertikaian dalam komuniti.</p>
 <blockquote>
 <p>- Apakah faedah mediasi?</p>
 </blockquote>
-<p>Mediasi di CMC ada banyak kelebihan:</p>
+<p>Pengantaraan di CMC menawarkan manfaat berikut:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Percuma</strong>: Tak perlu bayar apa-apa.</p>
+<p><strong>Lokasi:</strong> Kami menyediakan sesi pengantaraan secara fizikal
+di 21 lokasi di seluruh Singapura. Pengantaraan secara maya juga disediakan
+bagi pertikaian yang kurang rumit.</p>
 </li>
 <li>
-<p><strong>Privasi terjaga</strong>: Apa yang dibincang dan siapa yang terlibat
-akan dirahsiakan.</p>
+<p><strong>Masa:</strong> Sesi pengantaraan biasanya mengambil masa sekitar
+2 hingga 4 jam. Ia disediakan dari hari Isnin hingga Jumaat, serta pada
+pagi Sabtu.</p>
 </li>
 <li>
-<p><strong>Jimatan masa</strong>: Sesi pengantaraan biasanya mengambil masa
-kurang daripada 4 jam dan disediakan dari Isnin hingga Jumaat serta pada
-pagi hari Sabtu.</p>
+<p><strong>Privasi:</strong> Segala perkara yang dibincangkan semasa sesi
+pengantaraan, termasuk identiti pihak-pihak yang terlibat, akan dirahsiakan.</p>
 </li>
 <li>
-<p><strong>Lokasi senang dicapai</strong>: Ada sesi bersemuka di Pusat Perkhidmatan
-MinLaw dan 20 lokasi lain seluruh Singapura. Kalau isu tak terlalu rumit,
-boleh juga buat sesi secara online.</p>
+<p><strong>Kos:</strong> Perkhidmatan ini adalah percuma.</p>
 </li>
 </ul>
-<p></p>
-<p>Tak perlu sediakan bukti untuk mohon mediasi di CMC.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Urusan Operasi - Kaedah Mediasi</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<blockquote>
-<p>Di manakah mediasi CMC dijalankan?</p>
-</blockquote>
-<p>Mediasi CMC dijalankan di:
-<br><strong>45 Maxwell Road, The URA Centre (East Wing), #07-11, Singapura 069118.</strong>
-</p>
-<p><strong>Mediasi yang dirujuk dan diarahkan oleh mahkamah</strong> dijalankan
-pada:</p>
-<ul>
-<li>
-<p>Hari Isnin hingga Jumaat, dari <strong>9.00 pagi hingga 1.00 tengah hari</strong>
-</p>
-</li>
-</ul>
-<p><strong>Mediasi secara sukarela</strong> dijalankan pada:</p>
-<ul>
-<li>
-<p>Hari Isnin hingga Jumaat, dari <strong>2.00 petang hingga 6.00 petang</strong>
-</p>
-</li>
-<li>
-<p>Hari Sabtu, dari <strong>9.00 pagi hingga 1.00 tengah hari</strong>
-<br>Kami <strong>ditutup pada hari Ahad dan Cuti Umum</strong>.</p>
-</li>
-</ul>
-<p></p>
-<p>Kami juga menyediakan mediasi secara sukarela di <strong>20 lokasi mediasi satelit</strong> berikut:</p>
-<p>Pejabat Utama
-<br>• Pusat Perkhidmatan Kementerian Undang-Undang
-<br>
-<br>Utara
-<br>• Kelab Komuniti ACE the Place
-<br>• Kelab Komuniti Nee Soon East
-<br>• Pusat ServiceSG Bukit Canberra
-<br>• Pusat ServiceSG Woodlands
-<br>
-<br>Timur Laut
-<br>• Kelab Komuniti Ci Yuan
-<br>• Kelab Komuniti Paya Lebar-Kovan
-<br>• Pusat ServiceSG Ang Mo Kio
-<br>• Pusat ServiceSG One Punggol
-<br>
-<br>Tengah
-<br>• Kelab Komuniti MacPherson
-<br>• Kelab Komuniti Toa Payoh West
-<br>
-<br>Selatan
-<br>• Pusat ServiceSG Bukit Merah
-<br>• Kelab Komuniti Telok Blangah
-<br>
-<br>Timur
-<br>• Kelab Komuniti Bedok
-<br>• Kelab Komuniti Geylang Serai @Wisma Geylang Serai
-<br>• Pusat ServiceSG Our Tampines Hub
-<br>• Balai Polis Kejiranan Tampines East
-<br>• Balai Polis Kejiranan Tampines North
-<br>
-<br>Barat
-<br>• Kelab Komuniti Clementi
-<br>• ServiceSG@Kelab Komuniti Keat Hong
-<br>• ServiceSG Centre@Kelab Komuniti The Frontier</p>
-<p></p>
-<blockquote>
-<p>Bolehkah mediasi dijalankan melalui Zoom?</p>
-</blockquote>
-<p>Mediasi secara maya boleh diadakan untuk <strong>kes yang kurang rumit</strong>.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<h3><strong>Kes Pengantaraan Secara Sukarela</strong></h3>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Minlaw Services Centre
+<br>Pengantaraan Bersemuka</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Waktu Pengantaraan</strong>:
+<br>Isnin hingga Jumaat: 2.00 petang hingga 6.00 petang
+<br>Sabtu: 9.00 pagi hingga 1.00 petang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><a href="https://cmc.mlaw.gov.sg/in-person-mediation-malay/" rel="noopener nofollow" target="_blank"><u>Lokasi Pengantaraan Satelit </u></a>
+<br>Pengantaraan Bersemuka</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Waktu Pengantaraan:</strong>
+<br>Sabtu: 10.30 pagi hingga 2.30 petang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Pengantaraan Maya</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Waktu Pengantaraan:</strong>
+<br>Isnin hingga Jumaat: 2.00 petang hingga 6.00 petan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<h3><strong>Kes Dirujuk Oleh Mahkamah</strong></h3>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Minlaw Services Centre
+<br>Pengantaraan Bersemuka</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Waktu Pengantaraan:</strong>
+<br>Isnin hingga Jumaat: 9.00 pagi hingga 1.00 petang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<h3><strong>Kes Pengantaraan Diarah</strong></h3>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Minlaw Services Centre
+<br>Pengantaraan Bersemuka</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Waktu Pengantaraan:</strong>
+<br>Isnin hingga Jumaat: 9.00 pagi hingga 1.00 petang</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 <details class="isomer-details">
@@ -175,7 +180,7 @@ sesi.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Urusan Operasi - Permohonan Pengantaraan di CMC</summary>
+<summary>Urusan Operasi - Permohonan Pengantaraan Sukarela di CMC</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p></p>

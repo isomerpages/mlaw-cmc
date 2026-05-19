@@ -18,70 +18,101 @@ third_nav_title: Chinese (中文)
 <blockquote>
 <p>调解有什么好处？</p>
 </blockquote>
-<p>在 CMC 进行调解的好处包括：
-<br>· 免费：调解不收费。
-<br>· 保密：讨论内容和身份信息都会保密。
-<br>· 时间灵活：一次调解会议通常少于四小时，并在周一至周五以及周六上午提供。
-<br>· 地点方便：除了律政部，我们在全岛20个地点也提供面对面调解。简单的纠纷也可以选择线上调解。</p>
-<p></p>
-<p>申请调解时，不需要提供证据。</p>
+<p>CMC调解服务提供以下好处：</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>地点：</strong> 我们在全岛21个地点提供面对面调解服务。对于较不复杂的纠纷，也可选择线上调解。</p>
+</li>
+<li>
+<p><strong>时间：</strong> 调解会谈通常需时约2至4小时，并于星期一至星期五以及星期六上午提供服务。</p>
+</li>
+<li>
+<p><strong>隐私：</strong> 调解过程中讨论的事项以及双方身份资料都会严格保密。</p>
+</li>
+<li>
+<p><strong>费用：</strong> 服务完全免费。</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
 <summary>运营事项 - 调解方式</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<blockquote>
-<p>社区调解中心（CMC）的调解在哪里进行？</p>
-</blockquote>
-<p>社区调解中心的调解地点为：
-<br>新加坡麦士威路45号，市区重建局大厦东翼，#07-11，邮区069118。</p>
-<p>法院转介或指示的调解安排如下：</p>
-<p>· 星期一至星期五：上午9点至下午1点</p>
-<p>自愿调解安排如下：</p>
-<p>· 星期一至星期五：下午2点至6点
-<br>· 星期六：上午9点至下午1点
-<br>· 星期日及公共假期休息</p>
-<p>我们也在全岛20个卫星调解地点提供自愿调解服务，包括：</p>
-<p>总办事处
-<br>• 法律部服务中心
-<br>
-<br>北部
-<br>• ACE the Place 民众俱乐部
-<br>• 义顺东民众俱乐部
-<br>• 武吉坎贝拉ServiceSG服务中心
-<br>• 兀兰 ServiceSG 中心
-<br>
-<br>东北
-<br>• 芽园民众俱乐部
-<br>• 巴耶利峇高文民众俱乐部
-<br>• 宏茂桥ServiceSG服务中心
-<br>• 榜鹅综合社区中心 ServiceSG 中心
-<br>
-<br>中部
-<br>• 麦波申民众俱乐部
-<br>• 大巴窑西民众俱乐部
-<br>
-<br>南部
-<br>• 红山 ServiceSG 中心
-<br>• 直落布兰雅民众俱乐部
-<br>
-<br>东部
-<br>• 勿洛民众联络所
-<br>• 芽笼士乃民众俱乐部
-<br>• 淡滨尼天地 ServiceSG 中心
-<br>• 淡滨尼东邻里警岗
-<br>• 淡滨尼北邻里警岗
-<br>
-<br>西部
-<br>• 金文泰民众联络所
-<br>• 吉丰 ServiceSG 中心
-<br>• 先锋 ServiceSG 中心</p>
-<p></p>
-<blockquote>
-<p>可以通过 Zoom 进行调解吗？</p>
-</blockquote>
-<p>对于较简单的个案，我们可提供线上（Zoom）调解服务。</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<h3><strong>自愿调解案件</strong></h3>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Minlaw Services Centre
+<br>面对面调解</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>调解时间：</strong>
+<br>星期一至星期五：下午2时至下午6时
+<br>星期六：上午9时至下午1时</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><a href="/in-person-mediation-chinese/" rel="noopener nofollow" target="_blank">卫星调解地点</a>
+<br>面对面调解</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>调解时间：</strong>
+<br>星期六：上午10.30分至下午2.30分</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>线上调解</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>调解时间：</strong>
+<br>星期一至星期五：下午2时至下午6时</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<h3><strong>法院转介案件</strong></h3>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Minlaw Services Centre
+<br>面对面调解</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>调解时间</strong>：
+<br>星期一至星期五：上午9时至下午1时</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<h3><strong>指示调解案件</strong></h3>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Minlaw Services Centre
+<br>面对面调解</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>调解时间：</strong>
+<br>星期一至星期五：上午9时至下午1时</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 <details class="isomer-details">
@@ -133,7 +164,7 @@ third_nav_title: Chinese (中文)
 </div>
 </details>
 <details class="isomer-details">
-<summary>运营事项 - 向社区调解中心申请调解</summary>
+<summary>运营事项 - CMC自愿调解申请</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <blockquote>
