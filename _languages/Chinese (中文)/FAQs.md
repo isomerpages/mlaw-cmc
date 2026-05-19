@@ -21,7 +21,7 @@ third_nav_title: Chinese (中文)
 <p>CMC调解服务提供以下好处：</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>地点：</strong> 我们在全岛20个地点提供面对面调解服务。对于较不复杂的纠纷，也可选择线上调解。</p>
+<p><strong>地点：</strong> 我们在全岛21个地点提供面对面调解服务。对于较不复杂的纠纷，也可选择线上调解。</p>
 </li>
 <li>
 <p><strong>时间：</strong> 调解会谈通常需时约2至4小时，并于星期一至星期五以及星期六上午提供服务。</p>
