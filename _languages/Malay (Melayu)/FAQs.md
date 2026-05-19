@@ -24,7 +24,7 @@ pertikaian dalam komuniti.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Lokasi:</strong> Kami menyediakan sesi pengantaraan secara fizikal
-di 20 lokasi di seluruh Singapura. Pengantaraan secara maya juga disediakan
+di 21 lokasi di seluruh Singapura. Pengantaraan secara maya juga disediakan
 bagi pertikaian yang kurang rumit.</p>
 </li>
 <li>
