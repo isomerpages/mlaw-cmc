@@ -27,7 +27,7 @@ community disputes.</p>
 </blockquote>
 <p>Mediation at the CMC offers the following benefits:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Location: We offer in-person mediation
-at 20 locations</p>
+at 21 locations</p>
 <p>islandwide. Virtual mediation is an option for less complex disputes.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Time:&nbsp;A mediation session takes
 about 2 to 4 hours.</p>
